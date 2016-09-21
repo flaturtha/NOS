@@ -2,7 +2,7 @@
 layout: post_mw
 layoutTag: post
 title: "Further Advices"
-subtitle:
+subtitle: "Coincidence, Melodrama &amp; How The Best Writers, Often Women, Create Unique Plots"
 chapter: "Chapter 22"
 book: The Techniques of the Mystery
 author: Carolyn Wells

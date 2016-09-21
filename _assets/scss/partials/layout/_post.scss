@@ -86,7 +86,8 @@
 
 .post__subtitle {
 	@extend .post__title;
-	font-size: 2rem !important;
+	margin-bottom: 1rem;
+	// font-size: 2rem !important;
 }
 
 .storytitles {
@@ -125,10 +126,18 @@
 }
 
 .post__chapter {
-	font-size: 1rem;
-	max-width: 400px;
-	margin: 0 auto 1rem;
+	@extend .post__author;
+	// color: $acolor;
 }
+
+// .post__chapter {
+// 	background-color: $acolor;
+// 	color: $paper;
+// 	font-size: 1rem;
+// 	max-width: 400px;
+// 	margin: 0 auto 1rem;
+// 	padding: 0.5rem;
+// }
 
 .post__img {
 	line-height: 0;
@@ -140,6 +149,7 @@
 		max-width: 400px;
 		// width: 600px;
 		// height: 100%;
+		margin-left: 1rem;
 		padding-bottom: -2rem;
 	}
 }

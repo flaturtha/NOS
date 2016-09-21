@@ -2,7 +2,7 @@
 layout: post_mw
 layoutTag: post
 title: "Footprints and Fingerprints"
-subtitle:
+subtitle: "How Fictional Detectives Rely On Mostly Impossible Evidence"
 book: The Techniques of the Mystery
 chapter: Chapter 15
 author: Carolyn Wells

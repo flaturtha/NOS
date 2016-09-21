@@ -2,11 +2,16 @@
 layout: post_mw
 layoutTag: post
 title: "Applied Principles"
+subtitle: "How Poe, Doyle and Gaboriau Portrayed the Unconventional Habits &amp; Individuality of Their Fictional Detectives: Dupin, Holmes and Lecoq"
+book: "The Techniques of the Mystery"
+chapter: "Chapter 23"
 author: Carolyn Wells
+pubdate: 1913
 date: 2016-08-19
 category: murderwiki
-excerpt: Chapter 9 of <i>The Techniques of the Mystery</i>, published 1913.
+excerpt: "The fictional detectives of Edgar Allen Poe, Sir Arthur Conan Doyle and Émile Gaboriau, were both imitations of each other and completely unique creations. Whether inspired by the others' creations or by true life mentors, detectives of fiction, especially Dupin, Holmes and Lecoq stand out amongst the rest as monuments to the deductive mind."
 image: /assets/img/Joseph_Bell.jpg
+caption: Joseph Bell, one of Conan Doyles' instructors at the Edinburgh Royal Infirmary where he trained to be a doctor, has been credited as being the true inspiration for Doyle's Sherlock Holmes.
 genre: The Techniques of the Mystery
 wordcount: 4417
 ---

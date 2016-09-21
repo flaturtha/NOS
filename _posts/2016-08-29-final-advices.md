@@ -2,7 +2,7 @@
 layout: post_mw
 layoutTag: post
 title: "Final Advices"
-subtitle:
+subtitle: "The Last Word on The Qualities of the Detective Story; &amp; Other Final Thoughts"
 book: The Techniques of the Mystery
 chapter: Chapter 26
 author: Carolyn Wells

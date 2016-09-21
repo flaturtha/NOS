@@ -2,14 +2,15 @@
 layout: post_mw
 layoutTag: post
 title: "The Motive"
-subtitle:
+subtitle: "The Principle Part of Any Mystery"
 chapter: "Chapter 21"
-book: The Techniques of the Mystery
+book: The Techniques of the Mystery Story
 author: Carolyn Wells
 date: 2016-08-29-16
 category: murderwiki
 excerpt: Only a small percentage, however, of recorded murders are adaptable to fiction plots. A study of the causes of real murders is useful, if one has discrimination in choice.
 image: /assets/img/arthur-train.jpg
+caption: "The cover image of Arthur Train's 1912 treatise on the justice system."
 genre: The Techniques of the Mystery
 wordcount: 556
 ---

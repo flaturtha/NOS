@@ -2,11 +2,16 @@
 layout: post_mw
 layoutTag: post
 title: "What is a Detective Story?"
+subtitle: "A Critical Examination of the Detective Story, Its Rise in Popularity and Fact vs. Fiction"
+book: "The Techniques of the Mystery"
+chapter: "Chapter 6"
 author: Carolyn Wells
+pubdate: 1913
 date: 2016-08-16-16
 category: murderwiki
-excerpt: Chapter 6 of <i>The Techniques of the Mystery</i>, published 1913.
+excerpt: "The Detective Story as we know it was first written by Poe, yet he never used the descriptive word, nor was Dupin a detective, either professional or amateur, for when Poe wrote his immortal Dupin tales, the name \"Detective\" Stories had not been invented; the detective of fiction not having been as yet discovered."
 image: /assets/img/true-stories-of-celebrated-crimes.jpg
+caption: "\"It was the impression of a blood-stained hand on the door.\"<br>From \'True Stories of Celebrated Crimes,\' published in 1909."
 genre: The Techniques of the Mystery
 wordcount: 5924
 ---

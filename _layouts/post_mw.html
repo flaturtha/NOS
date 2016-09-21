@@ -21,10 +21,10 @@ layout: default
         </figure> <!-- end div post__image -->
         <h1 class="post__title">{{ page.title }}</h1>
         <h2 class="post__subtitle">{{ page.subtitle }}</h2>
-        {% if page.chapter %}
-          <h3 class="post__chapter">From {{ page.chapter }} of <i>{{ page.book }}</i> by {{ page.author }}, first published in {{ page.pubdate }}.</h3>
-        {% endif %}
         <h3 class="post__author">By <strong>{{ page.author }}</strong></h3>
+        {% if page.chapter %}
+          <h4 class="post__chapter">From {{ page.chapter }} of<br><i>{{ page.book }}</i><br>by {{ page.author }}, first published in {{ page.pubdate }}.</h4>
+        {% endif %}
 
         <p class="post__excerpt">{{ page.excerpt }}</p>
 

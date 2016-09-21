@@ -2,7 +2,7 @@
 layout: post_mw
 layoutTag: post
 title: "Devious Devices"
-subtitle:
+subtitle: "Common Techniques, Often Unfair or Hackneyed, Used By Detetive Story Writers to Arrest the Reader &amp; the&nbsp;Killer"
 book: The Techniques of the Mystery
 author: Carolyn Wells
 pubdate: 1913

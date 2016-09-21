@@ -2,11 +2,16 @@
 layout: post_mw
 layoutTag: post
 title: "The Detective"
+subtitle: "Definining the Character of Fictional Detective, the Reason for the Detective Story itself."
+book: "The Techniques of the Mystery"
+chapter: "Chapter 7"
 author: Carolyn Wells
+pubdate: 1913
 date: 2016-08-16-16
 category: murderwiki
-excerpt: Chapter 7 of <i>The Techniques of the Mystery</i>, published 1913.
+excerpt: "The all-important character of the Detective Story is, of course, the Detective. He is not only the Star Performer, but the reason for the Detective Story itself. What Mr. Hawthorne calls the Transcendent Detective is the detective of fiction. Such a one is made, not born."
 image: /assets/img/Friston-holmes.png
+caption: "First ever appearance of Sherlock Holmes, by D. H. Friston (1820-1906). Drawn in 1887."
 genre: The Techniques of the Mystery
 wordcount: 6699
 ---

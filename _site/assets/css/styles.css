@@ -2972,7 +2972,7 @@ blockquote {
   margin: 0; }
 
 .post__subtitle {
-  font-size: 2rem !important; }
+  margin-bottom: 1rem; }
 
 .storytitles {
   margin: 0 auto;
@@ -2990,16 +2990,11 @@ blockquote {
 .titlebox {
   width: 100%; }
 
-.post__author {
+.post__author, .post__chapter {
   color: #919ca4;
   padding: 0;
   margin: 0 0 1.5rem 0;
   text-align: center; }
-
-.post__chapter {
-  font-size: 1rem;
-  max-width: 400px;
-  margin: 0 auto 1rem; }
 
 .post__img {
   line-height: 0;
@@ -3008,6 +3003,7 @@ blockquote {
     .post__img {
       float: right;
       max-width: 400px;
+      margin-left: 1rem;
       padding-bottom: -2rem; } }
 
 .casefilenum {

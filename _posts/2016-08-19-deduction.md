@@ -2,11 +2,16 @@
 layout: post_mw
 layoutTag: post
 title: "Deduction"
+subtitle: "The Process of Reasoning &amp; Crime Solving by A Fictional Detective From Inconspicuous Clues"
+book: "The Techniques of the Mystery"
+chapter: "Chapter 8"
 author: Carolyn Wells
+pubdate: 1913
 date: 2016-08-19
 category: murderwiki
-excerpt: Chapter 8 of <i>The Techniques of the Mystery</i>, published 1913.
+excerpt: "The painting depicts Bahram Gur (central figure) on horseback hunting three doe, from a \'Khamseh of Amir Khusrau Dihlavi\', an illustrated manuscript containing early stories that use deduction in solving their riddles."
 image: /assets/img/Painting_depicts_Bahram_Gur.jpg
+caption:
 genre: The Techniques of the Mystery
 wordcount: 4417
 ---
@@ -21,7 +26,7 @@ wordcount: 4417
 </div>
 </section> <!-- table-of-contents -->
 
-Deduction, in a definite and restricted sense, is the motif of most of the detective stories of to-day. It is an unusually perspicacious analytic deduction from inconspicuous clues that we call ratiocination, or more familiarly, the detective instinct.
+Deduction, in a definite and restricted sense, is the motif of most of the detective stories of today. It is an unusually perspicacious analytic deduction from inconspicuous clues that we call ratiocination, or more familiarly, the detective instinct.
 
 ## Ratiocination in Early Detective Stories
 
@@ -117,7 +122,7 @@ This embodies much of the seemingly magical wisdom of the fiction detective.
 
 ## The Detective in the Novel
 
-Some thirty years after Poe&#39;s Dupin, Gaboriau invented his Le- coq. As Gaboriau&#39;s stories are all novels, while Poe&#39;s are short- stories or novelettes, there is, of course, more setting, with more characters and more complex plot, in the French stories. But as a personality Gaboriau&#39;s detective stands out quite as clearly as Poe&#39;s.
+Some thirty years after Poe&#39;s Dupin, Gaboriau invented his Lecoq. As Gaboriau&#39;s stories are all novels, while Poe&#39;s are short-stories or novelettes, there is, of course, more setting, with more characters and more complex plot, in the French stories. But as a personality Gaboriau&#39;s detective stands out quite as clearly as Poe&#39;s.
 
 An able critic thus compares Lecoq and Sherlock Holmes. He says:
 
@@ -135,7 +140,7 @@ But Lecoq&#39;s bungles are as interesting as his successful work. When need ari
 
 >M. Lecoq seemed to wake up. &quot;I beg your pardon/1 said he. &quot;I forget myself. I&#39;ve a bad habit of reflecting aloud. That&#39;s why I almost always insist on working alone. My uncertainty and hesitation, the waywardness of my suspicions, compromise my reputation as an astute detective, for whom there&#39;s no such thing as a mystery.&quot;
 
->Worthy M. Plantat smiled indulgently. &quot;I don&#39;t usually open my mouth,&quot; continued M. Lecoq, &quot;until my mind is satisfied; then I speak in a peremptory tone, and say this is so or so. To-day, however, I am working openly with a man who realizes that such a problem as this cannot be solved at the first attempt. This is why I allow you to see how I grope along. One can&#39;t always reach the truth at a bound; to realize it at times various calculations and deductions are necessary. Well, just now my logic is at fault.&quot;
+>Worthy M. Plantat smiled indulgently. &quot;I don&#39;t usually open my mouth,&quot; continued M. Lecoq, &quot;until my mind is satisfied; then I speak in a peremptory tone, and say this is so or so. today, however, I am working openly with a man who realizes that such a problem as this cannot be solved at the first attempt. This is why I allow you to see how I grope along. One can&#39;t always reach the truth at a bound; to realize it at times various calculations and deductions are necessary. Well, just now my logic is at fault.&quot;
 
 And again in &quot;File No. 113,&quot; Lecoq says:
 
