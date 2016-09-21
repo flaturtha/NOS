@@ -119,7 +119,7 @@ Hawke smiled and offered the disgruntled police officer a cigarette.
 
 “And you weren’t able to pick up any clues?”
 
-“There was one such group that called at ‘The Brown Bear’ at about half-past eight, and inquired for a timetable. They were strangers, and the landlord was able to agree to the description I gave him. But they dropped no hint of where they were meaning to go, and nobody at either the railway station or the bus depot is able to recall seeing anybody like Vesey leaving. It was a market day, and the town was a bit crowded.” Hawke had other work to dispose of, but half an hour after Gray’s departure he gave himself up to speculation about the affair, and after a few minutes’ thought and the study of a railway time-table he left the Hat and boarded a train to Marsdale.
+“There was one such group that called at ‘The Brown Bear’ at about half-past eight, and inquired for a timetable. They were strangers, and the landlord was able to agree to the description I gave him. But they dropped no hint of where they were meaning to go, and nobody at either the railway station or the bus depot is able to recall seeing anybody like Vesey leaving. It was a market day, and the town was a bit crowded.” Hawke had other work to dispose of, but half an hour after Gray’s departure he gave himself up to speculation about the affair, and after a few minutes’ thought and the study of a railway time-table he left the flat and boarded a train to Marsdale.
 
 Some two hours later his assistant, Tommy Burke, received a phone message from him.
 
