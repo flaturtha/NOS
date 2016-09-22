@@ -30,7 +30,9 @@ In one of Doyle&#39;s stories, Sherlock Holmes himself states definitely his pri
 
 ## Sherlock Holmes&#39; Method
 
-Its somewhat ambitious title was &quot;The Book of Life,11 and it attempted to show how much an observant man might learn by an accurate and systematic examination of all that came in his way. It struck me as being a remarkable mixture of shrewdness and absurdity. The reasoning was close and intense, but the deductions appeared to me to be far-fetched and exaggerated. The writer claimed by a momentary expression, a twitch of a muscle, or a glance of an eye, to fathom a man&#39;s inmost thoughts. Deceit, according to him, was an impossibility in the case of one trained to observation and analysis. His conclusions were as infallible as so many propositions of Euclid. So startling would his results appear to the uninitiated that, until they learned the processes by which be had arrived at them, they might well consider him a necromancer.
+Its somewhat ambitious title was &quot;The Book of Life,&quot; and it attempted to show how much an observant man might learn by an accurate and systematic examination of all that came in his way. It struck me as being a remarkable mixture of shrewdness and absurdity. The reasoning was close and intense, but the deductions appeared to me to be far-fetched and exaggerated.
+
+The writer claimed by a momentary expression, a twitch of a muscle, or a glance of an eye, to fathom a man&#39;s inmost thoughts. Deceit, according to him, was an impossibility in the case of one trained to observation and analysis. His conclusions were as infallible as so many propositions of Euclid. So startling would his results appear to the uninitiated that, until they learned the processes by which be had arrived at them, they might well consider him a necromancer.
 
 >&quot;From a drop of water,&quot; said the writer, &quot;a logician could infer the possibility of an Atlantic or a Niagara without having seen or heard of one or the other. So all life is a great chain the nature of which is known whenever we are shown a single link of it. Like all other arts, the Science of Deduction and Analysis is one which can only be acquired by long and patient study, nor is life long enough to allow any mortal to attain the highest possible perfection of it. Before turning to those moral and mental aspects of the matter which present the greatest difficulties, let the inquirer begin by mastering more elementary problems. Let him, on meeting a fellow mortal, learn at a glance to distinguish the history of the man, and the trade or profession to which he belongs. Puerile as such an exercise may seem, it sharpens the faculties of observation and teaches one where to look and what to look for. By a man&#39;s finger-nails, by his coat-sleeve, by his boot, by his trouser-knees, by the callosities of his forefinger and thumb, by his expression, by his shirt cuffs—by each of these things a man&#39;s calling is plainly revealed. That all united should fail to enlighten the competent inquirer in any case is almost inconceivable.&quot;
 
@@ -150,6 +152,9 @@ In his early acquaintance Watson doubted Holmes ability at this sort of deductio
 
 >&quot;Quite so! You have not observed. And yet you have seen. That is just my point. Now, I know that there are seventeen steps, because I have both seen and observed.&quot;
 
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
 ## Lecoq&#39;s Method
 
 Lecoq announces his deductions with rather more dramatic circumlocution. With nothing to deduce from but footprints in the snow, he at last cries triumphantly:
@@ -167,6 +172,9 @@ His conclusions being received somewhat dubiously he proceeds more definitely.
 After the usual, &quot;this is too much!&quot; he continues his recital:
 
 >&quot;We have come, old fellow, to the moment when the accomplice had mounted guard here, and the time seemed to him rather long. To make the time pass, he walked backward and forward the length of the beam, and every now and then stopped to listen, so as to break the monotony of his promenade. As he heard nothing he stamped his feet, doubtless saying to himself, &#39;What the deuce is the other fellow doing down there?1 He had walked up and down thirty times, for I have counted them, when a dull sound broke the silence—the two women were coming.&quot;
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
 ## Other Methods
 
@@ -190,7 +198,7 @@ All of this is purely and simply the reasoning of Zadig and the early Orientals.
 
 >He is a young man because his shoes are in the very latest, extreme, not exclusive style. He is five feet eight, because the size of his foot goes with that height of man, which, by the way, is the height of nine out of ten men, any way. He doesn&#39;t live in New York or he wouldn&#39;t be stopping at a hotel. Besides, he would be down-town at this hour, attending to business.&quot;
 
->&quot;Unless he has freak business hours, as you and I do,11 I put in.
+>&quot;Unless he has freak business hours, as you and I do,&quot; I put in.
 
 >&quot;Yes, that might be. But I still hold that he doesn&#39;t live in New York, or he couldn&#39;t be staying at this Broadway hotel overnight, and sending his shoes down to be shined at half-past nine in the morning. His sweetheart is five feet nine, for that is the height of a tall girl. I know she is tall, for she wears a long skirt. Short girls wear short skirts, which make them look shorter still, and tall girls wear very long skirts, which make them look taller.&quot;
 
@@ -201,6 +209,9 @@ All of this is purely and simply the reasoning of Zadig and the early Orientals.
 >I didn&#39;t try to get a verification of Fleming Stone&#39;s assertions; I didn&#39;t want any. Scores of times I had known him to make similar deductions, and in cases where we afterward learned the facts, he was invariably correct. So, though we didn&#39;t follow up this matter, I was sure he was right, and, even if he hadn&#39;t been, it would not have weighed heavily against his large proportion of proved successes.
 
 As it turned out, being fiction, these astute deductions were correct in every particular, and led ultimately to the conviction of the criminal!
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
 ## Holmes&#39; Method Evaluated
 
@@ -226,6 +237,9 @@ But much of this profound reasoning is far from spurious. In a moment of a serio
 
 >It is not so impossible, however, that a man should possess all knowledge which is likely to be useful to him in his work, and this I have endeavored in my case to do.&quot;
 
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
 ## The Inductive and the Deductive Methods
 
 It is not easy for the untutored reader or writer of detective stories always to differentiate between inductive and deductive reasoning. Perhaps some light may be thrown on this abstruse subject by reading carefully this extract from a book by Arlo Bates, entitled &quot;Talks on Writing English.&quot;
@@ -235,6 +249,9 @@ It is not easy for the untutored reader or writer of detective stories always to
 >&quot;Induction, then, is reasoning from the particular to the general; the establishment of an hypothesis by showing that the facts agree with it. It is preeminently the scientific method. By observing natural phenomena, the scientist conceives what the law which governs them must be. This idea of the general principle is then the hypothesis which he attempts to prove; and his method is to examine the facts under all conditions possible, establishing his proposition by showing that the facts are in accord with it.
 
 >&quot;Deduction is the converse of this, and consists in drawing out particular truths from general ones. A universal proposition may be regarded as a bundle in which are bound together many individual ones. It is the work of deduction to take these out,—to separate any one of them from the rest. The general truth, &#39;All metals are elements,1 includes in it the especial truths, &#39;Iron is an element,&#39; &#39;Gold is an Element,&#39; and so on for each metal which could be named. Deduction is the process of separating one of these from the whole. Speaking broadly, scientific reasoning is more likely to be inductive, while other reasoning is more likely to be deductive.&quot;
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
 ## Two Striking Examples
 
@@ -266,13 +283,13 @@ This is done first by Poe:
 
 >Rue C        into the thoroughfare where we stood; but what had this to do with Chantilly I could not possibly understand.
 
->There was not a particle of charlatanerie about Dupin. &quot;I will explain,&quot; he said, &quot;and, that you may comprehend all clearly, we will first retrace the course of your meditations, from the moment in which I spoke to you until that of the rencontre with the fruiterer in question. The larger links of the chain run thus—Chantilly, Orion, Dr. Nichols, Epicurus, Stereotomy, the street stones, the fruiterer.11
+>There was not a particle of charlatanerie about Dupin. &quot;I will explain,&quot; he said, &quot;and, that you may comprehend all clearly, we will first retrace the course of your meditations, from the moment in which I spoke to you until that of the rencontre with the fruiterer in question. The larger links of the chain run thus—Chantilly, Orion, Dr. Nichols, Epicurus, Stereotomy, the street stones, the fruiterer.&quot;
 
 >There are few persons who have not, at some period of their lives, amused themselves in retracing the steps by which particular conclusions of their own minds have been attained. The occupation is often full of interest; and he who attempts it for the first time is astonished by the apparently illimitable distance and incoherence between the starting-point and the goal. What, then, must have been my amazement when I heard the Frenchman speak what he had just spoken, and when I could not help acknowledging that he had spoken the truth. He continued:
 
 >&quot;We had been talking of horses, if I remember right, just before leaving the Rue C—. This was the last subject that we discussed. As we crossed into this street, a fruiterer, with a large basket upon his head, brushing quickly past us, thrust you upon a pile of paving-stones collected at a spot where the causeway is undergoing repair. You stepped upon one of the loose fragments, slipped, slightly strained your ankle, appeared vexed or sulky, muttered a few words, turned to look at the pile, and then proceeded in silence. I was not particularly attentive to what you did; but observation has become with me, of late, a species of necessity.
 
->&quot;You kept your eyes upon the ground—glancing, with a petulant expression, at the holes and ruts in the pavement (so that I saw you were still thinking of the stones), until we reached the little alley called Lamartine, which has been paved, by way of experiment with the overlapping and riveted blocks. Here your countenance brightened up, and, perceiving your lips move, I could not doubt that you murmured the word &#39;stereotomy,1 a term very affectedly applied to this species of pavement.
+>&quot;You kept your eyes upon the ground—glancing, with a petulant expression, at the holes and ruts in the pavement (so that I saw you were still thinking of the stones), until we reached the little alley called Lamartine, which has been paved, by way of experiment with the overlapping and riveted blocks. Here your countenance brightened up, and, perceiving your lips move, I could not doubt that you murmured the word &#39;stereotomy,&#39; a term very affectedly applied to this species of pavement.
 
 >I knew that you could not say to yourself &#39;stereotomy&#39; without being brought to think of atomies, and thus of the theories of Epicurus; and since, when we discussed this subject not very long ago I mentioned to you how singularly, yet with how little notice the vague guesses of that noble Greek had met with confirmation in the late nebular cosmogony, I felt that you could not avoid casting your eyes upward to the great nebula in Orion, and I certainly expected that you would do so. You did look up; and I was now assured that I had correctly followed your steps. But in that bitter tirade upon Chantilly, which appeared in yesterday&#39;s Musee, the satirists, making some disgraceful allusions to the cobbler&#39;s change of name upon assuming the buskin, quoted a Latin line about which we have often conversed. I mean the line &#39;Perdidit antiquum litera prima sonum.&#39;
 
@@ -302,7 +319,9 @@ This feat is paralleled in the Sherlock Holmes story entitled &quot;The Resident
 
 >&quot;Do you mean to say that you read my train of thoughts from my features?&quot;
 
->&quot;Your features, and especially your eyes. Perhaps you cannot yourself recall how your reverie commenced?&quot; &quot;No, I cannot.&quot;
+>&quot;Your features, and especially your eyes. Perhaps you cannot yourself recall how your reverie commenced?&quot;
+
+>&quot;No, I cannot.&quot;
 
 >&quot;Then I will tell you. After throwing down your paper, which was the action which drew my attention to you, you sat for half a minute with a vacant expression. Then your eyes fixed themselves upon your newly-framed picture of General Gordon, and I saw by the alteration in your face that a train of thought had been started. But it did not lead very far. Your eyes turned across to the unframed portrait of Henry Ward Beecher which stands upon the top of your books. You then glanced up at the wall, and of course your meaning was obvious. You were thinking that if the portrait were framed it would just cover that bare space and correspond with Gordon&#39;s picture over there.&quot;
 
@@ -315,3 +334,7 @@ This feat is paralleled in the Sherlock Holmes story entitled &quot;The Resident
 >&quot;Absolutely!&quot; said I. &quot;And now that you have explained it, I confess that I am as amazed as before.&quot;
 
 >&quot;It was very superficial, my dear Watson, I assure you. I should not have intruded it upon your attention had you not shown some incredulity the other day. But the evening has brought a breeze with it. What do you say to a ramble through London?&quot;
+
+<p id="theend">~ The End ~
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>

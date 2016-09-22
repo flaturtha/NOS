@@ -11,7 +11,7 @@ date: 2016-08-16-16
 category: murderwiki
 excerpt: "The all-important character of the Detective Story is, of course, the Detective. He is not only the Star Performer, but the reason for the Detective Story itself. What Mr. Hawthorne calls the Transcendent Detective is the detective of fiction. Such a one is made, not born."
 image: /assets/img/Friston-holmes.png
-caption: "First ever appearance of Sherlock Holmes, by D. H. Friston (1820-1906). Drawn in 1887."
+caption: "First ever appearance of Sherlock Holmes, by D. H. Friston (1820-1906). From \'A Study in Scarlet.\' Drawn in 1887."
 genre: The Techniques of the Mystery
 wordcount: 6699
 ---
@@ -54,9 +54,13 @@ Mr. Arthur C. Train, in &quot;Courts Criminal and The Camorra,&quot; thus mildly
 
 >&quot;There is no more reason to look for superiority of intelligence or mental alertness among detectives of the ordinary class than there is to expect it from clerks, stationary engineers, plumbers, or firemen. While comparisons are invidious, I should be inclined to say that the ordinary chauffeur was probably a brighter man than the average detective. This is not to be taken in derogation of the latter, but as a compliment to the former. There is more reason why he should be.
 
->&quot;The telephone is the modern detective&#39;s chief ally, and he relies upon rapidity more than upon deduction. Under present conditions it is easier to overtake a crook than to reason out what he will probably do. In fact, the old-fashioned &#39;deductive detective1 is largely a man of the past. The most useless operator in the world is the one who is &#39;wedded to his own theory&#39; of the case—the man who asks no questions and relies only on himself. Interject a new element into a case and such a man is all at sea. In the meantime the criminal has made his &#39;get away.&#39;
+>&quot;The telephone is the modern detective&#39;s chief ally, and he relies upon rapidity more than upon deduction. Under present conditions it is easier to overtake a crook than to reason out what he will probably do. In fact, the old-fashioned &#39;deductive detective&#39; is largely a man of the past. The most useless operator in the world is the one who is &#39;wedded to his own theory&#39; of the case—the man who asks no questions and relies only on himself. Interject a new element into a case and such a man is all at sea. In the meantime the criminal has made his &#39;get away.&#39;
 
->&quot;In the story-books your detective scans with eagle eye the surface of the floor for microscopic evidences of crime. His mind leaps from a cigar ash to a piece of banana peel and thence to what the family had for dinner. His brain is working all the time. His gray matter dwarfs almost to insignificance that of Daniel Webster or the Hon. Benjamin F. Butler. It is, of course, all quite wonderful and most excellent reading, and the old-style sleuth really thought he could do it! Nowadays, while the fake detective is snooping around the back piazza with a telescope, the real one is getting the &#39;dope&#39; from the village blacksmith or barber (if there is any except on Saturday nights) or the girl that slings the pie at the station. These folk have something to go on. They may not be highly intelligent, but they know the country, and, what is more important, they know the people. All the brains in the world cannot make up for the lack of an elementary knowledge of the place and the characters themselves. It stands to reason that no strange detective could form as good an opinion as to which of the members of your household would be most likely to steal a piece of jewelry as you could yourself. Yet the old-fashioned Sherlock knew and knows it all.
+>&quot;In the story-books your detective scans with eagle eye the surface of the floor for microscopic evidences of crime. His mind leaps from a cigar ash to a piece of banana peel and thence to what the family had for dinner. His brain is working all the time. His gray matter dwarfs almost to insignificance that of Daniel Webster or the Hon. Benjamin F. Butler.
+
+>It is, of course, all quite wonderful and most excellent reading, and the old-style sleuth really thought he could do it! Nowadays, while the fake detective is snooping around the back piazza with a telescope, the real one is getting the &#39;dope&#39; from the village blacksmith or barber (if there is any except on Saturday nights) or the girl that slings the pie at the station.
+
+>These folk have something to go on. They may not be highly intelligent, but they know the country, and, what is more important, they know the people. All the brains in the world cannot make up for the lack of an elementary knowledge of the place and the characters themselves. It stands to reason that no strange detective could form as good an opinion as to which of the members of your household would be most likely to steal a piece of jewelry as you could yourself. Yet the old-fashioned Sherlock knew and knows it all.
 
 >&quot;There is no mystery about such work, except what the detective himself sees fit to enshroud it with. Most of us do detective work all the time without being conscious of it. Simply because the matter concerns the theft of a pearl, or the betraying of a business or professional secret, or the disappearance of a friend, the opinion of a stranger becomes no more valuable. And the chances are equal that the stranger will make a bungle of it.
 
@@ -64,11 +68,13 @@ Mr. Arthur C. Train, in &quot;Courts Criminal and The Camorra,&quot; thus mildly
 
 >&quot;This is the product of decades of patient labor and minute record. The agency which offers you the services of a Sherlock Holmes is a fraud, but you can accept as genuine a proposition to run down any man whose picture you may be able to identify in the gallery. The day of the impersonator is over. The detective of this generation is a hard-headed business man with a stout pair of legs.&quot;
 
-Thus, the reader will observe that there are just a few more real detectives still left in the business—if you can find them. Incidentally, they one and all take off their hats to Scotland Yard. They will tell you that the Englishman may be slow (fancy an American Inspector of Police wearing gray suede gloves and brewing himself a dish of tea in his office at four o&#39;clock!), but that once he goes after a crook he is bound to get him—it is merely a question of time. I may add that in the opinion of the heads of the big agencies the percentage of ability in the New York Detective Bureau is high—one of them going so far as to claim that fifty percent of the men have real detective ability—that is to say &quot;brains.&quot; That is rather a higher average than one finds among clergymen and lawyers, yet it may be so.
+Thus, the reader will observe that there are just a few more real detectives still left in the business—if you can find them. Incidentally, they one and all take off their hats to Scotland Yard. They will tell you that the Englishman may be slow (fancy an American Inspector of Police wearing gray suede gloves and brewing himself a dish of tea in his office at four o&#39;clock!), but that once he goes after a crook he is bound to get him—it is merely a question of time.
+
+I may add that in the opinion of the heads of the big agencies the percentage of ability in the New York Detective Bureau is high—one of them going so far as to claim that fifty percent of the men have real detective ability—that is to say &quot;brains.&quot; That is rather a higher average than one finds among clergymen and lawyers, yet it may be so.
 
 Mr. John Wilson Murray, one of the noted detectives, says simply in his &quot;Memoirs of a Great Detective&quot;:
 
->&quot;There is no magic about the detective business. A detective walking along the street does not suddenly hear a mysterious voice whisper &#39;Banker John Jones has just been robbed of $1,000,000.&#39; He does not turn the corner and come upon a perfect stranger, and then, because the stranger has a twisted cigar in his mouth, suddenly pounce upon him and exclaim: &#39;Aha, villain that you are! give back to Banker Jones the $1,000,000 you stole ten minutes ago!1 The detective business is of no such foolish and impossible character. Detectives are not clairvoyants, or infallible prophets, or supernatural seers. They possess no uncanny powers and no mantle of mysterious wonder-working. I remember a few years ago I was subpoenaed before a grand jury in the City of New York to testify on a matter pertaining to a prisoner, whose record I knew here in Canada. The foreman of that jury was a man prominent in New York&#39;s business life. When I was called he looked at me and suddenly said:
+>&quot;There is no magic about the detective business. A detective walking along the street does not suddenly hear a mysterious voice whisper &#39;Banker John Jones has just been robbed of $1,000,000.&#39; He does not turn the corner and come upon a perfect stranger, and then, because the stranger has a twisted cigar in his mouth, suddenly pounce upon him and exclaim: &#39;Aha, villain that you are! give back to Banker Jones the $1,000,000 you stole ten minutes ago!&#39; The detective business is of no such foolish and impossible character. Detectives are not clairvoyants, or infallible prophets, or supernatural seers. They possess no uncanny powers and no mantle of mysterious wonder-working. I remember a few years ago I was subpoenaed before a grand jury in the City of New York to testify on a matter pertaining to a prisoner, whose record I knew here in Canada. The foreman of that jury was a man prominent in New York&#39;s business life. When I was called he looked at me and suddenly said:
 
 >&quot;&#39;Inspector Murray, what crimes have been committed within the past hour in New York, and who committed them?&#39;
 
@@ -80,7 +86,15 @@ Mr. John Wilson Murray, one of the noted detectives, says simply in his &quot;Me
 
 >&quot;&#39;Thank the Lord we&#39;ve found a detective who is not greater than God,&#39; he said.
 
->&quot;As a matter of fact the detective business is a plain ordinary business, just like a lawyer&#39;s business, a doctor&#39;s business, a railway manager&#39;s business. It has its own peculiarities because it deals with crime, with the distorted, imperfect, diseased members of the social body, just as a surgeon&#39;s business deals with the distorted, imperfect, diseased members of the physical body. But it is not an abnormal or phenomenal or incomprehensible business. There is nothing done in it, nothing accomplished by any detective, that is not the result of conscientious work, the exercise of human intelligence, an efficient system of organization and intercommunication, and good luck. A good detective must be quick to think, keen to analyse, persistent, resourceful, courageous. But the best detective in the world is a human being, neither half-devil nor half-god, but just a man with the attributes or associates that make him successful in his occupation. &quot;The best detective, therefore, is a man who instinctively detects the truth, lost though it may be in a maze of lies. By instinct he is a detective. He is born to it; his business is his natural bent. It would be a platitude to say the best detectives are born, not made. They are both born and made for the business. The man who, by temperament and make-up, is an ideal detective, must go through the hard years of steady work, must apply himself, and study and toil in making himself what he is born to he. Sandow was born to be a strong man, but, if he had not developed himself by hard work, he would not have become the strongest man of his time. As a detective advances in his business he will find that the more he studies and works, the stronger his powers of intuition, of divination, of analysis become. A very simple broad illustration will prove this. If a detective is chasing a criminal from country to country, and has learned, by study of the extradition treaties, that a certain country offers a better haven than another, he may save himself many a weary mile by going to the country where his common sense tells him his man is more likely to be. A mechanical knowledge of the use of tools, a knowledge of the effects of poisons, a knowledge of the ways of banking, of the habits of life of the various classes, in various callings, a knowledge of crooks, and, above all, a knowledge of human nature, in whatsoever way manifest, are invaluable elements of the equipment of a good detective.&quot;
+>&quot;As a matter of fact the detective business is a plain ordinary business, just like a lawyer&#39;s business, a doctor&#39;s business, a railway manager&#39;s business. It has its own peculiarities because it deals with crime, with the distorted, imperfect, diseased members of the social body, just as a surgeon&#39;s business deals with the distorted, imperfect, diseased members of the physical body. But it is not an abnormal or phenomenal or incomprehensible business. There is nothing done in it, nothing accomplished by any detective, that is not the result of conscientious work, the exercise of human intelligence, an efficient system of organization and intercommunication, and good luck.
+
+A good detective must be quick to think, keen to analyse, persistent, resourceful, courageous. But the best detective in the world is a human being, neither half-devil nor half-god, but just a man with the attributes or associates that make him successful in his occupation.
+
+&quot;The best detective, therefore, is a man who instinctively detects the truth, lost though it may be in a maze of lies. By instinct he is a detective. He is born to it; his business is his natural bent. It would be a platitude to say the best detectives are born, not made. They are both born and made for the business.
+
+The man who, by temperament and make-up, is an ideal detective, must go through the hard years of steady work, must apply himself, and study and toil in making himself what he is born to he. Sandow was born to be a strong man, but, if he had not developed himself by hard work, he would not have become the strongest man of his time. As a detective advances in his business he will find that the more he studies and works, the stronger his powers of intuition, of divination, of analysis become.
+
+A very simple broad illustration will prove this. If a detective is chasing a criminal from country to country, and has learned, by study of the extradition treaties, that a certain country offers a better haven than another, he may save himself many a weary mile by going to the country where his common sense tells him his man is more likely to be. A mechanical knowledge of the use of tools, a knowledge of the effects of poisons, a knowledge of the ways of banking, of the habits of life of the various classes, in various callings, a knowledge of crooks, and, above all, a knowledge of human nature, in whatsoever way manifest, are invaluable elements of the equipment of a good detective.&quot;
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
@@ -91,11 +105,9 @@ The usual work, then, of a real detective does not demand the extraordinary powe
 
 The assertion of Sherlock Holmes founded on the aphorism that truth is stranger than fiction is in itself fiction.
 
->&quot;My dear fellow,&quot; said Sherlock Holmes, as we sat on either side of the fire in his lodgings at Baker Street,
+>&quot;My dear fellow,&quot; said Sherlock Holmes, as we sat on either side of the fire in his lodgings at Baker Street, life is infinitely stranger than anything which the mind of man can invent. We would not dare to conceive the things which are really mere commonplaces of existence.
 
->&quot;life is infinitely stranger than anything which the mind of man can invent. We would not dare to conceive the things which are really mere commonplaces of existence.
-
->If we could fly out of that window hand in hand, hover over this great city, gently remove the roofs, and peep in at the queer things which are going on, the strange coincidences, the plannings, the cross-purposes, the wonderful chains of events, working through generations, and leading to the most outre results, it would make all fiction, with its conventionalities and foreseen conclusions, most stale and unprofitable.&quot;
+>&quot;If we could fly out of that window hand in hand, hover over this great city, gently remove the roofs, and peep in at the queer things which are going on, the strange coincidences, the plannings, the cross-purposes, the wonderful chains of events, working through generations, and leading to the most outre results, it would make all fiction, with its conventionalities and foreseen conclusions, most stale and unprofitable.&quot;
 
 >&quot;And yet I am not convinced of it,&quot; I answered. &quot;The cases which come to light in the papers are, as a rule, bald enough, and vulgar enough. We have in our police reports realism pushed to its extreme limits, and yet the result is, it must be confessed, neither fascinating nor artistic.&quot;
 
@@ -120,21 +132,19 @@ Many authors of late think it argues themselves original to indulge in a fleer a
 
 >As I smoked, my gaze travelled idly about the room till it rested upon the big brass candlestick smeared with melted tallow which we had found that morning on the dining table.
 
->&quot;If I were only another Sherlock Holmes now,&quot; I thought,
+>&quot;If I were only another Sherlock Holmes now,&quot; I thought, I should be able to reconstruct the entire tragedy from that candlestick, supposing of course the murderer used it. An intelligent smell of the wick would tell me what particular brand of matches he used to light it, and it would only be necessary to visit the one dealer who kept them and get from him a photograph of the man, or a sufficiently accurate description of him, to make his arrest a matter of only a trifling difficulty.&quot;
 
->&quot;I should be able to reconstruct the entire tragedy from that candlestick, supposing of course the murderer used it. An intelligent smell of the wick would tell me what particular brand of matches he used to light it, and it would only be necessary to visit the one dealer who kept them and get from him a photograph of the man, or a sufficiently accurate description of him, to make his arrest a matter of only a trifling difficulty.&quot; I chuckled at the absurdity of the notion. It seemed however, hardly more far-fetched and ridiculous than some of the great detective&#39;s marvellous exploits, which millions of readers have found plausible enough, I daresay, though I was never one of them.
+>I chuckled at the absurdity of the notion. It seemed however, hardly more far-fetched and ridiculous than some of the great detective&#39;s marvellous exploits, which millions of readers have found plausible enough, I daresay, though I was never one of them.
 
 >Yielding to a sudden whim, I took down the candlestick from the mantelpiece.
 
->&quot;I should at least be able to deduce a few simple facts from a really scientific examination of it,11 I argued, facetiously—&quot;whether the criminal was right or left- handed, for instance, or wore ready-made clothes, or if he was suffering from rheumatism or the whooping cough. It must be all here somewhere.&quot;
+>&quot;I should at least be able to deduce a few simple facts from a really scientific examination of it,&quot; I argued, facetiously—&quot;whether the criminal was right or left-handed, for instance, or wore ready-made clothes, or if he was suffering from rheumatism or the whooping cough. It must be all here somewhere.&quot;
 
 >I proceeded gravely to smell of the wick. It had a decidedly burnt odour, due very likely, I imagined, to its having been lighted. It humiliated me, however, to be unable to decide how it had been lighted. I could not for the life of me make out whether the murderer had used wax vesta, safety-matches, ordinary parlour matches, or those infernal things tipped with sulphur commonly known as &quot;hell-sticks.&quot;
 
->He might even have lighted it with one of those self- igniting platinum-wire and alcohol devices, or with flint and steel, or by rubbing two sticks together, for all I could tell.
+>He might even have lighted it with one of those self-igniting platinum-wire and alcohol devices, or with flint and steel, or by rubbing two sticks together, for all I could tell.
 
->I began to feel discouraged. Doubtless there were imprints of his fingers as thick as flies and as plain as billboards all over the candlestick itself, if I could only find them. He would at any rate have left the damning mark of his thumb somewhere upon its shining surface: they were always considerate enough to do that—in the detective stories. It was part of the game. But again I was doomed to disappointment. We must have blurred the impressions through our inconceivable stupidity in touching the thing at all. We should have known enough,
-
->I reflected, to have left it alone till we had a chance to study it through a high-powered telescope.
+>I began to feel discouraged. Doubtless there were imprints of his fingers as thick as flies and as plain as billboards all over the candlestick itself, if I could only find them. He would at any rate have left the damning mark of his thumb somewhere upon its shining surface: they were always considerate enough to do that—in the detective stories. It was part of the game. But again I was doomed to disappointment. We must have blurred the impressions through our inconceivable stupidity in touching the thing at all. We should have known enough, I reflected, to have left it alone till we had a chance to study it through a high-powered telescope.
 
 This is good-natured satire, and the very fact that it contains the kernel of truth makes it effective.
 
@@ -153,23 +163,17 @@ The first allusion to Dupin&#39;s peculiar talents is found in &quot;The Murders
 
 Poe deliberately remarks on Dupin&#39;s diseased intelligence, thus providing a defence against any implication that the detective&#39;s powers were superhuman.
 
-Analogous to this is Conan Doyle&#39;s characterization of Sherlock Holmes.
-
-To quote from &quot;A Study in Scarlet,&quot; where Holmes makes his first appearance:
+Analogous to this is Conan Doyle&#39;s characterization of Sherlock Holmes. To quote from &quot;A Study in Scarlet,&quot; where Holmes makes his first appearance:
 
 >&quot;Well, I have a trade of my own. I suppose I am the only one in the world. I&#39;m a consulting detective, if you can understand what that is. Here in London we have lots of government detectives and lots of private ones. When these fellows are at fault they come to me, and I manage to put them on the right scent. They lay all the evidence before me, and I am generally able, by the help of my knowledge of the history of crime, to set them straight. There is a strong family resemblance about misdeeds, and if you have all the details of a thousand at your finger-ends, it is odd if you can&#39;t unravel the thousand and first. Lestrade is a well known detective. He got himself into a fog recently over a forgery case, and that was what brought him here.&quot;
 
 >&quot;And these other people?&quot;
 
->&quot;They are mostly sent out by private inquiry agencies.
-
->They are all people who are in trouble about something, and want a little enlightening I listen to their story, they listen to my comments, and then I pocket my fee.&quot;
+>&quot;They are mostly sent out by private inquiry agencies. They are all people who are in trouble about something, and want a little enlightening I listen to their story, they listen to my comments, and then I pocket my fee.&quot;
 
 >&quot;But do you mean to say,&quot; I said, &quot;that without leaving your room you can unravel some knot which other men can make nothing of, although they have seen every detail for themselves?&quot;
 
->&quot;Quite so. I have a kind of intuition that way. Now and again a case turns up which is a little more complex.
-
->Then I have to bustle about and see things with my own eyes. You see, I have a lot of special knowledge which I apply to the problem, and which facilitates matters wonderfully. Those rules of deduction laid down in that article which aroused your scorn are invaluable to me in practical work. Observation with me is second nature.&quot;
+>&quot;Quite so. I have a kind of intuition that way. Now and again a case turns up which is a little more complex. Then I have to bustle about and see things with my own eyes. You see, I have a lot of special knowledge which I apply to the problem, and which facilitates matters wonderfully. Those rules of deduction laid down in that article which aroused your scorn are invaluable to me in practical work. Observation with me is second nature.&quot;
 
 However, the later detective thus scorns the earlier one when Watson, thinking to flatter, compares Holmes to Dupin:
 
@@ -179,9 +183,7 @@ However, the later detective thus scorns the earlier one when Watson, thinking t
 
 >Sherlock Holmes sniffed sardonically.
 
->&quot;Lecoq was a miserable bungler/1 he said, in an angry voice; &quot;he had only one thing to recommend him, and that was his energy. That book made me positively ill.
-
->The question was how to identify an unknown prisoner. I could have done it in twenty-four hours. Lecoq took six months or so. It might be made a text-book for detectives to teach them what to avoid.&quot;
+>&quot;Lecoq was a miserable bungler,&quot; he said, in an angry voice; &quot;he had only one thing to recommend him, and that was his energy. That book made me positively ill. The question was how to identify an unknown prisoner. I could have done it in twenty-four hours. Lecoq took six months or so. It might be made a text-book for detectives to teach them what to avoid.&quot;
 
 But Dupin himself speaks with equal contempt of his predecessor in the profession. He says:
 
@@ -191,32 +193,30 @@ However, as Conan Doyle himself declares:
 
 >&quot;In a work which consists in the drawing of detectives,&quot; he once wrote, &quot;there are only one or two qualities which one can use, and an author is forced to hark back upon them constantly, so that every detective must really resemble every other detective to a greater or less extent. There is no great originality required in devising or constructing such a man, and the only possible originality which one can get into a story about a detective is in giving him original plots and problems to solve, as in his equipment there must be an alert acuteness of mind to grasp facts and the relation which each of them bears to the other.&quot;
 
-The detectives who follow in the straight path trodden by these pioneers are legion.
+The detectives who follow in the straight path trodden by these pioneers are legion. Among the best known is The Thinking Machine, hero of two series of stories by the late Jacques Futrelle.
 
-Among the best known is The Thinking Machine, hero of two series of stories by the late Jacques Futrelle.
+The Thinking Machine whose name was Professor Van Dusen was remotely German. For generations his ancestors had been noted in the sciences; he was the logical result of the master mind. First and above all he was a logician. At least thirty-five years of the half-century or so of his existence had been devoted exclusively to proving that two and two always equal four, except in unusual cases, where they equal three or five, as the case may be.
 
-The Thinking Machine whose name was Professor Van Dusen was remotely German. For generations his ancestors had been noted in the sciences; he was the logical result of the master mind. First and above all he was a logician. At least thirty-five years of the half-century or so of his existence had been devoted exclusively to proving that two and two always equal four, except in unusual cases, where they equal three or five, as the case may be. He stood broadly on the general proposition that all things that start must go somewhere, and was able to bring the concentrated mental force of his forefathers to bear on a given problem. Incidentally it may be remarked that Professor Van Dusen wore a No. 8 hat.
+He stood broadly on the general proposition that all things that start must go somewhere, and was able to bring the concentrated mental force of his forefathers to bear on a given problem. Incidentally it may be remarked that Professor Van Dusen wore a No. 8 hat.
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
 ## Recent Detectives of Fiction
 
-Among the best of lately-written detective stories are two by Gaston Leroux, &quot;The Mystery of the Yellow Room&quot; and &quot;The Perfume of the Lady in Black.&quot; In these stories two detectives figure. Though they are professional and amateur, they are not opposed, as is so often deemed necessary for dramatic effect, but have a far subtler contrast. Rouletabille is a delightful character and satisfactory in his procedure, while Larsan is a genius. And yet these detectives are little known to the reading public. It is perhaps because Sherlock Holmes was first in the modern field, and perhaps partly because his name appears in the titles of the collections of stories about him, that his name is so well known. Mr. Cecil Chesterton is right in saying:
+Among the best of lately-written detective stories are two by Gaston Leroux, &quot;The Mystery of the Yellow Room&quot; and &quot;The Perfume of the Lady in Black.&quot; In these stories two detectives figure. Though they are professional and amateur, they are not opposed, as is so often deemed necessary for dramatic effect, but have a far subtler contrast. Rouletabille is a delightful character and satisfactory in his procedure, while Larsan is a genius.
 
->&quot;Sir Arthur Conan Doyle is at least entitled to claim the honour of being the only novelist since Dickens, one of whose creations has become a popular proverb. It is easy to test this. Mr. Rudyard Kipling is generally considered a popular writer. Mulvaney is probably Mr.
+And yet these detectives are little known to the reading public. It is perhaps because Sherlock Holmes was first in the modern field, and perhaps partly because his name appears in the titles of the collections of stories about him, that his name is so well known. Mr. Cecil Chesterton is right in saying:
 
->Kipling&#39;s most popular creation. But let anyone say in an assembly of twenty average men chosen at random from the street—&#39;That man is quite a Mulvaney.&#39; Perhaps two men will understand the reference; perhaps one; quite possibly none. But let him say &#39;That man is quite a Sherlock Holmes.1 The recognition will be instantaneous and unanimous. A man who had not heard of Holmes would be more singular than a man who could not sign his own name. Sir Arthur is the only writer of our time who has done this, and he has never done it twice. He has done more ambitious work than the Sherlock Holmes tales, but none of it has passed into the language.&quot;
+>&quot;Sir Arthur Conan Doyle is at least entitled to claim the honour of being the only novelist since Dickens, one of whose creations has become a popular proverb. It is easy to test this. Mr. Rudyard Kipling is generally considered a popular writer. Mulvaney is probably Mr. Kipling&#39;s most popular creation.
+
+>&quot;But let anyone say in an assembly of twenty average men chosen at random from the street &mdash; &#39;That man is quite a Mulvaney.&#39; Perhaps two men will understand the reference; perhaps one; quite possibly none. But let him say &#39;That man is quite a Sherlock Holmes.&#39; The recognition will be instantaneous and unanimous. A man who had not heard of Holmes would be more singular than a man who could not sign his own name. Sir Arthur is the only writer of our time who has done this, and he has never done it twice. He has done more ambitious work than the Sherlock Holmes tales, but none of it has passed into the language.&quot;
 
 Many series of really good detective stories have been published in magazines, and later in book form, but not one reader in ten remembers the detective&#39;s name.
 
-Luther Trant and Craig Kennedy, Ledroit Conners and Eugene Valmont, are all first class fiction detectives yet their names are not household words like Sherlock Holmes. So with
+Luther Trant and Craig Kennedy, Ledroit Conners and Eugene Valmont, are all first class fiction detectives yet their names are not household words like Sherlock Holmes. So with The Man in the Corner, Average Jones, Ashton-Kirk and Paul Beck. So with Scientific Sprague and Astro.
 
-The Man in the Corner, Average Jones, Ashton-Kirk and Paul Beck. So with Scientific Sprague and Astro.
-
-Though each of these is a real deductive detective, each has his own personal bent.
-
-Sprague, Trant and Kennedy are scientific,—sometimes so much so that they run great danger of losing the popular interest.
+Though each of these is a real deductive detective, each has his own personal bent. Sprague, Trant and Kennedy are scientific &mdash; sometimes so much so that they run great danger of losing the popular interest.
 
 This is Sprague&#39;s manner as the author, Francis Lynde, shows us:
 
@@ -224,9 +224,7 @@ This is Sprague&#39;s manner as the author, Francis Lynde, shows us:
 
 >&quot;Go on,&quot; said Maxwell.
 
->&quot;The idea came to me that I&#39;d like to try it on, and I did.
-
->My theory is correct. Human beings react under certain given conditions just as readily, and just as inevitably, as the inorganic substances react in a laboratory experiment.&quot;
+>&quot;The idea came to me that I&#39;d like to try it on, and I did. My theory is correct. Human beings react under certain given conditions just as readily, and just as inevitably, as the inorganic substances react in a laboratory experiment.&quot;
 
 >\* \* \*
 
@@ -247,30 +245,30 @@ Craig Kennedy (created by Arthur B. Reeve) says:
 
 >&quot;It has always seemed strange to me that no one has ever endowed a professorship in criminal science in any of our large universities.&quot;
 
->Craig Kennedy laid down his evening paper and filled his pipe with my tobacco. In college we had roomed together, had shared everything, even poverty, and now that Craig was a professor of chemistry and I was on the staff of the Star, we had continued the arrangement. Prosperity found us in a rather neat bachelor apartment on the Heights, not far from the University.
+>Craig Kennedy laid down his evening paper and filled his pipe with my tobacco. In college we had roomed together, had shared everything, even poverty, and now that Craig was a professor of chemistry and I was on the staff of the *Star*, we had continued the arrangement. Prosperity found us in a rather neat bachelor apartment on the Heights, not far from the University.
 
->&quot;Why should there be a chair in criminal science?&quot; I remarked argumentatively, settling back in my chair. &quot;I&#39;ve done my turn at police headquarters reporting, and I can tell you, Craig, it&#39;s no place for a college professor.
+>&quot;Why should there be a chair in criminal science?&quot; I remarked argumentatively, settling back in my chair. &quot;I&#39;ve done my turn at police headquarters reporting, and I can tell you, Craig, it&#39;s no place for a college professor. Crime is just crime. And as for dealing with it, the good detective is born and bred to it. College professors for the sociology of the thing, yes; for the detection of it give me a Byrnes.&quot;
 
->Crime is just crime. And as for dealing with it, the good detective is born and bred to it. College professors for the sociology of the thing, yes; for the detection of it give me a Byrnes.&quot;
+>&quot;On the contrary,&quot; replied Kennedy, his cleancut features betraying an earnestness which I knew indicated that he was leading up to something important, &quot;there is a distinct place for science in the detection of crime.
 
->&quot;On the contrary,&quot; replied Kennedy, his cleancut features betraying an earnestness which I knew indicated that he was leading up to something important, &quot;there is a distinct place for science in the detection of crime. &quot;Colleges have gone a long way from the old ideal of pure culture. They have got down to solving the hard facts of life—pretty nearly an except one. They still treat crime in the old way, study its statistics and pore over its causes and the theories of how it can be prevented. But as for running the criminal himself down, scientifically, relentlessly—bah! we haven&#39;t made an inch of progress since the hammer and tongs method of your Byrnes.&quot; &quot;Doubtless you will write a thesis on this most interesting subject,&quot; I suggested, &quot;and let it go at that.&quot;
+>&quot;Colleges have gone a long way from the old ideal of pure culture. They have got down to solving the hard facts of life—pretty nearly an except one. They still treat crime in the old way, study its statistics and pore over its causes and the theories of how it can be prevented. But as for running the criminal himself down, scientifically, relentlessly—bah! we haven&#39;t made an inch of progress since the hammer and tongs method of your Byrnes.&quot; &quot;Doubtless you will write a thesis on this most interesting subject,&quot; I suggested, &quot;and let it go at that.&quot;
 
 >&quot;No, I am serious,&quot; he replied, determined for some reason or other to make a convert of me. &quot;I mean exactly what I say. I am going to apply science to the detection of crime, the same sort of methods by which you trace out the presence of a chemical, or run an unknown germ to earth. And before I have gone far, I am going to enlist Walter Jameson as an aide. I think I shall need you in my business.&quot;
 
 >&quot;How do I come in?&quot;
 
->&quot;Well, for one thing, you will get a scoop, a beat,—whatever you call it in that newspaper jargon of yours.&quot;
+>&quot;Well, for one thing, you will get a scoop, a beat &mdash; whatever you call it in that newspaper jargon of yours.&quot;
 
-However, Kennedy&#39;s methods and descriptions, though interesting to scientific minds, are often above the heads of a popular audience. For instance such a paragraph as this,—and in his stories they abound:
+However, Kennedy&#39;s methods and descriptions, though interesting to scientific minds, are often above the heads of a popular audience. For instance such a paragraph as this &mdash; and in his stories they abound:
 
->&quot;This twelfth series is interesting. So far only radium, thorium, and uranium are generally known. We know that the radio-active elements are constantly breaking down, and one often hears uranium, for instance, called the &#39;parent&#39; of radium. Radium also gives off an emanation, and among its products is helium, quite another element. Thus the transmutation of matter is, within certain bounds, well known to-day to all scientists like yourself, Professor Kennedy. It has even been rumored but never proved that copper has been transformed into lithium—both members of the hydrogen-gold group, you will observe. Copper to lithium is going backward, so to speak. It has remained for me to devise this protodyne apparatus by which I can reverse that process of decay and go forward in the table,—can change lithium into copper and copper into gold. I can create and destroy matter by protodyne.&quot;
+>&quot;This twelfth series is interesting. So far only radium, thorium, and uranium are generally known. We know that the radio-active elements are constantly breaking down, and one often hears uranium, for instance, called the &#39;parent&#39; of radium. Radium also gives off an emanation, and among its products is helium, quite another element. Thus the transmutation of matter is, within certain bounds, well known to-day to all scientists like yourself, Professor Kennedy. It has even been rumored but never proved that copper has been transformed into lithium—both members of the hydrogen-gold group, you will observe. Copper to lithium is going backward, so to speak. It has remained for me to devise this protodyne apparatus by which I can reverse that process of decay and go forward in the table &mdash; can change lithium into copper and copper into gold. I can create and destroy matter by protodyne.&quot;
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
 ## The New Psychology in Detective Stories
 
-All of the stories of Craig Kennedy published under the title of &quot;The Silent Bullet&quot; are based upon the various chapters of Professor Hugo Miinsterberg&#39;s delightful book called &quot;On The Witness Stand.&quot; It is hoped and believed by Professor Miinster- berg that these psychological experiments will yet become a practical means of the conviction of criminals.
+All of the stories of Craig Kennedy published under the title of &quot;The Silent Bullet&quot; are based upon the various chapters of Professor Hugo Miinsterberg&#39;s delightful book called &quot;On The Witness Stand.&quot; It is hoped and believed by Professor Miinsterberg that these psychological experiments will yet become a practical means of the conviction of criminals.
 
 They have not as yet obtained official sanction, but as Professor Miinsterberg writes in a personal letter,
 
@@ -286,7 +284,7 @@ A series of stories called &quot;The Achievements of Luther Trant,&quot; by Edwi
 
 >&quot;The facts which Trant uses are in no way debatable facts; nor do they rest on evidence of untrained, imaginative observers. Innumerable experiments in our university laboratories have established beyond question that, for instance, the resistance of the human body to a weak electric current varies when the subject is frightened or undergoes emotion; and the consequent variation in the strength of the current depending directly upon the amount of emotional disturbance, can be registered by the galvanometer for all to see. The hand resting upon an automatograph will travel toward an object which excites emotion, however capable its possessor may be of restraining all other evidence of what he feels.
 
->&quot;If these facts are not used as yet except in the academic experiments of the psychological laboratories and the very real and useful purpose to which they have been put in the diagnosis of insanities, it is not because they are incapable of wider use. The results of the &#39;new psychology1 are coming every day closer to an exact interpretation. The hour is close at hand when they will be used not merely in the determination of guilt and innocence, but to establish in the courts the credibility of witnesses and the impartiality of jurors, and by employers to ascertain the fitness and particular abilities of their employees.
+>&quot;If these facts are not used as yet except in the academic experiments of the psychological laboratories and the very real and useful purpose to which they have been put in the diagnosis of insanities, it is not because they are incapable of wider use. The results of the &#39;new psychology&#39; are coming every day closer to an exact interpretation. The hour is close at hand when they will be used not merely in the determination of guilt and innocence, but to establish in the courts the credibility of witnesses and the impartiality of jurors, and by employers to ascertain the fitness and particular abilities of their employees.
 
 >&quot;Luther Trant, therefore, nowhere in this book needs to invent or devise an experiment or an instrument for any of the results he here attains; he has merely to adopt a part of the tried and accepted experiments of modern, scientific psychology. He himself is a character of fiction; but his methods are matters of fact.&quot;
 
@@ -308,5 +306,7 @@ A similar method is hinted at in &quot;The Thinking Machine&quot; stories. Mr. F
 A comparatively novel type of detective is Astro. This individual figures in a series of stories published in book form under title of &quot;The Master of Mysteries.&quot; These stories are by Mr. Gelett Burgess, but are published anonymously.
 
 The detective is a poseur, of a languid and self-conscious personality, who pretends to be a palmist and crystal-gazer, but who really is simply a clever sleuth detective. At his seances, conducted in draped and darkened apartments, he wears Oriental costume and is exceedingly bored. Instead of a Doctor Watson, he has for assistant a beautiful young woman named Valeska. The romance of these two runs through the book, and culminates on the last page with a &quot;clergyman and witnesses.&quot; But the stories are properly constructed detective fiction of good technique.
+
+<p id="theend">~ The End ~
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>

@@ -2,11 +2,16 @@
 layout: post_mw
 layoutTag: post
 title: "The Handling of the Crime"
+subtitle: "The Method of The Murder"
+book: "The Techniques of the Mystery"
+chapter: "Chapter 20"
 author: Carolyn Wells
-date: 2016-08-29-16
+pubdate: 1913
+date: 2016-08-29
 category: murderwiki
-excerpt: Chapter 19 of <i>The Techniques of the Mystery</i>, published 1913.
-image:
+excerpt: "A weapon picked up on the spot has the advantage of not necessitating its concealment after use, for it incriminates no one in particular. Oftenest this weapon is a dagger used as a paper cutter, and so lying at hand on a table. Or a dagger or sword which is one of a decorative group on the wall of the room."
+image: /assets/img/Webley-Mk-IV-p1030100.png
+caption: "Webley & Scott Mk VI. Caliber .455"
 genre: The Techniques of the Mystery
 wordcount: 1480
 ---
@@ -21,17 +26,23 @@ wordcount: 1480
 </div>
 </section> <!-- table-of-contents -->
 
+## How Fictional Murder Is Undertaken
+
 The method of the murder is a point to be carefully chosen and this consideration of course includes the weapon.
 
 Shooting is perhaps the means most often used, with stabbing as a close second. If a shooting, the weapon is usually a revolver, or occasionally a rifle. In this case, care must be taken that the scene is out of doors; or, if indoors, in an isolated apartment or so placed that the report shall be out of hearing of the other characters, unless immediate discovery is intended.
 
 Various devices are used to keep the innocent characters from hearing the shooting. In one case only a half-charge of powder was put into a gun. In another, of recent date, a silent bullet was used.
 
-A strong point is always made of the evidence of the weapon, if it be found. But, as we have before hinted, do not persist in having the revolver marked with the initials of a perfectly innocent person, for this has come to be looked upon as a tacit acquittal. It is hackneyed, also, to have the pistol one of a pair, and trace it by means of its duplicate still reposing in its case in the criminal&#39;s library. Learn to avoid these over-worked devices, as there are surely plenty of others. If a pistol is your chosen weapon, treat it either inconspicuously, or in some novel and original fashion that will interest the reader.
+A strong point is always made of the evidence of the weapon, if it be found. But, as we have before hinted, do not persist in having the revolver marked with the initials of a perfectly innocent person, for this has come to be looked upon as a tacit acquittal.
+
+It is hackneyed, also, to have the pistol one of a pair, and trace it by means of its duplicate still reposing in its case in the criminal&#39;s library. Learn to avoid these over-worked devices, as there are surely plenty of others. If a pistol is your chosen weapon, treat it either inconspicuously, or in some novel and original fashion that will interest the reader.
 
 The advantage of a stabbing is principally that the weapon may be picked up at the moment, in a sudden impulse to kill; while a pistol usually implies a premeditated murder.
 
-A weapon picked up on the spot has the advantage of not necessitating its concealment after use, for it incriminates no one in particular. Oftenest this weapon is a dagger used as a paper cutter, and so lying at hand on a table. Or a dagger or sword which is one of a decorative group on the wall of the room. Another weapon which has crept into use of late y ears is the hatpin. This, though popular among writers, is implausible and in many cases impossible; for the average hatpin bends but does not break. Yet one author after another kills his victim by stabbing him with a hatpin which breaks off and disappears in the wound.
+A weapon picked up on the spot has the advantage of not necessitating its concealment after use, for it incriminates no one in particular. Oftenest this weapon is a dagger used as a paper cutter, and so lying at hand on a table. Or a dagger or sword which is one of a decorative group on the wall of the room.
+
+Another weapon which has crept into use of lately ears is the hatpin. This, though popular among writers, is implausible and in many cases impossible; for the average hatpin bends but does not break. Yet one author after another kills his victim by stabbing him with a hatpin which breaks off and disappears in the wound.
 
 One would-be clever author caused his victim to fall violently forward (with his mouth conveniently open), and allow a hatpin held by a near-by lady to strike through the roof of his mouth and pierce his brain. The obliging hatpin broke off at just the right place, and as the lady concealed the head end, the point end of the fatal weapon was never discovered. This related incident is practically impossible and should not have been used.
 
@@ -39,7 +50,7 @@ A Spanish story called &quot;The Nail,&quot; by Pedro de Alargon, practically re
 
 The nail is a horrible suggestion, but whatever weapon brings about violent death is necessarily horrible. It is wise to dwell on the physical details as little as possible. Granted a murder, there must be a method, and if the exigencies of the story demand a horrible method, so be it; but remember Poe&#39;s injunction, and when painting the decayed cheeses make them look as little like decayed cheeses as possible.
 
-Poison is a method giving the author a wider scope and necessitating somewhat legs gruesome conditions. It is easier to administer poison than to shoot or stab. Poison may be given in food or drink, or introduced into medicine or administered in more ingenious and original ways.
+Poison is a method giving the author a wider scope and necessitating somewhat less gruesome conditions. It is easier to administer poison than to shoot or stab. Poison may be given in food or drink, or introduced into medicine or administered in more ingenious and original ways.
 
 If this method is used, the author should study up on poisons and their effects, and not run the risk of making absurd mistakes in his text. Abstruse scientific information is not necessary; enough can be learned from an encyclopaedia or a medical dictionary; but the plausibilities must be maintained.
 
@@ -65,12 +76,21 @@ In &quot;The Mystery of the Yellow Room,&quot; the author goes back to the primi
 
 An author&#39;s first plot almost invariably centers around a shooting or a stabbing affair. It is in his later efforts that he feels moved to vary his methods.
 
-Regarding crimes other than murder, we find that more depends on the setting. A robbery, however great the booty, must be made interesting by unusual characters or conditions, and must implicate the hero or other important characters to the danger point. The discovery of the wrong-doer must mean disgrace and disaster of the strongest sort. For your detective story fancier is an extremist; and, owing to the predominance of murder stories and capital punishment, a short imprisonment for a robbery seems tame by contrast.
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
+## Crimes Other Than Murder
+
+Regarding crimes other than murder, we find that more depends on the setting. A robbery, however great the booty, must be made interesting by unusual characters or conditions, and must implicate the hero or other important characters to the danger point.
+
+The discovery of the wrong-doer must mean disgrace and disaster of the strongest sort. For your detective story fancier is an extremist; and, owing to the predominance of murder stories and capital punishment, a short imprisonment for a robbery seems tame by contrast.
 
 &quot;The Moonstone&quot; is a robbery story, but it combines all the elements that make for a dramatic setting, and though not the main motive, it includes a murder, and also a suicide, incidentally in the plot. It is one of the very few full-sized novels built upon a robbery, and it required the peculiar genius of a Wilkie Collins to hold the reader&#39;s attention through its five hundred pages.
 
 Other crimes than those we have considered, such as forgery, arson, blackmail, etc., are used only by authors in search of a novelty. They fancy that these crimes will interest because they are not so hackneyed as murder and robbery. But unless worked up with great care as to atmosphere and technique, stories of these crimes often prove dull reading.
 
 Some authors incline to such subjects as Nihilism and the workings of secret societies. These are not of such general interest as the ones we have been discussing, but they offer picturesque possibilities and scope for melodrama.
+
+<p id="theend">~ The End ~
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>

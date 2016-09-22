@@ -5,8 +5,8 @@
     <description>A murder mystery short story &amp;amp; novel site.</description>
     <link>https://www.talesofmurder.comlocalhost:3000/</link>
     <atom:link href="https://www.talesofmurder.comlocalhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Sep 2016 16:43:13 -0500</pubDate>
-    <lastBuildDate>Wed, 21 Sep 2016 16:43:13 -0500</lastBuildDate>
+    <pubDate>Thu, 22 Sep 2016 18:19:20 -0500</pubDate>
+    <lastBuildDate>Thu, 22 Sep 2016 18:19:20 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -1093,10 +1093,16 @@
     &lt;h6&gt;Table of Contents&lt;/h6&gt;
   &lt;/header&gt;
 &lt;div id=&quot;drawer&quot;&gt;
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#how-fictional-murder-is-undertaken&quot; id=&quot;markdown-toc-how-fictional-murder-is-undertaken&quot;&gt;How Fictional Murder Is Undertaken&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#crimes-other-than-murder&quot; id=&quot;markdown-toc-crimes-other-than-murder&quot;&gt;Crimes Other Than Murder&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
   &lt;/div&gt;
 &lt;/section&gt;
 &lt;p&gt;&lt;!-- table-of-contents --&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how-fictional-murder-is-undertaken&quot;&gt;How Fictional Murder Is Undertaken&lt;/h2&gt;
 
 &lt;p&gt;The method of the murder is a point to be carefully chosen and this consideration of course includes the weapon.&lt;/p&gt;
 
@@ -1104,11 +1110,15 @@
 
 &lt;p&gt;Various devices are used to keep the innocent characters from hearing the shooting. In one case only a half-charge of powder was put into a gun. In another, of recent date, a silent bullet was used.&lt;/p&gt;
 
-&lt;p&gt;A strong point is always made of the evidence of the weapon, if it be found. But, as we have before hinted, do not persist in having the revolver marked with the initials of a perfectly innocent person, for this has come to be looked upon as a tacit acquittal. It is hackneyed, also, to have the pistol one of a pair, and trace it by means of its duplicate still reposing in its case in the criminal's library. Learn to avoid these over-worked devices, as there are surely plenty of others. If a pistol is your chosen weapon, treat it either inconspicuously, or in some novel and original fashion that will interest the reader.&lt;/p&gt;
+&lt;p&gt;A strong point is always made of the evidence of the weapon, if it be found. But, as we have before hinted, do not persist in having the revolver marked with the initials of a perfectly innocent person, for this has come to be looked upon as a tacit acquittal.&lt;/p&gt;
+
+&lt;p&gt;It is hackneyed, also, to have the pistol one of a pair, and trace it by means of its duplicate still reposing in its case in the criminal's library. Learn to avoid these over-worked devices, as there are surely plenty of others. If a pistol is your chosen weapon, treat it either inconspicuously, or in some novel and original fashion that will interest the reader.&lt;/p&gt;
 
 &lt;p&gt;The advantage of a stabbing is principally that the weapon may be picked up at the moment, in a sudden impulse to kill; while a pistol usually implies a premeditated murder.&lt;/p&gt;
 
-&lt;p&gt;A weapon picked up on the spot has the advantage of not necessitating its concealment after use, for it incriminates no one in particular. Oftenest this weapon is a dagger used as a paper cutter, and so lying at hand on a table. Or a dagger or sword which is one of a decorative group on the wall of the room. Another weapon which has crept into use of late y ears is the hatpin. This, though popular among writers, is implausible and in many cases impossible; for the average hatpin bends but does not break. Yet one author after another kills his victim by stabbing him with a hatpin which breaks off and disappears in the wound.&lt;/p&gt;
+&lt;p&gt;A weapon picked up on the spot has the advantage of not necessitating its concealment after use, for it incriminates no one in particular. Oftenest this weapon is a dagger used as a paper cutter, and so lying at hand on a table. Or a dagger or sword which is one of a decorative group on the wall of the room.&lt;/p&gt;
+
+&lt;p&gt;Another weapon which has crept into use of lately ears is the hatpin. This, though popular among writers, is implausible and in many cases impossible; for the average hatpin bends but does not break. Yet one author after another kills his victim by stabbing him with a hatpin which breaks off and disappears in the wound.&lt;/p&gt;
 
 &lt;p&gt;One would-be clever author caused his victim to fall violently forward (with his mouth conveniently open), and allow a hatpin held by a near-by lady to strike through the roof of his mouth and pierce his brain. The obliging hatpin broke off at just the right place, and as the lady concealed the head end, the point end of the fatal weapon was never discovered. This related incident is practically impossible and should not have been used.&lt;/p&gt;
 
@@ -1116,7 +1126,7 @@
 
 &lt;p&gt;The nail is a horrible suggestion, but whatever weapon brings about violent death is necessarily horrible. It is wise to dwell on the physical details as little as possible. Granted a murder, there must be a method, and if the exigencies of the story demand a horrible method, so be it; but remember Poe's injunction, and when painting the decayed cheeses make them look as little like decayed cheeses as possible.&lt;/p&gt;
 
-&lt;p&gt;Poison is a method giving the author a wider scope and necessitating somewhat legs gruesome conditions. It is easier to administer poison than to shoot or stab. Poison may be given in food or drink, or introduced into medicine or administered in more ingenious and original ways.&lt;/p&gt;
+&lt;p&gt;Poison is a method giving the author a wider scope and necessitating somewhat less gruesome conditions. It is easier to administer poison than to shoot or stab. Poison may be given in food or drink, or introduced into medicine or administered in more ingenious and original ways.&lt;/p&gt;
 
 &lt;p&gt;If this method is used, the author should study up on poisons and their effects, and not run the risk of making absurd mistakes in his text. Abstruse scientific information is not necessary; enough can be learned from an encyclopaedia or a medical dictionary; but the plausibilities must be maintained.&lt;/p&gt;
 
@@ -1144,7 +1154,14 @@
 
 &lt;p&gt;An author's first plot almost invariably centers around a shooting or a stabbing affair. It is in his later efforts that he feels moved to vary his methods.&lt;/p&gt;
 
-&lt;p&gt;Regarding crimes other than murder, we find that more depends on the setting. A robbery, however great the booty, must be made interesting by unusual characters or conditions, and must implicate the hero or other important characters to the danger point. The discovery of the wrong-doer must mean disgrace and disaster of the strongest sort. For your detective story fancier is an extremist; and, owing to the predominance of murder stories and capital punishment, a short imprisonment for a robbery seems tame by contrast.&lt;/p&gt;
+&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;crimes-other-than-murder&quot;&gt;Crimes Other Than Murder&lt;/h2&gt;
+
+&lt;p&gt;Regarding crimes other than murder, we find that more depends on the setting. A robbery, however great the booty, must be made interesting by unusual characters or conditions, and must implicate the hero or other important characters to the danger point.&lt;/p&gt;
+
+&lt;p&gt;The discovery of the wrong-doer must mean disgrace and disaster of the strongest sort. For your detective story fancier is an extremist; and, owing to the predominance of murder stories and capital punishment, a short imprisonment for a robbery seems tame by contrast.&lt;/p&gt;
 
 &lt;p&gt;&quot;The Moonstone&quot; is a robbery story, but it combines all the elements that make for a dramatic setting, and though not the main motive, it includes a murder, and also a suicide, incidentally in the plot. It is one of the very few full-sized novels built upon a robbery, and it required the peculiar genius of a Wilkie Collins to hold the reader's attention through its five hundred pages.&lt;/p&gt;
 
@@ -1152,7 +1169,10 @@
 
 &lt;p&gt;Some authors incline to such subjects as Nihilism and the workings of secret societies. These are not of such general interest as the ones we have been discussing, but they offer picturesque possibilities and scope for melodrama.&lt;/p&gt;
 
+&lt;p id=&quot;theend&quot;&gt;~ The End ~
+
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Aug 2016 00:00:00 -0500</pubDate>
         <link>https://www.talesofmurder.comlocalhost:3000/murderwiki/the-handling-of-the-crime/</link>
@@ -1191,7 +1211,19 @@
 &lt;p&gt;To quote from &quot;The Crime of Orcival&quot;:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;M. Lecoq, whom none of them had ever met before, in no wise resembled the conventional French detective. The latter is commonly depicted as a tall fellow, with heavy moustaches and &quot;imperial,&quot; wearing a military stock collar, a greasy silk hat, and a threadbare frock-coat buttoned up to the throat so as to conceal either the complete absence of linen or at all events the extreme dirtiness of a calico shirt. Such an individual will have immense feet incaged in heavy Wellingtons and will carry in his right hand a powerful sword-stick or bludgeon. Now M. Lecoq, as he appeared in the diningroom at Valfeuillu, had nothing whatever in common with this familiar type. It is true, however, that he can assume whatever air he pleases. Although his friends declare that he has features of his own which he retains at home when sitting by his own fire-side, with his slippers on, this is by no means certain. At all events, his mobile face lends itself to strange transformations, and he modifies his features according to his will just as the sculptor moulds his modelling clay. He changes everything, even the expression of his eyes. On this occasion M. Lecoq had assumed a handsome wig of lank hair, neither fair nor dark, but rather pretentiously parted on one side. Whiskers of the same vague colour puffed out with bad pomade, encircled his pallid face. His eyelids were very red; his eyes seemed weak and watery, and an open smile rested on his thick lips, which, in parting, disclosed a range of long yellow teeth. Timidity, self-sufficiency, and contentment were equally blended in the expression of his features. No one would ever have credited the possessor of such a head with even average intelligence. He looked the picture of some dull-minded, money-grubbing haberdasher, who after cheating his customers for thirty years, had retired on a large income. His coat was like all other coats, his trousers like all other trousers. A hair-chain, of the same colour as his whiskers, spanned his stomach, and a large silver watch could be seen bulging out of his left waistcoat pocket. While he spoke he fumbled with a horn box full of tiny square lozenges, and adorned on the cover with the portrait of a homely well- dressed woman, &quot;the dear defunct,11 no doubt. As the conversation proceeded, according as he was satisfied or disturbed, M. Lecoq munched one of these lozenges or gave the portrait a glance which was quite a poem in itself.&lt;/p&gt;
+  &lt;p&gt;M. Lecoq, whom none of them had ever met before, in no wise resembled the conventional French detective. The latter is commonly depicted as a tall fellow, with heavy moustaches and &quot;imperial,&quot; wearing a military stock collar, a greasy silk hat, and a threadbare frock-coat buttoned up to the throat so as to conceal either the complete absence of linen or at all events the extreme dirtiness of a calico shirt. Such an individual will have immense feet incaged in heavy Wellingtons and will carry in his right hand a powerful sword-stick or bludgeon.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Now M. Lecoq, as he appeared in the diningroom at Valfeuillu, had nothing whatever in common with this familiar type. It is true, however, that he can assume whatever air he pleases. Although his friends declare that he has features of his own which he retains at home when sitting by his own fire-side, with his slippers on, this is by no means certain. At all events, his mobile face lends itself to strange transformations, and he modifies his features according to his will just as the sculptor moulds his modelling clay. He changes everything, even the expression of his eyes.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;On this occasion M. Lecoq had assumed a handsome wig of lank hair, neither fair nor dark, but rather pretentiously parted on one side. Whiskers of the same vague colour puffed out with bad pomade, encircled his pallid face. His eyelids were very red; his eyes seemed weak and watery, and an open smile rested on his thick lips, which, in parting, disclosed a range of long yellow teeth. Timidity, self-sufficiency, and contentment were equally blended in the expression of his features.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;No one would ever have credited the possessor of such a head with even average intelligence. He looked the picture of some dull-minded, money-grubbing haberdasher, who after cheating his customers for thirty years, had retired on a large income. His coat was like all other coats, his trousers like all other trousers. A hair-chain, of the same colour as his whiskers, spanned his stomach, and a large silver watch could be seen bulging out of his left waistcoat pocket. While he spoke he fumbled with a horn box full of tiny square lozenges, and adorned on the cover with the portrait of a homely well- dressed woman, &quot;the dear defunct,&quot; no doubt. As the conversation proceeded, according as he was satisfied or disturbed, M. Lecoq munched one of these lozenges or gave the portrait a glance which was quite a poem in itself.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;To be sure, this was Lecoq in disguise. But the natural man, though seldom seen, was also unlike the regulation French detective. At his very first appearance on Gaboriau's pages he is described thus:&lt;/p&gt;
@@ -1203,7 +1235,11 @@
 &lt;p&gt;Nor is old Father Tabaret, except on close inspection, apparently possessed of detective insight. Here is his picture:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;In a large, heavily curtained bed, covered up almost to the nose, lay the oracle of the Rue de Jerusalem. It was almost impossible to believe that such great intelligence could exist in that figure, the face of which showed nothing but the appearance of the greatest stupidity; a retreating forehead, huge ears, a little snub nose, small eyes, and thick lips, made M. Tabaret look more like a half-witted citizen than the sagacious citizen that he was. It is true that when he was closely examined there was something in him resembling a sleuth-hound, the habits and instincts of which he possessed to such a great extent. In the street the impudent young urchins would shout after him, &quot;Oh! what a guy,&quot; but he laughed at all this, and even took a pleasure in putting on an extra appearance of folly and simplicity.&lt;/p&gt;
+  &lt;p&gt;In a large, heavily curtained bed, covered up almost to the nose, lay the oracle of the Rue de Jerusalem. It was almost impossible to believe that such great intelligence could exist in that figure, the face of which showed nothing but the appearance of the greatest stupidity; a retreating forehead, huge ears, a little snub nose, small eyes, and thick lips, made M. Tabaret look more like a half-witted citizen than the sagacious citizen that he was.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It is true that when he was closely examined there was something in him resembling a sleuth-hound, the habits and instincts of which he possessed to such a great extent. In the street the impudent young urchins would shout after him, &quot;Oh! what a guy,&quot; but he laughed at all this, and even took a pleasure in putting on an extra appearance of folly and simplicity.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Vidocq, though not declared to be uncommon in his appearance, is sufficiently so to give him the necessary prestige. We are told that &quot;he was a strong, well-built man with square shoulders and shambling gait. He had gray hair, a thick nose, blue eyes, a smooth face and a perpetual smile.&quot;&lt;/p&gt;
@@ -1213,7 +1249,7 @@
 &lt;p&gt;Wilkie Collins deliberately draws his picture of the official detective thus:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;For a family in our situation, the Superintendent of the Frizinghall police was the most comforting officer you could wish to see. Mr. Seegrave was tall and portly, and military in his manners. He had a fine, commanding voice, and a mighty resolute eye, and a grand frock coat which buttoned beautifully up to his leather stock. &quot;I'm the man you want,11 was written all over his face; and he ordered his two inferior policemen about with a severity which convinced us all that there was no trifling with him.&lt;/p&gt;
+  &lt;p&gt;For a family in our situation, the Superintendent of the Frizinghall police was the most comforting officer you could wish to see. Mr. Seegrave was tall and portly, and military in his manners. He had a fine, commanding voice, and a mighty resolute eye, and a grand frock coat which buttoned beautifully up to his leather stock. &quot;I'm the man you want,&quot; was written all over his face; and he ordered his two inferior policemen about with a severity which convinced us all that there was no trifling with him.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;And then, in every respect a vivid contrast, he gives us a picture of the engaging Sergeant Cuff, for after all, the beauty of a detective is largely in the eye of the beholder.&lt;/p&gt;
@@ -1231,6 +1267,7 @@
 &lt;/blockquote&gt;
 
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&quot;some-more-modern-portraits&quot;&gt;Some More Modern Portraits&lt;/h2&gt;
 
@@ -1242,15 +1279,13 @@
 
 &lt;p&gt;In almost ludicrous contrast to Holmes is a young detective who never achieved Sherlock's popularity, but whose wonderful instinct for pure reasoning puts him at the head of his own class.&lt;/p&gt;
 
-&lt;p&gt;This is Rouletabille, who figures in &quot;The Mystery of the Yellow Room,&quot; by Gaston Leroux.&lt;/p&gt;
-
-&lt;p&gt;His friend Sainclair, who is his Watsonian chronicler, says:&lt;/p&gt;
+&lt;p&gt;This is Rouletabille, who figures in &quot;The Mystery of the Yellow Room,&quot; by Gaston Leroux. His friend Sainclair, who is his Watsonian chronicler, says:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;I first knew Joseph Rouletabille when he was a young reporter. At that time I was a beginner at the Bar and often met him in the corridors of examining magistrates, when I had gone to get a &quot;permit to communicate&quot; for the prison of Mazas, or for Saint-Lazare. He had, as they say, &quot;a good nut.&quot; He seemed to have taken his head—round as a bullet—out of a box of marbles, and it is from that, I think, that his comrades of the press—all determined billiard-players—had given him that nickname, which was to stick to him and be made illustrious by him. He was always as red as a tomato, now gay as a lark, now grave as a judge. How, while still so young—he was only sixteen and a half years old when I saw him for the first time—had he already won his way on the press? That was what everybody who came into contact with him might have asked, if they had not known his history.&lt;/p&gt;
+  &lt;p&gt;I first knew Joseph Rouletabille when he was a young reporter. At that time I was a beginner at the Bar and often met him in the corridors of examining magistrates, when I had gone to get a &quot;permit to communicate&quot; for the prison of Mazas, or for Saint-Lazare. He had, as they say, &quot;a good nut.&quot; He seemed to have taken his head — round as a bullet — out of a box of marbles, and it is from that, I think, that his comrades of the press — all determined billiard-players — had given him that nickname, which was to stick to him and be made illustrious by him. He was always as red as a tomato, now gay as a lark, now grave as a judge. How, while still so young — he was only sixteen and a half years old when I saw him for the first time — had he already won his way on the press? That was what everybody who came into contact with him might have asked, if they had not known his history.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Practically, however, Rouletabille was not nominally the great detective of the book—that honor was given to Frederick Larsan—who seemed to show a few of Sherlock Holmes' physical characteristics. This is Larsan:&lt;/p&gt;
+&lt;p&gt;Practically, however, Rouletabille was not nominally the great detective of the book — that honor was given to Frederick Larsan — who seemed to show a few of Sherlock Holmes' physical characteristics. This is Larsan:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;He might be about fifty years of age. He had a fine head, his hair turning grey; a colourless complexion, and a firm profile. His forehead was prominent, his chin and cheeks clean shaven. His upper lip, without moustache, was finely chiselled. His eyes were rather small and round, with a look in them that was at once searching and disquieting. He was of middle height and well built, with a general bearing elegant and gentlemanly. There was nothing about him of the vulgar policeman. In his way, he was an artist, and one felt that he had a high opinion of himself. The sceptical tone of his conversation was that of a man who had been taught by experience.&lt;/p&gt;
@@ -1260,22 +1295,20 @@
   &lt;p&gt;His strange profession had brought him into contact with so many crimes and villainies that it would have been remarkable if his nature had not been a little hardened.&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;An interesting-looking detective is &quot;The Thinking Machine&quot; of Jacques Futrelle. His description is written with Mr. Futrelle's individual touch, and Professor Van Dusen possesses the squint which Mr. Train regards as a detective's birthright:&lt;/p&gt;
+
 &lt;blockquote&gt;
-  &lt;p&gt;An interesting-looking detective is &quot;The Thinking Machine&quot; of Jacques Futrelle. His description is written with Mr. Futrelle's individual touch, and Professor Van Dusen possesses the squint which Mr. Train regards as a detective's birthright:&lt;/p&gt;
+  &lt;p&gt;Practically all those letters remaining in the alphabet after Augustus S.F.X. Van Dusen was named, were afterward acquired by that gentleman in the course of a brilliant scientific career, and, being honorably acquired, were tacked on to the other end. His name, therefore, taken with all that belonged to it, was a wonderfully imposing structure. He was a Ph.D., an LL.D., an F.R.S. an M.D., and an M.D.S. He was also some other things — just what, he himself couldn't say — through recognition of his ability by various foreign educational and scientific institutions.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Practically all those letters remaining in the alphabet after Augustus S.F.X. Van Dusen was named, were afterward acquired by that gentleman in the course of a brilliant scientific career, and, being honorably acquired, were tacked on to the other end. His name, therefore, taken with all that belonged to it, was a wonderfully imposing structure. He was a Ph.D., an LL.D., an F.R.S. an M.D., and an M.D.S. He was also some other things—just what, he himself couldn't say—through recognition of his ability by various foreign educational and scientific institutions.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In appearance he was no less striking than in nomenclature. He was slender, with the droop of the student in his thin shoulders and the pallor of a close, sedentary life on his clean-shaven face. His eyes wore a perpetual, forbidding squint—the squint of a man who studies little things—and when they could be seen at all through his thick spectacles, were mere slits of watery blue. But above his eyes was his most striking feature. This was a tall, broad brow, almost abnormal in height and width, crowned by a heavy shock of bushy, yellow hair. All these things conspired to give him a peculiar, almost grotesque personality.&lt;/p&gt;
+  &lt;p&gt;In appearance he was no less striking than in nomenclature. He was slender, with the droop of the student in his thin shoulders and the pallor of a close, sedentary life on his clean-shaven face. His eyes wore a perpetual, forbidding squint — the squint of a man who studies little things — and when they could be seen at all through his thick spectacles, were mere slits of watery blue. But above his eyes was his most striking feature. This was a tall, broad brow, almost abnormal in height and width, crowned by a heavy shock of bushy, yellow hair. All these things conspired to give him a peculiar, almost grotesque personality.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Anna Katharine Green is one of the very best constructors of a detective story. The first introduction of her Mr. Gryce begins:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;And here let me say that Mr. Gryce, the detective, was not the thin, wiry individual with the piercing eye you are doubtless expecting to see. On the contrary, Mr. Gryce was a portly, comfortable personage with an eye that never pierced, that did not even rest on you. If it rested anywhere, it was always on some insignificant object in the vicinity, some vase, inkstand, book, or button. These things he would seem to take into his confidence, make the repositories of his conclusions; but as for you—you might as well be the steeple on Trinity Church, for all connection you ever appeared to have with him or his thoughts. At present, then, Mr. Gryce was, as I have already suggested, on intimate terms with the doorknob.&lt;/p&gt;
+  &lt;p&gt;And here let me say that Mr. Gryce, the detective, was not the thin, wiry individual with the piercing eye you are doubtless expecting to see. On the contrary, Mr. Gryce was a portly, comfortable personage with an eye that never pierced, that did not even rest on you. If it rested anywhere, it was always on some insignificant object in the vicinity, some vase, inkstand, book, or button. These things he would seem to take into his confidence, make the repositories of his conclusions; but as for you — you might as well be the steeple on Trinity Church, for all connection you ever appeared to have with him or his thoughts. At present, then, Mr. Gryce was, as I have already suggested, on intimate terms with the doorknob.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;And in a later book she again insists upon this unlikeness to what may be expected:&lt;/p&gt;
@@ -1291,7 +1324,7 @@
 &lt;p&gt;Grodman, in &quot;Big Bow Mystery,&quot; is briefly described by Mr. Zangwill:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;After an age seven minutes by any honest clock—Grodman made his appearance, looking as dressed as usual, but with unkempt hair and with disconsolate side- whisker yet, for it had only recently come within the margin of cultivation. In active service Grodman had been clean-shaven, like all members of the profession—for surely your detective is the most versatile of actors.&lt;/p&gt;
+  &lt;p&gt;After an age seven minutes by any honest clock — Grodman made his appearance, looking as dressed as usual, but with unkempt hair and with disconsolate side-whisker yet, for it had only recently come within the margin of cultivation. In active service Grodman had been clean-shaven, like all members of the profession — for surely your detective is the most versatile of actors.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;And this is the picture of Wimp the official detective in the same book.&lt;/p&gt;
@@ -1303,7 +1336,7 @@
 &lt;p&gt;The reference to Wimp's wife is thus explained:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;In a moment the first floor window was raised—the little house was of the same pattern as her own—and Grodman's full, fleshy face loomed through the fog in sleepy irritation from under a nightcap. Despite its scowl the detective's face dawned upon her like the sun upon an occupant of the haunted chamber.&lt;/p&gt;
+  &lt;p&gt;In a moment the first floor window was raised — the little house was of the same pattern as her own — and Grodman's full, fleshy face loomed through the fog in sleepy irritation from under a nightcap. Despite its scowl the detective's face dawned upon her like the sun upon an occupant of the haunted chamber.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
@@ -1315,17 +1348,18 @@
 &lt;/blockquote&gt;
 
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&quot;some-less-known-portraits&quot;&gt;Some Less Known Portraits&lt;/h2&gt;
 
 &lt;p&gt;Gordon Holmes inclines to Wilkie Collins' plan of contrasting the appearance of the real detective and the fictional at once. In &quot;A Mysterious Disappearance&quot; he presents these opposite physical effects:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Inspector White, of Scotland Yard, was announced, and a short, thick-set man entered. He was absolutely round in every part. His sturdy, rotund frame was supported on stout, well-moulded legs. His bullet head, with close- cropped hair, gave a suggestion of strength to his rounded face, and a pair of small bright eyes looked suspiciously on the world from beneath well-arched eyebrows. Two personalities more dissimilar than those of Claude Bruce and Inspector White could hardly be brought together in the same room. People who are fond of tracing resemblances to animals in human beings would liken the one to a gray-hound, the other to a bull-dog.&lt;/p&gt;
+  &lt;p&gt;Inspector White, of Scotland Yard, was announced, and a short, thick-set man entered. He was absolutely round in every part. His sturdy, rotund frame was supported on stout, well-moulded legs. His bullet head, with close-cropped hair, gave a suggestion of strength to his rounded face, and a pair of small bright eyes looked suspiciously on the world from beneath well-arched eyebrows. Two personalities more dissimilar than those of Claude Bruce and Inspector White could hardly be brought together in the same room. People who are fond of tracing resemblances to animals in human beings would liken the one to a gray-hound, the other to a bull-dog.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Yet they were both masters in the art of detecting crime—the barrister subtle, analytic, introspective; the policeman direct, pertinacious, self-confident. Bruce lost all interest in a case when the hidden trail was laid bare.&lt;/p&gt;
+  &lt;p&gt;Yet they were both masters in the art of detecting crime — the barrister subtle, analytic, introspective; the policeman direct, pertinacious, self-confident. Bruce lost all interest in a case when the hidden trail was laid bare.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
@@ -1339,13 +1373,17 @@
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The only fault one could find with him was that he carried everything just a little too far. He was too aggressively well dressed; too painfully clean-shaven; his manner a little too dignified; his voice and features a little too expressive. It came upon me all at once what he must be—an actor. That was it. Everything about him was heightened just enough to carry itself over the footlights. He was in evening dress, wore an overcoat and gloves, and carried a walking stick, as well as an irreproachable silk hat, in his hand.&lt;/p&gt;
+  &lt;p&gt;The only fault one could find with him was that he carried everything just a little too far. He was too aggressively well dressed; too painfully clean-shaven; his manner a little too dignified; his voice and features a little too expressive. It came upon me all at once what he must be — an actor. That was it. Everything about him was heightened just enough to carry itself over the footlights. He was in evening dress, wore an overcoat and gloves, and carried a walking stick, as well as an irreproachable silk hat, in his hand.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;In &quot;The Scales of Justice,&quot; an exceptionally clever surprise story by George L. Knapp, the Hero Detective is not a professional one, but a young newspaper reporter. He is therefore allowed the characteristics of our best newspaper men, but in all probability he inherits his sardonic humor from his predecessor Holmes.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Kern tossed the shears into a drawer, and stood up. He was as tall as the other man, and as straight; and both had that alert look of expectancy, quite unmixed with either wonder or nervousness, which marks our best newspaper men. There the resemblance ended. Jennings was about thirty-five, smooth-shaven, smiling brown of hair and blue of eye; with humorous little wrinkles around the eyes to testify of the many funny things he had seen. Kern was twenty-eight or twenty-nine; and his coal-black hair and bronze-black Vandyke beard made him look more like an Austrian surgeon than an American reporter. His humor was apt to be sardonic; and a certain element of moodiness was seldom absent from his face. &quot;Kern is really a secret sufferer from the artistic temperament,&quot; said the managing editor once, &quot;but so long as he's trying to live it down, I won't give him away.&quot;&lt;/p&gt;
+  &lt;p&gt;Kern tossed the shears into a drawer, and stood up. He was as tall as the other man, and as straight; and both had that alert look of expectancy, quite unmixed with either wonder or nervousness, which marks our best newspaper men. There the resemblance ended. Jennings was about thirty-five, smooth-shaven, smiling brown of hair and blue of eye; with humorous little wrinkles around the eyes to testify of the many funny things he had seen. Kern was twenty-eight or twenty-nine; and his coal-black hair and bronze-black Vandyke beard made him look more like an Austrian surgeon than an American reporter. His humor was apt to be sardonic; and a certain element of moodiness was seldom absent from his face.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&quot;Kern is really a secret sufferer from the artistic temperament,&quot; said the managing editor once, &quot;but so long as he's trying to live it down, I won't give him away.&quot;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&quot;Average Jones,&quot; the creation of Samuel Hopkins Adams, achieves a distinction by being inconspicuous:&lt;/p&gt;
@@ -1360,9 +1398,10 @@
   &lt;p&gt;The appearance of the man was sufficient to tickle the most ultramorose fancy. Polly thought to herself that she had never seen anyone so pale, so thin, with such funny light-coloured hair, brushed very smoothly across the top of a very dubiously bald crown. He looked so timid and nervous as he fidgeted incessantly with a piece of string; his long, lean, and trembling fingers tying and untying it into knots of wonderful and complicated proportions.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Astro, the hero of Gelett Burgess's book of Mystery Stories, is perhaps the farthest possible remove from a conventional detective in appearance. Though not described categorically, we are given various word pictures of him in his &quot;psychic studio.&quot; There he lounges among oriental divans and draperies, wearing a jewelled turban, flowing silken robes, and other characteristic apparel, as he indulges in the enjoyment of his silver-mounted water-pipe or his pet white lizard. He has sufficiently unusual eccentricities to put him in the list of correctly made up fiction detectives, and though blase, he is original and interesting.&lt;/p&gt;
+&lt;p&gt;Astro, the hero of Gelett Burgess's book of Mystery Stories, is perhaps the farthest possible remove from a conventional detective in appearance. Though not described categorically, we are given various word pictures of him in his &quot;psychic studio.&quot; There he lounges among oriental divans and draperies, wearing a jewelled turban, flowing silken robes, and other characteristic apparel, as he indulges in the enjoyment of his silver-mounted water-pipe or his pet white lizard. He has sufficiently unusual eccentricities to put him in the list of correctly made up fiction detectives, and though blasé, he is original and interesting.&lt;/p&gt;
 
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&quot;idiosyncrasies-of-fictional-detectives&quot;&gt;Idiosyncrasies of Fictional Detectives&lt;/h2&gt;
 
@@ -1371,7 +1410,7 @@
 &lt;p&gt;Dupin had the most pronouncedly queer traits of all. Perhaps none of his successors ever achieved anything so freakish as this described below; and which, had he lived to-day, would have given him a claim to the title of &quot;Sun Dodger.&quot;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;It was a freak of fancy in my friend (for what else shall I call it?) to be enamoured of the night for her own sake, and into this bizarrerie, as into all his others, I quietly fell; giving myself up to his wild whims with a perfect abandon. The sable divinity would not herself dwell with us always; but we could counterfeit her presence. At the first dawn of the morning we closed all the messy shutters of our old building; lighted a couple of tapers, which, strongly perfumed, threw out only the ghastliest and feeblest of rays. By the aid of these we then busied our souls in dreams—reading, writing, or conversing, until warned by the clock of the advent of the true darkness. Then we sallied forth into the streets, arm and arm, continuing the topics of the day, or roaming far and wide until a late hour, seeking, amid the wild lights and shadows of the populous city, that infinity of mental excitement which quiet observation can afford.&lt;/p&gt;
+  &lt;p&gt;It was a freak of fancy in my friend (for what else shall I call it?) to be enamoured of the night for her own sake, and into this bizarrerie, as into all his others, I quietly fell; giving myself up to his wild whims with a perfect abandon. The sable divinity would not herself dwell with us always; but we could counterfeit her presence. At the first dawn of the morning we closed all the messy shutters of our old building; lighted a couple of tapers, which, strongly perfumed, threw out only the ghastliest and feeblest of rays. By the aid of these we then busied our souls in dreams — reading, writing, or conversing, until warned by the clock of the advent of the true darkness. Then we sallied forth into the streets, arm and arm, continuing the topics of the day, or roaming far and wide until a late hour, seeking, amid the wild lights and shadows of the populous city, that infinity of mental excitement which quiet observation can afford.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Sherlock Holmes' idiosyncrasies are too well known to need recapitulation. His morphine habit, his musical taste and his sardonic moods are familiar to all. Holmes also had a habit of listening to his clients' recitals with his eyes shut. Though to be sure this was less radical than the proceeding of Dupin who &quot;sat in his accustomed armchair, the embodiment of respectful attention&quot; but he wore green spectacles which allowed him to &quot;sleep not the less soundly, though silently&quot; throughout the long account of the case by the Prefect.&lt;/p&gt;
@@ -1379,7 +1418,7 @@
 &lt;p&gt;Holmes' odd habits are here referred to:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;An anomaly which often struck me in the character of my friend Sherlock Holmes was that, although in his methods of thought he was the neatest and most methodical of mankind, and although also he affected a certain quiet primness of dress, he was none the less in his personal habits one of the most untidy men that ever drove a fellow-lodger to distraction. Not that I am in the least conventional in that respect myself. The rough-and- tumble work in Afghanistan, coming on the top of a natural Bohemianism of disposition, has made me rather more lax than befits a medical man. But with me there is a limit, and when I find a man who keeps his cigars in the coal-scuttle, his tobacco in the toe end of a Persian slipper, and his unanswered correspondence transfixed by a jack-knife into the very centre of his wooden mantelpiece, then I begin to give myself virtuous airs. I have always held, too, that pistol practice should be distinctly an open-air pastime; and when Holmes, in one of his queer humors would sit in an arm-chair with his hair- trigger and a hundred Boxer cartridges, and proceed to adorn the opposite wall with a patriotic V.R. done in bullet-pocks, I felt strongly that neither the atmosphere nor the appearance of our room was improved by it.&lt;/p&gt;
+  &lt;p&gt;An anomaly which often struck me in the character of my friend Sherlock Holmes was that, although in his methods of thought he was the neatest and most methodical of mankind, and although also he affected a certain quiet primness of dress, he was none the less in his personal habits one of the most untidy men that ever drove a fellow-lodger to distraction. Not that I am in the least conventional in that respect myself. The rough-and-tumble work in Afghanistan, coming on the top of a natural Bohemianism of disposition, has made me rather more lax than befits a medical man. But with me there is a limit, and when I find a man who keeps his cigars in the coal-scuttle, his tobacco in the toe end of a Persian slipper, and his unanswered correspondence transfixed by a jack-knife into the very centre of his wooden mantelpiece, then I begin to give myself virtuous airs. I have always held, too, that pistol practice should be distinctly an open-air pastime; and when Holmes, in one of his queer humors would sit in an arm-chair with his hair-trigger and a hundred Boxer cartridges, and proceed to adorn the opposite wall with a patriotic V.R. done in bullet-pocks, I felt strongly that neither the atmosphere nor the appearance of our room was improved by it.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;These are, we must admit, unusual habits, but still Dr. Watson assures us that:&lt;/p&gt;
@@ -1397,7 +1436,7 @@
 &lt;p&gt;Lecoq's eccentricity was his habit of silent communion with a portrait of his wife which he carried with him:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;M. Lecoq had recourse to the portrait on the lozenge- box. His look was more than a glance, it was a confidence. He was evidently saying something to the dear defunct, which he dared not utter aloud.&lt;/p&gt;
+  &lt;p&gt;M. Lecoq had recourse to the portrait on the lozenge-box. His look was more than a glance, it was a confidence. He was evidently saying something to the dear defunct, which he dared not utter aloud.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;This habit is also noted in Mr. Gryce. This delightful old gentleman had a way of addressing himself to any small inanimate object in his neighborhood. It might be an inkstand or a doorknob, but he treated it, to all appearance, as his guide, philosopher and friend. On one occasion he became very chummy with a statue at the foot of a staircase:&lt;/p&gt;
@@ -1411,11 +1450,7 @@
 &lt;p&gt;Sergeant Cuff, however, has a very sane and pleasant fad of his own, but he puts it to its proper use when he employs it to evade impertinent or unwelcome queries. Instead of dashing madly into his &quot;investigations&quot; the celebrated detective goes off on a side track thus:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&quot;Ah, you've got the right exposure here to the south and sou'west,&quot; says the Sergeant, with a wag of his grizzled head, and a streak of pleasure in his melancholy voice. &quot;This is the shape for a rosery—nothing like a circle set in a square. Yes, yes; with walks between all the beds. But they oughtn't to be gravel-walks like these. Grass, Mr. Gardener—grass-walks between your roses; gravel's too hard for them. That's a sweet pretty bed of white roses and blush roses. They always mix well together, don't they? Here's the white musk-rose, Mr.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Betteredge—our old English rose holding up his head along with the best and newest of them. Pretty dear!&quot; says the Sergeant, fondling the musk-rose with his lanky fingers, and speaking to it as if he were speaking to a child.&lt;/p&gt;
+  &lt;p&gt;&quot;Ah, you've got the right exposure here to the south and sou'west,&quot; says the Sergeant, with a wag of his grizzled head, and a streak of pleasure in his melancholy voice. &quot;This is the shape for a rosery — nothing like a circle set in a square. Yes, yes; with walks between all the beds. But they oughtn't to be gravel-walks like these. Grass, Mr. Gardener — grass-walks between your roses; gravel's too hard for them. That's a sweet pretty bed of white roses and blush roses. They always mix well together, don't they? Here's the white musk-rose, Mr. Betteredge — our old English rose holding up his head along with the best and newest of them. Pretty dear!&quot; says the Sergeant, fondling the musk-rose with his lanky fingers, and speaking to it as if he were speaking to a child.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
@@ -1435,16 +1470,23 @@
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&quot;If you will look about you (which most people won't do),&quot; says Sergeant Cuff, &quot;you will see that the nature of a man's tastes is, most times, as opposite as possible to the nature of a man's business. Show me any two things more opposite one from the other than a rose and a thief, and I'll correct my tastes accordingly—if it isn't too late at my time of life. You find the damask-rose a good- ish stock for most of the tender sorts, don't you, Mr. Gardener? Ah! I thought so. Here's a lady coming. Is it Lady Verinder?&quot;&lt;/p&gt;
+  &lt;p&gt;&quot;If you will look about you (which most people won't do),&quot; says Sergeant Cuff, &quot;you will see that the nature of a man's tastes is, most times, as opposite as possible to the nature of a man's business. Show me any two things more opposite one from the other than a rose and a thief, and I'll correct my tastes accordingly — if it isn't too late at my time of life. You find the damask-rose a good-ish stock for most of the tender sorts, don't you, Mr. Gardener? Ah! I thought so. Here's a lady coming. Is it Lady Verinder?&quot;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;The peculiarity of &quot;The Whispering Man,&quot; and what gives him his title, is a curious vocal defect which at times prevents his audible speech.&lt;/p&gt;
 
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&quot;favorite-phrases-of-detectives&quot;&gt;Favorite Phrases of Detectives&lt;/h2&gt;
 
-&lt;p&gt;&quot;The Thinking Machine,&quot; aside from his petulance and impatience, continually repeats two or three favorite phrases that annoy the reader quite as much as the clients annoy this astute detective. One of them is, &quot;Don't say it is impossible! that annoys me exceedingly! Nothing is impossible to the human mind!&quot; This assertion, innocent enough in itself, is so frequently repeated as to become intolerable. Another phrase of which Professor Van Dusen is inordinately fond, is, &quot;Two and two make four, not sometimes, but all the time.&quot; This also is repeated so often as to become tiresome. To quote the Professor:&lt;/p&gt;
+&lt;p&gt;&quot;The Thinking Machine,&quot; aside from his petulance and impatience, continually repeats two or three favorite phrases that annoy the reader quite as much as the clients annoy this astute detective.&lt;/p&gt;
+
+&lt;p&gt;One of them is, &quot;Don't say it is impossible! that annoys me exceedingly! Nothing is impossible to the human mind!&quot; This assertion, innocent enough in itself, is so frequently repeated as to become intolerable.&lt;/p&gt;
+
+&lt;p&gt;Another phrase of which Professor Van Dusen is inordinately fond, is, &quot;Two and two make four, not sometimes, but all the time.&quot; This also is repeated so often as to become tiresome.&lt;/p&gt;
+
+&lt;p&gt;To quote the Professor:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&quot;Two and two make four, not sometimes, but all the time,&quot; he began, at last as if disputing some previous assertion. &quot;As the figure two, wholly disconnected from any other, gives small indication of a result, so is an isolated fact of little consequence. Yet that fact added to another, and the resulting fact added to a third, and so on, will give a final result. That result, if every fact is considered must be correct. Thus any problem may be solved by logic; logic is inevitable.&quot;&lt;/p&gt;
@@ -1455,7 +1497,7 @@
 &lt;p&gt;As a figure of speech, the proposition that two and two make four except in unusual cases, is fair enough. It is paraphrased thus: in &quot;A Mysterious Disappearance:&quot;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&quot;I can't s'y as I know anythink about it, sir, but by puttin' two and two together it makes four sometimes—not always.&quot;&lt;/p&gt;
+  &lt;p&gt;&quot;I can't s'y as I know anythink about it, sir, but by puttin' two and two together it makes four sometimes — not always.&quot;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
@@ -1469,7 +1511,7 @@
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&quot;Trust a woman to add two and two together, and make six&quot; To which I retort that if two and two plus X make six, then to discover the unknown quantity is the simplest thing in the world. That a houseful of detectives missed it entirely was because they were busy trying to prove that two and two make four.&lt;/p&gt;
+  &lt;p&gt;&quot;Trust a woman to add two and two together, and make six.&quot; To which I retort that if two and two plus X make six, then to discover the unknown quantity is the simplest thing in the world. That a houseful of detectives missed it entirely was because they were busy trying to prove that two and two make four.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;The same proposition is quoted as the keynote of a detective's method in &quot;The Holladay Case&quot; where, in praise of the detective, it is remarked, &quot;Your work convinced us that you know how to put two and two together, which is more than can be said for the ordinary mortal.&quot;&lt;/p&gt;
@@ -1484,9 +1526,16 @@
   &lt;p&gt;&quot;In short, I never yet encountered the mere mathematician who could be trusted out of equal roots, or one who did not clandestinely hold it as a point of his faith that X squared plus px was absolutely and unconditionally equal to q. Say to one of these gentlemen, by way of experiment, if you please, that you believe occasions may occur where X squared plus px is not altogether equal to q, and, having made him understand what you mean, get out of his reach as speedily as convenient, for, beyond doubt, he will endeavor to knock you down.&quot;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The aspiring author, then, will do well to omit further references to the adding of two and two as an illuminating point in his story. Eccentricities or freakish habits on the part of his detective are permissible if not harped upon too continuously. But let them be of a pleasant or at least of an unobjectionable nature, and not like a habit attributed to a detective in a series of stories now current, who pulled at the lobe of his ear, until a fastidious reader was fain to close the book in disgust. Let the habits of your hero be whimsical, mysterious, or erratic, if you choose; but let them be agreeable and not too frequently reiterated.&lt;/p&gt;
+&lt;p&gt;The aspiring author, then, will do well to omit further references to the adding of two and two as an illuminating point in his story. Eccentricities or freakish habits on the part of his detective are permissible if not harped upon too continuously.&lt;/p&gt;
+
+&lt;p&gt;But let them be of a pleasant or at least of an unobjectionable nature, and not like a habit attributed to a detective in a series of stories now current, who pulled at the lobe of his ear, until a fastidious reader was fain to close the book in disgust.&lt;/p&gt;
+
+&lt;p&gt;Let the habits of your hero be whimsical, mysterious, or erratic, if you choose; but let them be agreeable and not too frequently reiterated.&lt;/p&gt;
+
+&lt;p id=&quot;theend&quot;&gt;~ The End ~
 
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Aug 2016 00:00:00 -0500</pubDate>
         <link>https://www.talesofmurder.comlocalhost:3000/murderwiki/portraits/</link>
@@ -1834,6 +1883,7 @@
   &lt;li&gt;&lt;a href=&quot;#the-criminal&quot; id=&quot;markdown-toc-the-criminal&quot;&gt;The Criminal&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#faulty-portrayal-of-the-criminal&quot; id=&quot;markdown-toc-faulty-portrayal-of-the-criminal&quot;&gt;Faulty Portrayal of the Criminal&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#the-secondary-detective&quot; id=&quot;markdown-toc-the-secondary-detective&quot;&gt;The Secondary Detective&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-suspects&quot; id=&quot;markdown-toc-the-suspects&quot;&gt;The Suspects&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#the-heroine-and-the-element-of-romance&quot; id=&quot;markdown-toc-the-heroine-and-the-element-of-romance&quot;&gt;The Heroine and the Element of Romance&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#the-police&quot; id=&quot;markdown-toc-the-police&quot;&gt;The Police&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#the-supernumeraries&quot; id=&quot;markdown-toc-the-supernumeraries&quot;&gt;The Supernumeraries&lt;/a&gt;&lt;/li&gt;
@@ -1853,11 +1903,11 @@
 
 &lt;p&gt;Again, a charming young woman may be chosen for this role, but in this case the reader must not be allowed to know and love her before the tragedy.&lt;/p&gt;
 
-&lt;p&gt;The point to be remembered by the author is that the victim must be of the greatest possible importance generally, yet not specifically in the sympathy of the reader. Indeed, the victim, if beautiful or worthy, must be almost or entirely a stranger to the reader. But if the victim be wicked or unattractive, it matters not how great the reader's acquaintance with him. In a word, the reader must be averse to or indifferent to the victim, in order that he-may be satisfied with the conditions of the story.&lt;/p&gt;
+&lt;p&gt;The point to be remembered by the author is that the victim must be of the greatest possible importance generally, yet not specifically in the sympathy of the reader. Indeed, the victim, if beautiful or worthy, must be almost or entirely a stranger to the reader. But if the victim be wicked or unattractive, it matters not how great the reader's acquaintance with him. In a word, the reader must be averse to or indifferent to the victim, in order that he may be satisfied with the conditions of the story.&lt;/p&gt;
 
 &lt;p&gt;Undoubtedly Poe reached the height of perfection in his choice, when he selected a mother and a daughter for the victims of the &quot;Rue Morgue.&quot; What could be more dramatic? And yet as the reader knew nothing and never learned anything of these two people except their names, casually named in a newspaper report, he could not feel a personal grief at their death.&lt;/p&gt;
 
-&lt;p&gt;We accept the deceased gentleman of Doyle's &quot;The Hound of the Baskervilles&quot; or the murdered bride of Green's &quot;The Filigree Ball&quot; or the brutally-assassinated &quot;Widow Lerouge&quot; by Ga- boriau, because they are all strangers to us, and we know they are a necessary part, indeed, the very foundation of the machinery of the story.&lt;/p&gt;
+&lt;p&gt;We accept the deceased gentleman of Doyle's &quot;The Hound of the Baskervilles&quot; or the murdered bride of Green's &quot;The Filigree Ball&quot; or the brutally-assassinated &quot;Widow Lerouge&quot; by Gaboriau, because they are all strangers to us, and we know they are a necessary part, indeed, the very foundation of the machinery of the story.&lt;/p&gt;
 
 &lt;p&gt;So guard against introducing the victim too long before the murder, or allowing him or her to engage too deeply the reader's sympathy or admiration.&lt;/p&gt;
 
@@ -1876,10 +1926,13 @@
 &lt;p&gt;All this is entirely legitimate and advisable. The ideal victim is one in whom we have no personal interest, but whose importance we easily recognize.&lt;/p&gt;
 
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&quot;the-criminal&quot;&gt;The Criminal&lt;/h2&gt;
 
-&lt;p&gt;The next character to be chosen must be our criminal. Here again is one, who, if he is to be convicted, must not be too deeply in the reader's sympathy. And yet he must be a worthwhile character; it is old-fashioned, now, to have the crime committed by the butler or the private secretary. The drawing of the criminal calls for fine shading and strong effects. He must be both intelligent and ingenious, in order to give the Transcendent Detective a foeman worthy of his steel. The reader must have no liking or pity for him. In his perfection he should be what Poe calls, &quot;that monstrum horrendum, an unprincipled man of genius.&quot;&lt;/p&gt;
+&lt;p&gt;The next character to be chosen must be our criminal. Here again is one, who, if he is to be convicted, must not be too deeply in the reader's sympathy. And yet he must be a worthwhile character; it is old-fashioned, now, to have the crime committed by the butler or the private secretary.&lt;/p&gt;
+
+&lt;p&gt;The drawing of the criminal calls for fine shading and strong effects. He must be both intelligent and ingenious, in order to give the Transcendent Detective a foeman worthy of his steel. The reader must have no liking or pity for him. In his perfection he should be what Poe calls, &quot;that monstrum horrendum, an unprincipled man of genius.&quot;&lt;/p&gt;
 
 &lt;p&gt;Moreover, he must be cleverly drawn in order to conceal his identity from the reader until the last. He must appear to be what he is not, and he must not appear to be what he is; and this calls for Machiavelian cunning on the part of both criminal and author. The identity of the criminal, disclosed at the last, must be the greatest surprise of the story.&lt;/p&gt;
 
@@ -1888,40 +1941,54 @@
 &lt;p&gt;In &quot;The Leavenworth Case,&quot; written many years ago, we have one of the earliest and best examples of the private secretary criminal. Here, too, he is before our eyes from the very beginning, yet we suspect everyone else in the book before we think of him.&lt;/p&gt;
 
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&quot;faulty-portrayal-of-the-criminal&quot;&gt;Faulty Portrayal of the Criminal&lt;/h2&gt;
 
-&lt;p&gt;Gaboriau was at fault in this matter in the &quot;Widow Lerouge.&quot; By the time we are half through the book and long before any hint of the true state of affairs is necessary, we are forced to the inevitable conclusion of the guilt of Noel, start ling as that theory seems on its face, simply because Noel is the only possible person who has consistently avoided being the object of suspicion. A still greater mistake is when during the course of a story every character is at some time suspected and then cleared of suspicion, and at the end we learn that the crime is committed by a person of whom we have never heard.&lt;/p&gt;
+&lt;p&gt;Gaboriau was at fault in this matter in the &quot;Widow Lerouge.&quot; By the time we are half through the book and long before any hint of the true state of affairs is necessary, we are forced to the inevitable conclusion of the guilt of Noel, startling as that theory seems on its face, simply because Noel is the only possible person who has consistently avoided being the object of suspicion.&lt;/p&gt;
 
-&lt;p&gt;Conan Doyle employs this hitherto unknown criminal frequently. Usually he is some old man who had known and quarreled with his old friend, the victim, many years before. For instance, in &quot;The Adventure of Black Peter&quot; and in &quot;The Five Orange Pips,&quot; these are the circumstances. But Conan Doyle's motive is the exploitation of the powers of his Transcendent Detective in discovering the unheard-of criminal, and so in his case the end justified the means. But ordinarily, and especially in a book, it is bad workmanship to absent the criminal from the scene until the last.&lt;/p&gt;
+&lt;p&gt;A still greater mistake is when during the course of a story every character is at some time suspected and then cleared of suspicion, and at the end we learn that the crime is committed by a person of whom we have never heard.&lt;/p&gt;
+
+&lt;p&gt;Conan Doyle employs this hitherto unknown criminal frequently. Usually he is some old man who had known and quarreled with his old friend, the victim, many years before. For instance, in &quot;The Adventure of Black Peter&quot; and in &quot;The Five Orange Pips,&quot; these are the circumstances.&lt;/p&gt;
+
+&lt;p&gt;But Conan Doyle's motive is the exploitation of the powers of his Transcendent Detective in discovering the unheard-of criminal, and so in his case the end justified the means. But ordinarily, and especially in a book, it is bad workmanship to absent the criminal from the scene until the last.&lt;/p&gt;
 
 &lt;p&gt;Notwithstanding the criminal of the Rue Morgue murders, it is ill-advised to have a freakish or a superhuman agency. The imitators of Poe's masterpiece have not been successful, though many have impressed members of the Simian tribe into their service as criminals.&lt;/p&gt;
 
 &lt;p&gt;The ideal criminal is a sane, respectable and well-educated man, like Lawyer Orcutt, or Mr. Grodman. Such as these escape the reader's suspicion by seeming to belong among the reputable characters of the story.&lt;/p&gt;
 
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&quot;the-secondary-detective&quot;&gt;The Secondary Detective&lt;/h2&gt;
 
-&lt;p&gt;The Transcendent Detective being of such importance as to require a chapter to himself, we come next to the sub ordinate detective. He is usually a Central Office Man, or a young reporter, or a lawyer with a taste for detective work. He serves as a foil for the higher detective's glories. He makes mistakes for the other to correct. He starts false trails to lead the reader astray and to give the superior detective opportunity to scoff at him and to set him right. This character may not be a detective at all, but simply a &quot;Greek Chorus,&quot; like Dr. Watson, or like Hutchinson Hatch in &quot;The Thinking Machine,&quot; or Walter Jameson in the &quot;Silent Bullet.&quot; But usually this character is a detective who variously hinders or assists, as Sweetwater with Mr. Gryce, or Mr. Barnes with Mr. Mitchel.&lt;/p&gt;
+&lt;p&gt;The Transcendent Detective being of such importance as to require a chapter to himself, we come next to the subordinate detective. He is usually a Central Office Man, or a young reporter, or a lawyer with a taste for detective work.&lt;/p&gt;
+
+&lt;p&gt;He serves as a foil for the higher detective's glories. He makes mistakes for the other to correct. He starts false trails to lead the reader astray and to give the superior detective opportunity to scoff at him and to set him right. This character may not be a detective at all, but simply a &quot;Greek Chorus,&quot; like Dr. Watson, or like Hutchinson Hatch in &quot;The Thinking Machine,&quot; or Walter Jameson in the &quot;Silent Bullet.&quot; But usually this character is a detective who variously hinders or assists, as Sweetwater with Mr. Gryce, or Mr. Barnes with Mr. Mitchel.&lt;/p&gt;
 
 &lt;p&gt;This secondary detective character is, at times and quite effectively, a woman. In &quot;That Affair Next Door&quot; this role is taken by Miss Amelia Butterworth, who is also the teller of the story. In &quot;The Master of Mysteries,&quot; Astro is aided and abetted in his charlatanry by a beautiful young woman called Valeska. In a clever series of stories called &quot;Tales from the Red Ledger,&quot; the Transcendent Detective is helped at times by a mysterious and vaguely-pictured woman known as &quot;The Orchid.&quot;&lt;/p&gt;
 
 &lt;p&gt;But invariably it is a good device to have a major and a minor detective character, that by comparison or contrast their leads and misleads may further the author's ends.&lt;/p&gt;
 
+&lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;the-suspects&quot;&gt;The Suspects&lt;/h2&gt;
+
 &lt;p&gt;The suspects are highly important characters in our Detective Story. They appear one after another, few or many, according to the length of the story. As each suspect is brought forward, the reader must be made to feel certain that this is the criminal. Then a doubt is raised or positive innocence is shown, and the next suspect is brought forward.&lt;/p&gt;
 
-&lt;p&gt;In a tale of simple construction, the suspects will come forward, a, b, c, d. The first three are eventually proved innocent and D is the criminal.&lt;/p&gt;
+&lt;p&gt;In a tale of simple construction, the suspects will come forward, &lt;em&gt;a, b, c, d&lt;/em&gt;. The first three are eventually proved innocent and D is the criminal.&lt;/p&gt;
 
 &lt;p&gt;A more complex plot would have D wrongly accused and proved innocent and show that, after all, C was the criminal. In this case the reader must be made to insist to himself that he knew it was C all the time, even though the case looked pretty black against D. Or, a clever dodge is to suspect the characters in order, and though A was exonerated long ago, prove at the last that he was the real criminal after all.&lt;/p&gt;
 
 &lt;p&gt;It is the variations of these plans that make for interest in a Detective Story, and the characterization of these suspects has much to do with the success of the plot. The breathless fear that the criminal may be the beautiful but headstrong young woman; the ever rising suspicion that the criminal is the handsome, manly hero; the lurking doubt of the nephew who inherits; the distrust of certain old family servants all these serve to keep interest alive and curiosity piqued.&lt;/p&gt;
 
-&lt;p&gt;The principal characteristics, then, of our criminal must be his own importance, his dramatic personality, and his successful concealment until the denouement.&lt;/p&gt;
+&lt;p&gt;The principal characteristics, then, of our criminal must be his own importance, his dramatic personality, and his successful concealment until the dénouement.&lt;/p&gt;
 
-&lt;p&gt;These rules are not inflexible for short-stories, where there is less room for characterization than in books. The criminals in Conan Doyle's stories, like the victims, have little personality, because the fierce light that beats upon Sherlock Holmes leaves most of the other characters in shadow. But in a full- sized novel, where characterization is an important factor of the workmanship, the criminal's make-up is of vital importance.&lt;/p&gt;
+&lt;p&gt;These rules are not inflexible for short-stories, where there is less room for characterization than in books. The criminals in Conan Doyle's stories, like the victims, have little personality, because the fierce light that beats upon Sherlock Holmes leaves most of the other characters in shadow. But in a full-sized novel, where characterization is an important factor of the workmanship, the criminal's make-up is of vital importance.&lt;/p&gt;
 
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&quot;the-heroine-and-the-element-of-romance&quot;&gt;The Heroine and the Element of Romance&lt;/h2&gt;
 
@@ -1929,7 +1996,7 @@
 
 &lt;p&gt;On the other hand, some writers deem it necessary to introduce a charming young woman who has little to do with the story, and who invariably marries the subordinate detective. The truth is, the magazine editors are largely to blame for this use of romance. In their inexorable demand for &quot;a happy ending,&quot; they insist upon those wedding bells at the end of the story, that their joyful peals may drown the sound of the sentence pronounced on the criminal.&lt;/p&gt;
 
-&lt;p&gt;But Poe and Conan Doyle and all their worth-while successors omit the element of romance, except where it is an inherent part of the plot. Otherwise, romance in a Detective Story is wasteful and ridiculous excess. The whole intent of the problem and its solution is to engage the attention of the reader to the very utmost, and if this be successfully done, the reader has no nook or comer of his attention vacant to accommodate this love interest.&lt;/p&gt;
+&lt;p&gt;But Poe and Conan Doyle and all their worth-while successors omit the element of romance, except where it is an inherent part of the plot. Otherwise, romance in a Detective Story is wasteful and ridiculous excess. The whole intent of the problem and its solution is to engage the attention of the reader to the very utmost, and if this be successfully done, the reader has no nook or corner of his attention vacant to accommodate this love interest.&lt;/p&gt;
 
 &lt;p&gt;But if, as in &quot;A Scandal in Bohemia,&quot; the beautiful woman is an integral part of the story, then she may be introducer and expatiated upon at the pleasure of the author.&lt;/p&gt;
 
@@ -1940,7 +2007,7 @@
 &lt;/blockquote&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;He never spoke of the softer passions, save with a gibe and a sneer. They were admirable things for the observer-excellent for drawing the veil from men's motives and actions. But for the trained reasoner to admit such intuitions into his own delicate and finely adjusted temperament was to introduce a distracting factor which might throw a doubt upon all his mental results. Grit in a sensitive instrument, or a crack in one of his own high- power lenses, would not be more disturbing than a strong emotion in a nature such as his. And yet there was but one woman to him and that woman was the late Irene Adler, of dubious and questionable memory.&lt;/p&gt;
+  &lt;p&gt;He never spoke of the softer passions, save with a gibe and a sneer. They were admirable things for the observer-excellent for drawing the veil from men's motives and actions. But for the trained reasoner to admit such intuitions into his own delicate and finely adjusted temperament was to introduce a distracting factor which might throw a doubt upon all his mental results. Grit in a sensitive instrument, or a crack in one of his own high-power lenses, would not be more disturbing than a strong emotion in a nature such as his. And yet there was but one woman to him and that woman was the late Irene Adler, of dubious and questionable memory.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Though expressing it strongly, it is true that extraneous romance in a Detective Story is like grit in a sensitive instrument, or a crack in a high-power lens. But, of course, in a novel or even a novelette the case is altered. Here we require a setting of picturesque complexity. And a love interest, properly managed, and woven into the mystery plot is almost a necessity.&lt;/p&gt;
@@ -1948,18 +2015,27 @@
 &lt;p&gt;But the introduction of the feminine element in a Detective Story is subject to certain and definite rules. A victim she may be, a suspect she may be, but only in rare cases and when exceptionally well done, should she be the criminal. As a suspect, a feminine character gives opportunity for sympathetic thrills, but the experienced reader of detective stories feels fairly sure that an attractive feminine suspect is not the real criminal.&lt;/p&gt;
 
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&quot;the-police&quot;&gt;The Police&lt;/h2&gt;
 
-&lt;p&gt;Members of the police force are inevitable characters in Detective Fiction and have been presented in every possible light from a realistic picture of the actual Inspector to the ignorant and fanciful author's conception of the same. As these strong arms of the law must appear on our pages, let us endeavor to know whereof we speak, and learn a few simple and primitive facts about these people before we endeavor to portray them. It is amusing to read some of the absurd effects given to these clearly defined and easily recognized American citizens. Make them as picturesque as possible; give them dramatic, even humorous personality, but do not endow them with absurd responsibilities or official powers.&lt;/p&gt;
+&lt;p&gt;Members of the police force are inevitable characters in Detective Fiction and have been presented in every possible light from a realistic picture of the actual Inspector to the ignorant and fanciful author's conception of the same. As these strong arms of the law must appear on our pages, let us endeavor to know whereof we speak, and learn a few simple and primitive facts about these people before we endeavor to portray them.&lt;/p&gt;
+
+&lt;p&gt;It is amusing to read some of the absurd effects given to these clearly defined and easily recognized American citizens. Make them as picturesque as possible; give them dramatic, even humorous personality, but do not endow them with absurd responsibilities or official powers.&lt;/p&gt;
 
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+&lt;hr /&gt;
 
 &lt;h2 id=&quot;the-supernumeraries&quot;&gt;The Supernumeraries&lt;/h2&gt;
 
-&lt;p&gt;As to the supernumerary characters, the author must exercise his own taste and judgment, and he has fine scope for both. Of less importance in a short-story, they require merely to be kept in the background; but in a novel, they have their exits and their entrances, and play many, though subordinate parts. Each of these characters must have a positive and definite reason for being, and, if at all prominent, must be an inherent part of the plot. They are not to be scamped or slurred over in workmanship, for they are as important a part of the whole as the setting of a jewel or the binding of a book. They are the pence of a Detective Story, and must be taken care of; though in this case it does not follow that the pounds will take care of themselves.&lt;/p&gt;
+&lt;p&gt;As to the supernumerary characters, the author must exercise his own taste and judgment, and he has fine scope for both. Of less importance in a short-story, they require merely to be kept in the background; but in a novel, they have their exits and their entrances, and play many, though subordinate parts.&lt;/p&gt;
+
+&lt;p&gt;Each of these characters must have a positive and definite reason for being, and, if at all prominent, must be an inherent part of the plot. They are not to be scamped or slurred over in workmanship, for they are as important a part of the whole as the setting of a jewel or the binding of a book. They are the pence of a Detective Story, and must be taken care of; though in this case it does not follow that the pounds will take care of themselves.&lt;/p&gt;
+
+&lt;p id=&quot;theend&quot;&gt;~ The End ~
 
 &lt;h6 class=&quot;btt&quot;&gt;&lt;a href=&quot;#top&quot;&gt;Back to Top&lt;/a&gt;&lt;/h6&gt;
+&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Aug 2016 00:00:00 -0500</pubDate>
         <link>https://www.talesofmurder.comlocalhost:3000/murderwiki/persons-in-the-story/</link>

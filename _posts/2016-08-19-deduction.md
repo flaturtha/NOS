@@ -36,45 +36,88 @@ Centuries later the stories of the Sultan&#39;s sons reappeared almost verbatim 
 
 The three princes, starting out on their journey, encounter a camel-driver who has lost one of his herd.
 
-They have noticed the tracks of such an animal though not seen him and when asked by the driver if they know of his whereabouts, the eldest replies: &quot;Was he not blind?&quot; The second: &quot;Did he not have a tooth out?&quot; The third: &quot;Was he not lame?&quot; The camel-driver assents with delight to the questions and continues on his way rejoicing. Not finding his camel, however he returns and accuses them of bantering with him. &quot;To prove that what we say is so,&quot; said the eldest, &quot;your camel carried butter on one side and honey on the other.&quot; The second: &quot;And a lady rode the camel,&quot; etc. In the same manner they are arrested for theft and sentenced. And in the same manner the camel is refound and an explanation is given: &quot;I judged that the camel was blind because I noticed that on one side of the road all the grass was gnawed down, while the other side was untouched. Therefore, I inferred that he had but one eye, else he would not have left the good to eat the poor grass.&quot; &quot;I found in the road mouthfuls of half-chewed herbage the size of a tooth of just such an animal,&quot; etc.
+They have noticed the tracks of such an animal though not seen him and when asked by the driver if they know of his whereabouts, the eldest replies: &quot;Was he not blind?&quot;
+
+The second: &quot;Did he not have a tooth out?&quot;
+
+The third: &quot;Was he not lame?&quot;
+
+The camel-driver assents with delight to the questions and continues on his way rejoicing. Not finding his camel, however he returns and accuses them of bantering with him.
+
+&quot;To prove that what we say is so,&quot; said the eldest, &quot;your camel carried butter on one side and honey on the other.&quot;
+
+The second: &quot;And a lady rode the camel,&quot; etc.
+
+In the same manner they are arrested for theft and sentenced. And in the same manner the camel is refound and an explanation is given: &quot;I judged that the camel was blind because I noticed that on one side of the road all the grass was gnawed down, while the other side was untouched. Therefore, I inferred that he had but one eye, else he would not have left the good to eat the poor grass.&quot;
+
+&quot;I found in the road mouthfuls of half-chewed herbage the size of a tooth of just such an animal,&quot; etc.
 
 Nearly thirty years later Voltaire practically repeated the story in his &quot;Zadig,&quot; related thus:
 
 >Zadig found by experience that the first month of marriage, as it is written in the book of Zend, is the moon of honey, and that the second is the moon of wormwood.
 
->He was sometime afterward obliged to repudiate Azora, who became too difficult to be pleased; and he then sought for happiness in the study of nature. &quot;No man,11 said he, &quot;can be happier than a philosopher who reads in this great book which God hath placed before our eyes. The truths he discovers are his own, he nourishes and exalts his soul, he lives in peace; he fears nothing from men; a his tender spouse will not come to cut off his nose.&quot;
+>He was sometime afterward obliged to repudiate Azora, who became too difficult to be pleased; and he then sought for happiness in the study of nature. &quot;No man,&quot; said he, &quot;can be happier than a philosopher who reads in this great book which God hath placed before our eyes. The truths he discovers are his own, he nourishes and exalts his soul, he lives in peace; he fears nothing from men; a his tender spouse will not come to cut off his nose.&quot;
 
 >Possessed of these ideas he retired to a country house on the banks of the Euphrates. There he did not employ himself in calculating how many inches of water flow in a second of time under the arches of a bridge, or whether there fell a cube line of rain in the month of the house more than in the month of the Sheep. He never dreamed of making silk of cobwebs, or porcelain of broken bottles; but he chiefly studied the properties of plants and animals and soon acquired a sagacity that made him discover a thousand differences where other men see nothing but uniformity.
 
->One day, as he was walking near a little wood, he saw one of the queen&#39;s eunuchs running toward him, followed by several officers who appeared to be in great perplexity, and who ran to and fro like men distracted, eagerly searching for something they had lost of great value. &quot;Young man,&quot; said the first eunuch, &quot;hast thou seen the queen&#39;s dog?&quot; &quot;It is a female,&quot; replied Zadig. &quot;Thou art in the right,&quot; returned the first eunuch. &quot;It is a very small she spaniel,&quot; added Zadig; &quot;she has lately whelped; she limps on the left forefoot, and has very long ears.&quot; &quot;Thou hast seen her,&quot; said the first eunuch, quite out of breath. &quot;No,&quot; replied Zadig, &quot;I have not seen her, nor did I so much as know that the queen had a dog.&quot;
+>One day, as he was walking near a little wood, he saw one of the queen&#39;s eunuchs running toward him, followed by several officers who appeared to be in great perplexity, and who ran to and fro like men distracted, eagerly searching for something they had lost of great value.
 
->Exactly at the same time, by one of the common freaks of fortune, the finest horse in the king&#39;s stable had escaped from the jockey in the plains of Babylon. The principal huntsman and all the other officers ran after him with as much eagerness and anxiety as the first eunuch had done after the spaniel. The principal huntsman addressed himself to Zadig, and asked him if he had not seen the king&#39;s horse passing by. &quot;He is the fleetest horse in the king&#39;s stable,&quot; replied Zadig; &quot;he is five feet high, with very small hoofs, and a tail three feet and a half in length; the studs on his bit are gold of twenty- three carats, and his shoes are silver of eleven pennyweights.&quot; &quot;What way did he take? Where is he?&quot; demanded the chief huntsman. &quot;I have not seen him,&quot; replied Zadig, &quot;and never heard talk of him before.&quot;
+>&quot;Young man,&quot; said the first eunuch, &quot;hast thou seen the queen&#39;s dog?&quot;
 
->The principal huntsman and the first eunuch never doubted but that Zadig had stolen the king&#39;s horse and the queen&#39;s spaniel. They therefore had him conducted before the assembly of the grand desterham who condemned him to the knout, and to spend the rest of his days in Siberia. Hardly was the sentence passed when the horse and the spaniel were both found. The judges were reduced to the disagreeable necessity of reversing their sentence; but they condemned Zadig to pay four hundred ounces of gold for having said that he had not seen what he had seen. This fine he was obliged to pay; after which he was permitted to plead his cause before the counsel of the grand desterham, when he spoke to the following effect:
+>&quot;It is a female,&quot; replied Zadig.
 
->&quot;Ye stars of justice, abyss of sciences, mirrors of truth, who have the weight of lead, the hardness of iron, the splendor of the diamond, and many properties of gold: Since I am permitted to speak before this august assembly, I swear to you by Oramades that I have never seen the queen&#39;s respectable spaniel, nor the sacred horse of the king of kings. The truth of the matter was as follows: I was walking toward the little wood, where I afterwards met the venerable eunuch, and the most illustrious chief huntsman. I observed on the sand the traces of an animal, and could easily perceive them to be those of a little dog. The light and long furrows impressed on little eminences of sand between the marks of the paws plainly discovered that it was a female, whose dugs were hanging down, and that therefore she must have whelped a few days before. Other traces of a different kind, that always appeared to have gently brushed the surface of the sand near the marks of the forefeet, showed me that she had very long ears; and as I remarked that there was always a slighter impression made on the sand by one foot than the other three, I found that the spaniel of our august queen was a little lame, if I may be allowed the expression.
+>&quot;Thou art in the right,&quot; returned the first eunuch.
 
->&quot;With regard to the horse of the king of kings, you will be pleased to know that, walking in the lanes of this wood, I observed the marks of a horse&#39;s shoes, all at equal distances. This must he a horse, said I to myself, that gallops excellently. The dust on the trees in the road that was but seven feet wide was a little brushed off, at the distance of three feet and a half from the middle of the road. This horse, said I, has a tail three feet and a half long, which being whisked to the right and left, has swept away the dust. I observed under the trees that formed an arbor five feet in height, that the leaves of the branches were newly fallen; from whence I inferred that the horse had touched them, and that he must therefore be five feet high. As to his bit, it must be gold of twenty- three carats, for he had rubbed his bosses against a stone which I knew to be a touchstone, and which I have tried. In a word, from the marks made by his shoes on flints of another kind, I concluded that he was shod with silver eleven deniers fine.&quot;
+>&quot;It is a very small she spaniel,&quot; added Zadig; &quot;she has lately whelped; she limps on the left forefoot, and has very long ears.&quot;
+
+>&quot;Thou hast seen her,&quot; said the first eunuch, quite out of breath.
+
+>&quot;No,&quot; replied Zadig, &quot;I have not seen her, nor did I so much as know that the queen had a dog.&quot;
+
+>Exactly at the same time, by one of the common freaks of fortune, the finest horse in the king&#39;s stable had escaped from the jockey in the plains of Babylon. The principal huntsman and all the other officers ran after him with as much eagerness and anxiety as the first eunuch had done after the spaniel. The principal huntsman addressed himself to Zadig, and asked him if he had not seen the king&#39;s horse passing by.
+
+>&quot;He is the fleetest horse in the king&#39;s stable,&quot; replied Zadig; &quot;he is five feet high, with very small hoofs, and a tail three feet and a half in length; the studs on his bit are gold of twenty-three carats, and his shoes are silver of eleven pennyweights.&quot;
+
+>&quot;What way did he take? Where is he?&quot; demanded the chief huntsman.
+
+>&quot;I have not seen him,&quot; replied Zadig, &quot;and never heard talk of him before.&quot;
+
+>The principal huntsman and the first eunuch never doubted but that Zadig had stolen the king&#39;s horse and the queen&#39;s spaniel. They therefore had him conducted before the assembly of the grand desterham who condemned him to the knout, and to spend the rest of his days in Siberia.
+
+<Hardly was the sentence passed when the horse and the spaniel were both found. The judges were reduced to the disagreeable necessity of reversing their sentence; but they condemned Zadig to pay four hundred ounces of gold for having said that he had not seen what he had seen. This fine he was obliged to pay; after which he was permitted to plead his cause before the counsel of the grand desterham, when he spoke to the following effect:
+
+>&quot;Ye stars of justice, abyss of sciences, mirrors of truth, who have the weight of lead, the hardness of iron, the splendor of the diamond, and many properties of gold: Since I am permitted to speak before this august assembly, I swear to you by Oramades that I have never seen the queen&#39;s respectable spaniel, nor the sacred horse of the king of kings.
+
+>&quot;The truth of the matter was as follows: I was walking toward the little wood, where I afterwards met the venerable eunuch, and the most illustrious chief huntsman. I observed on the sand the traces of an animal, and could easily perceive them to be those of a little dog. The light and long furrows impressed on little eminences of sand between the marks of the paws plainly discovered that it was a female, whose dugs were hanging down, and that therefore she must have whelped a few days before.
+
+>&quot;Other traces of a different kind, that always appeared to have gently brushed the surface of the sand near the marks of the forefeet, showed me that she had very long ears; and as I remarked that there was always a slighter impression made on the sand by one foot than the other three, I found that the spaniel of our august queen was a little lame, if I may be allowed the expression.
+
+>&quot;With regard to the horse of the king of kings, you will be pleased to know that, walking in the lanes of this wood, I observed the marks of a horse&#39;s shoes, all at equal distances. This must he a horse, said I to myself, that gallops excellently. The dust on the trees in the road that was but seven feet wide was a little brushed off, at the distance of three feet and a half from the middle of the road. This horse, said I, has a tail three feet and a half long, which being whisked to the right and left, has swept away the dust.
+
+>&quot;I observed under the trees that formed an arbor five feet in height, that the leaves of the branches were newly fallen; from whence I inferred that the horse had touched them, and that he must therefore be five feet high. As to his bit, it must be gold of twenty-three carats, for he had rubbed his bosses against a stone which I knew to be a touchstone, and which I have tried. In a word, from the marks made by his shoes on flints of another kind, I concluded that he was shod with silver eleven deniers fine.&quot;
 
 This is only a single instance of Zadig&#39;s ratiocination, but Voltaire gives us many others.
 
 Poe&#39;s stories follow precisely this same narrow path, and after him trail Gaboriau, Du Boisgobey, Conan Doyle and the rest of the long procession.
 
-## Deduction Used in Every-day Life
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
-But this adaptation from Oriental lore is no disparagement of Poe&#39;s talent. He was the first to write a coherent and self-contained story whose interest depends solely on the application of human intelligence to the solution of a mystery. Others have done so since; and this peculiar trait of analytic deduction is by no means confined to detectives or to Detective Story writers. The average human being in every-day life, often without being definitely conscious of it, performs absolute ratiocination. It is only the extreme application of this principle, or an unusual demonstration of it in connection with interesting circumstances, that gives interest to a Detective Story.
+## Deduction Used in Everyday Life
+
+But this adaptation from Oriental lore is no disparagement of Poe&#39;s talent. He was the first to write a coherent and self-contained story whose interest depends solely on the application of human intelligence to the solution of a mystery. Others have done so since; and this peculiar trait of analytic deduction is by no means confined to detectives or to Detective Story writers. The average human being in everyday life, often without being definitely conscious of it, performs absolute ratiocination. It is only the extreme application of this principle, or an unusual demonstration of it in connection with interesting circumstances, that gives interest to a Detective Story.
 
 As Professor Matthews says:
 
 >&quot;Huxley has pointed out that the method of Zadig is the method which has made possible the incessant scientific discovery of the last century. It is the method of Wellington at Assaye, assuming that there must be a ford at a certain place on the river because there was a village on each side. It is the method of Grant at Vicksburg, examining the knapsacks of the Confederate soldiers slain in a sortie to see if these contained rations, which would show that the garrison was seeking to break out because the place was untenable.&quot;
 
-Also it was the method of the North American Indian following a trail. It is the method of the housemother in dealing with her servants, her children, and perhaps her husband. In all walks of life it is more or less an available and practiced method, and this is one reason why it is of popular interest in a story, because it mirrors, though with the necessary exaggeration of art, the possibilities of every-day life and the working results of every-day philosophy.
+Also it was the method of the North American Indian following a trail. It is the method of the housemother in dealing with her servants, her children, and perhaps her husband. In all walks of life it is more or less an available and practiced method, and this is one reason why it is of popular interest in a story, because it mirrors, though with the necessary exaggeration of art, the possibilities of everyday life and the working results of every-day philosophy.
 
 For much philosophy goes to the make-up of a Detective Story. And it is to a great extent the truth and worth of this philosophy that determines the value of the story.
 
 In Mr. Chesterton&#39;s opinion:
 
->&quot;The idea that you cannot put good philosophy into certain art-forms is as absurd and mischievous as the idea that you cannot put good workmanship into them. Mr. Shaw, for example, has put his philosophy into the form of ordinary melodrama in &#39;The Devil&#39;s Disciple.&#39; Ibsen has put his into the form of pantomimic extravaganza in &#39;Peer Gynt.1 There is no earthly reason why a man with a specific talent for the work should not put ideas as profound into the form of the detective story. For after all the essence of the detective story is the presence of visible phenomena with a hidden explanation. And that, when one comes to think of it, is the essence of all the philosophies.&quot;
+>&quot;The idea that you cannot put good philosophy into certain art-forms is as absurd and mischievous as the idea that you cannot put good workmanship into them. Mr. Shaw, for example, has put his philosophy into the form of ordinary melodrama in &#39;The Devil&#39;s Disciple.&#39; Ibsen has put his into the form of pantomimic extravaganza in &#39;Peer Gynt.&#39; There is no earthly reason why a man with a specific talent for the work should not put ideas as profound into the form of the detective story. For after all the essence of the detective story is the presence of visible phenomena with a hidden explanation. And that, when one comes to think of it, is the essence of all the philosophies.&quot;
 
 ## The Analytical Element in the Detective Story
 
@@ -92,13 +135,18 @@ A very fine yet clear distinction is made by Poe which is not always carefully o
 
 >&quot;The analytical power should not be confounded with simple ingenuity; for while the analyst is necessarily ingenious, the ingenious man is often remarkably incapable of analysis. The constructive or combining power, by which ingenuity is usually manifested, and to which the phrenologists (I believe erroneously) have assigned a separate organ, supposing it a primitive faculty, has been so frequently seen in those whose intellect bordered otherwise upon idiocy, as to have attracted general observation among writers on morals. Between ingenuity and the analytic ability there exists a difference far greater, indeed, than that between the fancy and the imagination, but of a character very strictly analogous. It will be found, in fact, that the ingenious are always fanciful, and the truly imaginative never otherwise than analytic.&quot;
 
-## Poe&#39;s Detective—The Prototype
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
+## Poe&#39;s Detective &mdash; The Prototype
 
 These principles, more or less clearly understood and adhered to, make up the conventional Fiction Detectives.
 
 Stripped of their distinguishing characteristics, their morphine, knotted string, eccentric habits, or scientific appliances, they all depend for their right to exist, on their application of Poe&#39;s principles.
 
-But notwithstanding that the later authors have followed so closely in the narrow path trodden by Poe, it is by no means sure that had Poe, Gaboriau and Conan Doyle never lived, others might not have been pioneers in this field of fiction, and even those who had never heard of Zadig and who knew no Oriental tales. For the detective instinct is not uncommon, and given its presence in combination with Nature&#39;s gift of a gray goose quill, a resulting Detective Story is inevitable.
+But notwithstanding that the later authors have followed so closely in the narrow path trodden by Poe, it is by no means sure that had Poe, Gaboriau and Conan Doyle never lived, others might not have been pioneers in this field of fiction, and even those who had never heard of Zadig and who knew no Oriental tales.
+
+For the detective instinct is not uncommon, and given its presence in combination with Nature&#39;s gift of a gray goose quill, a resulting Detective Story is inevitable.
 
 It is Poe&#39;s assertion that analytic reasoning is oftenest the identification of the reasoner&#39;s intellect with that of his opponent, and he illustrates it thus, in &quot;The Purloined Letter.&quot;
 
@@ -108,7 +156,7 @@ It is Poe&#39;s assertion that analytic reasoning is oftenest the identification
 
 >Our schoolboy replies, &#39;odd,&#39; and loses; but upon the second trial he wins, for he then says to himself, &#39;the simpleton had them even upon the first trial, and his amount of cunning is just sufficient to make him have them odd upon the second; I will therefore guess odd;&#39;—he guesses odd, and wins. Now, with a simpleton a degree above the first, he would have reasoned thus:
 
->&#39;This fellow finds that in the first instance I guessed odd, and, in the second, he will propose to himself, upon the first impulse, a simple variation from even to odd, as did the first simpleton; but then a second thought will suggest that this is too simple a variation, and finally he will decide upon putting it even as before. I will therefore guess even;—he guesses even, and wins. Now this mode of reasoning in the schoolboy, whom his fellows termed &#39;lucky,1—what in its last analysis, is it?&quot;
+>&#39;This fellow finds that in the first instance I guessed odd, and, in the second, he will propose to himself, upon the first impulse, a simple variation from even to odd, as did the first simpleton; but then a second thought will suggest that this is too simple a variation, and finally he will decide upon putting it even as before. I will therefore guess even; he guesses even, and wins. Now this mode of reasoning in the schoolboy, whom his fellows termed &#39;lucky,&#39; &mdash; what in its last analysis, is it?&quot;
 
 >&quot;It is merely,&quot; I said, &quot;an identification of the reasoner&#39;s intellect with that of his opponent.&quot;
 
@@ -120,13 +168,16 @@ It is Poe&#39;s assertion that analytic reasoning is oftenest the identification
 
 This embodies much of the seemingly magical wisdom of the fiction detective.
 
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
 ## The Detective in the Novel
 
-Some thirty years after Poe&#39;s Dupin, Gaboriau invented his Lecoq. As Gaboriau&#39;s stories are all novels, while Poe&#39;s are short-stories or novelettes, there is, of course, more setting, with more characters and more complex plot, in the French stories. But as a personality Gaboriau&#39;s detective stands out quite as clearly as Poe&#39;s.
+Some thirty years after Poe&#39;s Dupin, Gaboriau invented his Lecoq. As Gaboriau&#39;s stories are all novels, while Poe&#39;s are short-stories or novelettes, there is, of course, more setting, with more characters and more complex plot in the French stories. But as a personality Gaboriau&#39;s detective stands out quite as clearly as Poe&#39;s.
 
 An able critic thus compares Lecoq and Sherlock Holmes. He says:
 
->&quot;The fact is that Sherlock Holmes was too perfect a detective for the stories of which he is the hero to be perfect detective stories. The conception of the ideal reasoner, the man in whom the powers of observation and deduction had become so acute that he saw instantly the remote causes and the remote consequences of every fact, was a fine one. Poe had conceived it before, but Sir Arthur amplified and popularized it. In one of his conversations with Watson, Holmes is, I remember, very severe on Lecoq, whom he pronounces &#39;a bungler. Certainly Lecoq had no presence to the faultless insight of his critic.
+>&quot;The fact is that Sherlock Holmes was too perfect a detective for the stories of which he is the hero to be perfect detective stories. The conception of the ideal reasoner, the man in whom the powers of observation and deduction had become so acute that he saw instantly the remote causes and the remote consequences of every fact, was a fine one. Poe had conceived it before, but Sir Arthur amplified and popularized it. In one of his conversations with Watson, Holmes is, I remember, very severe on Lecoq, whom he pronounces &#39;a bungler.&#39; Certainly Lecoq had no presence to the faultless insight of his critic.
 
 >He was a clever and energetic detective, but no miracle worker. He made mistakes, he followed false scents, he led the reader astray. And so he made the story. In a word, Lecoq was a bungler because Gaboriau was an expert.&quot;
 
@@ -134,13 +185,15 @@ But is there not another and a better explanation why Holmes was forced to jump 
 
 But Lecoq&#39;s bungles are as interesting as his successful work. When need arises for the expanding of the story, Lecoq converses thus:
 
->&quot;But here I hesitate. I thought myself sure of the character of these murderers; but now        11 He paused; and his contracted features clearly showed that he was engaged in a mental effort.
+>&quot;But here I hesitate. I thought myself sure of the character of these murderers; but now &mdash; &quot; He paused; and his contracted features clearly showed that he was engaged in a mental effort.
 
 >&quot;But now?&quot; asked M. Plantat.
 
->M. Lecoq seemed to wake up. &quot;I beg your pardon/1 said he. &quot;I forget myself. I&#39;ve a bad habit of reflecting aloud. That&#39;s why I almost always insist on working alone. My uncertainty and hesitation, the waywardness of my suspicions, compromise my reputation as an astute detective, for whom there&#39;s no such thing as a mystery.&quot;
+>M. Lecoq seemed to wake up. &quot;I beg your pardon,&quot; said he. &quot;I forget myself. I&#39;ve a bad habit of reflecting aloud. That&#39;s why I almost always insist on working alone. My uncertainty and hesitation, the waywardness of my suspicions, compromise my reputation as an astute detective, for whom there&#39;s no such thing as a mystery.&quot;
 
->Worthy M. Plantat smiled indulgently. &quot;I don&#39;t usually open my mouth,&quot; continued M. Lecoq, &quot;until my mind is satisfied; then I speak in a peremptory tone, and say this is so or so. today, however, I am working openly with a man who realizes that such a problem as this cannot be solved at the first attempt. This is why I allow you to see how I grope along. One can&#39;t always reach the truth at a bound; to realize it at times various calculations and deductions are necessary. Well, just now my logic is at fault.&quot;
+>Worthy M. Plantat smiled indulgently.
+
+>&quot;I don&#39;t usually open my mouth,&quot; continued M. Lecoq, &quot;until my mind is satisfied; then I speak in a peremptory tone, and say this is so or so. Today, however, I am working openly with a man who realizes that such a problem as this cannot be solved at the first attempt. This is why I allow you to see how I grope along. One can&#39;t always reach the truth at a bound; to realize it at times various calculations and deductions are necessary. Well, just now my logic is at fault.&quot;
 
 And again in &quot;File No. 113,&quot; Lecoq says:
 
@@ -158,17 +211,20 @@ Reversing the more usual plan of having an amateur detective as a foil for the h
 
 Instead of Sherlock Holmes&#39; assumption of superiority over his secondary character, we have Father Tabaret laying down the law to the humble hero detective. It is thus the picturesque old Frenchman admonishes Lecoq:
 
->&quot;Wait a little,&quot; said he, &quot;before you disdain my praises. I said you had conducted the affair well, but you might have done it infinitely better. You have great gifts, I avow, you have the true detective&#39;s instincts, and a keen glance, you know how to sift the known from the unknown; only you are lacking in experience, and are too full of enthusiasm, and are apt to grow discouraged at a slight check. You hover round a fixed idea like a moth flutters; round the flame of a candle; but you are young, and will get over this; however, as I said before, you have made some successes.&quot;
+>&quot;Wait a little,&quot; said he, &quot;before you disdain my praises. I said you had conducted the affair well, but you might have done it infinitely better. You have great gifts, I avow, you have the true detective&#39;s instincts, and a keen glance, you know how to sift the known from the unknown; only you are lacking in experience, and are too full of enthusiasm, and are apt to grow discouraged at a slight check. You hover round a fixed idea like a moth flutters round the flame of a candle; but you are young, and will get over this; however, as I said before, you have made some successes.&quot;
 
 >Lecoq bent his head like a pupil receiving a reproof from his professor. Was not this old man the master, and he a mere scholar?
 
 >&quot;I will point out all your faults to you,&quot; continued the old man, &quot;and will show you how on three occasions, at least, you permitted a good chance to slip through your fingers, and so failed to clear up an affair which to outward appearances was so deeply bathed in obscurity, but which in reality was as transparent as crystal.&quot;
 
->&quot;And yet, sir        &quot;
+>&quot;And yet, sir &mdash; &quot;
 
 >&quot;Hush, hush, my boy, permit me to speak. On what principle did you start at the first going off? On this one—to mistrust all appearances, and to believe precisely the contrary to what appeared to be the truth or even the probability.&quot;
 
 >&quot;Yes, that is just what I said to myself.&quot;
 
 >&quot;And you did right in saying so. Taking this idea as lantern to light you on your way, you ought to have gone straight to the truth. But as I said before, you are young, and the first likely circumstances that you met with, made you entirely neglect your rule of action.&quot;
+
+<p id="theend">~ The End ~
+
 <h6 class="btt"><a href="#top">Back to Top</a></h6>

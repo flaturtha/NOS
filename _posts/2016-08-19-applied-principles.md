@@ -28,15 +28,17 @@ wordcount: 4417
 
 ## The Detectives of Poe, Doyle, and Gaboriau
 
-Conan Doyle&#39;s Detective Stories, being short-stories, more closely resemble Poe&#39;s tales than Gaboriau&#39;s novels do. Perhaps this is due more to a certain analogy of structure than to the actual working mentality of the detective. Dupin and his historian have rooms together, just as Holmes and Watson do. In each case the curiosity of the historian is first aroused by noticing the unconventional habits and studies of his companion. Dupin has his detractors among the official police, just as Holmes has his Greyson and his Lestrade, and Lecoq his Gevrol.
+Conan Doyle&#39;s Detective Stories, being short-stories, more closely resemble Poe&#39;s tales than Gaboriau&#39;s novels do. Perhaps this is due more to a certain analogy of structure than to the actual working mentality of the detective.
+
+Dupin and his historian have rooms together, just as Holmes and Watson do. In each case the curiosity of the historian is first aroused by noticing the unconventional habits and studies of his companion. Dupin has his detractors among the official police, just as Holmes has his Greyson and his Lestrade, and Lecoq his Gevrol.
 
 Perhaps the fatuous Watson chronicles his friend&#39;s exploits with even franker admiration than the nameless companion of Dupin, but they are equally earnest in their graphic and detailed recitals. It is to be regretted that so definite a character as Dupin&#39;s historian had no name for his better identification, that like Doctor Watson he might have &quot;passed into the language.&quot;
 
 Professor Brander Matthews gives this interesting dissertation upon the Teller of Poe&#39;s tales:
 
->&quot;Upon the preternaturally acute observer who was to control the machinery of the tale, the American poet be stowed a companion of only an average alertness and keen ness; and to this commonplace companion the romance: confided the telling of the story. By this seemingly simple device Poe doubled the effectiveness of his work, because this unobservant and unimaginative narrator of the unraveling of a tangled skein by an observant and imaginative analyst naturally recorded his own admiration and astonishment as the wonder was wrought before his eyes, so that the admiration and astonishment were transmitted directly and suggestively, to the readers of the narrative.
+>&quot;Upon the preternaturally acute observer who was to control the machinery of the tale, the American poet bestowed a companion of only an average alertness and keenness; and to this commonplace companion the romance: confided the telling of the story. By this seemingly simple device Poe doubled the effectiveness of his work, because this unobservant and unimaginative narrator of the unraveling of a tangled skein by an observant and imaginative analyst naturally recorded his own admiration and astonishment as the wonder was wrought before his eyes, so that the admiration and astonishment were transmitted directly and suggestively, to the readers of the narrative.
 
->&quot;In the &#39;Gold-Bug&#39; the wonder-worker is Legrand, and in both the &#39;Murders in the Rue Morgue&#39; and the &#39;Purloined Letter1 he is M. Dupin; and in all three tales the telling of the story is entrusted to an anonymous narrator, serving not only as a sort of Greek chorus to hint to the spectators the emotions they ought to feel, but also as the describer of the personality and peculiarities of Legrand and Dupin, who are thus individualized, humanized, and related to the real world. If they had not been accepted by the narrator as actual beings of flesh and blood, they might otherwise retain the thinness and the dryness of disembodied intelligences working in a vacuum.
+>&quot;In the &#39;Gold-Bug&#39; the wonder-worker is Legrand, and in both the &#39;Murders in the Rue Morgue&#39; and the &#39;Purloined Letter&#39; he is M. Dupin; and in all three tales the telling of the story is entrusted to an anonymous narrator, serving not only as a sort of Greek chorus to hint to the spectators the emotions they ought to feel, but also as the describer of the personality and peculiarities of Legrand and Dupin, who are thus individualized, humanized, and related to the real world. If they had not been accepted by the narrator as actual beings of flesh and blood, they might otherwise retain the thinness and the dryness of disembodied intelligences working in a vacuum.
 
 >&quot;This device of the transmitting narrator is indisputably valuable; and, properly enough, it reappears in the one series of detective tales which may be thought by some to rival Poe&#39;s. The alluring record of the investigations of Mr. Sherlock Holmes is the work of a certain Dr. Watson, a human being but little more clearly characterized than the anonymous narrators who have preserved for us the memory of Legrand and Dupin. But Poe here again exhibited a more artistic reserve than any of his imitators, in so far as he refrained from the undue laudation of the strange intellectual feats which are the central interest of these three tales.
 
@@ -44,7 +46,9 @@ Professor Brander Matthews gives this interesting dissertation upon the Teller o
 
 Watson is doubtless fulsome, but like begets like, and the Reading Public, quick to take the cue, are also fulsome in praise of Sherlock Holmes.
 
-According to Mr. Arthur Bartlett Maurice, Sherlock Holmes possesses the attributes of both Poe&#39;s and Gaboriau&#39;s heroes. Mr. Maurice asserts that, &quot;If in one line we can trace the ancestry of Sherlock Holmes to Edgar Allan Poe&#39;s Dupin, in another we can work back to Gaboriau, not, however, to the great Lecoq, but to old Tabaret, better known to the official police who are introduced into the tales as Pere Tirauclair. From Dupin, Holmes derived his intellectual acumen, his faculty of mentally placing himself in the position of another, and thereby divining the other&#39;s motives and plans, his raising of the observation of minute outward details to the dignity of an exact science. Pere Tirauclair inspired him to that wide knowledge of criminal and contemporary history which enabled him to throw a light on the most puzzling problem and to find some analogy to the most outre case. With Lecoq, Holmes has absolutely nothing in common.&quot;
+According to Mr. Arthur Bartlett Maurice, Sherlock Holmes possesses the attributes of both Poe&#39;s and Gaboriau&#39;s heroes. Mr. Maurice asserts that, &quot;If in one line we can trace the ancestry of Sherlock Holmes to Edgar Allan Poe&#39;s Dupin, in another we can work back to Gaboriau, not, however, to the great Lecoq, but to old Tabaret, better known to the official police who are introduced into the tales as Père Tirauclair.
+
+From Dupin, Holmes derived his intellectual acumen, his faculty of mentally placing himself in the position of another, and thereby divining the other&#39;s motives and plans, his raising of the observation of minute outward details to the dignity of an exact science. Père Tirauclair inspired him to that wide knowledge of criminal and contemporary history which enabled him to throw a light on the most puzzling problem and to find some analogy to the most outre case. With Lecoq, Holmes has absolutely nothing in common.&quot;
 
 We object to this last clause. If nothing more, Sherlock Holmes certainly has methods of procedure in common with Gaboriau&#39;s detectives. Tirauclair, Lecoq&#39;s master and teacher, conducts his investigations after this manner:
 
@@ -52,7 +56,9 @@ We object to this last clause. If nothing more, Sherlock Holmes certainly has me
 
 >His figure became erect, and his step was almost elastic, as he darted into the inner chamber. He remained there about half an hour; then came out running, then reentered and then again came out; once more he reappeared and disappeared again almost immediately.
 
->The magistrate could not help comparing him to a pointer on the scent, his turned up nose even moved about as if to discover some subtle odor left by the assassin. All the while he talked loudly and with much gesticulation, apostrophizing himself, scolding himself, uttering little cries of triumph or self-encouragement. He did not allow Lecoq to have a moment&#39;s rest. He wanted this or that or the other thing. He demanded paper and a pencil. Then he wanted a spade; and finally he cried out for plaster of Paris, some water and a bottle of oil. When more than an hour had elapsed, the investigating magistrate began to grow impatient, and asked what had become of the amateur detective. &quot;He is on the road,&quot; replied the corporal, &quot;lying flat in the mud, and mixing some plaster in a plate. He says he has nearly finished, and that he is coming back presently.&quot;
+>The magistrate could not help comparing him to a pointer on the scent, his turned up nose even moved about as if to discover some subtle odor left by the assassin. All the while he talked loudly and with much gesticulation, apostrophizing himself, scolding himself, uttering little cries of triumph or self-encouragement. He did not allow Lecoq to have a moment&#39;s rest. He wanted this or that or the other thing. He demanded paper and a pencil. Then he wanted a spade; and finally he cried out for plaster of Paris, some water and a bottle of oil. When more than an hour had elapsed, the investigating magistrate began to grow impatient, and asked what had become of the amateur detective.
+
+>&quot;He is on the road,&quot; replied the corporal, &quot;lying flat in the mud, and mixing some plaster in a plate. He says he has nearly finished, and that he is coming back presently.&quot;
 
 Sherlock Holmes when setting forth on a similar investigation conducts himself not dissimilarly. We quote from &quot;A Study in Scarlet:&quot;
 
@@ -62,23 +68,24 @@ Sherlock Holmes when setting forth on a similar investigation conducts himself n
 
 The result by Gaboriau&#39;s man is announced in these words:
 
->&quot;The assassin then gained admission without difficulty.
-
->He is a young man, a little above the middle height, elegantly dressed. He wore on that evening a high hat. He carried an umbrella, and smoked a trabucos cigar in a holder.&quot;
+>&quot;The assassin then gained admission without difficulty. He is a young man, a little above the middle height, elegantly dressed. He wore on that evening a high hat. He carried an umbrella, and smoked a trabucos cigar in a holder.&quot;
 
 While Sherlock Holmes triumphantly asserts:
 
->&quot;There has been murder done, and the murderer was a man. He was more than six feet high, was in the prime of life, had small feet for his height, wore coarse, square- toed boots, and smoked a Trichinopoly cigar. He came here with his victim in a four-wheeled cab, which was drawn by a horse with three old shoes and one new one on his off fore-leg. In all probability the murderer had a florid face, and the finger-nails of his right hand were remarkably long.&quot;
+>&quot;There has been murder done, and the murderer was a man. He was more than six feet high, was in the prime of life, had small feet for his height, wore coarse, square-toed boots, and smoked a Trichinopoly cigar. He came here with his victim in a four-wheeled cab, which was drawn by a horse with three old shoes and one new one on his off fore-leg. In all probability the murderer had a florid face, and the finger-nails of his right hand were remarkably long.&quot;
 
 In &quot;The Widow Lerouge,&quot; from which the above Gaboriau extracts are quoted, the discomfited Inspector, Gevrol, exclaims, &quot;Ridiculous! this is too much!&quot;
 
 While in the other case, Lestrade and Gregson content themselves with glancing at each other with an incredulous smile.
 
-Mr. Maurice further observes: &quot;The deductions of Dupin and of Sherlock Holmes we are ready to accept, because we feel that it is romance, and in romance we care to refute only what seriously jars our sense of what is logical; we take those of Le- coq, because they convince beyond all question, because when one has been forced upon us, we are ready defiantly to maintain that no other is possible.&quot;
+Mr. Maurice further observes: &quot;The deductions of Dupin and of Sherlock Holmes we are ready to accept, because we feel that it is romance, and in romance we care to refute only what seriously jars our sense of what is logical; we take those of Lecoq, because they convince beyond all question, because when one has been forced upon us, we are ready defiantly to maintain that no other is possible.&quot;
 
 However, Dupin himself refers to his own work thus:
 
->&quot;I said &#39;legitimate deductions;1 but my meaning is not thus fully expressed. I designed to imply that the deductions are the sole proper ones, and that the suspicion arises inevitably from them as the single result.&quot;
+>&quot;I said &#39;legitimate deductions;&#39; but my meaning is not thus fully expressed. I designed to imply that the deductions are the sole proper ones, and that the suspicion arises inevitably from them as the single result.&quot;
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
 ## Individuality of these Detectives
 
@@ -122,6 +129,9 @@ In &quot;The Moonstone&quot; the superiority of Sergeant Cuff to the Police offi
 
 Mr. Edmund Clarence Stedman tells us that, &quot;Poe could teach Continental writers very little in the art of perfecting their own romance. His analytic tales made a great impression. Their ratiocination, applied to the solution of criminal mysteries, captured the Parisian fancy more readily than the quality of his other prose writings. Since then, detective stories of high and low degree have been written in France, England, and America; but no amateur, with a genius approximating to that of &#39;Monsieur C. Auguste Dupin,&#39; has appeared, and had his exploits recounted, in our own or foreign literature.&quot;
 
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
+
 ## The Real Sherlock Holmes
 
 Conan Doyle himself, or rather a friend of his, one Doctor Harold Emery Jones, denies Sherlock Holmes&#39; dependence on any fictional detective. Thus Doctor Jones on the subject:
@@ -148,9 +158,9 @@ These methods of Bell impressed Doyle greatly at the time. The impression made w
 
 Regarding this matter Conan Doyle thus writes:
 
->&quot;Sherlock Holmes is the literary embodiment, if I may so express it, of my memory of a professor of medicine at Edinburgh University, who would sit in the patients&#39; waiting-room with a face like a red Indian, and diagnose the people as they came in before even they had opened their mouths. He would tell them their symptoms, he would give them details of their lives, and he would hardly ever make a mistake.&quot; This professor was Dr.
+>&quot;Sherlock Holmes is the literary embodiment, if I may so express it, of my memory of a professor of medicine at Edinburgh University, who would sit in the patients&#39; waiting-room with a face like a red Indian, and diagnose the people as they came in before even they had opened their mouths. He would tell them their symptoms, he would give them details of their lives, and he would hardly ever make a mistake.&quot;
 
->Joseph Bell, and that the resemblance to Sherlock Holmes was not merely intellectual, but strikingly physical as well, may be seen from the accompanying portrait. There are the same sharp, piercing eyes, the eagle nose, and the hawk-like features. Like Sherlock Holmes, Dr. Bell was in the habit of sitting in his chair with his fingers pressed together when engaged in solving a problem. Twenty-seven years ago Conan Doyle came in contact with him when he was finishing his medical studies.
+>This professor was Dr. Joseph Bell, and that the resemblance to Sherlock Holmes was not merely intellectual, but strikingly physical as well, may be seen from the accompanying portrait. There are the same sharp, piercing eyes, the eagle nose, and the hawk-like features. Like Sherlock Holmes, Dr. Bell was in the habit of sitting in his chair with his fingers pressed together when engaged in solving a problem. Twenty-seven years ago Conan Doyle came in contact with him when he was finishing his medical studies.
 
 >&quot;Gentlemen,&quot; Professor Bell would say to the students standing around, &quot;I am not quite sure whether this man is a cork-cutter or a slater. I observe a slight callous, or hardening, on one side of his forefinger, and a little thickening on the outside of his thumb, and that is a sure sign he is either one or the other.&quot;
 
@@ -160,4 +170,12 @@ Regarding this matter Conan Doyle thus writes:
 
 Then Conan Doyle began building up a scientific system by which everything might be logically reasoned out. Along purely intellectual lines Poe had done that before with M. Dupin. Sherlock Holmes was practical and systematic, and where he differed from Dupin was that in consequence of his previous scientific education he possessed a vast fund of exact knowledge from which to draw.
 
-When he had written twenty-six stories about Sherlock Holmes, Conan Doyle determined that it would be bad policy to continue and decided to put an end to his hero. He feared that Holmes was becoming tiresome to others as well as to himself. Above all, he was afraid that the public would come to think that he had only one idea and could write only one kind of story. Dr. Doyle was in Switzerland at the time. One day, while on a walking tour through the country, he came to a waterfall, and immediately saw in it a romantic spot for anyone who wished to meet a spectacular death. Then and there he mentally mapped out &quot;The Final Problem,&quot; in which Holmes and Moriarty settled accounts. But Holmes&#39;s death, instead of being welcomed, roused indignant protest. One lady wrote a letter to the author which began &quot;You beast.&quot;
+When he had written twenty-six stories about Sherlock Holmes, Conan Doyle determined that it would be bad policy to continue and decided to put an end to his hero. He feared that Holmes was becoming tiresome to others as well as to himself. Above all, he was afraid that the public would come to think that he had only one idea and could write only one kind of story.
+
+Dr. Doyle was in Switzerland at the time. One day, while on a walking tour through the country, he came to a waterfall, and immediately saw in it a romantic spot for anyone who wished to meet a spectacular death. Then and there he mentally mapped out &quot;The Final Problem,&quot; in which Holmes and Moriarty settled accounts. But Holmes&#39;s death, instead of being welcomed, roused indignant protest.
+
+One lady wrote a letter to the author which began &quot;You beast.&quot;
+
+<p id="theend">~ The End ~
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
