@@ -32,7 +32,7 @@ The last third of the century saw the new short story thoroughly established in 
 
 In a previous chapter I have discussed midcentury short narrative in England, and endeavored to do justice to the excellent novelettes of Dickens, the exquisite brief tales of Mrs. Gaskell and Dr. Brown, the almost impressionistic stories of Henry Kingsley. These writers added their pound or their mite to English literature. But not until 1877, and Robert Louis Stevenson&#39;s first published narrative, does any Englishman of real caliber show both desire and ability to do something new with the short story.
 
-This narrative was _A Lodging for the Night_, published in _Temple Bar_ for October, and followed by _Will o&#39; the Mill_ in _The Cornhill Magazine_ for January, 1878, and _The Sire de Maletroit&#39;s Door_ in _Temple__Bar_ for the same month. _A Lodging for the Night_ is as clearly and consciously an impressionistic short story as George Meredith&#39;s contemporary novelettes are not of that category; the two stories which followed would assure the most timid critic of our generation that here was a master in this department of fiction.
+This narrative was _A Lodging for the Night_, published in _Temple Bar_ for October, and followed by _Will o&#39; the Mill_ in _The Cornhill Magazine_ for January, 1878, and _The Sire de Maletroit&#39;s Door_ in _Temple Bar_ for the same month. _A Lodging for the Night_ is as clearly and consciously an impressionistic short story as George Meredith&#39;s contemporary novelettes are not of that category; the two stories which followed would assure the most timid critic of our generation that here was a master in this department of fiction.
 
 It is strange that the English discovery of the impressionistic short story should have come so late. Perhaps there is something antipathetic to the British temperament in so restrained and so graceful an art. The American masters, even Poe, have been very American, the French excessively French.
 
@@ -44,7 +44,7 @@ For example, the best French literature leaves a sense of perfect finish, and a 
 
 The French counsel of perfection demanded the perfect form, and this, for the short narratives of his contemporaries in France, was the impressionistic short story, in which the French for some decades had been successful, though, hitherto, without marked influence upon English work. Naturally it became the perfect form for Stevenson.
 
-With these circumstances in mind, read, for an example, that bijou, _The Sire de Mal __é__ troits Door_ — &quot;a true novel, in the old sense; all unities preserved moreover, if that&#39;s anything,&quot; so Stevenson wrote of it in a letter to Sidney Colvin, August, 1877.
+With these circumstances in mind, read, for an example, that bijou, _The Sire de Malétroits Door_ — &quot;a true novel, in the old sense; all unities preserved moreover, if that&#39;s anything,&quot; so Stevenson wrote of it in a letter to Sidney Colvin, August, 1877.
 
 The setting is good medieval French; that, however, is not to the point. The plot is romance of the English rather than the French brand. But the exquisite nicety of incident, moving step by step, from the swing of the door which traps the hero, to the cruel uncle who condemns, the maiden who scorns, who weeps, who melts just as the night turns into dawn—this quality of perfect balance is French. It is hard to describe otherwise in words.
 
@@ -54,7 +54,7 @@ Or there is _Markheim_, a story less powerful in execution, but more excellent i
 
 And how un-French is the entrance of that mysterious visitor who comes in as the devil and retires revealed as a kind of Puritan Almighty, tempting in order that the soul may be tried and repent! How like to Hawthorne&#39;s usual way is Stevenson&#39;s determination to make, at all costs, a moral issue the outcome of his story! Indeed, this lover of the French touch is thoroughly Anglo-Saxon in his choice of situations for his stories.
 
-Nor is this conclusion restricted to Stevenson&#39;s experiments in man&#39;s moral nature. _Will o&#39; the Mill_ is like a twice-told tale not only in theme; its whole effect is Hawthornesque. _A Lodging for the Night_ has for its kernel a question of ethics. Even _The Sire de Mal __é__ troits Door_, _The Merry Men_, and _Providence and a Guitar_, are concerned with honor, with unselfishness, or with the result of crime!
+Nor is this conclusion restricted to Stevenson&#39;s experiments in man&#39;s moral nature. _Will o&#39; the Mill_ is like a twice-told tale not only in theme; its whole effect is Hawthornesque. _A Lodging for the Night_ has for its kernel a question of ethics. Even _The Sire de Malétroits Door_, _The Merry Men_, and _Providence and a Guitar_, are concerned with honor, with unselfishness, or with the result of crime!
 
 I have compared Hawthorne with Stevenson as the writer in English most readily typifying the racial tendency towards moral analysis in narrative. Of the two, Stevenson is the better craftsman. He makes his setting real; he makes his characters act, and be influenced, and change, with greater verisimilitude, beauty, and ease. His pen was more flexible.
 
@@ -66,7 +66,7 @@ The &quot;brutal and licentious public, snouting in Mudie&#39;s wash-trough,&quo
 
 Alas, it was unnecessary to inform even the snouters that deliberate artifice was being practised in his own works. The thing is palpable in every phrase where the words are the _dernier cri_ in specificness, and in each rhythm tuned to a superperfect harmony. Yet, though palpable, this artifice is not unpleasant.
 
-On the contrary, at his best, the exquisite Euphuism which this supreme polisher could produce is sheer delight. No story in the world reads better aloud than _The Sire de Mal __é__ troits Door_, no phrasing in contemporary prose thrills the ear more entrancingly than certain passages in _Will o&#39; the Mill_ and _Prince Otto_. But is it not—Euphuism? And, if it is Euphuism, will it not suffer with a change of taste?
+On the contrary, at his best, the exquisite Euphuism which this supreme polisher could produce is sheer delight. No story in the world reads better aloud than _The Sire de Malétroits Door_, no phrasing in contemporary prose thrills the ear more entrancingly than certain passages in _Will o&#39; the Mill_ and _Prince Otto_. But is it not—Euphuism? And, if it is Euphuism, will it not suffer with a change of taste?
 
 Suppose this to be true. Suppose these flowered sentences, graceful rhythms, vivid words, should eventually mar the excellency of the stories which they adorn. Something will remain. Stevenson&#39;s keen studies of our moral nature, the essential Englishness of which we have just been discussing, must possess an enduring value; the grace and beauty of his story&#39;s form will continue worthy, even if his style should lose its charm.
 

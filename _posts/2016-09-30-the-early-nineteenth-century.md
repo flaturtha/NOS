@@ -2,8 +2,7 @@
 layout: post_mw
 layoutTag: post
 title: "The Early Nineteenth Centure"
-subtitle: "The End of the Highly Moral Story; The Beginnings of the New Romantic Tale
-"
+subtitle: "The End of the Highly Moral Story; The Beginnings of the New Romantic Tale"
 chapter: Chapter 10
 author: Henry Seidel Canby, Ph.D.
 authortitle: Assistant Professor of English in the Sheffield Scientific School of Yale University
@@ -12,9 +11,9 @@ opub_date: 1909
 opub_vol:
 date: 2016-09-30
 category: murderwiki
-excerpt: ""
-image:
-caption: ""
+excerpt: "In the last decades of the eighteenth century, England had been purged, mentally and socially, by strong draughts of French ideas, and literature was turbulent with romanticism. Thus, at the beginning of the new era, there was more to think of than manners and morals. Novel writers were experimenting in every direction. There was the political, social, or educational novel of Godwin and his group, the Gothic romance, the historical novel, the novel of sensibility."
+image: /assets/img/Walter_Scott_Waverley_illustration.jpg
+caption: "\"Disbanded\" Illustration to Walter Scott's novel <i>Waverley</i>, engraving after a painting by John Pettie, as found in 1893 illustrated print edition."
 genre:
 wordcount: 4901
 ---
@@ -43,7 +42,7 @@ Novel writers were experimenting in every direction. There was the political, so
 
 Naturally, the moral story of the previous age did not expire with the year 1800. The aforesaid _Lady&#39;s Monthly Museum_, from its long life and expensive colored fashion-plates evidently popular and typical, presents its readers with instances well on into the century. As late as 1812, one reads _On the Divine Wisdom_. A tale, which, except for some unnecessary horror, and a lack of art, might have come from a deist of the mid-eighteenth century.
 
-The works of Maria Edgeworth supply nobler examples of this enduring tendency. One thinks of their author, and rightly, as a novelist. Unlike the puny fry of the magazines, she is in close touch with the thought of the day. Her stories of Irish landholders, of young lady sentimentalists, of every variety of human experience which could illustrate the value of a right education, move with a sweep, a humor, a naturalness, alien to the restricted art of the essayists. Her _Popular Tales_ (1804), _Tales of Fashionable_ Life (1809-1812), even the early _Moral__Tales_ (1801), are usually short novels, or novelettes — novelettes, a contemporary writer called such efforts. Yet, as one reads _The Prussian Vase_, told to illustrate the dangers of autocracy, or _To-Morrow_, where the fault of putting-off ruins the hero (even his story was to have been finished tomorrow!), it is evident that here is the moral apologue still persisting, though stretched to meet new conditions and a more thoroughgoing portrayal of life.
+The works of Maria Edgeworth supply nobler examples of this enduring tendency. One thinks of their author, and rightly, as a novelist. Unlike the puny fry of the magazines, she is in close touch with the thought of the day. Her stories of Irish landholders, of young lady sentimentalists, of every variety of human experience which could illustrate the value of a right education, move with a sweep, a humor, a naturalness, alien to the restricted art of the essayists. Her _Popular Tales_ (1804), _Tales of Fashionable_ Life (1809-1812), even the early _Moral Tales_ (1801), are usually short novels, or novelettes — novelettes, a contemporary writer called such efforts. Yet, as one reads _The Prussian Vase_, told to illustrate the dangers of autocracy, or _To-Morrow_, where the fault of putting-off ruins the hero (even his story was to have been finished tomorrow!), it is evident that here is the moral apologue still persisting, though stretched to meet new conditions and a more thoroughgoing portrayal of life.
 
 The resemblance to the eighteenth century apologue goes no further, however, than a general unifying of a comparatively short narrative for the sake of a moral. Tone, thought, style are all different. Miss Edgeworth has learned of the novelists, and does not think twice of a hypothetical essay on le_s moeurs_ for once of the story. She takes space to realize her characters; the plots reach a climax, and the subjects are enormously various. With her, moral narrative has enfranchised itself, expanded into the novel, or half-way there; lost its form and structure, while retaining its moral obsession.
 
@@ -121,17 +120,17 @@ When successful, the simple, unemphatic, but well-balanced tale is no whit infer
 
 The second question, What made him so successful with the simple tale while his contemporaries were crowding the periodicals with failures? is not so easily answered. Perhaps humor was the talisman which saved Irving from contagion; that gentle, urbane humor which smiles from behind Ichabod Crane and Rip. It must have been a sense of humor that restrained him from the excesses of the average contributor.
 
-Supply a theme which, lending itself to sentiment, forbade the humorous, and he stopped just short of the common complaint of the annuals. The _Pride of the Village_ in _The Sketch Book_, _The__Young Italian_ of _The Tales of a Traveller_, are unhumorous — and on the brink.
+Supply a theme which, lending itself to sentiment, forbade the humorous, and he stopped just short of the common complaint of the annuals. The _Pride of the Village_ in _The Sketch Book_, _The Young Italian_ of _The Tales of a Traveller_, are unhumorous — and on the brink.
 
 Perhaps we know his better stories too well, and the current narrative of the period too little, for a full appreciation of the value, in such a time, and amidst such work, of Irving&#39;s quality of humor. If so, an indirect illustration will bring the moral home. In Friendship&#39;s Offering for 1826, there are two anonymous tales, _The Laughing Horseman_, and _Reichter and his Staghounds_; hearty tales, with a jolly mystery, a setting that makes you visualize it, and a style full of vigor and beauty.
 
 Irving&#39;s, you guess instantly, for you think you feel his characteristic touch, and are impressed by the infinite superiority to everything else in the collection. But the next number (1827) tells the secret.
 
-Here is a better story still, _Der__Kugelspieler_, in the same spirit, style, and vein, and by the author of _The Chronicles of London Bridge_. This was Richard Thomson, the librarian and antiquary, who pretty certainly wrote the first two stories, since the editor of the 1826 annual had promised that certain anonymities should be revealed in the next issue. Now this forgotten author has written the very best stories in the English annuals, let Scott&#39;s (barring Wandering Willie&#39;s Tale) or any be compared with them. _Der__Kugelspieler_ will serve for an example.
+Here is a better story still, _Der Kugelspieler_, in the same spirit, style, and vein, and by the author of _The Chronicles of London Bridge_. This was Richard Thomson, the librarian and antiquary, who pretty certainly wrote the first two stories, since the editor of the 1826 annual had promised that certain anonymities should be revealed in the next issue. Now this forgotten author has written the very best stories in the English annuals, let Scott&#39;s (barring Wandering Willie&#39;s Tale) or any be compared with them. _Der Kugelspieler_ will serve for an example.
 
 It deals with the sardonic goblin, Forster der Wilder, and how upon the ghastly kugelplatz of ancient Barbarossa he outbowled the student of Prague. There is no lack of mystery, no lack of the marvelous when, for an instant, the court of the great red-beard look down from their misty, ruined towers upon the match. And yet a humorous point of view acts, in this narrative, as an antiseptic against the absurd, and a preservative of verisimilitude in the story.
 
-Rip Van Winkle, the tale which it most resembles in English, is a classic; _Der__Kugelspieler_ is buried with its unworthy companions in a forgotten annual. Thus we may see with unbiassed eye what a mighty difference came about when one of these romanticists of the second generation compounded his pathos, his horror, or his mystery, with the aid of a sense of humor. Humor saved Richard Thomson, at least from artistic nullity; and humor saved Irving from the quagmire in which his contemporaries floundered, as Kipling hopes it will save all of us Americans in the end.
+Rip Van Winkle, the tale which it most resembles in English, is a classic; _Der Kugelspieler_ is buried with its unworthy companions in a forgotten annual. Thus we may see with unbiassed eye what a mighty difference came about when one of these romanticists of the second generation compounded his pathos, his horror, or his mystery, with the aid of a sense of humor. Humor saved Richard Thomson, at least from artistic nullity; and humor saved Irving from the quagmire in which his contemporaries floundered, as Kipling hopes it will save all of us Americans in the end.
 
 But there is another reason for the success of the American writer in the exquisitely simple, perfectly balanced tale, a reason which regards the structure as much as the contents of the story. It must be set forth in order to relate his work to the development of the short story, as well as to complete the explanation of his triumph. This reason is to be found in the nature of the models upon which he formed his style.
 

@@ -3,10 +3,10 @@ layout: post_mw
 layoutTag: post
 title: "Deduction"
 subtitle: "The Process of Reasoning &amp; Crime Solving by A Fictional Detective From Inconspicuous Clues"
-book: "The Techniques of the Mystery"
+opub: "The Techniques of the Mystery Story"
 chapter: "Chapter 8"
 author: Carolyn Wells
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-19
 category: murderwiki
 excerpt: "The painting depicts Bahram Gur (central figure) on horseback hunting three doe, from a \'Khamseh of Amir Khusrau Dihlavi\', an illustrated manuscript containing early stories that use deduction in solving their riddles."

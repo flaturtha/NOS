@@ -3,10 +3,10 @@ layout: post_mw
 layoutTag: post
 title: "Other Detectives of Fiction"
 subtitle: "Apart from the Emminent Holmes, Fictional Detectives Find Their Own Uniqueness"
-book: "The Techniques of the Mystery"
+opub: "The Techniques of the Mystery Story"
 chapter: "Chapter 12"
 author: Carolyn Wells
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-29
 category: murderwiki
 excerpt: "Some authors try to give their detectives prominence by using methods exactly opposite to those of Sherlock Holmes. But it is a dangerous experiment for inexperienced authors to put forward views heterodox to the accepted laws of Detective Fiction, and it must be done with skill and judgment."

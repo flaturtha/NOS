@@ -3,10 +3,10 @@ layout: post_mw
 layoutTag: post
 title: "Portraits"
 subtitle: "How fictional detectives are described, from physical descriptions to mannerisms and favorite phrases"
-book: "The Techniques of the Mystery"
+opub: "The Techniques of the Mystery Story"
 chapter: "Chapter 13"
 author: Carolyn Wells
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-29
 category: murderwiki
 excerpt: "Eccentricities or freakish habits on the part of his detective

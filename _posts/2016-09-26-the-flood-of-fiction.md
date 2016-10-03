@@ -8,8 +8,8 @@ opub_date:
 opub_vol:
 date: 2016-09-26
 category: murderwiki
-excerpt: ""
-image:
+excerpt: "And the great bulk of this enormous output is fiction — sad tales, merry tales, tales with a moral, tales without a moral, tales we have heard before and can hear again, tales that are worth telling and tales that are not. Of late the attention of many serious-minded people has been turned to this question of novel writing and novel reading."
+image: /assets/img/stack-of-books-vintage-books-book-books.jpg
 caption:
 genre:
 wordcount: 3770
@@ -27,7 +27,7 @@ wordcount: 3770
 
 As long as the world endures people will itch to hear a story; so there is but small fear the maker of tales will awake one morning to find that no one cares any longer to listen to him. But, unhappily, there is today a growing tendency to divorce literature from fiction, and there was more than a measure of truth in the rebuke I heard administered at a library by a stately and picturesque old lady to a greatly astonished assistant — &quot;I want something to read, and you have nothing here but novels.&quot;
 
-The old lady did not mean to imply that there is necessarily nothing; to read in a novel; she is a sensible woman and knows her Balzac far too well to make any such mistake. But what she did mean was that among the crowds of new books in gaily colored bindings pushing and jostling each other on the library shelves, there was probably not one she herself would care to read and, after turning over the leaves of some twenty or more, I was fain to agree with her.
+The old lady did not mean to imply that there is necessarily nothing to read in a novel; she is a sensible woman and knows her Balzac far too well to make any such mistake. But what she did mean was that among the crowds of new books in gaily colored bindings pushing and jostling each other on the library shelves, there was probably not one she herself would care to read and, after turning over the leaves of some twenty or more, I was fain to agree with her.
 
 With the fall of the leaf — and even as I write, autumn is upon us — comes what used to be known in good old-fashioned days, as the Book Season. Today, the term seems somewhat inadequate, for the Book Season has spread itself out until it practically covers the length of the year, stretching from January to December through the advertisement columns of the newspapers and adding greatly to the sorrows and labors of conscientious reviewers.
 

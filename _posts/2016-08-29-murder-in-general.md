@@ -3,10 +3,10 @@ layout: post_mw
 layoutTag: post
 title: "Murder in General"
 subtitle: ""
-book: "The Techniques of the Mystery"
+opub: "The Techniques of the Mystery Story"
 chapter: "Chapter 18"
 author: Carolyn Wells
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-29
 category: murderwiki
 excerpt: "If the reader is thrilled, it is through the intellect, not through the emotions. Sympathy is not called for; pity is not kindled; every situation is viewed by the cold light of reasoning. The whole affair is entirely divested of the sentiment that would surround it in real life."

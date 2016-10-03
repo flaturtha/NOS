@@ -3,10 +3,10 @@ layout: post_mw
 layoutTag: post
 title: "The Handling of the Crime"
 subtitle: "The Method of The Murder"
-book: "The Techniques of the Mystery"
+opub: "The Techniques of the Mystery"
 chapter: "Chapter 20"
 author: Carolyn Wells
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-29
 category: murderwiki
 excerpt: "A weapon picked up on the spot has the advantage of not necessitating its concealment after use, for it incriminates no one in particular. Oftenest this weapon is a dagger used as a paper cutter, and so lying at hand on a table. Or a dagger or sword which is one of a decorative group on the wall of the room."

@@ -4,7 +4,8 @@ layoutTag: post
 title: "The Motive"
 subtitle: "The Principle Part of Any Mystery"
 chapter: "Chapter 21"
-book: The Techniques of the Mystery Story
+opub: "The Techniques of the Mystery Story"
+opub_date: 1913
 author: Carolyn Wells
 date: 2016-08-29-16
 category: murderwiki

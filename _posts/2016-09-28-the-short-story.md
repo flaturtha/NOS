@@ -3,9 +3,9 @@ layout: post_mw
 layoutTag: post
 title: "The Short Story"
 author: Henry Seidel Canby
-opub:
+opub: "Yale Studies in English"
 opub_date: 1902
-opub_vol:
+opub_vol: Vol. XII
 date: 2016-09-28
 category: murderwiki
 excerpt: "To tell a tale well requires careful arrangement of events, a careful proportioning, careful adjustment of description and of narration, of character and action. Every word must count, and, for the sake of definite outline, everything not essential must be rigorously excluded. The result is a concise, narrative picture of something striking in events or in character, or in the union of the two."

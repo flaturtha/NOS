@@ -3,10 +3,10 @@ layout: post_mw
 layoutTag: post
 title: "Footprints and Fingerprints"
 subtitle: "How Fictional Detectives Rely On Mostly Impossible Evidence"
-book: The Techniques of the Mystery
+opub: "The Techniques of the Mystery Story"
 chapter: Chapter 15
 author: Carolyn Wells
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-29
 category: murderwiki
 excerpt: "Without a doubt the most woefully overdone and mix-done evidence is that of footprints. The trouble began with Gaboriau and M. Lecoq."

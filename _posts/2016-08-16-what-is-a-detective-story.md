@@ -3,10 +3,10 @@ layout: post_mw
 layoutTag: post
 title: "What is a Detective Story?"
 subtitle: "A Critical Examination of the Detective Story, Its Rise in Popularity and Fact vs. Fiction"
-book: "The Techniques of the Mystery"
+opub: "The Techniques of the Mystery Story"
 chapter: "Chapter 6"
 author: Carolyn Wells
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-16-16
 category: murderwiki
 excerpt: "The Detective Story as we know it was first written by Poe, yet he never used the descriptive word, nor was Dupin a detective, either professional or amateur, for when Poe wrote his immortal Dupin tales, the name \"Detective\" Stories had not been invented; the detective of fiction not having been as yet discovered."

@@ -4,9 +4,9 @@ layoutTag: post
 title: "Further Advices"
 subtitle: "Coincidence, Melodrama &amp; How The Best Writers, Often Women, Create Unique Plots"
 chapter: "Chapter 22"
-book: The Techniques of the Mystery
+opub: "The Techniques of the Mystery Story"
 author: Carolyn Wells
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-29
 category: murderwiki
 excerpt: "\"The mystery-story is just the one species of story that can not be told impromptu or altered at the last moment, seeing that it demands the most careful piecing together and the most elaborate dove-tailing.\" &mdash; Israel Zangwill"

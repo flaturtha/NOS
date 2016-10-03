@@ -8,9 +8,9 @@ opub_date: October 1916
 opub_vol: Vol. 204, No. 731, pp. 595-601
 date: 2016-09-26
 category: murderwiki
-excerpt: ""
-image:
-caption:
+excerpt: "The teller of stories began to perceive — very slowly, indeed, that within his own limited being lay a strange, unsuspected, unlimited power: that he possessed a magic crucible by which all things he observed, all things he heard, might not only be stored as memories, but might be transmuted, re-cast, projected and given forth in a marvellous semblance of life. Astonishing vistas were henceforward opened to his fascinated gaze, though stumbling indeed must have been his first bewildered steps in the effort to explore their endless, lonely labyrinths."
+image: /assets/img/hetlab.jpg
+caption: "By Paul K. From: <a href=\"http://bibliodyssey.blogspot.com/2008/10/architecture-of-fantasy-i.html\">BibliOdyssey, The Architecture of Fantasy I</a>"
 genre:
 wordcount: 2717
 ---

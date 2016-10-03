@@ -3,10 +3,10 @@ layout: post_mw
 layoutTag: post
 title: "More Devices"
 subtitle: "The Use &amp; Often Misuse of Clues, and How to Properly Display Them in a Detective Story"
-book: The Techniques of the Mystery
+opub: "The Techniques of the Mystery Story"
 chapter: Chapter 26
 author: Carolyn Wells
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-29
 category: murderwiki
 excerpt: A Detective Story Writer uses many devices to lead the detective and the reader down many paths, some of which are legitimate, but others that are mere red herrings.

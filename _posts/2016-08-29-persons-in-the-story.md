@@ -3,10 +3,10 @@ layout: post_mw
 layoutTag: post
 title: "Persons in the Story"
 subtitle: "An Exploration of the Victims, Criminals, Suspects &amp; Other Characters in the Mystery Story"
-book: "The Techniques of the Mystery"
+opub: "The Techniques of the Mystery Story"
 chapter: "Chapter 19"
 author: Carolyn Wells
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-29
 category: murderwiki
 excerpt: "Each of these characters must have a positive and definite reason for being, and, if at all prominent, must be an inherent part of the plot. They are the pence of a Detective Story, and must be taken care of; though in this case it does not follow that the pounds will take care of themselves."

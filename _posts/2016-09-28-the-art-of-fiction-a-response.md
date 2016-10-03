@@ -5,8 +5,8 @@ title: "The Art of Fiction"
 subtitle: "A Response to Sir Walter Besant's Lecture"
 author: Henry James
 link:
-opub:
-opub_date:
+opub: Longman's Magazine
+opub_date: September 1884
 opub_vol:
 date: 2016-09-28
 category: murderwiki

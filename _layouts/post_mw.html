@@ -23,7 +23,12 @@ layout: default
         <h2 class="post__subtitle">{{ page.subtitle }}</h2>
         <h3 class="post__author">By <strong>{{ page.author }}</strong></h3>
         {% if page.chapter %}
-          <h4 class="post__chapter">From {{ page.chapter }} of<br><i>{{ page.book }}</i><br>by {{ page.author }}, first published in {{ page.pubdate }}.</h4>
+          <h4 class="post__chapter">From {{ page.chapter }} of<br><i>{{ page.opub }}</i><br>by {{ page.author }},<br>first published in {{ page.opub_date }}.</h4>
+        {% else %}
+          {% if page.opub %}
+            <h4 class="post__chapter">Originally published <br><i>{{ page.opub }}</i><br> {{ page.opub_date }} {% if page.opub_vol %}, {{ page.opub_vol }} {% endif %}</h4>
+          {% endif %}
+
         {% endif %}
 
         <p class="post__excerpt">{{ page.excerpt }}</p>

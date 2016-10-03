@@ -3,10 +3,10 @@ layout: post_mw
 layoutTag: post
 title: "Structure"
 subtitle: "The Differences in the Structure of the Short Story &amp; the Novel"
-book: "The Techniques of the Mystery"
+opub: "The Techniques of the Mystery"
 chapter: "Chapter 23"
 author: Carolyn Wells
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-29
 category: murderwiki
 excerpt: A Detective Story depends so much on the logic and plausibility of its conditions, that a vague or uncertain touch on the practical or material details greatly mars the effect.

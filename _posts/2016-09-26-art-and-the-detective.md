@@ -3,14 +3,14 @@ layout: post_mw
 layoutTag: post
 title: "Art and the Detective"
 author: Cecil Chesterton
-opub:
-opub_date:
-opub_vol:
+opub: The Living Age
+opub_date: October, November, December 1906
+opub_vol: Seventh Series, Vol. XXXIII
 date: 2016-09-26
 category: murderwiki
 excerpt: "The old proverb that truth is stranger than fiction may be put more soundly in the form that fiction must not be so strange as truth. And this is obviously so, since fiction has to create an illusion of reality, while truth, being true, can be as improbable as it chooses."
-image:
-caption:
+image: /assets/img/Rippl_The_Detective.jpg
+caption: "<i>The Detective</i> by , 1923. Pastel on paper, 20.1x15.7 in (51x40 cm)"
 genre:
 wordcount: 3200
 ---

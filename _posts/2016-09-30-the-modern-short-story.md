@@ -9,7 +9,7 @@ opub_date: December 1909
 opub_vol: "Vol. 190, No. 649; pp. 799 - 810"
 date: 2016-09-30
 category: murderwiki
-excerpt: ""
+excerpt: "The point at which any true appreciation of the short story begins is the clear perception that it is a distinct form of art; and the reason why the older novelists so rarely succeeded in the short story is that they did not apprehend this. If we bear in mind the three principles, that the short story must be complete in itself, that it is short because it cannot be long, and that it consists of a single incident, we can readily apply a critical test, which, while not infallible, nevertheless affords a valuable means of discrimination."
 image: /assets/img/Kiplingsindia.jpg
 caption: "Image of the map, \"Politial Divisions of the Indian Empire\" from the Imperial Gazeteer of India (volume 26, Atlas), published by the Oxford University Press, 1909. Annotated by Sanjay Tiwari 30 Sept. 2006."
 genre:
@@ -26,7 +26,7 @@ wordcount: 5143
 </div>
 </section> <!-- table-of-contents -->
 
-## Chapter I
+## Unity, Brevity and Immediacy: Three Critical Elements of the Modern Short Story
 
 The point at which any true appreciation of the short story begins is the clear perception that it is a distinct form of art; and the reason why the older novelists so rarely succeeded in the short story is that they did not apprehend this.
 
@@ -133,7 +133,7 @@ But the episodical wealth of life is inexhaustible. A year&#39;s study of a dail
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 <hr>
 
-## Chapter II
+## Ingenuity, Adventure, Horror: Three Types of Modern Short Stories
 
 So long as the three-volume novel reigned supreme and magazines held to the tradition of the long serial, there was neither opportunity nor motive for the British writer to practise the art of short-story writing. But the conditions which repressed the short story in England acted powerfully for its benefit in America.
 

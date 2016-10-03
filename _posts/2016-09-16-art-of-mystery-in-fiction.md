@@ -3,6 +3,9 @@ layout: post_mw
 layoutTag: post
 title: "Art of Mystery in Fiction"
 author: George Manville Fenn
+opub: "The North American Review"
+opub_date: Apr. 1893
+opub_vol: Vol. 156, No. 437, pp. 432-438
 date: 2016-09-16
 category: murderwiki
 excerpt: This art of mystery in fiction, partaking as it does of the nature of a puzzle or conundrum; still it is ingenious though stagy, with its designing and fitting, and surely to be commended as an art worthy of a need of praise

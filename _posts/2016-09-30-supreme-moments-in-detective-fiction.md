@@ -3,11 +3,12 @@ layout: post_mw
 layoutTag: post
 title: "Supreme Moments in Detective Fiction"
 subtitle: "Four Literary Detectives Who Are Considered Classic"
-book: ""
-chapter: ""
+opub: "The Bookman: An Illustrated Magazine of Literature and Life"
+opub_date: March - August 1913
+opub_vol: Vol. XXXVII, pp. 49-54
 author: Burton Egbert Stevenson
 authortitle: "Author of &quot;The Marathon Mystery&quot;, &quot;The Boule Cabinet,&quot; etc."
-pubdate: March 1913
+opub_date: March 1913
 date: 2016-08-30
 category: murderwiki
 excerpt: "Among all the detectives, amateur and professional, who have appeared before the public and performed their little tricks, there are only four who are classic — C. Auguste Dupin, Tabaret, M. Lecoq, and Sherlock Holmes. These abide. Beside them, the others are mere shadows. And these four are memorable not because they never bungled, not because occasionally they struck home with a cleverness and certainty which makes us forgive their mistakes. Their supreme moments are moments to be remembered with delight."

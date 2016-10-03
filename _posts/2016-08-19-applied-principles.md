@@ -3,10 +3,10 @@ layout: post_mw
 layoutTag: post
 title: "Applied Principles"
 subtitle: "How Poe, Doyle and Gaboriau Portrayed the Unconventional Habits &amp; Individuality of Their Fictional Detectives: Dupin, Holmes and Lecoq"
-book: "The Techniques of the Mystery"
+opub: "The Techniques of the Mystery Story"
 chapter: "Chapter 23"
 author: Carolyn Wells
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-19
 category: murderwiki
 excerpt: "The fictional detectives of Edgar Allen Poe, Sir Arthur Conan Doyle and Émile Gaboriau, were both imitations of each other and completely unique creations. Whether inspired by the others' creations or by true life mentors, detectives of fiction, especially Dupin, Holmes and Lecoq stand out amongst the rest as monuments to the deductive mind."

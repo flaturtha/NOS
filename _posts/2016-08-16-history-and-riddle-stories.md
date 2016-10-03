@@ -2,10 +2,13 @@
 layout: post_mw
 layoutTag: post
 title: "History of the Mystery & Riddle Stories"
+chapter: "Chapters 3 & 5"
+opub: "The Techniques of the Mystery Story"
 author: Carolyn Wells
+opub_date: 1913
 date: 2016-08-16-16
 category: murderwiki
-excerpt: Chapters 3 & 5 of <i>The Techniques of the Mystery</i>, published 1913.
+excerpt: "To trace the origin and history of the mystery story is simply to trace the origin and history of man&#39;s mind. Mystery stories were told and wonder tales invented before the days of old Rameses, before the Sphinx was hewn or Samson born. And indeed the rousing of latent curiosity, the tempting with a promise to divulge, which is the vital principle of the mystery story, began no later than with the subtlety of the Primal Serpent."
 image: /assets/img/In_Black_and_White_cover_by_Rudyard_Kipling_1888.jpg
 genre: The Techniques of the Mystery
 wordcount: 3118

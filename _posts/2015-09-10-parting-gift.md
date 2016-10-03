@@ -5,7 +5,7 @@ casefileNumber: 55ccf75fb3901011515aef81
 title: "Parting Gift"
 author: Frank Ward
 o_pub: Crime Fiction Stories
-o_pubDate: 1950-12
+o_opub_date: 1950-12
 volnum: Vol. 1, No. 1
 date: 2015-09-10
 category: short-stories

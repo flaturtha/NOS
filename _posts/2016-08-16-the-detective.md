@@ -3,10 +3,10 @@ layout: post_mw
 layoutTag: post
 title: "The Detective"
 subtitle: "Definining the Character of Fictional Detective, the Reason for the Detective Story itself."
-book: "The Techniques of the Mystery"
+opub: "The Techniques of the Mystery Story"
 chapter: "Chapter 7"
 author: Carolyn Wells
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-16-16
 category: murderwiki
 excerpt: "The all-important character of the Detective Story is, of course, the Detective. He is not only the Star Performer, but the reason for the Detective Story itself. What Mr. Hawthorne calls the Transcendent Detective is the detective of fiction. Such a one is made, not born."

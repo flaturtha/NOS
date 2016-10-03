@@ -2,10 +2,14 @@
 layout: post_mw
 layoutTag: post
 title: "The Eternal Curious & the Literature of the Mystery"
+subtitle: "Why the Detective Story: To Entertain, to Interest, to Amuse, &amp; to Puzzle"
+chapter: "Chapters 1 & 2"
+opub: "The Techniques of the Mystery Story"
 author: Carolyn Wells
+opub_date: 1913
 date: 2016-08-16-16
 category: murderwiki
-excerpt: Chapters 1 & 2 of <i>The Techniques of the Mystery</i>, published 1913.
+excerpt: "Why is the detective story? To entertain, to interest, to amuse. It has no deeper intent, no more subtle raison d&#39;etre than to give pleasure to its readers or puzzle them, for there is really a practical utility in puzzle-solving. Regular exercise is supposed to be as necessary for the brain as for the body, and in both cases it is not so much what we do as the doing of it, from which we derive benefit."
 image: /assets/img/Dore-SamsonSlayingTheLion.jpg
 genre: The Techniques of the Mystery
 wordcount: 5135

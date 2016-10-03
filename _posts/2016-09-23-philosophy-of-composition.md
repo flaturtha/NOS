@@ -4,12 +4,13 @@ layoutTag: post
 title: "The Philosophy of Composition"
 subtitle: "An Examination of the Rigid, Mathmatical Approach to Compose His Works, as Demonstrated Through \'The Raven'"
 author: Edgar Allen Poe
-pubdate: 1846
+opub: Graham's Magazine
+opub_date: April 1846
 date: 2016-09-23
 category: murderwiki
 excerpt: "There is a radical error, I think, in the usual mode of constructing a story. Either history affords a thesis or, at best, the author sets himself to work in the combination of striking events to form merely the basis of his narrative-designing, generally, to fill in with description, dialogue, or autorial comment, whatever crevices of fact, or action, may, from page to page, render themselves apparent."
-image: /assets/img/Dore_raven_shadow2.png
-caption: "Gustave Doré's (1832-1883) illustration for Edgar Allan Poe's \'The Raven\'. 1864"
+image: /assets/img/Graham%27s_April_1846_Poe_Phil_Comp.png
+caption: "Cover of the April, 1846 issue of <i>Graham's Magazine</i>, published by George R. Graham, containing the essay \"The Philosophy of Composition\" by Edgar Allan Poe."
 genre: Composition of Fiction
 wordcount: 4680
 ---
@@ -231,6 +232,11 @@ It will be observed that the words, &quot;from out my heart,&quot; involve the f
 >Shall be lifted — nevermore.
 
 <hr>
+
+<figure class="image__inpostR">
+  <img id="Poe" src="/assets/img/Dore_raven_shadow2.png" alt="Gustave Doré's (1832-1883) illustration for Edgar Allan Poe's \'The Raven\'. 1864" width="250">
+  <figcaption>Gustave Doré's (1832-1883) illustration for 'The Raven' 1864.</figcaption>
+</figure>
 
 ## The Raven
 

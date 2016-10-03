@@ -3,10 +3,10 @@ layout: post_mw
 layoutTag: post
 title: "False Devices"
 subtitle: "Mistaken Beliefs of Mystery Story Writers &amp; Readers"
-book: "The Techniques of the Mystery"
+opub: "The Techniques of the Mystery Story"
 chapter: "Chapter 17"
 author: Carolyn Wells
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-29
 category: murderwiki
 excerpt: "Aside from these false and erroneous notions which are common, let the writer of detective fiction be careful to avoid absolute mistakes, paradoxes, or anachronisms. In this class of story, accuracy and logic are imperative, and nothing can excuse carelessness in descriptive details or sequential happenings."

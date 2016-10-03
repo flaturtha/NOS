@@ -4,9 +4,9 @@ layoutTag: post
 title: "The Rational of Ratiocination"
 subtitle: "Detectives & Their Methods For Solving Crime"
 chapter: "Chapter 10"
-book: The Techniques of the Mystery
+opub: "The Techniques of the Mystery Story"
 author: Carolyn Wells
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-19
 category: murderwiki
 excerpt: "\"Like all Holmes' reasoning the thing seemed simplicity itself when it was once explained. He read the thought upon my features, and his smile had a tinge of bitterness.\" &mdash; Dr. Watson"

@@ -3,15 +3,16 @@ layout: post_mw
 layoutTag: post
 title: "The Detective Story"
 subtitle: "Six Requisites of a Good Detective Story"
-book: ""
-chapter: ""
+opub: "The Editor"
+opub_date: May 1906
+opub_vol: pp. 218-219
 author: M. Thornton Armstrong
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-29
 category: murderwiki
 excerpt: "There are a few requisites of a good detective story which the seasoned reader of that class of fiction demands. The following list does not cover the whole ground, but without these the writer cannot hope to interest the true lover of detection."
-image:
-caption: ""
+image: /assets/img/A_Double-Barrelled_Detective_Story%2C_p._010.jpg
+caption: "A page from \"A Double-Barrelled Detective Story\" published by Harper & Brothers in 1902."
 genre:
 wordcount: 916
 ---

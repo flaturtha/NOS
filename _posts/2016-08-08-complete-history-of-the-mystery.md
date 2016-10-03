@@ -263,7 +263,9 @@ From the earliest gossip between tribesmen on some prehistoric plain about a mur
 
 And the desire to tell a lurid story, of demonstrating our greater intellect over that of an author or literary detective or our friends, has brought people together for uncounted centuries. It may be gruesome, but it’s great entertainment.
 
-<hr>
+<p id="theend">~ The End ~
+
+<h6 class="btt"><a href="#top">Back to Top</a></h6>
 
 {:.references}
 <b>References:</b>

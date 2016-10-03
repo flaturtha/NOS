@@ -3,10 +3,10 @@ layout: post_mw
 layoutTag: post
 title: "Close Observation"
 subtitle: "On of the High Cards of the Fiction Detective's Game"
-book: "The Techniques of the Mystery"
+opub: "The Techniques of the Mystery Story"
 chapter: "Chapter 11"
 author: Carolyn Wells
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-29
 category: murderwiki
 excerpt: "There is a fascination about the solving of a big murder mystery by a bit of a broken cuff-link; or the tracing of a professional burglar by a speck of cigarette ash. Of course, the philosophy is that these clues are so small as to be unnoticed by the criminal who so conveniently leaves them behind him. Also they are unnoticed by the amateur or the Central Office sleuth, and so redound to the glory of the Transcendent Detective."

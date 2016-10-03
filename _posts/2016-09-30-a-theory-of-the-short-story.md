@@ -2,8 +2,11 @@
 layout: post_mw
 layoutTag: post
 title: "A Theory of the Short Story"
-subtitle: ""
+subtitle: "The two distinguishing characteristics of all true short stories: brevity &amp; coherence for the effect of totality"
 author: James Cooper Lawrence
+opub: The North American Review
+opub_date: Feb. 1917
+opub_vol: Vol. 205, No. 735, pp. 274 - 286
 date: 2016-09-30
 category: murderwiki
 excerpt: "In this statement Poe has given us the two distinguishing characteristics of all true short stories which set them apart in a class by themselves as a distinct literary type— brevity and the necessary coherence which gives the effect of totality."
@@ -48,15 +51,15 @@ Poe, in his criticism already quoted, maintained that in order to produce a true
 
 ## The Single Effect of the Short Story
 
-Brander Matthews1 declares that &quot;the short story is the single effect.&quot;
+Brander Matthews <small><a href="https://www.talesofmurder.com/murderwiki/the-philosophy-of-the-short-story/">[<i>Philosophy of the Short Story</i>]</a></small> declares that &quot;the short story is the single effect.&quot;
 
-Professor Bliss Perry2, while rejecting many of Mr. Matthews&#39;s conclusions, agrees with him that the short story of the nineteenth century is set off from those that preceded it by the &quot;new attitude of the contemporary short-story writer toward his material, in his conscious effort to achieve under certain conditions a certain effect.&quot;
+Professor Bliss Perry <small>[<i>A Study of Prose Fiction</i>, p. 304]</small>, while rejecting many of Mr. Matthews&#39;s conclusions, agrees with him that the short story of the nineteenth century is set off from those that preceded it by the &quot;new attitude of the contemporary short-story writer toward his material, in his conscious effort to achieve under certain conditions a certain effect.&quot;
 
-Professor Canby3 says that &quot;Poe succeeded in his work by fixing the attention upon the climax of his story, so that the reader sees, feels, thinks of the &#39; unique effect &#39; of the story and of nothing else. If the modern short story has a technique, here it is; if it is an invention, Poe invented it.&quot;
+Professor Canby <small>[<i>The Short Story in English</i>, p. 233]</small> says that &quot;Poe succeeded in his work by fixing the attention upon the climax of his story, so that the reader sees, feels, thinks of the &#39; unique effect &#39; of the story and of nothing else. If the modern short story has a technique, here it is; if it is an invention, Poe invented it.&quot;
 
 It is only natural that the way in which these men make a fetish of &quot;effect &quot;should lead us to inquire whether, after all, this striving to produce a single foreseen impression is the only manner in which the coherence essential to a true short story can be secured!
 
-Even a casual consideration of the subject presents objections to the &quot;effect &quot;theory of the short story. If, as Professor Matthews declares, &quot;the short story is the single effect,&quot; then most certainly such tales as _The Scarlet Letter_ must be classed as short stories in violation of all of the canons of brevity; and if this cannot be done, the single effect definition will have to be modified. Dr. William J. Dawson4 holds that the true short story treats &quot;of one incident and only one,&quot; and Professor Matthews says that: &quot;The short story fulfills the three false unities of the French classic drama: it shows one action, in one place, in one day.&quot; If these statements are accepted, ninety percent, of the tales that are commonly regarded as short stories will have to be put in some other class of literature. The question naturally arises, what are we going to do with Kipling&#39;s _The Man Who Would Be King_, which deals with four distinct episodes in as many different places, or with a story like Bjornson&#39;s _The Father_, which covers a whole lifetime? The answer which suggests itself is that instead of trying to make every sort of tale a separate literary type, it may be easier and more satisfactory to attempt to frame a comprehensive definition of the short story which by its nature will be inclusive instead of exclusive.
+Even a casual consideration of the subject presents objections to the &quot;effect &quot;theory of the short story. If, as Professor Matthews declares, &quot;the short story is the single effect,&quot; then most certainly such tales as _The Scarlet Letter_ must be classed as short stories in violation of all of the canons of brevity; and if this cannot be done, the single effect definition will have to be modified. Dr. William J. Dawson <small><a href="https://www.talesofmurder.com/murderwiki/the-modern-short-story/">["The Modern Short Story" – <i>North American Review</i> 190:802]</a></small> holds that the true short story treats &quot;of one incident and only one,&quot; and Professor Matthews says that: &quot;The short story fulfills the three false unities of the French classic drama: it shows one action, in one place, in one day.&quot; If these statements are accepted, ninety percent, of the tales that are commonly regarded as short stories will have to be put in some other class of literature. The question naturally arises, what are we going to do with Kipling&#39;s _The Man Who Would Be King_, which deals with four distinct episodes in as many different places, or with a story like Bjornson&#39;s _The Father_, which covers a whole lifetime? The answer which suggests itself is that instead of trying to make every sort of tale a separate literary type, it may be easier and more satisfactory to attempt to frame a comprehensive definition of the short story which by its nature will be inclusive instead of exclusive.
 
 Coming back for a moment to a consideration of the statement that the only way in which coherence in a short story can be secured is by striving to produce a single foreseen effect, it is altogether probable that even Professor Matthews would experience some difficulty in pointing out the single effect which Mr. Stockton aimed to produce with _The Griffin and the Minor Canon_, or which &quot;Q &quot;had in mind when he wrote _John and the Ghosts_. And the statement which applies to these tales of fancy would probably also hold true in a consideration of those tales whose sole purpose is to give a plain unvarnished statement of the facts in the case, without giving the slightest thought to any one particular effect which those facts may produce. In this class would come such narratives as the Biblical story of Joseph, Bjornson&#39;s stories of Norwegian peasant life, and most of Kipling&#39;s soldier stories.
 
@@ -97,15 +100,15 @@ All of these men whose opinions on the short story we have been considering rega
 
 Oral tradition begins with the first human family; and it is to this first oral tradition that we look for the genesis of the short story. Anthropologists assure us that primitive man was endowed with substantially the same imagination, pride in achievement, curiosity, and love of excitement and novelty which characterize the average man today. These are the attributes upon which the story-telling faculty depends; and hence we reach the conclusion that ever since human nature has been constituted as it is now men have been telling stories.
 
-Professor Bliss Perry says5:
+Professor Bliss Perry says <small>[<i>A Study of Prose Fiction</i>, p. 302]</small>:
 
 >Story-telling is as old as the day when men first gathered around a camp-fire or women huddled in a cave. The study of comparative folk-lore is teaching us every day how universal is the instinct for it. Even were we to leave out of view the literature of oral tradition, and take the earlier written literature of any European people—for instance, the tales told by Chaucer and some of his Italian models—we should find these modem characteristics of originality, ingenuity, and the rest in almost unrivaled perfection, and perhaps come to the conclusion of Chaucer himself, as he exclaims in whimsical despair, &quot;There is no new thing that is not old.&quot;
 
-As far back as research carries us in the history of any people, we find a well-defined oral literature. Scholars of every nationality6 in studying the epic and the ballad have traced for us the steps that mark the growth of the early national literatures. We find the great epics, the _Chanson de Roland_, the _Nibelungenlied_, _Beowulf_, the _Odyssey_, and the _Iliad_, developing from ballad cycles, centering about national heroes, which are shown to have rested upon lesser ballad groups dealing with separate achievements of these heroes, which, in their turn, can be, at least theoretically, split up into their component parts—single isolated ballads.
+As far back as research carries us in the history of any people, we find a well-defined oral literature. Scholars of every nationality <small>[Notably Grimm and Panl in Germany, Child in England, and Gautier and those who have supported and opposed his theories in France]</small> in studying the epic and the ballad have traced for us the steps that mark the growth of the early national literatures. We find the great epics, the _Chanson de Roland_, the _Nibelungenlied_, _Beowulf_, the _Odyssey_, and the _Iliad_, developing from ballad cycles, centering about national heroes, which are shown to have rested upon lesser ballad groups dealing with separate achievements of these heroes, which, in their turn, can be, at least theoretically, split up into their component parts—single isolated ballads.
 
 With the processes of association, selection, and elimination by which the innumerable ballad groups and cycles which merged to form the epics were brought together, we are not concerned; but it will further the object of our inquiry to bear in mind the fact that the early ballads, which were merely short stories in rhythmical form, rested ultimately upon a basis of prose narrative—oral short stories.
 
-M. Leon Gautier, in the introduction to his monumental work on the French epics7, accounts for the initial appearance of the lyric by declaring that the first emotions of the first man in the garden of Eden must have been such as could be expressed only in song; and in making this statement he is merely following a similar assertion found in Victor Hugo&#39;s preface to _Cromwell_. However, neither Gautier nor Hugo goes so far as to maintain that the progenitors of the human race continued to talk in lyrics after the novelty of their situation wore off; and it is an historical fact that the only conversations in Eden which have been recorded were carried on in prose.
+M. Leon Gautier, in the introduction to his monumental work on the French epics <small>[<i>Les Epopées Françaises</i>, T. I., p. 3]</small>, accounts for the initial appearance of the lyric by declaring that the first emotions of the first man in the garden of Eden must have been such as could be expressed only in song; and in making this statement he is merely following a similar assertion found in Victor Hugo&#39;s preface to _Cromwell_. However, neither Gautier nor Hugo goes so far as to maintain that the progenitors of the human race continued to talk in lyrics after the novelty of their situation wore off; and it is an historical fact that the only conversations in Eden which have been recorded were carried on in prose.
 
 In our earliest histories we find that the art of telling stories had reached a point where the existence of fully developed cycles of spoken stories is taken as a matter of course. Tacitus refers to &quot;the peculiar kind of verses current among the Germans, the recital of which they call barding.&quot; Einhard, in his life of Charlemagne, tells how the great emperor &quot;had the old rude songs that celebrate the deeds and wars of the ancient kings written out for transmission to posterity.&quot; And in the old Anglo-Saxon poem of _Widsith_ we find references to cycles of stories centering about Attila the Hun, Chlodovech the Frank, Theodoric the Ostrogoth, Rothari the Lombard, and Gunther the Burgundian. These cycles of stories spread all over western Europe, and the written literature of the twelfth and thirteenth centuries developed out of this spoken literature.
 
@@ -121,7 +124,7 @@ In the case of the literatures of Western Europe, with which we are most familia
 
 When the dialects of the common people became national languages the number of stories written down was greatly increased; but still it was only very rarely that any effort was made to preserve collections of tales. The attitude toward folk literature that had been built up through so many centuries could not readily be changed.
 
-In this connection it is of more than ordinary interest to note the extent to which this popular conception of the short story as anything but literature moved Boccaccio, who thought so lightly of the Decameron that, although it was first given to the public in Florence in 1353, he did not submit it to Petrarch, his dearest literary friend, until after a lapse of nineteen years, in 13728.
+In this connection it is of more than ordinary interest to note the extent to which this popular conception of the short story as anything but literature moved Boccaccio, who thought so lightly of the Decameron that, although it was first given to the public in Florence in 1353, he did not submit it to Petrarch, his dearest literary friend, until after a lapse of nineteen years, in 1372 <small>[cf. Boccaccio’s <i>Decameron</i> (Bohn). Notes by W. K. Kelly, pp. 541 ff.]</small>.
 
 Practically no one could read, so that collections of stories, even in the popular tongue, were of little use. It was only occasionally, and then more often by a series of happy accidents than because of any recognition of merit, that the work of the masters of the short story was preserved. Nevertheless tales were told in those days just as they had been from the beginning and will be to the end; and we know that Boccaccio, Chaucer, and Rabelais, far from standing alone as exponents of their genre, were merely the master craftsmen in a host of story tellers. Even with our very imperfect knowledge of the periods when they lived and wrote, we are able to discover the works of long lists of forgotten lesser lights who preceded and came after them in the field of storytelling. Modern students of the _Decameron_ have succeeded in compiling a list of no less than twenty-eight collections of stories, the work of hundreds of authors—Greek, Latin, Oriental, Provencal, French, and Italian—from which much of the material for the immortal hundred tales was derived, while the list of immediate followers and imitators of Boccaccio is even more formidable than the array of his predecessors. These few early works which are still known to present-day scholars are, of course, but fragments of the great body of oral short stories which existed during the twenty centuries or more that they represent.
 
@@ -139,7 +142,7 @@ There can be no question as to the antiquity of historical and didactic methods 
 
 There is not a literature known to modern research which does not contain ghost stories told to produce a single effect. The intensely dramatic story upon which Burger founded his ballad of _Lenore_ is found in the very earliest popular poetry of England, in different parts of Germany, in the Slavic countries, and in one form or another all over Western Europe. For compression, speed, and the skill with which a single effect is produced, this grim, primeval tale as it is told in the old ballads bears the same stamp of superlative excellence which is placed on the best product of Poe&#39;s pen.
 
-The old Germanic ballad of _Tannh __ä__ user_, published in the Amim and Brentano collection of _Volkslieder_, is another example of the antiquity of the &quot;effect &quot;story. The _coup de th __éâ__ tre_ at the end of the story is just the sort of thing that we find in the work of the masters of the short story in the nineteenth century. Still another example of this same thing is to be found in the old English ballad of _Lord Randall_: and many pages would be required to give a complete list of the &quot;effect &quot;stories which might be selected from collections of English and German ballads alone, without any consideration of other literatures presenting the same features.
+The old Germanic ballad of _Tannh ä user_, published in the Amim and Brentano collection of _Volkslieder_, is another example of the antiquity of the &quot;effect &quot;story. The _coup de théâtre_ at the end of the story is just the sort of thing that we find in the work of the masters of the short story in the nineteenth century. Still another example of this same thing is to be found in the old English ballad of _Lord Randall_: and many pages would be required to give a complete list of the &quot;effect &quot;stories which might be selected from collections of English and German ballads alone, without any consideration of other literatures presenting the same features.
 
 In Boccaccio and his imitators and in the numerous collections of tales brought into Europe from the Orient we find all of the essential variations of the story told to produce a single effect, along with tales told in accordance with the other methods of narration.
 
@@ -161,47 +164,9 @@ The final test of a theory of the sort set forth in the preceding pages, after a
 
 The instinct for story-telling exists in substantially the same form in every race; all men recognize and insist upon the simple limitations of brevity and coherence; and hence, in this field of literature more than in any other, it is possible for an artist to produce masterpieces whose appeal, in spite of national lines and racial characteristics, is truly universal. The best short stories are not essentially French, English, Italian, or American, but are a part of the world&#39;s anthology.
 
-THE END
+[1]:(https://www.talesofmurder.com/murderwiki/the-philosophy-of-the-short-story/ "Philosophy of the Short Story")
+[2]: A Study in Prose Fiction, p. 304
 
-1
-
-#
- Philosophy of the Short Story, p. 17
-
-2
-
-#
- A Study of Prose Fiction, p. 304
-
-3
-
-#
- The Short Story in English, p. 233
-
-4
-
-#
- The Modern Short Story – North American Review 190:802
-
-5
-
-#
- A Study of Prose Fiction, p. 302
-
-6
-
-#
-Notably Grimm and Panl in Germany, Child in England, and Gautier and those who have supported and opposed his theories in France
-
-7
-
-#
-_Les Epop __é__ es Fran __ç__ aises_, T. I., p. 3
-
-8
-
-#
- cf. Boccaccio&#39;s _Decameron_ (Bohn). Notes by W. K. Kelly, pp. 541 ff.
 <p id="theend">~ The End ~
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>

@@ -3,10 +3,10 @@ layout: post_mw
 layoutTag: post
 title: "Ghost Stories"
 subtitle: "Mystery Stories with an Inexplicable Supernatural Manifestation"
-book: "The Techniques of the Mystery"
+opub: "The Techniques of the Mystery Story"
 chapter: "Chapter 4"
 author: Carolyn Wells
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-16-16
 category: murderwiki
 excerpt: "The fascination of this realm of experience, which is traditional from age to age, yet always elusive, is undeniable. Few men have seen ghosts, or will confess that they have seen them. But almost everybody knows some one of the few. Haunted houses are familiar in all neighborhoods, with the same story of the roistering sceptic who will gladly pass the night alone in the haunted chamber, and give monsieur the ghost a warm welcome; but who, if not found dead in the morning, emerges pale and haggard, with a settled terror in his look, and his lips sealed forever upon the awful story of the night."

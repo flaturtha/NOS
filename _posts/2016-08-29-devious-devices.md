@@ -3,9 +3,10 @@ layout: post_mw
 layoutTag: post
 title: "Devious Devices"
 subtitle: "Common Techniques, Often Unfair or Hackneyed, Used By Detetive Story Writers to Arrest the Reader &amp; the&nbsp;Killer"
-book: The Techniques of the Mystery
+chapter: "Chapter 14"
+opub: "The Techniques of the Mystery Story"
 author: Carolyn Wells
-pubdate: 1913
+opub_date: 1913
 date: 2016-08-29
 category: murderwiki
 excerpt: "Of the many devices introduced by detective writers to arrest and hold the readers&#39; attention, some are admittedly legitimate and used by best authors. Others are unfair; and still others were permissible but have become so hackneyed as to be taboo."
