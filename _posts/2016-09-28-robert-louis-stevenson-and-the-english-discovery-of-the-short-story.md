@@ -18,7 +18,7 @@ genre:
 wordcount: 1875
 ---
 
-<section id="toc" class="toc">
+<!-- <section id="toc" class="toc">
   <header>
     <h6>Table of Contents</h6>
   </header>
@@ -26,7 +26,7 @@ wordcount: 1875
 1. Auto generated table of contents
 {:toc}
 </div>
-</section> <!-- table-of-contents -->
+</section> table-of-contents -->
 
 The last third of the century saw the new short story thoroughly established in America, its scope marvelously broadened, its popularity steadily increasing, and the general level of technical excellence rising almost as fast.
 

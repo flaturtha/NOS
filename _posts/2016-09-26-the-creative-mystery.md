@@ -15,7 +15,7 @@ genre:
 wordcount: 2717
 ---
 
-<section id="toc" class="toc">
+<!-- <section id="toc" class="toc">
   <header>
     <h6>Table of Contents</h6>
   </header>
@@ -23,7 +23,7 @@ wordcount: 2717
 1. Auto generated table of contents
 {:toc}
 </div>
-</section> <!-- table-of-contents -->
+</section> table-of-contents -->
 
 The first written story, probably scratched on a tablet of smoothed bark or slate, must have been a record of an actual occurrence. Even if it merely reproduced in rough, almost illegible characters, the legend of past battles or of heroes hitherto commemorated only in ballad or in song, it was no less the fixing of a fact; and we can amuse ourselves by picturing the student with his tools, the centre of an admiring crowd, successful and happy in having constructed a visible, tangible memory — something that could be handled and carried about, circulated, scanned again and again.
 

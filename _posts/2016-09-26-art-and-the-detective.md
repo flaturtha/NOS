@@ -15,7 +15,7 @@ genre:
 wordcount: 3200
 ---
 
-<section id="toc" class="toc">
+<!-- <section id="toc" class="toc">
   <header>
     <h6>Table of Contents</h6>
   </header>
@@ -23,7 +23,7 @@ wordcount: 3200
 1. Auto generated table of contents
 {:toc}
 </div>
-</section> <!-- table-of-contents -->
+</section> table-of-contents -->
 
 There is perhaps no superstition which has bad so mischievous an effect upon criticism as the modern habit of dismissing whole departments of art as intrinsically bad and unworthy. We constantly bear people stigmatize a play as &quot;a mere melodrama&quot; or &quot;a mere farce.&quot; They might as well call a poem &quot;a mere epic.&quot;
 

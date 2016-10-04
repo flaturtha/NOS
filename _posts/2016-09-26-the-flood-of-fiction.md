@@ -15,7 +15,7 @@ genre:
 wordcount: 3770
 ---
 
-<section id="toc" class="toc">
+<!-- <section id="toc" class="toc">
   <header>
     <h6>Table of Contents</h6>
   </header>
@@ -23,7 +23,7 @@ wordcount: 3770
 1. Auto generated table of contents
 {:toc}
 </div>
-</section> <!-- table-of-contents -->
+</section> table-of-contents -->
 
 As long as the world endures people will itch to hear a story; so there is but small fear the maker of tales will awake one morning to find that no one cares any longer to listen to him. But, unhappily, there is today a growing tendency to divorce literature from fiction, and there was more than a measure of truth in the rebuke I heard administered at a library by a stately and picturesque old lady to a greatly astonished assistant — &quot;I want something to read, and you have nothing here but novels.&quot;
 

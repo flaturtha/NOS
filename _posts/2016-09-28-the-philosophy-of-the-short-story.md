@@ -17,9 +17,9 @@ wordcount: 10005
 ---
 
 <section id="toc" class="toc">
-  <header>
-    <h6>Table of Contents</h6>
-  </header>
+ <header>
+  <h6>Table of Contents</h6>
+ </header>
 <div id="drawer" markdown="1">
 1. Auto generated table of contents
 {:toc}
@@ -27,25 +27,28 @@ wordcount: 10005
 </section> <!-- table-of-contents -->
 
 ## Prefatory Note
+{: .chapternumber .no_toc}
 
 Certain of the opinions put forward in the following pages were first expressed briefly (and anonymously) in the columns of the _Saturday Review_ of London in the summer of 1884. The present paper, in which these opinions were more elaborately set forth, and with a greater variety of illustration, was originally printed in _Lippincott&#39;s Magazine_ for October, 1885. After a while it was included in a volume called &quot;Pen and Ink: Essays on subjects of more or less importance,&quot; published in the fall of 1888 (New York and London: Longmans, Green, &amp; Co).
 
 In the final ten years of the nineteenth century an increasing attention has been paid to the history of fiction and to the principles of narrative art. In many of the leading American universities the modern novel has been serving as the subject for lectures and as the material for private study, in the course of which the Short-story received a fair share of consideration. No doubt, it is in consequence of this incessant discussion of modern fiction and of its methods that the author and the publishers have been made aware of a demand for the present essay, with such revision and annotation as might render it more useful, not only to the earnest student, but also to the casual reader.
 
-B. M.
+<p style="text-align:right;font-style:italic;">B. M.<br>Columbia University.<br>January I, 1901.</p>
 
-Columbia University.
-
-January I, 1901.
+<hr>
 
 ## Chapter I
+{: .chapternumber .no_toc}
+
+## the Principles and the Practice of the Art of Writing Stories
+{: .chaptertitle }
 
 If it chance that artists fall to talking about their art, it is the critic&#39;s place to listen, that he may pick up a little knowledge. Of late, certain of the novelists of Great Britain and the United States have been discussing the principles and the practice of the art of writing stories.
 
-Mr. Howells declared his warm appreciation of Mr. Henry James&#39;s novels; Mr. Stevenson made public a delightful plea for Romance; Mr. Besant lectured gracefully on the _Art of Fiction_; and Mr. James modestly presented his views by way of supplement and criticism. * <small style="background-color:#FFFFE6;color:#242424">[1]</small>
+Mr. Howells declared his warm appreciation of Mr. Henry James&#39;s novels; Mr. Stevenson made public a delightful plea for Romance; Mr. Besant lectured gracefully on the _Art of Fiction_; and Mr. James modestly presented his views by way of supplement and criticism. *  <sup class="sup_red">[1]</sup>
 
 <div class="sidenote">
-<sup>1</sup>Mr. Besant’s lecture was published in a pamphlet (London: Chatto and Windus). Mr. James's essay may be found in his ‘Partial Portraits’ (London and New York: Macmillan Sc Co). Mr. Stevenson's ‘Humble Remonstrance,' as well as his cognate ‘Gossip on Romance,' are included in the volume called ‘Memories and Portraits' (New York : Scribner; London: Chatto and Windus). The substance of Mr. Howells’ s doctrines can be found succinctly set forth in his little book called ‘Criticism and Fiction’ (New York : Harper &amp; Brothers).
+ <sup class="sup_red">1</sup> Mr. Besant’s lecture was published in a pamphlet (London: Chatto and Windus). Mr. James's essay may be found in his ‘Partial Portraits’ (London and New York: Macmillan Sc Co). Mr. Stevenson's ‘Humble Remonstrance,' as well as his cognate ‘Gossip on Romance,' are included in the volume called ‘Memories and Portraits' (New York : Scribner; London: Chatto and Windus). The substance of Mr. Howells’ s doctrines can be found succinctly set forth in his little book called ‘Criticism and Fiction’ (New York : Harper &amp; Brothers).
 </div>
 
 The discussion took a wide range. With more or less fulness it covered the proper aim and intent of the novelist, his material and his methods, his success, his rewards, social and pecuniary, and the morality of his work and of his art. But, with all its extension, the discussion did not include one important branch of the art of fiction: it did not consider at all the minor art of the Short-story.
@@ -57,21 +60,26 @@ Although neither Mr. Howells nor Mr. Janies, Mr. Besant nor Mr. Stevenson specif
 The relation of the Short-story to the Novel, and the influence which the one may at any time have exerted upon the development of the other, — these are topics not taken up in Professor Walter Raleigh&#39;s _The English Novel_, or in Professor W. L. Cross&#39;s _Development of the English Novel_, or in Professor F. H. Stoddard&#39;s _Evolution of the English Novel_, They are not discussed even in Mr. Henry Wilson&#39;s annotated edition of Dunlop&#39;s _History of Prose Fiction_, in which there is a genuine effort to consider all the aspects of the art of the story-teller.]
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
+<hr>
 
 ## Chapter II
+{: .chapternumber .no_toc}
+
+## A True Short Story &mdash; Something More Than a Mere Story Which Is Short
+{: .chaptertitle }
 
 The difference between a Novel and a Novelet is one of length only: a Novelet is a brief Novel. But the difference between a Novel and a Short-story is a difference of kind.
 
-A true Short-story is something other and something more than a mere story which Is short. A true Short-story differs from the Novel chiefly in its essential unity of impression. In a far more exact and precise use of the word, a Short-story has unity as a Novel cannot have it. * <small style="background-color:#FFFFE6;color:#242424">[2]</small>
+A true Short-story is something other and something more than a mere story which Is short. A true Short-story differs from the Novel chiefly in its essential unity of impression. In a far more exact and precise use of the word, a Short-story has unity as a Novel cannot have it. *  <sup class="sup_red"> [2]</sup>
 
 <div class="sidenote">
-<sup>2</sup> In a letter to a friend, Stevenson lays down the law with his usual directness: “Make another end to it? Ah, yes, but that’s not the way I write; the whole tale is implied; I never use an effect when I can help it, unless it prepares the effects that are to follow; that’s what a story consists in. To make another end, that is to make the beginning all wrong. The dénouement of a long story is nothing, it is just ‘a full close,’ which you may approach and accompany as you please — it is a coda, not an essential member in the rhythm; but the body and end of a short-story is bone of the bane and blood of the blood of the beginning.” Vailima Letters, vol. i., p. 147.
+ <sup class="sup_red">2</sup> In a letter to a friend, Stevenson lays down the law with his usual directness: “Make another end to it? Ah, yes, but that’s not the way I write; the whole tale is implied; I never use an effect when I can help it, unless it prepares the effects that are to follow; that’s what a story consists in. To make another end, that is to make the beginning all wrong. The dénouement of a long story is nothing, it is just ‘a full close,’ which you may approach and accompany as you please — it is a coda, not an essential member in the rhythm; but the body and end of a short-story is bone of the bane and blood of the blood of the beginning.” <i>Vailima Letters</i>, vol. i., p. 147.
 </div>
 
-Often, it may be noted by the way, the Short-story fulfils the three false unities of the French classic drama: it shows one action, in one place, on one day. A Short-story deals with a single character, a single event, a single emotion, or the series of emotions called forth by a single situation. Poe&#39;s paradox * <small style="background-color:#FFFFE6;color:#242424">[3]</small> that a poem cannot greatly exceed a hundred lines in length under penalty of ceasing to be one poem and breaking into a string of poems, may serve to suggest the precise difference between the Short-story and the Novel.
+Often, it may be noted by the way, the Short-story fulfils the three false unities of the French classic drama: it shows one action, in one place, on one day. A Short-story deals with a single character, a single event, a single emotion, or the series of emotions called forth by a single situation. Poe&#39;s paradox *  <sup class="sup_red"> [3]</sup> that a poem cannot greatly exceed a hundred lines in length under penalty of ceasing to be one poem and breaking into a string of poems, may serve to suggest the precise difference between the Short-story and the Novel.
 
 <div class="sidenote">
-<sup>3</sup> See his essay on ‘<a href="https://www.talesofmurder.com/murderwiki/philosophy-of-composition/">The Philosophy of Composition</a>,’ to be found in the sixth volume of the collected edition of his works, prepared by Messrs. Stedman and Woodberry.
+ <sup class="sup_red">3</sup> See his essay on ‘<a href="https://www.talesofmurder.com/murderwiki/philosophy-of-composition/">The Philosophy of Composition</a>,’ to be found in the sixth volume of the collected edition of his works, prepared by Messrs. Stedman and Woodberry.
 </div>
 
 The Short-story is the single effect, complete and self-contained, while the Novel is of necessity broken into a series of episodes. Thus the Short-story has, what the Novel cannot have, the effect of &quot;totality,&quot; as Poe called it, the unity of impression.
@@ -84,10 +92,10 @@ But the writer of Short-stories is under no bonds of this sort. Of course he may
 
 If we were to pick out the ten best Short-stories, I think we should find that fewer than half of them made any mention at all of love. In the &#39;Snow Image&#39; and in the &#39; Ambitious Guest,&#39; in the &#39; Gold Bug&#39; and in the &#39;Fall of the House of Usher,&#39; in &#39;My Double, and how he Undid me,&#39; in &#39; Devil-Puzzlers,&#39; in the &#39;Outcasts of Poker Flat,&#39; in &#39;Jean-ah Poquelin,&#39; in &#39; A Bundle of Letters,&#39; there is little or no mention of the love of man for woman, which is generally the chief topic of conversation in a Novel.
 
-While the Novel cannot get on easily without love, the Short-story can. Since love seems to be almost the only thing which will give interest to a long story, the writer of Novels has to get love into his tales as best he may, even when the subject rebels and when he himself is too old to take any delight in the mating of John and Joan. But the Short-story, being brief, does not need a love-interest to hold its parts together, and the writer of Short-stories has thus a greater freedom; he may do as he pleases; from him a love-tale is not expected.  * <small style="background-color:#FFFFE6;color:#242424">[4]</small>
+While the Novel cannot get on easily without love, the Short-story can. Since love seems to be almost the only thing which will give interest to a long story, the writer of Novels has to get love into his tales as best he may, even when the subject rebels and when he himself is too old to take any delight in the mating of John and Joan. But the Short-story, being brief, does not need a love-interest to hold its parts together, and the writer of Short-stories has thus a greater freedom; he may do as he pleases; from him a love-tale is not expected. *  <sup class="sup_red"> [4]</sup>
 
 <div class="sidenote">
-<sup>4</sup>In an essay on ‘The Local Short-story’ contributed to the <i>Independent</i> for March n, 1892, Colonel T. W. Higginson points out the disadvantages the novelist labours under when he knows that his work is to be published in instalments; and he declares that this possible serial publication “affords the justification of the short-story. For here, at least, we have the conditions of perfect art; there is no sub-division of interest; the author can strike directly in, without preface, can move with determined step toward a conclusion, and can — O highest privilege! — stop when he is done.
+ <sup class="sup_red">4</sup> In an essay on ‘The Local Short-story’ contributed to the <i>Independent</i> for March n, 1892, Colonel T. W. Higginson points out the disadvantages the novelist labours under when he knows that his work is to be published in instalments; and he declares that this possible serial publication “affords the justification of the short-story. For here, at least, we have the conditions of perfect art; there is no sub-division of interest; the author can strike directly in, without preface, can move with determined step toward a conclusion, and can — O highest privilege! — stop when he is done.
 For the most perfect examples of the short-story — those of De Maupassant, for instance — the reader feels, if he can pause to think, that they must have been done at a sitting, so complete is the grasp, the single grasp, upon the mind. This completeness secures the end; they need not be sensational, because there is no necessity of keeping up a series of exciting minor incidents; the main incident is enough. Around the very centre of motion, as in a whirlwind, there may be a perfect quiet, a quiet which is formidable in its very repose. In De Maupassant's terrific story of Corsican vengeance, ‘Une Vendetta,’ in which the sole actor is a lonely old woman who trains a fierce dog so that he ultimately kills her enemy, the author simply tells us, at the end, that this quiet fiend of destruction went peacefully home and went to sleep. Elle dormit bien, cette nuit-là. The cyclone has spent itself, and the silence it has left behind it is more formidable than the cyclone.”
 </div>
 
@@ -95,20 +103,20 @@ But other things are required of a writer of Short-stories which are not require
 
 In fact, it may be said that no one has ever succeeded as a writer of Short-stories who had not ingenuity, originality, and compression; and that most of those who have succeeded in this line had also the touch of fantasy. But there are not a few successful novelists lacking, not only in fantasy and compression, but also in ingenuity and originality; they had other qualities, no doubt, but these they had not.
 
-If an example must be given, the name of Anthony Trollope will occur to all. Fantasy was a thing he abhorred; compression he knew not; and originality and ingenuity can be conceded to him only by a strong stretch of the ordinary meaning of the words. Other qualities he had in plenty, but not these. And, not having them, he was not a writer of Short-stories. Judging from his essay on Hawthorne * <small style="background-color:#FFFFE6;color:#242424">[See NOTE]</small>, one may even go so far as to say that Trollope did not know a good Short-story when he saw it.
+If an example must be given, the name of Anthony Trollope will occur to all. Fantasy was a thing he abhorred; compression he knew not; and originality and ingenuity can be conceded to him only by a strong stretch of the ordinary meaning of the words. Other qualities he had in plenty, but not these. And, not having them, he was not a writer of Short-stories. Judging from his essay on Hawthorne *  <sup class="sup_red"> [5]</sup>, one may even go so far as to say that Trollope did not know a good Short-story when he saw it.
 
 <div class="sidenote">
-
+ <sup class="sup_red">5</sup> This critical paper of Trollope’s on ‘The Genius of Nathaniel Hawthorne’ was contributed to the <i>North American Review</i> for September, 1879. Apparently, like many other of his essays, it has not been reprinted.
 </div>
 
 I have written &quot;Short-stories&quot; with a capital S and a hyphen because I wished to emphasise the distinction between the Short-story and the story which is merely short. The Short-story is a high and difficult department of fiction. The story which is short can be written by anybody who can write at all; and it may be good, bad, or indifferent; but at its best it is wholly unlike the Short-story.
 
 In _An Editor&#39;s Tales_ Trollope has given us excellent specimens of the story which is short; and the narratives which make up this book are amusing enough and clever enough, but they are wanting in the individuality and in the completeness of the genuine Short-story. Like the brief tales to be seen in the British monthly magazines and in the Sunday editions of American newspapers into which they are copied, they are, for the most part, either merely amplified anecdotes or else incidents which might have been used in a Novel just as well as not.
 
-Now, it cannot be said too emphatically that the genuine Short-story abhors the idea of the Novel. It neither can be conceived as part of the novel, nor can it be elaborated and expanded so as to form a Novel. A good Short-story is no more the synopsis of a Novel than it is an episode from a Novel.* <small style="background-color:#FFFFE6;color:#242424">[See NOTE]</small> A slight Novel, or a Novel cut down, is a Novelet: it is not a Short-story. Mr. Howells&#39;s &#39;Their Wedding Journey &#39; and Miss Howard&#39;s &#39;One Summer&#39; are Novelets, — little Novels. Mr. Anstey&#39;s &#39;Vice Versa,&#39; Mr. Besant&#39;s &#39;Case of Mr. Lucraft,&#39; Hugh Conway&#39;s &#39;Called Back,&#39; Mr. Julian Hawthorne&#39;s &#39;Archibald Malmaison,&#39; and Mr. Stevenson&#39;s &#39;Strange Case of Dr. Jekyll and Mr. Hyde&#39; are Short-stories in conception, although they are without the compression which the Short-story requires.
+Now, it cannot be said too emphatically that the genuine Short-story abhors the idea of the Novel. It neither can be conceived as part of the novel, nor can it be elaborated and expanded so as to form a Novel. A good Short-story is no more the synopsis of a Novel than it is an episode from a Novel.*  <sup class="sup_red"> [6]</sup> A slight Novel, or a Novel cut down, is a Novelet: it is not a Short-story. Mr. Howells&#39;s &#39;Their Wedding Journey &#39; and Miss Howard&#39;s &#39;One Summer&#39; are Novelets, — little Novels. Mr. Anstey&#39;s &#39;Vice Versa,&#39; Mr. Besant&#39;s &#39;Case of Mr. Lucraft,&#39; Hugh Conway&#39;s &#39;Called Back,&#39; Mr. Julian Hawthorne&#39;s &#39;Archibald Malmaison,&#39; and Mr. Stevenson&#39;s &#39;Strange Case of Dr. Jekyll and Mr. Hyde&#39; are Short-stories in conception, although they are without the compression which the Short-story requires.
 
 <div class="sidenote">
-
+ <sup class="sup_red">6</sup> In some rambling notes on “The Short-story” contributed to the <i>Nineteenth Century</i> for March, 1898, Mr. Frederick Wedmore reiterates certain of the points made in this essay. For one thing, he declares that a good Short-story can never be ‘a novel in a nut-shell’; it “cannot possibly be a précis, a synopsis, a scenario, as it were, of a novel. It is a separate thing — as separate, almost, as the Sonnet is from the Epic, — it involves the exercise almost of a different art.”
 </div>
 
 It may be remembered that in the acute and learned essay on _vers de société_ which he prefixed to his admirable &#39;Lyra Elegantiarum,&#39; Mr. Frederick Locker declared that the two characteristics of the best _vers de soci__ é __t__ é_ were brevity and brilliancy, and that the &#39;Rape of the Lock&#39; would be the type and model of the best _vers de soci __é__ t__é_ — if it were not just a little too long. So it is with the &#39;Case of Mr. Lucaft,&#39; with &#39;Vice Versa,&#39; with &#39;Archibald Malmaison&#39;: they are just a little too long.
@@ -116,6 +124,10 @@ It may be remembered that in the acute and learned essay on _vers de société_ 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 
 ## Chapter III
+{: .chapternumber .no_toc}
+
+## The Short-Story Is Nothing If There Is No Story To Tell
+{: .chaptertitle }
 
 It is to be noted as a curious coincidence that there is no exact word in English to designate either _vers de société_ or the Short-story, and yet in no language are there better _vers de société_ or Short-stories than in English. It may be remarked also that there is a certain likeness between _vers de société_ and Short-stories: for one thing, both seem easy to write and are hard.
 
@@ -139,16 +151,16 @@ I once heard a clever American novelist pour sarcastic praise upon another Ameri
 
 Hitherto, declared the eulogist, only four terminations of a novel have been known to the most enthusiastic and untiring student of fiction. First, they are married; or second, she marries someone else; or, thirdly, he marries someone else; or fourthly, and lastly, she dies. Now, continued the panegyrist, a fifth termination has been shown to be practicable: they are not married, she does not die, he does not die, — and nothing happens at all. As a Short-story need not be a love-story, it is of no consequence at all whether they marry or die; but a Short-story in which nothing happens at all is an absolute impossibility.
 
-Perhaps the difference between a Short-story and a Sketch can best be indicated by saying that, while a Sketch may be still-life, in a Short-story something always happens. A Sketch may be an outline of character, or even a picture of a mood of mind, but in a Short-story there must be something done, there must be an action. * <small style="background-color:#FFFFE6;color:#242424">[See NOTE]</small>
+Perhaps the difference between a Short-story and a Sketch can best be indicated by saying that, while a Sketch may be still-life, in a Short-story something always happens. A Sketch may be an outline of character, or even a picture of a mood of mind, but in a Short-story there must be something done, there must be an action. *  <sup class="sup_red"> [7]</sup>
 
 <div class="sidenote">
-
+ <sup class="sup_red">7</sup> This difference is considered briefly by Mr. F. B. Perkins in the characteristically clever preface to the volume of his ingenious Short-stories, which takes its title from the first and best — ‘Devil-Puzzlers' (New York: G. P. Putnam's Sons).
 </div>
 
-Yet the distinction, like that between the Novel and the Romance, is no longer of vital importance. In the preface to the &#39;House of the Seven Gables,&#39; Hawthorne sets forth the difference between the Novel and the Romance, and claims for himself the privileges of the romancer. Mr. Henry James * <small style="background-color:#FFFFE6;color:#242424">[See NOTE]</small> fails to see this difference.
+Yet the distinction, like that between the Novel and the Romance, is no longer of vital importance. In the preface to the &#39;House of the Seven Gables,&#39; Hawthorne sets forth the difference between the Novel and the Romance, and claims for himself the privileges of the romancer. Mr. Henry James *  <sup class="sup_red"> [8]</sup> fails to see this difference.
 
 <div class="sidenote">
-
+ <sup class="sup_red">8</sup> In the narrow but suggestive biography of Hawthorne contributed to Mr. John Morley’s ‘English Men of Letters.’
 </div>
 
 The fact is, that the Short-story and the Sketch, the Novel and the Romance, melt and merge one into the other, and no man may mete the boundaries of each, though their extremes lie far apart. With the more complete understanding of the principle of development and evolution in literary art, as in physical nature, we see the futility of a strict and rigid classification into precisely defined genera and species. All that is needful for us to remark now is that the Short-story has limitless possibilities: it may be as realistic as the most prosaic novel, or as fantastic as the most ethereal romance.
@@ -156,6 +168,10 @@ The fact is, that the Short-story and the Sketch, the Novel and the Romance, mel
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 
 ## Chapter IV
+{: .chapternumber .no_toc}
+
+## Poe and Hawthorne &mdash; As American In Style As Anyone
+{: .chaptertitle }
 
 As a touch of fantasy, however slight, is a welcome ingredient in a Short-story, and as the American takes more thought of things unseen than the Englishman, we may have here an incomplete explanation of the superiority of the American Short-story over the British.
 
@@ -173,10 +189,10 @@ When Coleridge was told that Klopstock was the German Milton, he assented with t
 
 In fact, both Poe and Hawthorne are as American as anyone can be. If the adjective American has any meaning at all, it qualifies Poe and Hawthorne. They were American to the core. They both revealed the curious sympathy with Oriental moods of thought which is often an American characteristic. Poe, with his cold logic and his mathematical analysis, and Hawthorne, with his introspective conscience and his love of the subtle and the invisible, are representative of phases of American character not to be mistaken by anyone who has given thought to the influence of nationality.
 
-As to which of the two was the greater, discussion is idle; but that Hawthorne was the finer genius, few would deny. Poe * <small style="background-color:#FFFFE6;color:#242424">[See NOTE]</small>, as cunning an artificer of goldsmith&#39;s work and as adroit in its vending as was ever M. Josse, declared that &quot;Hawthorne&#39;s distinctive trait is invention, creation, imagination, originality, — a trait which in the literature of fiction is positively worth all the rest.&quot;
+As to which of the two was the greater, discussion is idle; but that Hawthorne was the finer genius, few would deny. Poe *  <sup class="sup_red"> [9]</sup>, as cunning an artificer of goldsmith&#39;s work and as adroit in its vending as was ever M. Josse, declared that &quot;Hawthorne&#39;s distinctive trait is invention, creation, imagination, originality, — a trait which in the literature of fiction is positively worth all the rest.&quot;
 
 <div class="sidenote">
-
+ <sup class="sup_red">9</sup> In his review of Hawthorne's earlier tales, contributed originally to <i>Graham's Magazine</i>, and to be consulted now in the seventh volume of the critical edition prepared by Messrs. Stedman and Woodberry. It is both interesting and instructive to compare this article on Hawthorne in which Poe vaunts the superiority of the Short-story over the Novel, with the paper on the ‘Philosophy of Composition,' in which he makes a similar claim for the Lyric over the Epic.
 </div>
 
 But with the moral basis of Hawthorne&#39;s work, which had flowered in the crevices and crannies of New England Puritanism, Poe did not concern himself. In Poe&#39;s hands the story of the &#39;Ambitious Guest&#39; might have thrilled us with a more powerful horror, but it would have lacked the ethical beauty which Hawthorne gave it and which makes it significant beyond a mere feat of verbal legerdemain.
@@ -187,22 +203,22 @@ Although it may be doubted whether the fiery and tumultuous rush of a volcano, w
 
 One might hazard the assertion that in all Latin countries he is the best known of American authors. Certainly no American writer has been so widely accepted in France. Nothing better of its kind has ever been done than the &#39;Pit and the Pendulum,&#39; or than the &#39;Fall of the House of Usher&#39; (which has been compared aptly with Browning&#39;s &#39;Childe Roland to the Dark Tower came &#39; for its power of suggesting intellectual desolation). Nothing better of its kind has ever been done than the &#39;Gold Bug,&#39; or than the &#39;Purloined Letter,&#39; or than the &#39;Murders in the Rue Morgue.&#39;
 
-The _Murders in the Rue Morgue_ is indeed a story of the most marvellous skill: it was the first of its kind, and to this day it remains a model, not only unsurpassed, but unapproachable. * <small style="background-color:#FFFFE6;color:#242424">[See NOTE]</small>It was the first of detective stories; and it has had thousands of imitations and no rival. The originality, the ingenuity, the verisimilitude of this tale and of its fellows are beyond all praise. Poe had a faculty which one may call imaginative ratiocination to a degree beyond all other writers of fiction. * <small style="background-color:#FFFFE6;color:#242424">[See NOTE]</small> He did not at all times keep up to the high level, in one style, of the _Fall of the House of Usher_, and, in another, of the _Murders in the Rue Morgue_, and it was not to be expected that he should. Only too often did he sink to the grade of the ordinary _Tale from Blackwood_, which he himself satirised in his usual savage vein of humour.
+The _Murders in the Rue Morgue_ is indeed a story of the most marvellous skill: it was the first of its kind, and to this day it remains a model, not only unsurpassed, but unapproachable. *  <sup class="sup_red"> [10]</sup>It was the first of detective stories; and it has had thousands of imitations and no rival. The originality, the ingenuity, the verisimilitude of this tale and of its fellows are beyond all praise. Poe had a faculty which one may call imaginative ratiocination to a degree beyond all other writers of fiction. *  <sup class="sup_red"> [11]</sup> He did not at all times keep up to the high level, in one style, of the _Fall of the House of Usher_, and, in another, of the _Murders in the Rue Morgue_, and it was not to be expected that he should. Only too often did he sink to the grade of the ordinary _Tale from Blackwood_, which he himself satirised in his usual savage vein of humour.
 
 <div class="sidenote">
-
+ <sup class="sup_red">10</sup> For example, it is not unfair to suggest that all the manifold feats of Dr. Conan Doyle's very clever ‘Sherlock Holmes’ are latent in one or another of these tales of Poe's, — M. Dupin being the prototype of Holmes himself, and the autobiographic narrator standing in the same attitude of wondering admiration that Dr. Watson takes in the British series.
 </div>
 
 <div class="sidenote">
-
+ <sup class="sup_red">11</sup> In his very suggestive study of Poe in ‘New Essays toward a critical method,' Mr. J. M. Robertson quotes from the Spanish critic Landa the statement that Poe “has been the first story-writer to exploit the field of science in the department of the marvelous;” and he has further been the first “to exploit the marvellous in morbid psychology with scientific art" (p. 103).
 </div>
 
 And yet there is no denying that even in his flimsiest and most tawdry tales we see the truth of Mr. Lowell&#39;s assertion that Poe had &quot;two of the prime qualities of genius, — a faculty of vigorous yet minute analysis, and a wonderful fecundity of imagination.&quot;
 
-Mr. Loweil said also that Poe combined &quot;in a very remarkable manner two faculties which are seldom found united, — a power of influencing the mind of the reader by the impalpable shadows of mystery, and a minuteness of detail which does not leave a pin or a button unnoticed. Both are, in truth, the natural results of the predominating quality of his mind, to which we have before alluded, — analysis.&quot; * <small style="background-color:#FFFFE6;color:#242424">[See NOTE]</small>
+Mr. Loweil said also that Poe combined &quot;in a very remarkable manner two faculties which are seldom found united, — a power of influencing the mind of the reader by the impalpable shadows of mystery, and a minuteness of detail which does not leave a pin or a button unnoticed. Both are, in truth, the natural results of the predominating quality of his mind, to which we have before alluded, — analysis.&quot; *  <sup class="sup_red"> [12]</sup>
 
 <div class="sidenote">
-
+ <sup class="sup_red">12</sup> It is to be regretted that Lowell's acute criticism of Poe is not to be found in the complete edition of his own works, but only in an early and incomplete edition of Poe's.
 </div>
 
 In Poe&#39;s hands, however, the enumeration of pins and buttons, the exact imitation of the prosaic facts of humdrum life in this workaday world, is not an end, but a means only, whereby he constructs and intensifies the shadow of mystery which broods over the things thus realistically portrayed.
@@ -210,15 +226,19 @@ In Poe&#39;s hands, however, the enumeration of pins and buttons, the exact imit
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 
 ## Chapter V
+{: .chapternumber .no_toc}
 
-With the recollection that it is more than half a century since Hawthorne and Poe wrote their best Short-stories, it is not a little comic to see now and again in American newspapers a rash assertion that American literature has hitherto been deficient in good Short-stories,&quot; or the reckless declaration that &quot; the art of writing Short-stories has not hitherto been cultivated in the United States.&quot; * <small style="background-color:#FFFFE6;color:#242424">[See NOTE]</small> Nothing could be more inexact than these statements. Almost as soon as America began to have any literature at all it had good Short-stories. * <small style="background-color:#FFFFE6;color:#242424">[See NOTE]</small>
+## As a Form of Fiction the Short-story Is Not Inferior to the Novel
+{: .chaptertitle }
+
+With the recollection that it is more than half a century since Hawthorne and Poe wrote their best Short-stories, it is not a little comic to see now and again in American newspapers a rash assertion that American literature has hitherto been deficient in good Short-stories,&quot; or the reckless declaration that &quot; the art of writing Short-stories has not hitherto been cultivated in the United States.&quot; *  <sup class="sup_red"> [13]</sup> Nothing could be more inexact than these statements. Almost as soon as America began to have any literature at all it had good Short-stories. *  <sup class="sup_red"> [14]</sup>
 
 <div class="sidenote">
-
+ <sup class="sup_red">13</sup> The reader may be reminded once more that this essay was written in 1885. Although these absurd assertions were not infrequent then, they are unknown now.
 </div>
 
 <div class="sidenote">
-
+ <sup class="sup_red">14</sup> It Is not without Interest to recall the fact that Irving’s ‘Sketch Book’ was the earliest work of American authorship to gain popularity in Great Britain, and that it originally appeared in parts in 1819-10, — the very first part containing ‘Rip van Winkle,’ a perfect specimen of the American Short-story with its delightful blending of fantasy and humour. And in a letter written to a friend in New York shortly after the publication of the ‘Tales of a Traveler,’ in 1814, Irving pointed out, with equal shrewdness and modesty, the reasons why the Short-story seemed to him more difficult than the Novel, and also discussed his own method of composition. (‘Life and Letters of Washington Irving.’ New York; G. P. Putnam’s Sons, 1869, vol. ii. p. 117.)
 </div>
 
 It is quite within ten, or at the most twenty, years that the American novel has come to the front and forced the acknowledgment of its equality with the British novel and the French novel; but for fifty years the American Short-story has had a supremacy which any competent critic could not but acknowledge. Indeed, the present excellence of the American novel is due in great measure to the Short-story; for nearly every one of the American novelists whose works are now read by the whole English-speaking race began as a writer of Short-stories.
@@ -231,28 +251,28 @@ But, while the magazines of the United States are hungry for good Short-stories,
 
 When we read the roll of American novelists, we see that nearly all of them began as writers of Short-stories. Some of them, Mr. Bret Harte, for instance, and Dr. Edward Everett Hale, never got any farther, or, at least, if they wrote novels, their novels did not receive the full artistic appreciation and the ample popular approval bestowed on their Short-stories. Even Mr. Cable&#39;s admirable (Grandissimes&#39; has not made his many readers forget his _Posson Jone_;&#39; nor has Mr. Aldrich&#39;s _Queen of Sheba_, charming as she is, driven from our memory his _Margery Daw_ (as delightful and as captivating as that other non-existent heroine, Mr. Austin Dobson&#39;s _Dorothy_).
 
-Mrs. Burnett, Miss Woolson, and Miss Murfree put forth volumes of Short-stories before they attempted the more sustained flight of the full-fledged Novel. Miss Jewett, Mr. Bunner, Mr. Bishop, and Mr. Julian Hawthorne wrote Short-stones before they wrote novels; and Mr. James has never gathered into a book from the back numbers of magazines the half of his earlier efforts.  * <small style="background-color:#FFFFE6;color:#242424">[See 15]</small>
+Mrs. Burnett, Miss Woolson, and Miss Murfree put forth volumes of Short-stories before they attempted the more sustained flight of the full-fledged Novel. Miss Jewett, Mr. Bunner, Mr. Bishop, and Mr. Julian Hawthorne wrote Short-stones before they wrote novels; and Mr. James has never gathered into a book from the back numbers of magazines the half of his earlier efforts. *  <sup class="sup_red"> [15]</sup>
 
 <div class="sidenote">
-
+ <sup class="sup_red">15</sup> In the article from which a quotation has already been made (in a note on pp. 21, xx), Colonel Higginson called attention to the skill with which the local short-story in the hands of innumerable writers of both sexes in all parts of the United States has been made to yield the very form and colour of every section of our immense country and he remarks that “the rapid multiplication of the portable kodak has scarcely surpassed the swift growth of local writers, each apparently having the same equipment of directness and vigor. All the varied elements of our society are being rapidly sought out and exhibited. To begin on the soil longest wrought. Miss Wilkins has produced a series of moral pictures, as true and as terse as anything in literature, though she has, unhappily, left rather out of sight the more cultivated and ancestral aspects of New England life, to which, however, Miss Jewett has done ampler justice.”
 </div>
 
 In these references to the American magazine I believe I have suggested the real reason of the superiority of the American Short-stories over the British. It is not only that the eye of patriotism may detect more fantasy, more humour, a finer feeling for art, in these younger United States, but there is a more emphatic and material reason for the American proficiency.
 
 There is in the United States a demand for Short-stories which does not exist in Great Britain, or at any rate not in the same degree. The Short-story is of very great importance to the American magazine. But in the British magazine the serial Novel is the one thing of consequence, and all else is termed &quot;padding.&quot; In England the writer of three-volume Novels is the best paid of literary labourers.
 
-So it is to be noted that whoever in England has the gift of story-telling is strongly tempted not to essay the difficult art of writing Short-stories, for which he will receive only an inadequate reward; and he is as strongly tempted to write a long story which may serve first as a serial and afterward as a three-volume Novel. The result of this temptation is seen in the fact that there is not a single British novelist whose reputation has been materially assisted by the Short-stories he has written. * <small style="background-color:#FFFFE6;color:#242424">[See NOTE]</small>
+So it is to be noted that whoever in England has the gift of story-telling is strongly tempted not to essay the difficult art of writing Short-stories, for which he will receive only an inadequate reward; and he is as strongly tempted to write a long story which may serve first as a serial and afterward as a three-volume Novel. The result of this temptation is seen in the fact that there is not a single British novelist whose reputation has been materially assisted by the Short-stories he has written. *  <sup class="sup_red"> [16]</sup>
 
 <div class="sidenote">
-
+ <sup class="sup_red">16</sup> Since this was written the Short-stories of R. L. Stevenson and of Mr. Kipling have proved again how dangerous it is to generalise from special conditions.
 </div>
 
 More than once in the United States a single Short-story has made a man known; but in Great Britain such an event is well-nigh impossible. The disastrous effect on narrative art of the desire to distend every subject to the three-volume limit has been dwelt on unceasingly by British critics.
 
-The three-volume system is peculiar to Great Britain: it does not obtain either in France or the United States. As a consequence, the French or American writer of fiction is left free to treat his subject at the length it demands, — no more and no less. It is pleasant to note that there are signs of the beginning of the break-up of the system even in England; and the protests of the chief British critics against it are loud and frequent. * <small style="background-color:#FFFFE6;color:#242424">[See NOTE]</small>
+The three-volume system is peculiar to Great Britain: it does not obtain either in France or the United States. As a consequence, the French or American writer of fiction is left free to treat his subject at the length it demands, — no more and no less. It is pleasant to note that there are signs of the beginning of the break-up of the system even in England; and the protests of the chief British critics against it are loud and frequent. *  <sup class="sup_red"> [17]</sup>
 
 <div class="sidenote">
-
+ <sup class="sup_red">17</sup> It is satisfactory to record now that the three-volume system has disappeared at last, and finally, in the years that have elapsed since this paragraph was originally penned. Its extinction moved Mr. Rudyard Kipling to chant its requiem in a series of satirical stanzas, called ‘The Three-Decker,’ and now to be found with his other later lyrics in ‘The Seven Seas.’
 </div>
 
 It was this three-volume system which was responsible in great measure for the invention and protection of the British machine for making British Novels, of which Mr. Warner told us in his enter-tuning essay on fiction. We all know the work of this machine, and we all recognise the trade-mark it imprints in the corner. But Mr. Warner failed to tell us, what nevertheless is a fact, that this British machine can be geared down so as to turn out the British short story.
@@ -261,23 +281,27 @@ Now, the British short story, as the machine makes it and as we see it in most B
 
 As a rule, in England the artist in fiction does not care to hide his light under a bushel, and he puts his best work where it will be seen of all men, — that is to say, not in a Short-story. So it happens that the most of the brief tales in the British magazines are not true Short-stories at all, and that they belong to a lower form of the art of fiction, in the department with the amplified anecdote. It is the three-volume Novel which has killed the Short-story in England.
 
-Certain of the remarks in the present paper I put forth first anonymously in the columns of the _Saturday Review_, of London. To my intense surprise, they were controverted in the _Nation_, of New York. * <small style="background-color:#FFFFE6;color:#242424">[See 18]</small> The critic began by assuming that the writer had said that Americans preferred Short-stories to Novels. What had really been said was that there was a steady demand for Short-stories in American magazines, whereas in England the demand was rather for serial Novels.
+Certain of the remarks in the present paper I put forth first anonymously in the columns of the _Saturday Review_, of London. To my intense surprise, they were controverted in the _Nation_, of New York. *  <sup class="sup_red"> [18]</sup> The critic began by assuming that the writer had said that Americans preferred Short-stories to Novels. What had really been said was that there was a steady demand for Short-stories in American magazines, whereas in England the demand was rather for serial Novels.
 
 <div class="sidenote">
-
+ <sup class="sup_red">18</sup> The original article will be found in the <i>Saturday Review</i> for Sept. 4, 1884; and the adverse criticism appeared in the Nation for July 5, 1885.
 </div>
 
 &quot;In the first place,&quot; said the critic, &#39;&#39;Americans do not prefer Short-stories, as is shown by the enormous number of British Novels circulated among us; and in the second place, tales of the quiet, domestic kind, which form the staple of periodicals like _All the Tear Round_ and _Chambers&#39;s Journal,_ have here thousands of readers where native productions, however clever and original, have only hundreds, since the former are reprinted by the country papers and in the Sunday editions of city papers as rapidly and regularly as they are produced at home.&quot;
 
-Now, the answer to this is simply that these British Novels and British stories are reprinted widely in the United States, not because the American people prefer them to anything else, but because, owing to the absence of international copyright, they cost nothing. * <small style="background-color:#FFFFE6;color:#242424">[See 19]</small> That the American people prefer to read American stories when they can get them is shown by the enormous circulation of the periodicals which make a speciality of American fiction.
+Now, the answer to this is simply that these British Novels and British stories are reprinted widely in the United States, not because the American people prefer them to anything else, but because, owing to the absence of international copyright, they cost nothing. *  <sup class="sup_red"> [19]</sup> That the American people prefer to read American stories when they can get them is shown by the enormous circulation of the periodicals which make a speciality of American fiction.
 
 <div class="sidenote">
-
+ <sup class="sup_red">19</sup> It is pleasant to be able to remark that the copyright act of 1891 removed the premium of cheapness from the British tales, and that the American writer of Short-stories is no longer compelled to produce in competition with stolen goods.
 </div>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 
 ## Chapter VI
+{: .chapternumber .no_toc}
+
+## The Short-story In Other Literatures Than Those of Great Britain and the United States
+{: .chaptertitle }
 
 I find I have left myself little space to speak of the Short-story as it exists in other literatures than those of Great Britain and the United States. The conditions which have killed the Short-story in England do not obtain elsewhere; and elsewhere there are not a few good writers of Short-stories. Turgenef, Bjornsen, Sacher-Masoch, Freytag, Lindau, are the names which one recalls at once and without effort as masters in the art and mystery of the Short-story. Turgenef&#39;s Short-stories, in particular, it would be difficult to commend too warmly. But it is in France that the Short-story flourishes most abundantly.
 
@@ -289,30 +313,34 @@ The best work of Mérimée has never been surpassed. As compression was with him
 
 One of the foremost writers of _contes_ is Edmond About, whose charming humour is known to all readers of the &#39;Man with the Broken Ear&#39; — a Short-story in conception, though unduly extended in execution. Few of the charming _contes_ of M. Alphonse Daudet, or of the earlier Short-stories of M. Émile Zola, have been translated into English; and the poetic tales of M. François Coppée are likewise unduly neglected in this country.
 
-The &#39;Abbé Constantin&#39; of M. Ludovic Halevy has been read by many, but the Gallic satire of his more Parisian Short-stories has been passed by, perhaps wisely, in spite of their broad humour and their sharp wit. * <small style="background-color:#FFFFE6;color:#242424">[See 20]</small> In the very singular collection of stories which M. Jean Riche-pin has called the &#39;Morts Bizarres&#39; we find a modern continuation of the Poe tradition, always more potent in France than elsewhere.
+The &#39;Abbé Constantin&#39; of M. Ludovic Halevy has been read by many, but the Gallic satire of his more Parisian Short-stories has been passed by, perhaps wisely, in spite of their broad humour and their sharp wit. *  <sup class="sup_red"> [20]</sup> In the very singular collection of stories which M. Jean Riche-pin has called the &#39;Morts Bizarres&#39; we find a modern continuation of the Poe tradition, always more potent in France than elsewhere.
 
 <div class="sidenote">
-
+ <sup class="sup_red">20</sup> In the fifteen years since this essay was first printed, this reproach has been removed, and the best of the Short-stories of Daudet, of M. Coppée and of M. Halevy have been lovingly rendered into English by American translators.
 </div>
 
 [Here I cancel a casual sentence written in 1885, before Guy de Maupassant had completely revealed his extraordinary gifts and his marvellous craftsmanship. His Short-stories are masterpieces of the art of story-telling, because he had a Greek sense of form, a Latin power of construction, and a French felicity of style. They are simple, most of them; direct, swift, inevitable, and inexorable in their straightforward movement.
 
-If art consists in the suppression of non-essentials, there have been few greater artists in fiction than Maupassant. In his Short-stories there is never a word wasted, and there is never an excursus. Nor is there any feebleness or fumbling. What he wanted to do he did, with the unerring certainty of Leatherstocking, hitting the bull&#39;s-eye again and again. He had the abundance and the ease of the very great artists; and the half-dozen or the half-score of his best stories are among the very best Short-stories in any language]. * <small style="background-color:#FFFFE6;color:#242424">[See NOTE]</small>
+If art consists in the suppression of non-essentials, there have been few greater artists in fiction than Maupassant. In his Short-stories there is never a word wasted, and there is never an excursus. Nor is there any feebleness or fumbling. What he wanted to do he did, with the unerring certainty of Leatherstocking, hitting the bull&#39;s-eye again and again. He had the abundance and the ease of the very great artists; and the half-dozen or the half-score of his best stories are among the very best Short-stories in any language]. *  <sup class="sup_red"> [21]</sup>
 
 <div class="sidenote">
-
+ <sup class="sup_red">21</sup> In his later tales there is to be noted a tendency towards the psychology of the morbid. The thought of death and the dread of mental disease seemed to possess him. In ‘Le Horla,’ for example, we find Maupassant taking for his own Fitzjames O'Brien's uncanny monster, invisible and yet tangible and the Frenchman gave the tale an added touch of terror by making the unfortunate victim discover that the creature he feared had a stronger will than his own, and that he was being hypnotised to his doom by a being whom he could not see, but whose presence he could feel. O’Brien’s very startling tale, ‘What was it?’ is to be found in the volume of his Short-stories called <i>The Diamond </i>Lens (New Yorks Scribner).
 </div>
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 
 ## Chapter VII
+{: .chapternumber .no_toc}
+
+## The Short-Story &mdash; Never Void in Form &amp; With Symmetry of Design
+{: .chaptertitle }
 
 The Short-story should not be void or without form, but its form may be whatever the author please. He has an absolute liberty of choice. It may be a personal narrative, like Poe&#39;s _Descent into the Maelstrom_&#39; or Mr. Hale&#39;s _My Double, and How He Undid M_e&#39;; it may be impersonal, like Mr. Frederick B. Perkins&#39;s _Devil-Puzzlers_ or Colonel J. W. De Forest&#39;s _Brigade Commander_; it may be a conundrum, like Mr. Stockton&#39;s insoluble query, the _Lady or the Tiger?_, it may be _A Bundle of Letters_, like Mr. Henry James&#39;s story, or _A Letter and a Paragraph_, like Mr. Bunner&#39;s; it may be a medley of letters and telegrams and narrative, like Mr. Aldrich&#39;s _Margery Daw_; it may be cast in any one of these forms, or in a combination of all of them, or in a wholly new form, if haply such may yet be found by diligent search.
 
-Whatever its form, it should have symmetry of design. If it have also wit or humour, pathos or poetry, and especially a distinct and unmistakable flavour of individuality, so much the better. * <small style="background-color:#FFFFE6;color:#242424">[See NOTE]</small> But the chief requisites are compression, originality, ingenuity, and now and again a touch of fantasy.
+Whatever its form, it should have symmetry of design. If it have also wit or humour, pathos or poetry, and especially a distinct and unmistakable flavour of individuality, so much the better. *  <sup class="sup_red"> [22]</sup> But the chief requisites are compression, originality, ingenuity, and now and again a touch of fantasy.
 
 <div class="sidenote">
-
+ <sup class="sup_red">22</sup> In a chatty and somewhat uncritical paper on the ‘Rise of the Short-story’ contributed by Mr. Bret Harte to the ‘International Library of Famous Literature' and published also in the <i>Cornhill Magazine</i> for July, 1899, we find the assertion that the secret of the American Short-story is “the treatment of characteristic American life, with absolute knowledge of its peculiarities and sympathy with its methods, with no fastidious ignoring of its national expression, or the inchoate poetry that may be found hidden even in its slang with no moral determination except that which may be the legitimate outcome of the story itself; with no more elimination than may be necessary for the artistic conception, and never from the fear of the fetish of conventionalism.” This is cleverly phrased; but it is open to the obvious objection that it is not so much an adequate definition of the Short-story as a form as it is a defence of the special kind of Short-story Mr. Bret Harte himself has chosen to write.
 </div>
 
 Sometimes we may detect the writer of Short-stories a tendency toward the over-elaboration of ingenuity, toward the exhibition of ingenuity for its own sake, as in a Chinese puzzle. But mere cleverness is incompatible with greatness, and to commend a writer as &quot;very clever&quot; is not to give him high praise. From this fault of supersubtlety, women are free for the most part. They are more likely than men to rely on broad human emotion, and their tendency in error is toward the morbid analysis of a high-strung moral situation.
@@ -320,6 +348,10 @@ Sometimes we may detect the writer of Short-stories a tendency toward the over-e
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 
 ## Chapter VIII
+{: .chapternumber .no_toc}
+
+## The Difference Between the Novel and the Short-story &mdash; Not Merely One of Length
+{: .chaptertitle }
 
 The more carefully we study the history of fiction the more clearly we perceive that the Novel and the Short-story are essentially different — that the difference between them is not one of mere length only, but fundamental.
 
@@ -327,10 +359,10 @@ The Short-story seeks one set of effects in its own way, and the Novel seeks a w
 
 It is a genre, as M. Brunetiere terms it, a species, as a naturalist might call it, as individual as the Lyric itself and as various. It is as distinct an entity as the Epic, as Tragedy, as Comedy. Now the Novel is not a form of the same sharply defined individuality; it is — or at least it may be — anything. It is the child of the Epic and the heir of the Drama; but it is a hybrid.
 
-And one of the foremost of living American novelists, who happens also to be one of the most acute and sympathetic of American critics, has told me that he was often distracted by the knowledge of this fact even while he was engaged in writing a novel. * <small style="background-color:#FFFFE6;color:#242424">[See 23]</small>
+And one of the foremost of living American novelists, who happens also to be one of the most acute and sympathetic of American critics, has told me that he was often distracted by the knowledge of this fact even while he was engaged in writing a novel. *  <sup class="sup_red"> [23]</sup>
 
 <div class="sidenote">
-This paragraph and the one following were not in the original essay.
+ <sup class="sup_red">23</sup> This paragraph and the one following were not in the original essay.
 </div>
 
 In the history of literature the Short-story was developed long before the Novel, which indeed is but a creature of yesterday, and which was not really established in popular esteem as a worthy rival of the drama until after the widespread success of the Waverley Novels in the early years of the nineteenth century. The Short-story also seems much easier of accomplishment than the Novel, if only because it is briefer.
@@ -342,17 +374,18 @@ From Chaucer and Boccaccio we must spring across the centuries until we come to 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 
 ## Appendix
+{: .chaptertitle }
 
 So far as the author is aware, he had no predecessor in asserting that the Short-story differs from the Novel essentially, — and not merely in the matter of length. So far as he knows, it was in the present paper the suggestion was first made that the Short-story is in reality a genre, a separate kind, a genus by itself. But although this distinction may not have been made explicitly by any earlier critic, there is little doubt that Poe felt it, even if he did not formulate it in set terms. It seems to be implicit in more than one of his critical essays, more particularly in that on &#39;Hawthorne&#39;s Tales.&#39; And it is from this essay that the following quotations are taken:
 
 &quot;The ordinary novel is objectionable from its length, for reasons already stated in substance. As it cannot be read at one sitting, it deprives itself, of course, of the immense force derivable from totality. Worldly interests intervening during the pauses of perusal modify, annul, or contract, in a greater or less degree, the impressions of the book. But simply cessation in reading would, of itself, be sufficient to destroy the true unity. In the brief tale, however, the author is enabled to carry out the fulness of his intention, be it what it may. During the hour of perusal the soul of the reader is at the writer&#39;s control. There are no external or extrinsic influences — resulting from weariness or interruption.
 
-&quot;A skilful literary artist has constructed a tale. If wise, he has not fashioned his thoughts to accommodate his incidents; but having conceived, with deliberate care, a certain unique or single effect to be wrought out, he then invents such incidents — he then combines such events as may best aid him in establishing this preconceived effect. If his very initial sentence tend not to the out-bringing of this effect, then he has failed in his first step. * <small style="background-color:#FFFFE6;color:#242424">[See 24]</small>
+&quot;A skilful literary artist has constructed a tale. If wise, he has not fashioned his thoughts to accommodate his incidents; but having conceived, with deliberate care, a certain unique or single effect to be wrought out, he then invents such incidents — he then combines such events as may best aid him in establishing this preconceived effect. If his very initial sentence tend not to the out-bringing of this effect, then he has failed in his first step. *  <sup class="sup_red"> [24]</sup>
 
 &quot;In the whole composition there should be no word written of which the tendency, direct or indirect, is not to the one pre-established design. As by such means, with such care and skill, a picture is at length painted which leaves in the mind of him who contemplates it with a kindred art a sense of the fullest satisfaction. The idea of the tale has been presented unblemished, because undisturbed; and this is an end unattainable by the novel. Undue brevity is just as exceptionable here as in the poem; but undue length is yet more to be avoided.&quot;
 
 <div class="sidenote">
- It is interesting to compare what Poe says here with Stevenson’s statement of the same principle already quoted in the note on page 15.
+ <sup class="sup_red">24</sup> It is interesting to compare what Poe says here with Stevenson’s statement of the same principle already quoted in the note on page 15.
 </div>
 
 Although no later essay has added much to our knowledge of the essential nature of the Short-story and of unnecessary characteristics, the reader may be glad to have collected here references to other attempts to deal with the subject. The most elaborate is _Short-story Writing_ by Mr. Charles Raymond Barrett, Ph.B. (New York: The Baker and Taylor Co., 1900); of which an earlier edition had been issued by the Chicago Authors&#39; and Writers&#39; Union. To a little book _On the Art of Writing Fiction_ (London: Wells, Gardner Dart on &amp; Co. 1895), the authoress of _Mademoiselle Ixe_ contributed a chapter on the Short-story.

@@ -31,7 +31,11 @@ I should not have affixed so comprehensive a title to these few remarks, necessa
 
 I am therefore anxious not to lose the benefit of this favorable association, and to edge in a few words under cover of the attention which Mr. Besant is sure to have excited. There is something very encouraging in his having put into form certain of his ideas on the mystery of story-telling.
 
-## Chapter 1
+## Chapter I
+{: .chapternumber .no_toc}
+
+## Fiction As Art
+{: .chaptertitle }
 
 It is a proof of life and curiosity — curiosity on the part of the brotherhood of novelists, as well as on the part of their readers. Only a short time ago it might have been supposed that the English novel was not what the French call _discrutable_.
 
@@ -105,7 +109,11 @@ It is a question of degree, a matter of delicacy. If there are exact sciences th
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 
-## Chapter 2
+## Chapter II
+{: .chapternumber .no_toc}
+
+## The Laws of Fiction
+{: .chaptertitle }
 
 I ought to add, however, that if Mr. Besant says at the beginning of his essay that the &quot;laws of fiction may be laid down and taught with as much precision and exactness as the laws of harmony, perspective, and proportion,&quot; he mitigates what might appear to be an over-statement by applying his remark to &quot;general&quot; laws, and by expressing most of these rules in a manner with which it would certainly be unaccommodating to disagree.
 
@@ -137,7 +145,11 @@ Therefore, if I should certainly say to a novice, &quot;Write from experience, a
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 
-## Chapter 3
+## Chapter III
+{: .chapternumber .no_toc}
+
+## The Truth of Detail in Fiction
+{: .chaptertitle }
 
 I am far from intending by this to minimize the importance of exactness — of truth of detail. One can speak best from one&#39;s own taste, and I may therefore venture to say that the air of reality (solidity of specification) seems to me to be the supreme virtue of a novel — the merit in which all its other merits (including that conscious moral purpose of which Mr. Besant speaks) helplessly and submissively depend.
 
@@ -167,7 +179,11 @@ I do not pretend to estimate the degree of interest proceeding from them, for th
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 
-## Chapter 4
+## Chapter IV
+{: .chapternumber .no_toc}
+
+## Critics &amp; The Discussion of the Literary Value of Fiction
+{: .chaptertitle }
 
 The novel and the romance, the novel of incident and that of character, — these separations appear to me to have been made by critics and readers for their own convenience, and to help them out of some of their difficulties, but to have little reality or interest for the producer, from whose point of view it is, of course, that we are attempting to consider the art of fiction.
 
@@ -213,7 +229,11 @@ The young aspirant in the line of fiction, whom we continue to imagine, will do 
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 
-## Chapter 5
+## Chapter V
+{: .chapternumber .no_toc}
+
+## The Story and the Novel &mdash; Idea &amp; Form
+{: .chaptertitle }
 
 Mr. Besant has some remarks on the question of &quot;the story,&quot; which I shall not attempt to criticise, though they seem to me to contain a singular ambiguity, because I do not think I understand them. I cannot see what is meant by talking as if there were a part of a novel which is the story and part of it which for mystical reasons is not — unless indeed the distinction be made in a sense in which it is difficult to suppose that anyone should attempt to convey anything.
 
@@ -251,7 +271,11 @@ I have been a child, but I have never been on a quest for a buried treasure, and
 
 <h6 class="btt"><a href="#top">Back to Top</a></h6>
 
-## Chapter 6
+## Chapter VI
+{: .chapternumber .no_toc}
+
+## The Conscious Moral Purpose of the Novel
+{: .chaptertitle }
 
 The most interesting part of Mr. Besant&#39;s lecture is unfortunately the briefest passage — his very cursory allusion to the &quot;conscious moral purpose&quot; of the novel. Here again it is not very clear whether he is recording a fact or laying down a principle; it is a great pity that in the latter case he should not have developed his idea.
 

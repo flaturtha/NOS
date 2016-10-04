@@ -29,6 +29,10 @@ wordcount: 4517
 The interesting experiment of one of our great publishing houses in putting out serially several volumes of short stories _(Harper&#39;s Portrait Collection of Short Stories. Harper &amp; Brothers: New York.)_, with the hope that a courageous persistence may overcome the popular indifference to such collections when severally administered, suggests some questions as to this eldest form of fiction which I should like to ask the reader&#39;s patience with. I do not know that I shall be able to answer them, or that I shall try to do so; the vitality of a question that is answered seems to exhale in the event; it palpitates no longer; curiosity flutters away from the faded flower, which is fit then only to be folded away in the _hortus siccus_ of accomplished facts. In view of this I may wish merely to state the problems and leave them for the reader&#39;s solution, or more amusingly, for his mystification.
 
 ## Chapter I
+{: .chapternumber .no_toc}
+
+## The Short Story &mdash; Alone &amp; In Collections
+{: .chaptertitle }
 
 One of the most amusing questions concerning the short story is why a form which is singly so attractive that everyone likes to read a short story when he finds it alone is collectively so repellant as it is said to be. Before now I have imagined the case to be somewhat the same as that of a number of pleasant people who are most acceptable as separate householders, but who lose caste and cease to be desirable acquaintances when gathered into a boarding-house.
 
@@ -46,6 +50,10 @@ My theory does not wholly account for the fact (no theory wholly accounts for an
 <hr>
 
 ## Chapter II
+{: .chapternumber .no_toc}
+
+## The Development of the Novella
+{: .chaptertitle }
 
 Then, what is the solution as to the form of publication for short stories, since people do not object to them singly but collectively, and not in variety, but in identity of authorship? Are they to be printed only in the magazines, or are they to be collected in volumes combining a variety of authorship?
 
@@ -71,6 +79,10 @@ We surpass the Germans, who, like ourselves, have as distinctly excelled in the 
 <hr>
 
 ## Chapter III
+{: .chapternumber .no_toc}
+
+## The Disuse of the Novella as a Favored Form of the Short Story
+{: .chaptertitle }
 
 The abeyance, not to say the desuetude, that the novella fell into for several centuries is very curious, and fully as remarkable as the modem rise of the short story. It began to prevail in the dramatic form, for a play is a short story put on the stage; it may have satisfied in that form the early love of it, and it has continued to please in that form; but in its original shape it quite vanished, unless we consider the little studies and sketches and allegories of the _Spectator_, and _Tatler_, and _Idler_, and _Rambler_, and their imitations on the continent, as guises of the novella.
 
@@ -90,6 +102,10 @@ But on the other hand the slightest error in execution shows more in the small t
 <hr>
 
 ## Chapter IV
+{: .chapternumber .no_toc}
+
+## The Short Story as Distinquished from the Anecdote
+{: .chaptertitle }
 
 The question as to where the short story distinguishes itself from the anecdote is of the same nature as that which concerns the bound set between it and the novel. In both eases the difference of the novella is in the motive, or the origination. The anecdote is too palpably simple and single to be regarded as a novella, though there is now and then a novella like _The Father_ by Bjornson, which is of the actual brevity of the anecdote, but which, when released in the reader&#39;s consciousness, expands to dramatic dimensions impossible to the anecdote.
 
@@ -117,6 +133,10 @@ The right novel is never a congeries of novelle, as might appear to the uninspir
 <hr>
 
 ## Chapter V
+{: .chapternumber .no_toc}
+
+## The Novella &mdash; A More Perfect Form of the Story
+{: .chaptertitle }
 
 This was always its case, but in the process of time the short story, while keeping the natural limits of the primal novella (if ever there was one), has shown almost limitless possibilities within them. It has shown itself capable of imparting the effect of every sort of intention, whether of humor or pathos, of tragedy, or comedy, or broad farce, or delicate irony, of character or action. The thing that first made itself known as a little tale, usually salacious, dealing with conventionalized types and conventionalized incidents, has proved itself possibly the most flexible of all the literary forms in its adaptation to the needs of the mind that wishes to utter itself, inventively or constructively, upon some fresh occasion, or wishes briefly to criticise or represent some phase or fact of life.
 
@@ -136,6 +156,10 @@ It is possible that as the novella becomes more conscious, its persons will beco
 <hr>
 
 ## Chapter VI
+{: .chapternumber .no_toc}
+
+## The Defect of the Novella
+{: .chaptertitle }
 
 The defect of the novella which we have been acknowledging seems an essential limitation; but perhaps it is not insuperable; and we may yet have short stories which shall supply the delighted imagination with creations of as much immortality as we can reasonably demand. The structural change would not be greater than the moral or material change which has been wrought in it since it began as a yarn, gross and palpable, which the narrator spun out of the coarsest and often the filthiest stuff, to snare the thick fancy or amuse the lewd leisure of listeners willing as children to have the same persons and the same things over and over again.
 

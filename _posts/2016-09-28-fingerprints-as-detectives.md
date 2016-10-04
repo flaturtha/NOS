@@ -15,7 +15,7 @@ genre:
 wordcount: 1589
 ---
 
-<section id="toc" class="toc">
+<!-- <section id="toc" class="toc">
   <header>
     <h6>Table of Contents</h6>
   </header>
@@ -23,7 +23,7 @@ wordcount: 1589
 1. Auto generated table of contents
 {:toc}
 </div>
-</section> <!-- table-of-contents -->
+</section> table-of-contents -->
 
 A new terror has been added to the ways of crime, since every burglar carries a potential conviction at his finger-ends. At the Clerkenwell Sessions last week a man was convicted of housebreaking on no other evidence than that of the fingerprints which he had inadvertently left upon a pane of glass in the window through which he had made his forcible entry. Another of the fraternity who was captured about the same time was wearing a pair of thin kid-gloves by way of precaution against leaving such damnatory marks behind him.
 

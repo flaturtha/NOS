@@ -2947,7 +2947,7 @@ blockquote {
   padding: 1rem; }
 
 .sidenote {
-  background-color: #ffffe6;
+  background-color: #ffffe8;
   padding: 1rem;
   margin-bottom: 1rem;
   border: 1px solid #242424; }
@@ -2957,7 +2957,10 @@ blockquote {
   @media screen and (min-width: 960px) {
     .sidenote {
       max-width: 90%;
-      margin: 0 auto; } }
+      margin: 0 auto 1rem; } }
+
+.sup_red {
+  color: #8B0000 !important; }
 
 .post__header {
   margin: 0 auto 2rem auto;
