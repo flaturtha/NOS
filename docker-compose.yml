@@ -1,0 +1,54 @@
+services:
+  postgres:
+    image: postgres:15
+    ...
+
+  redis:
+    image: redis:7
+    ...
+
+  medusa:
+    build: ./backend
+    command: yarn start
+    environment:
+      NODE_ENV: development
+      DATABASE_URL: postgres://medusa:medusadev@postgres:5432/medusa
+      REDIS_URL: redis://redis:6379
+      STRIPE_API_KEY: ${STRIPE_API_KEY}
+      RESEND_API_KEY: ${RESEND_API_KEY}
+      BOOKVAULT_API_KEY: ${BOOKVAULT_API_KEY}
+      MAUTIC_BASE_URL: ${MAUTIC_BASE_URL}
+      MAUTIC_USERNAME: ${MAUTIC_USERNAME}
+      MAUTIC_PASSWORD: ${MAUTIC_PASSWORD}
+    depends_on:
+      - postgres
+      - redis
+    ports:
+      - "9000:9000"
+    volumes:
+      - ./backend:/app
+
+  medusa-admin:
+    image: medusajs/admin
+    ports:
+      - "7001:7001"
+    environment:
+      VITE_MEDUSA_BACKEND_URL: http://localhost:9000
+    depends_on:
+      - medusa
+
+  remix-app:
+    build: ./frontend
+    command: yarn dev
+    ports:
+      - "3000:3000"
+    environment:
+      MEDUSA_API_URL: http://medusa:9000
+    depends_on:
+      - medusa
+    volumes:
+      - ./frontend:/app
+
+volumes:
+  postgres_data:
+

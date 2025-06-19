@@ -1,0 +1,15 @@
+# Node
+node_modules/
+*.log
+
+# Docker
+postgres_data/
+redis_data/
+
+# Env/Secrets
+.env
+
+# IDE/Editor
+.vscode/
+.DS_Store
+
