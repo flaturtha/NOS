@@ -1,7 +1,7 @@
-/** @type {import('@remix-run/dev').AppConfig} */
-const { netlify } = require("@remix-run/netlify");
+import { netlify } from "@remix-run/netlify";
 
-module.exports = {
+/** @type {import('@remix-run/dev').AppConfig} */
+export default {
   ...netlify(),
   ignoredRouteFiles: ["**/.*"],
   future: {
