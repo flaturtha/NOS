@@ -19,7 +19,7 @@ export async function loader({ params }: LoaderFunctionArgs) {
   }
   return json(variant);
 }
-
+// random comment
 export default function LandingVariantRoute() {
   const variant = useLoaderData<typeof loader>() as LandingVariantConfig;
   const { headline, subhead } = landingCopy[variant.copyVariant];
