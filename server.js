@@ -1,7 +1,6 @@
-import { createRequestHandler } from "@netlify/remix-adapter";
-import * as build from "@remix-run/dev/server-build";
-
-export const handler = createRequestHandler({
-  build,
-  mode: process.env.NODE_ENV,
-}); 
+export const handler = async (event, context) => {
+  return {
+    statusCode: 200,
+    body: "Hello from Netlify Lambda!",
+  };
+}; 
