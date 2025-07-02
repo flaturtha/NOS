@@ -20,6 +20,7 @@ interface LandingTemplateProps {
   floatingCtaPrice: string;
   crossLinkHref?: string;
   crossLinkText?: string;
+  checkoutUrl: string;
 }
 
 export function LandingTemplate({
@@ -40,6 +41,7 @@ export function LandingTemplate({
   floatingCtaPrice,
   crossLinkHref,
   crossLinkText,
+  checkoutUrl,
 }: LandingTemplateProps) {
   const [showFloatingCTA, setShowFloatingCTA] = useState(true);
   const [animateBottomCTA, setAnimateBottomCTA] = useState(false);
@@ -81,9 +83,11 @@ export function LandingTemplate({
           style={{ transition: 'opacity 0.5s' }}
         >
           <div className="max-w-4xl mx-auto">
-            <Button className="w-full bg-white text-[#8B0000] hover:bg-gray-100 font-bold text-lg py-4 min-h-[48px] transition-all duration-200 hover:scale-[1.02] active:scale-[0.98] active:bg-gray-200">
-              {`Get my Bundle – ${floatingCtaPrice}`}
-            </Button>
+            <a href={checkoutUrl} target="_blank" rel="noopener noreferrer">
+              <Button className="w-full bg-white text-[#8B0000] hover:bg-gray-100 font-bold text-lg py-4 min-h-[48px] transition-all duration-200 hover:scale-[1.02] active:scale-[0.98] active:bg-gray-200">
+                {`Get my Bundle – ${floatingCtaPrice}`}
+              </Button>
+            </a>
             {crossLinkHref && crossLinkText && (
               <div className="mt-2 text-center">
                 <a href={crossLinkHref} className="text-white underline text-base hover:text-gray-200 focus:outline-none">
