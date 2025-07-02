@@ -13,7 +13,7 @@ import { GuaranteeSection } from "../components/GuaranteeSection";
 import { FAQSection } from "../components/FAQSection";
 
 export async function loader({ params }: LoaderFunctionArgs) {
-  const variant = landingVariants.find(v => v.id === params.base); // ✅ fixed
+  const variant = landingVariants.find(v => v.id === params.variant);
   if (!variant) {
     throw new Response("Not found", { status: 404 });
   }
@@ -73,10 +73,10 @@ export default function LandingVariantRoute() {
   let crossLinkHref = '';
   let crossLinkText = '';
   if (isEbook) {
-    crossLinkHref = `/landing/${variant.id.replace('ebook', 'a5')}`;
+    crossLinkHref = `/${variant.id.replace('ebook', 'a5')}`;
     crossLinkText = 'Prefer print? Get the Print Bundle here';
   } else if (variant.id.includes('a5')) {
-    crossLinkHref = `/landing/${variant.id.replace('a5', 'ebook')}`;
+    crossLinkHref = `/${variant.id.replace('a5', 'ebook')}`;
     crossLinkText = 'Prefer ebook? Get the Ebook Bundle here';
   }
 
@@ -122,3 +122,11 @@ export default function LandingVariantRoute() {
   );
 }
 
+export function ErrorBoundary({ error }: { error: Error }) {
+  return (
+    <div style={{ color: 'red', padding: 32 }}>
+      <h1>Something went wrong</h1>
+      <pre>{error.message}</pre>
+    </div>
+  );
+} 
