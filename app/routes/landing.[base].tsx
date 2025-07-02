@@ -21,7 +21,7 @@ export const loader: LoaderFunction = async ({ params, request }) => {
   // Set cookie if not present
   let headers: Record<string, string> = {};
   if (!assigned) {
-    headers["Set-Cookie"] = `${cookieKey}=${variant}; Path=/; Max-Age=31536000; SameSite=Lax`;
+    headers["Set-Cookie"] = `${cookieKey}=${variant}; Path=/; Max-Age=31536000; SameSite=None; Secure`;
   }
 
   // Redirect to the correct variant
