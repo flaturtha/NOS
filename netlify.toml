@@ -1,5 +1,4 @@
 [build]
-base = "NOS"
 publish = "build/client"
 functions = "netlify/functions"
 command = "bun run build"
