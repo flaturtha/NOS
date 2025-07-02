@@ -648,4 +648,22 @@ export const landingVariants: LandingVariantConfig[] = [
     ]
   }
   // --- END PLACEHOLDER VARIANTS ---
-]; 
+];
+
+// Shopify checkout links for each variant type
+export const shopifyCheckoutLinks: Record<string, string> = {
+  // All ebook variants
+  '33bt-ebook-a': 'https://store.talesofmurder.com/cart/50455734419773:1',
+  '33bt-ebook-b': 'https://store.talesofmurder.com/cart/50455734419773:1',
+  '34bt-ebook-a': 'https://store.talesofmurder.com/cart/50455734419773:1',
+  '34bt-ebook-b': 'https://store.talesofmurder.com/cart/50455734419773:1',
+  '34tb-ebook-a': 'https://store.talesofmurder.com/cart/50455734419773:1',
+  '34tb-ebook-b': 'https://store.talesofmurder.com/cart/50455734419773:1',
+  // All print (a5) variants
+  '33bt-a5-a': 'https://store.talesofmurder.com/cart/49670518669629:1',
+  '33bt-a5-b': 'https://store.talesofmurder.com/cart/49670518669629:1',
+  '34bt-a5-a': 'https://store.talesofmurder.com/cart/49670518669629:1',
+  '34bt-a5-b': 'https://store.talesofmurder.com/cart/49670518669629:1',
+  '34tb-a5-a': 'https://store.talesofmurder.com/cart/49670518669629:1',
+  '34tb-a5-b': 'https://store.talesofmurder.com/cart/49670518669629:1',
+}; 

@@ -9,9 +9,10 @@ interface OfferSectionProps {
   ctaText: string;
   onCtaClick?: () => void;
   children?: React.ReactNode;
+  checkoutUrl: string;
 }
 
-export function OfferSection({ offerTitle, offerPrice, offerOldPrice, offerBadge, ctaText, onCtaClick, children }: OfferSectionProps) {
+export function OfferSection({ offerTitle, offerPrice, offerOldPrice, offerBadge, ctaText, onCtaClick, children, checkoutUrl }: OfferSectionProps) {
   return (
     <div className="bg-white shadow-xl border-2 border-[#8B0000] rounded-lg p-8 mb-8 max-w-md mx-auto text-center">
       <p className="text-base font-semibold text-[#8B0000] mb-3">Limited-Time Launch Offer:</p>
@@ -21,9 +22,11 @@ export function OfferSection({ offerTitle, offerPrice, offerOldPrice, offerBadge
         <span className="text-3xl font-bold text-[#8B0000]">{offerPrice}</span>
         {offerBadge && <span className="bg-[#8B0000] text-white text-base px-3 py-1 rounded">{offerBadge}</span>}
       </div>
-      <Button className="bg-[#8B0000] hover:bg-[#5a0000] text-white px-10 py-6 text-xl font-semibold rounded-md mb-8 w-full max-w-sm min-h-[56px] transition-all duration-200 hover:scale-[1.02] active:scale-[0.98] active:bg-[#4a0000]" onClick={onCtaClick}>
-        {ctaText}
-      </Button>
+      <a href={checkoutUrl} target="_blank" rel="noopener noreferrer">
+        <Button className="bg-[#8B0000] hover:bg-[#5a0000] text-white px-10 py-6 text-xl font-semibold rounded-md mb-8 w-full max-w-sm min-h-[56px] transition-all duration-200 hover:scale-[1.02] active:scale-[0.98] active:bg-[#4a0000}">
+          {ctaText}
+        </Button>
+      </a>
       {children}
     </div>
   );
