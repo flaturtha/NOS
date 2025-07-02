@@ -7,6 +7,10 @@
 import { RemixBrowser } from "@remix-run/react";
 import { startTransition, StrictMode } from "react";
 import { hydrateRoot } from "react-dom/client";
+import posthog from 'posthog-js';
+
+// Initialize Posthog (replace 'YOUR_POSTHOG_KEY' with your actual key)
+posthog.init('YOUR_POSTHOG_KEY', { api_host: 'https://app.posthog.com' });
 
 startTransition(() => {
   hydrateRoot(

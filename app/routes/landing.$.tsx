@@ -11,6 +11,8 @@ import { TestimonialsSection } from "../components/TestimonialsSection";
 import { WhyDifferentSection } from "../components/WhyDifferentSection";
 import { GuaranteeSection } from "../components/GuaranteeSection";
 import { FAQSection } from "../components/FAQSection";
+import { useEffect } from 'react';
+import posthog from 'posthog-js';
 
 export async function loader({ params }: LoaderFunctionArgs) {
   const variant = landingVariants.find(v => v.id === params["*"]);
@@ -124,6 +126,12 @@ Dive into this *Gothic masterpiece* where every shadow holds a story, and every 
     crossLinkHref = `/landing/${variant.id.replace('a5', 'ebook')}`;
     crossLinkText = 'Prefer ebook? Get the Ebook Bundle here';
   }
+
+  useEffect(() => {
+    if (typeof window !== 'undefined' && variant?.id) {
+      posthog.capture('landing_variant_shown', { variant_id: variant.id });
+    }
+  }, [variant?.id]);
 
   return (
     <LandingTemplate
