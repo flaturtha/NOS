@@ -1,1 +1,0 @@
-{"inputs":{"server.js":{"bytes":131,"imports":[],"format":"esm"}},"outputs":{".netlify/functions-internal/server.mjs":{"imports":[],"exports":["handler"],"entryPoint":"server.js","inputs":{"server.js":{"bytesInOutput":103}},"bytes":138}}}
