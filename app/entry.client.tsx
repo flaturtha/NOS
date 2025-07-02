@@ -9,8 +9,9 @@ import { startTransition, StrictMode } from "react";
 import { hydrateRoot } from "react-dom/client";
 import posthog from 'posthog-js';
 
-// Initialize Posthog (replace 'YOUR_POSTHOG_KEY' with your actual key)
-posthog.init('YOUR_POSTHOG_KEY', { api_host: 'https://app.posthog.com' });
+// Use environment variable for Posthog key (set in Vercel and .env for local dev)
+const POSTHOG_KEY = process.env.POSTHOG_KEY || 'YOUR_POSTHOG_KEY';
+posthog.init(POSTHOG_KEY, { api_host: 'https://app.posthog.com' });
 
 startTransition(() => {
   hydrateRoot(
