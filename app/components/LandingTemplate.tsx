@@ -16,6 +16,10 @@ interface LandingTemplateProps {
   guaranteeSection: ReactNode;
   faqSection: ReactNode;
   trustSignalsSection?: ReactNode;
+  copyVariant: string;
+  floatingCtaPrice: string;
+  crossLinkHref?: string;
+  crossLinkText?: string;
 }
 
 export function LandingTemplate({
@@ -32,6 +36,10 @@ export function LandingTemplate({
   guaranteeSection,
   faqSection,
   trustSignalsSection,
+  copyVariant,
+  floatingCtaPrice,
+  crossLinkHref,
+  crossLinkText,
 }: LandingTemplateProps) {
   const [showFloatingCTA, setShowFloatingCTA] = useState(true);
   const [animateBottomCTA, setAnimateBottomCTA] = useState(false);
@@ -74,32 +82,72 @@ export function LandingTemplate({
         >
           <div className="max-w-4xl mx-auto">
             <Button className="w-full bg-white text-[#8B0000] hover:bg-gray-100 font-bold text-lg py-4 min-h-[48px] transition-all duration-200 hover:scale-[1.02] active:scale-[0.98] active:bg-gray-200">
-              Get my Bundle – $52.49
+              {`Get my Bundle – ${floatingCtaPrice}`}
             </Button>
+            {crossLinkHref && crossLinkText && (
+              <div className="mt-2 text-center">
+                <a href={crossLinkHref} className="text-white underline text-base hover:text-gray-200 focus:outline-none">
+                  {crossLinkText}
+                </a>
+              </div>
+            )}
           </div>
         </div>
       )}
       {/* Hero Section with responsive image */}
       <section className="relative">
-        <picture>
-          <source media="(max-width: 767px)" srcSet={heroImageMobile} />
-          <img
-            src={heroImageDesktop}
-            alt="Vintage Mystery Sampler Hero"
-            className="w-full h-96 md:h-[500px] object-cover object-center"
-            style={{ display: 'block' }}
-          />
-        </picture>
-        <div className="absolute inset-0 bg-black bg-opacity-60"></div>
-        <div className="absolute inset-0 flex items-center justify-center">
-          <div className="max-w-4xl mx-auto px-6 text-center text-white">
-            <h1 className="text-4xl md:text-6xl lg:text-7xl font-serif font-bold mb-6 leading-tight max-w-[20ch] mx-auto text-white drop-shadow-lg">
-              {headline}
-            </h1>
+        {/* Mobile: 3x4 image */}
+        <img
+          src={heroImageMobile}
+          alt="Vintage Mystery Sampler Hero"
+          className={
+            (copyVariant === '33bt'
+              ? "block md:hidden w-full aspect-[3/4] object-contain object-left"
+              : "block md:hidden w-full aspect-[3/4] object-cover object-[80%_center]") + " block md:hidden"
+          }
+        />
+        {/* Desktop: 16x9 image */}
+        <img
+          src={heroImageDesktop}
+          alt="Vintage Mystery Sampler Hero"
+          className={
+            (copyVariant === '33bt'
+              ? "hidden md:block w-full aspect-[16/9] object-contain object-left"
+              : "hidden md:block w-full aspect-[16/9] object-cover object-[center_30%]") + " hidden md:block"
+          }
+        />
+        {/* Only one overlay for the headline */}
+        <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
+          <div className="max-w-4xl w-full mx-auto px-6 text-center flex justify-center items-center">
+            <div className={
+              [
+                (copyVariant === '34bt' || copyVariant === '34tb')
+                  ? "inline-block bg-black/40 rounded-lg px-4 py-2 max-w-[90vw] md:max-w-full overflow-hidden"
+                  : "inline-block bg-black/40 rounded-lg px-4 py-2 max-w-full overflow-hidden"
+              ].join(' ')
+            } style={{ pointerEvents: 'auto' }}>
+              <h1 className={
+                [
+                  (copyVariant === '34bt' || copyVariant === '34tb')
+                    ? "text-2xl md:text-4xl lg:text-5xl font-serif font-bold mb-6 leading-tight max-w-[20ch] mx-auto text-white drop-shadow-lg"
+                    : "text-4xl md:text-6xl lg:text-7xl font-serif font-bold mb-6 leading-tight max-w-[20ch] mx-auto text-white drop-shadow-lg"
+                ].join(' ')
+              }>
+                {headline}
+              </h1>
+            </div>
           </div>
         </div>
         <div className="max-w-4xl mx-auto px-6 flex flex-col items-center text-left mt-4 md:mt-12 gap-y-4 md:gap-y-8">
-          <p className="text-lg md:text-2xl font-bold text-[#242424] text-left w-full mb-8">
+          <p
+            className={
+              [
+                (copyVariant === '34bt' || copyVariant === '34tb')
+                  ? "text-center text-base md:text-2xl font-bold text-[#242424] w-full mb-2 md:mb-8 mt-8 md:mt-12"
+                  : "text-lg md:text-2xl font-bold text-[#242424] text-left w-full mb-8"
+              ].join(' ')
+            }
+          >
             {subhead}
           </p>
           <FlourishDivider />

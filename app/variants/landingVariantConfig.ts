@@ -40,9 +40,9 @@ export const landingVariants: LandingVariantConfig[] = [
     solutionMainText: "We believe great stories deserve to be held in your hands. That's why we created the Vintage Mystery Sampler Bundle: five brilliant, forgotten classics, meticulously restored and published in a format designed for true reading enjoyment.",
     solutionFeatures: [
       { title: "Read with Comfort and Ease", description: "Each book is a reader-friendly A5 paperback (5.8\" x 8.3\") with clean, 11-point type. They're light enough to hold for hours without strain." },
-      { title: "Own Your Books, Forever", description: "No DRM. No Amazon. No tracking. No censorship. These books are yours to keep, display on your shelf, and share with family and friends." },
       { title: "Discover Genuine Hidden Gems", description: "We've rescued these thrilling stories from obscurity, editing them for clarity while preserving every ounce of their vintage charm." },
-      { title: "Support a Preservation Mission", description: "Every purchase you make helps us find and save another wonderful story from being forgotten forever." }
+      { title: "Support a Preservation Mission", description: "Every purchase you make helps us find and save another wonderful story from being forgotten forever." },
+      { title: "Build a Timeless Library", description: "These aren't throwaway reads. Each book in the bundle is a lasting addition to your personal library—beautifully printed, thoughtfully curated, and worthy of display. Start a collection that reflects your taste for rare, remarkable mysteries." }
     ],
     bookGridImages: [
       "/assets/covers/print/chinese-idol_3dmock.png",
@@ -92,9 +92,9 @@ export const landingVariants: LandingVariantConfig[] = [
     solutionMainText: "We believe great stories deserve to be held in your hands. That's why we created the Vintage Mystery Sampler Bundle: five brilliant, forgotten classics, meticulously restored and published in a format designed for true reading enjoyment.",
     solutionFeatures: [
       { title: "Read with Comfort and Ease", description: "Each book is a reader-friendly A5 paperback (5.8\" x 8.3\") with clean, 11-point type. They're light enough to hold for hours without strain." },
-      { title: "Own Your Books, Forever", description: "No DRM. No Amazon. No tracking. No censorship. These books are yours to keep, display on your shelf, and share with family and friends." },
       { title: "Discover Genuine Hidden Gems", description: "We've rescued these thrilling stories from obscurity, editing them for clarity while preserving every ounce of their vintage charm." },
-      { title: "Support a Preservation Mission", description: "Every purchase you make helps us find and save another wonderful story from being forgotten forever." }
+      { title: "Support a Preservation Mission", description: "Every purchase you make helps us find and save another wonderful story from being forgotten forever." },
+      { title: "Build a Timeless Library", description: "These aren't throwaway reads. Each book in the bundle is a lasting addition to your personal library—beautifully printed, thoughtfully curated, and worthy of display. Start a collection that reflects your taste for rare, remarkable mysteries." }
     ],
     bookGridImages: [
       "/assets/covers/print/chinese-idol_3dmock.png",
@@ -145,9 +145,9 @@ export const landingVariants: LandingVariantConfig[] = [
     solutionMainText: "We believe great stories deserve to be held in your hands. That's why we created the Vintage Mystery Sampler Bundle: five brilliant, forgotten classics, meticulously restored and published in a format designed for true reading enjoyment.",
     solutionFeatures: [
       { title: "Read with Comfort and Ease", description: "Each book is a reader-friendly A5 paperback (5.8\" x 8.3\") with clean, 11-point type. They're light enough to hold for hours without strain." },
-      { title: "Own Your Books, Forever", description: "No DRM. No Amazon. No tracking. No censorship. These books are yours to keep, display on your shelf, and share with family and friends." },
       { title: "Discover Genuine Hidden Gems", description: "We've rescued these thrilling stories from obscurity, editing them for clarity while preserving every ounce of their vintage charm." },
-      { title: "Support a Preservation Mission", description: "Every purchase you make helps us find and save another wonderful story from being forgotten forever." }
+      { title: "Support a Preservation Mission", description: "Every purchase you make helps us find and save another wonderful story from being forgotten forever." },
+      { title: "Build a Timeless Library", description: "These aren't throwaway reads. Each book in the bundle is a lasting addition to your personal library—beautifully printed, thoughtfully curated, and worthy of display. Start a collection that reflects your taste for rare, remarkable mysteries." }
     ],
     bookGridImages: [
       "/assets/covers/print/chinese-idol_3dmock.png",
@@ -197,9 +197,9 @@ export const landingVariants: LandingVariantConfig[] = [
     solutionMainText: "We believe great stories deserve to be held in your hands. That's why we created the Vintage Mystery Sampler Bundle: five brilliant, forgotten classics, meticulously restored and published in a format designed for true reading enjoyment.",
     solutionFeatures: [
       { title: "Read with Comfort and Ease", description: "Each book is a reader-friendly A5 paperback (5.8\" x 8.3\") with clean, 11-point type. They're light enough to hold for hours without strain." },
-      { title: "Own Your Books, Forever", description: "No DRM. No Amazon. No tracking. No censorship. These books are yours to keep, display on your shelf, and share with family and friends." },
       { title: "Discover Genuine Hidden Gems", description: "We've rescued these thrilling stories from obscurity, editing them for clarity while preserving every ounce of their vintage charm." },
-      { title: "Support a Preservation Mission", description: "Every purchase you make helps us find and save another wonderful story from being forgotten forever." }
+      { title: "Support a Preservation Mission", description: "Every purchase you make helps us find and save another wonderful story from being forgotten forever." },
+      { title: "Build a Timeless Library", description: "These aren't throwaway reads. Each book in the bundle is a lasting addition to your personal library—beautifully printed, thoughtfully curated, and worthy of display. Start a collection that reflects your taste for rare, remarkable mysteries." }
     ],
     bookGridImages: [
       "/assets/covers/print/chinese-idol_3dmock.png",
@@ -233,8 +233,8 @@ export const landingVariants: LandingVariantConfig[] = [
   {
     id: "34tb-a5-a",
     copyVariant: '34tb',
-    heroImageDesktop: "/assets/34tb/img/34tb_bg_3x4.png",
-    heroImageMobile: "/assets/34tb/img/34tb_bg_9x16.png",
+    heroImageDesktop: "/assets/34bt/img/34bt_bg_3x4.png",
+    heroImageMobile: "/assets/34bt/img/34bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
     offerPrice: "$52.49",
     offerOldPrice: "$69.99",
@@ -249,9 +249,9 @@ export const landingVariants: LandingVariantConfig[] = [
     solutionMainText: "We believe great stories deserve to be held in your hands. That's why we created the Vintage Mystery Sampler Bundle: five brilliant, forgotten classics, meticulously restored and published in a format designed for true reading enjoyment.",
     solutionFeatures: [
       { title: "Read with Comfort and Ease", description: "Each book is a reader-friendly A5 paperback (5.8\" x 8.3\") with clean, 11-point type. They're light enough to hold for hours without strain." },
-      { title: "Own Your Books, Forever", description: "No DRM. No Amazon. No tracking. No censorship. These books are yours to keep, display on your shelf, and share with family and friends." },
       { title: "Discover Genuine Hidden Gems", description: "We've rescued these thrilling stories from obscurity, editing them for clarity while preserving every ounce of their vintage charm." },
-      { title: "Support a Preservation Mission", description: "Every purchase you make helps us find and save another wonderful story from being forgotten forever." }
+      { title: "Support a Preservation Mission", description: "Every purchase you make helps us find and save another wonderful story from being forgotten forever." },
+      { title: "Build a Timeless Library", description: "These aren't throwaway reads. Each book in the bundle is a lasting addition to your personal library—beautifully printed, thoughtfully curated, and worthy of display. Start a collection that reflects your taste for rare, remarkable mysteries." }
     ],
     bookGridImages: [
       "/assets/covers/print/chinese-idol_3dmock.png",
@@ -285,8 +285,8 @@ export const landingVariants: LandingVariantConfig[] = [
   {
     id: "34tb-a5-b",
     copyVariant: '34tb',
-    heroImageDesktop: "/assets/34tb/img/34tb_bg_3x4.png",
-    heroImageMobile: "/assets/34tb/img/34tb_bg_9x16.png",
+    heroImageDesktop: "/assets/34bt/img/34bt_bg_3x4.png",
+    heroImageMobile: "/assets/34bt/img/34bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
     offerPrice: "$52.49",
     offerOldPrice: "$69.99",
@@ -301,9 +301,9 @@ export const landingVariants: LandingVariantConfig[] = [
     solutionMainText: "We believe great stories deserve to be held in your hands. That's why we created the Vintage Mystery Sampler Bundle: five brilliant, forgotten classics, meticulously restored and published in a format designed for true reading enjoyment.",
     solutionFeatures: [
       { title: "Read with Comfort and Ease", description: "Each book is a reader-friendly A5 paperback (5.8\" x 8.3\") with clean, 11-point type. They're light enough to hold for hours without strain." },
-      { title: "Own Your Books, Forever", description: "No DRM. No Amazon. No tracking. No censorship. These books are yours to keep, display on your shelf, and share with family and friends." },
       { title: "Discover Genuine Hidden Gems", description: "We've rescued these thrilling stories from obscurity, editing them for clarity while preserving every ounce of their vintage charm." },
-      { title: "Support a Preservation Mission", description: "Every purchase you make helps us find and save another wonderful story from being forgotten forever." }
+      { title: "Support a Preservation Mission", description: "Every purchase you make helps us find and save another wonderful story from being forgotten forever." },
+      { title: "Build a Timeless Library", description: "These aren't throwaway reads. Each book in the bundle is a lasting addition to your personal library—beautifully printed, thoughtfully curated, and worthy of display. Start a collection that reflects your taste for rare, remarkable mysteries." }
     ],
     bookGridImages: [
       "/assets/covers/print/chinese-idol_3dmock.png",
@@ -341,8 +341,8 @@ export const landingVariants: LandingVariantConfig[] = [
     heroImageDesktop: "/assets/33bt/img/33bt_bg_3x4.png",
     heroImageMobile: "/assets/33bt/img/33bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
-    offerPrice: "$52.49",
-    offerOldPrice: "$69.99",
+    offerPrice: "$37.99",
+    offerOldPrice: "$49.99",
     offerBadge: "Save 25%",
     ctaText: "YES, I WANT MY BUNDLE",
     problems: [
@@ -354,7 +354,7 @@ export const landingVariants: LandingVariantConfig[] = [
     solutionMainText: "We believe great stories deserve to be held in your hands. That's why we created the Vintage Mystery Sampler Bundle: five brilliant, forgotten classics, meticulously restored and published in a format designed for true reading enjoyment.",
     solutionFeatures: [
       { title: "Read with Comfort and Ease", description: "Each book is a reader-friendly A5 paperback (5.8\" x 8.3\") with clean, 11-point type. They're light enough to hold for hours without strain." },
-      { title: "Own Your Books, Forever", description: "No DRM. No Amazon. No tracking. No censorship. These books are yours to keep, display on your shelf, and share with family and friends." },
+      { title: "Own Your Books, Forever", description: "No DRM. No Amazon. No tracking. No censorship. These ebooks are yours to keep, share, and enjoy on any device, forever." },
       { title: "Discover Genuine Hidden Gems", description: "We've rescued these thrilling stories from obscurity, editing them for clarity while preserving every ounce of their vintage charm." },
       { title: "Support a Preservation Mission", description: "Every purchase you make helps us find and save another wonderful story from being forgotten forever." }
     ],
@@ -393,8 +393,8 @@ export const landingVariants: LandingVariantConfig[] = [
     heroImageDesktop: "/assets/33bt/img/33bt_bg_3x4.png",
     heroImageMobile: "/assets/33bt/img/33bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
-    offerPrice: "$52.49",
-    offerOldPrice: "$69.99",
+    offerPrice: "$37.99",
+    offerOldPrice: "$49.99",
     offerBadge: "Save 25%",
     ctaText: "YES, I WANT MY BUNDLE",
     problems: [
@@ -406,7 +406,7 @@ export const landingVariants: LandingVariantConfig[] = [
     solutionMainText: "We believe great stories deserve to be held in your hands. That's why we created the Vintage Mystery Sampler Bundle: five brilliant, forgotten classics, meticulously restored and published in a format designed for true reading enjoyment.",
     solutionFeatures: [
       { title: "Read with Comfort and Ease", description: "Each book is a reader-friendly A5 paperback (5.8\" x 8.3\") with clean, 11-point type. They're light enough to hold for hours without strain." },
-      { title: "Own Your Books, Forever", description: "No DRM. No Amazon. No tracking. No censorship. These books are yours to keep, display on your shelf, and share with family and friends." },
+      { title: "Own Your Books, Forever", description: "No DRM. No Amazon. No tracking. No censorship. These ebooks are yours to keep, share, and enjoy on any device, forever." },
       { title: "Discover Genuine Hidden Gems", description: "We've rescued these thrilling stories from obscurity, editing them for clarity while preserving every ounce of their vintage charm." },
       { title: "Support a Preservation Mission", description: "Every purchase you make helps us find and save another wonderful story from being forgotten forever." }
     ],
@@ -445,8 +445,8 @@ export const landingVariants: LandingVariantConfig[] = [
     heroImageDesktop: "/assets/34bt/img/34bt_bg_3x4.png",
     heroImageMobile: "/assets/34bt/img/34bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
-    offerPrice: "$52.49",
-    offerOldPrice: "$69.99",
+    offerPrice: "$37.99",
+    offerOldPrice: "$49.99",
     offerBadge: "Save 25%",
     ctaText: "YES, I WANT MY BUNDLE",
     problems: [
@@ -458,7 +458,7 @@ export const landingVariants: LandingVariantConfig[] = [
     solutionMainText: "We believe great stories deserve to be held in your hands. That's why we created the Vintage Mystery Sampler Bundle: five brilliant, forgotten classics, meticulously restored and published in a format designed for true reading enjoyment.",
     solutionFeatures: [
       { title: "Read with Comfort and Ease", description: "Each book is a reader-friendly A5 paperback (5.8\" x 8.3\") with clean, 11-point type. They're light enough to hold for hours without strain." },
-      { title: "Own Your Books, Forever", description: "No DRM. No Amazon. No tracking. No censorship. These books are yours to keep, display on your shelf, and share with family and friends." },
+      { title: "Own Your Books, Forever", description: "No DRM. No Amazon. No tracking. No censorship. These ebooks are yours to keep, share, and enjoy on any device, forever." },
       { title: "Discover Genuine Hidden Gems", description: "We've rescued these thrilling stories from obscurity, editing them for clarity while preserving every ounce of their vintage charm." },
       { title: "Support a Preservation Mission", description: "Every purchase you make helps us find and save another wonderful story from being forgotten forever." }
     ],
@@ -497,8 +497,8 @@ export const landingVariants: LandingVariantConfig[] = [
     heroImageDesktop: "/assets/34bt/img/34bt_bg_3x4.png",
     heroImageMobile: "/assets/34bt/img/34bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
-    offerPrice: "$52.49",
-    offerOldPrice: "$69.99",
+    offerPrice: "$37.99",
+    offerOldPrice: "$49.99",
     offerBadge: "Save 25%",
     ctaText: "YES, I WANT MY BUNDLE",
     problems: [
@@ -510,7 +510,7 @@ export const landingVariants: LandingVariantConfig[] = [
     solutionMainText: "We believe great stories deserve to be held in your hands. That's why we created the Vintage Mystery Sampler Bundle: five brilliant, forgotten classics, meticulously restored and published in a format designed for true reading enjoyment.",
     solutionFeatures: [
       { title: "Read with Comfort and Ease", description: "Each book is a reader-friendly A5 paperback (5.8\" x 8.3\") with clean, 11-point type. They're light enough to hold for hours without strain." },
-      { title: "Own Your Books, Forever", description: "No DRM. No Amazon. No tracking. No censorship. These books are yours to keep, display on your shelf, and share with family and friends." },
+      { title: "Own Your Books, Forever", description: "No DRM. No Amazon. No tracking. No censorship. These ebooks are yours to keep, share, and enjoy on any device, forever." },
       { title: "Discover Genuine Hidden Gems", description: "We've rescued these thrilling stories from obscurity, editing them for clarity while preserving every ounce of their vintage charm." },
       { title: "Support a Preservation Mission", description: "Every purchase you make helps us find and save another wonderful story from being forgotten forever." }
     ],
@@ -546,11 +546,11 @@ export const landingVariants: LandingVariantConfig[] = [
   {
     id: "34tb-ebook-a",
     copyVariant: '34tb',
-    heroImageDesktop: "/assets/34tb/img/34tb_bg_3x4.png",
-    heroImageMobile: "/assets/34tb/img/34tb_bg_9x16.png",
+    heroImageDesktop: "/assets/34bt/img/34bt_bg_3x4.png",
+    heroImageMobile: "/assets/34bt/img/34bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
-    offerPrice: "$52.49",
-    offerOldPrice: "$69.99",
+    offerPrice: "$37.99",
+    offerOldPrice: "$49.99",
     offerBadge: "Save 25%",
     ctaText: "YES, I WANT MY BUNDLE",
     problems: [
@@ -562,7 +562,7 @@ export const landingVariants: LandingVariantConfig[] = [
     solutionMainText: "We believe great stories deserve to be held in your hands. That's why we created the Vintage Mystery Sampler Bundle: five brilliant, forgotten classics, meticulously restored and published in a format designed for true reading enjoyment.",
     solutionFeatures: [
       { title: "Read with Comfort and Ease", description: "Each book is a reader-friendly A5 paperback (5.8\" x 8.3\") with clean, 11-point type. They're light enough to hold for hours without strain." },
-      { title: "Own Your Books, Forever", description: "No DRM. No Amazon. No tracking. No censorship. These books are yours to keep, display on your shelf, and share with family and friends." },
+      { title: "Own Your Books, Forever", description: "No DRM. No Amazon. No tracking. No censorship. These ebooks are yours to keep, share, and enjoy on any device, forever." },
       { title: "Discover Genuine Hidden Gems", description: "We've rescued these thrilling stories from obscurity, editing them for clarity while preserving every ounce of their vintage charm." },
       { title: "Support a Preservation Mission", description: "Every purchase you make helps us find and save another wonderful story from being forgotten forever." }
     ],
@@ -598,11 +598,11 @@ export const landingVariants: LandingVariantConfig[] = [
   {
     id: "34tb-ebook-b",
     copyVariant: '34tb',
-    heroImageDesktop: "/assets/34tb/img/34tb_bg_3x4.png",
-    heroImageMobile: "/assets/34tb/img/34tb_bg_9x16.png",
+    heroImageDesktop: "/assets/34bt/img/34bt_bg_3x4.png",
+    heroImageMobile: "/assets/34bt/img/34bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
-    offerPrice: "$52.49",
-    offerOldPrice: "$69.99",
+    offerPrice: "$37.99",
+    offerOldPrice: "$49.99",
     offerBadge: "Save 25%",
     ctaText: "YES, I WANT MY BUNDLE",
     problems: [
@@ -614,7 +614,7 @@ export const landingVariants: LandingVariantConfig[] = [
     solutionMainText: "We believe great stories deserve to be held in your hands. That's why we created the Vintage Mystery Sampler Bundle: five brilliant, forgotten classics, meticulously restored and published in a format designed for true reading enjoyment.",
     solutionFeatures: [
       { title: "Read with Comfort and Ease", description: "Each book is a reader-friendly A5 paperback (5.8\" x 8.3\") with clean, 11-point type. They're light enough to hold for hours without strain." },
-      { title: "Own Your Books, Forever", description: "No DRM. No Amazon. No tracking. No censorship. These books are yours to keep, display on your shelf, and share with family and friends." },
+      { title: "Own Your Books, Forever", description: "No DRM. No Amazon. No tracking. No censorship. These ebooks are yours to keep, share, and enjoy on any device, forever." },
       { title: "Discover Genuine Hidden Gems", description: "We've rescued these thrilling stories from obscurity, editing them for clarity while preserving every ounce of their vintage charm." },
       { title: "Support a Preservation Mission", description: "Every purchase you make helps us find and save another wonderful story from being forgotten forever." }
     ],
