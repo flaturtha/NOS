@@ -1,4 +1,5 @@
-import { netlify } from "@remix-run/netlify";
+import pkg from "@remix-run/netlify";
+const { netlify } = pkg;
 
 /** @type {import('@remix-run/dev').AppConfig} */
 export default {
