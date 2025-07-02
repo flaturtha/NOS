@@ -123,10 +123,12 @@ export default function LandingVariantRoute() {
 }
 
 export function ErrorBoundary({ error }: { error: Error }) {
+  console.error(error);
   return (
     <div style={{ color: 'red', padding: 32 }}>
       <h1>Something went wrong</h1>
       <pre>{error.message}</pre>
+      <pre>{error.stack}</pre>
     </div>
   );
 } 
