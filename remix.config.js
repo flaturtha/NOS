@@ -1,9 +1,10 @@
-import netlifyAdapter from "@netlify/remix-adapter";
+import { config } from "@netlify/remix-adapter";
 
 /** @type {import('@remix-run/dev').AppConfig} */
-export default netlifyAdapter({
+export default {
+  ...config,
   ignoredRouteFiles: ["**/.*"],
   future: {
     v2_routeConvention: true,
   },
-}); 
+}; 
