@@ -1,11 +1,9 @@
-import pkg from "@remix-run/netlify";
-const { netlify } = pkg;
+import netlifyAdapter from "@netlify/remix-adapter";
 
 /** @type {import('@remix-run/dev').AppConfig} */
-export default {
-  ...netlify(),
+export default netlifyAdapter({
   ignoredRouteFiles: ["**/.*"],
   future: {
     v2_routeConvention: true,
   },
-}; 
+}); 
