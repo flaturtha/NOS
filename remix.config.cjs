@@ -4,5 +4,5 @@ module.exports = {
     v3_routeConvention: true,
   },
   ignoredRouteFiles: ["**/.*"],
-  serverBuildTarget: "vercel"
+  serverBuildTarget: "vercel",
 };
