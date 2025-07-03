@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "nos",
   "private": true,
   "sideEffects": false,
   "type": "module",
@@ -11,13 +11,11 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@netlify/functions": "^4.1.8",
-    "@netlify/remix-adapter": "^2.6.1",
     "@radix-ui/react-slot": "^1.2.3",
     "@remix-run/node": "^2.16.8",
     "@remix-run/react": "^2.16.8",
     "@remix-run/serve": "^2.16.8",
-    "@remix-run/vercel": "^1.17.0",
+    "@remix-run/vercel": "^2.16.8",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "isbot": "^4.1.0",
