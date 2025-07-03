@@ -360,8 +360,8 @@ export const landingVariants: LandingVariantConfig[] = [
     ],
     bookGridImages: [
       "/assets/covers/ebooks/chinese-idol_ebook-mock.png",
-      "/assets/covers/ebooks/batwing-ebook-mock.png",
-      "/assets/covers/ebooks/expressman_ebook-mock.png",
+      "/assets/covers/ebooks/batwing-ebook-mock2.png",
+      "/assets/covers/ebooks/expressman_ebook-mock2.png",
       "/assets/covers/ebooks/australia_ebook-mock.png",
       "/assets/covers/ebooks/dead-secret_ebook-mock.png"
     ],
@@ -568,8 +568,8 @@ export const landingVariants: LandingVariantConfig[] = [
     ],
     bookGridImages: [
       "/assets/covers/ebooks/chinese-idol_ebook-mock.png",
-      "/assets/covers/ebooks/batwing-ebook-mock.png",
-      "/assets/covers/ebooks/expressman_ebook-mock.png",
+      "/assets/covers/ebooks/batwing-ebook-mock2.png",
+      "/assets/covers/ebooks/expressman_ebook-mock2.png",
       "/assets/covers/ebooks/australia_ebook-mock.png",
       "/assets/covers/ebooks/dead-secret_ebook-mock.png"
     ],

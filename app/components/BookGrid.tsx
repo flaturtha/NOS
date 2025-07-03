@@ -43,7 +43,7 @@ export function BookGrid({ books }: BookGridProps) {
               <img
                 src={book.image}
                 alt={book.title}
-                className="w-28 h-40 object-cover rounded mb-3 border border-gray-200 shadow-sm hover:scale-105 transition-transform duration-150"
+                className="w-28 h-40 object-contain rounded mb-3 border border-gray-200 shadow-sm hover:scale-105 transition-transform duration-150"
                 loading={idx > 1 ? "lazy" : undefined}
               />
             </button>
@@ -63,8 +63,18 @@ export function BookGrid({ books }: BookGridProps) {
       </div>
       {/* Lightbox Modal */}
       {selectedBook && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 z-50 flex items-center justify-center p-4" role="dialog" aria-modal="true">
-          <div className="bg-white rounded-lg max-w-md w-full max-h-[90vh] overflow-y-auto shadow-xl relative">
+        <div
+          className="fixed inset-0 bg-black bg-opacity-50 z-50 flex items-center justify-center p-4"
+          role="dialog"
+          aria-modal="true"
+          onClick={e => {
+            if (e.target === e.currentTarget) setSelectedBook(null);
+          }}
+        >
+          <div
+            className="bg-white rounded-lg max-w-md w-full max-h-[90vh] overflow-y-auto shadow-xl relative"
+            onClick={e => e.stopPropagation()}
+          >
             <button
               type="button"
               onClick={() => setSelectedBook(null)}
