@@ -1,4 +1,4 @@
-import { vercelPreset } from "@remix-run/vercel";
+import { vercelPreset } from "@vercel/remix";
 
 /** @type {import('@remix-run/dev').AppConfig} */
 export default {
