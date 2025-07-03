@@ -5,5 +5,5 @@ module.exports = {
   },
   ignoredRouteFiles: ["**/.*"],
   serverBuildTarget: "vercel",
-  server: "./entry.vercel.ts",
+  server: "./entry.vercel.js",
 };
