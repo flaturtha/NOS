@@ -5,4 +5,5 @@ module.exports = {
   },
   ignoredRouteFiles: ["**/.*"],
   serverBuildTarget: "vercel",
+  server: "./entry.vercel.ts", // this tells Remix to use the new handler
 };
