@@ -1,9 +1,6 @@
+import { vercelPreset } from "@remix-run/vercel";
+
 /** @type {import('@remix-run/dev').AppConfig} */
-module.exports = {
-  appDirectory: "app",
-  assetsBuildDirectory: "public/build",
-  publicPath: "/build/",
-  ignoredRouteFiles: ["**/.*"],
-  serverBuildTarget: "vercel",
-  server: "./entry.vercel.ts"
+export default {
+  ...vercelPreset(),
 };
