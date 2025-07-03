@@ -1,18 +1,17 @@
 {
-  "name": "NOS",
+  "name": "nos",
+  "version": "0.0.1",
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "remix build",
-    "dev": "remix vite:dev",
-    "start": "remix-serve ./build/server/index.js"
+    "build": "remix build && remix export",
+    "dev": "remix dev"
   },
   "dependencies": {
     "@remix-run/node": "^2.16.8",
     "@remix-run/react": "^2.16.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-    // …and your other UI deps
   },
   "devDependencies": {
     "@remix-run/dev": "^2.16.8",
