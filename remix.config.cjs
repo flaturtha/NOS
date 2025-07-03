@@ -1,8 +1,8 @@
 /** @type {import('@remix-run/dev').AppConfig} */
 module.exports = {
-  future: {
-    v3_routeConvention: true,
-  },
+  appDirectory: "app",
+  assetsBuildDirectory: "public/build",
+  publicPath: "/build/",
   ignoredRouteFiles: ["**/.*"],
   serverBuildTarget: "vercel",
   server: "./entry.vercel.ts"
