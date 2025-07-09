@@ -96,6 +96,7 @@ export default function LandingVariantRoute() {
           offerBadge={variant.offerBadge}
           ctaText={variant.ctaText}
           checkoutUrl={checkoutUrl}
+          isEbook={isEbook}
         >
           {crossLinkHref && (
             <div className="mt-2">
@@ -114,6 +115,7 @@ export default function LandingVariantRoute() {
       guaranteeSection={<GuaranteeSection image={guaranteeImage} variantType={variant.id.includes('ebook') ? 'ebook' : 'print'} />}
       faqSection={<FAQSection faqs={variant.faqs} />}
       copyVariant={variant.copyVariant}
+      isEbook={isEbook}
       floatingCtaPrice={variant.offerPrice}
       crossLinkHref={crossLinkHref}
       crossLinkText={crossLinkText}

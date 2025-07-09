@@ -15,7 +15,7 @@ export function FAQSection({ faqs }: { faqs: FAQ[] }) {
             <div key={index} className="border border-gray-300 shadow-sm bg-white rounded-lg p-8">
               <h3 className="text-xl font-semibold mb-4 text-black">{faq.question}</h3>
               <div className="max-w-[65ch]">
-                <p className="text-xl leading-relaxed">{faq.answer}</p>
+                <p className="text-xl leading-relaxed" dangerouslySetInnerHTML={{ __html: faq.answer }} />
               </div>
             </div>
           ))}

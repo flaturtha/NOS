@@ -21,6 +21,7 @@ interface LandingTemplateProps {
   crossLinkHref?: string;
   crossLinkText?: string;
   checkoutUrl: string;
+  isEbook?: boolean;
 }
 
 export function LandingTemplate({
@@ -42,6 +43,7 @@ export function LandingTemplate({
   crossLinkHref,
   crossLinkText,
   checkoutUrl,
+  isEbook,
 }: LandingTemplateProps) {
   const [showFloatingCTA, setShowFloatingCTA] = useState(true);
   const [animateBottomCTA, setAnimateBottomCTA] = useState(false);
@@ -85,9 +87,20 @@ export function LandingTemplate({
           <div className="max-w-4xl mx-auto">
             <a href={checkoutUrl} target="_blank" rel="noopener noreferrer">
               <Button className="w-full bg-white text-[#8B0000] hover:bg-gray-100 font-bold text-lg py-4 min-h-[48px] transition-all duration-200 hover:scale-[1.02] active:scale-[0.98] active:bg-gray-200">
-                {`Get my Bundle – ${floatingCtaPrice}`}
+                {`Get my Bundle – ${floatingCtaPrice} (15% off!)`}
               </Button>
             </a>
+            {/* Ebook delivery notice for floating CTA */}
+            {isEbook && (
+              <div className="text-sm text-white mt-2 text-center italic">
+                Links to download your ebooks will be delivered by email within 15 minutes of your purchase. You'll receive links to download each from Bookfunnel.
+              </div>
+            )}
+            {isEbook === false && (
+              <div className="text-sm text-white mt-2 text-center italic">
+                Ships FREE in 10 &ndash; 14 days (custom printed).
+              </div>
+            )}
             {crossLinkHref && crossLinkText && (
               <div className="mt-2 text-center">
                 <a href={crossLinkHref} className="text-white underline text-base hover:text-gray-200 focus:outline-none">

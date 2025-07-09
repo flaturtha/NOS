@@ -27,9 +27,9 @@ export const landingVariants: LandingVariantConfig[] = [
     heroImageDesktop: "/assets/33bt/img/33bt_bg_3x4.png",
     heroImageMobile: "/assets/33bt/img/33bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
-    offerPrice: "$52.49",
+    offerPrice: "$59.99",
     offerOldPrice: "$69.99",
-    offerBadge: "Save 25%",
+    offerBadge: "Save 15% + get FREE Shipping!",
     ctaText: "YES, I WANT MY BUNDLE",
     problems: [
       "Tiny, eye-straining print in mass-market paperbacks makes reading a chore.",
@@ -67,9 +67,8 @@ export const landingVariants: LandingVariantConfig[] = [
     ],
     guaranteeImage: "/pass-the-mystery-on.png",
     faqs: [
-      { question: "Do I truly own these books?", answer: "Yes, 100%. The paperback collection is yours to keep, share, or pass down. Your purchase also includes free, instant access to the digital versions (EPUB and Kindle files), which are also yours to own forever. No strings attached." },
-      { question: "What formats do I get with this bundle?", answer: "You will receive the 5-book paperback collection shipped directly to you. Your purchase also includes links to download both EPUB (for Kobo, Nook, and other e-readers) and Kindle (MOBI) files for all five books." },
-      { question: "Is shipping included?", answer: "We offer flat-rate shipping within the U.S. The final cost will be calculated at checkout. Our 'Pass the Mystery On' guarantee ensures that if you request a refund, your full purchase price, including the original shipping cost, will be returned to you." },
+      { question: "What formats do I get with this bundle?", answer: "You will receive the 5-book paperback collection shipped directly to you. Each book is printed upon order so it'll take about 10 to 14 days to process and ship." },
+      { question: "Is shipping included?", answer: "We offer flat-rate shipping within the U.S. The final cost will be calculated at checkout. Our 'Pass the Mystery On' guarantee ensures that if you request a refund, your full purchase price, including the original shipping cost, will be returned to you. <b>And this bundle ships free, for a limited time!</b>" },
       { question: "What if I have trouble with my order?", answer: "We're here to help! You can email us directly at atticus@crowmail.co. You will be talking to a real person who is dedicated to making sure you have a great experience." }
     ]
   },
@@ -79,9 +78,9 @@ export const landingVariants: LandingVariantConfig[] = [
     heroImageDesktop: "/assets/33bt/img/33bt_bg_3x4.png",
     heroImageMobile: "/assets/33bt/img/33bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
-    offerPrice: "$52.49",
+    offerPrice: "$59.99",
     offerOldPrice: "$69.99",
-    offerBadge: "Save 25%",
+    offerBadge: "Save 15% + get FREE Shipping!",
     ctaText: "YES, I WANT MY BUNDLE",
     problems: [
       "Tiny, eye-straining print in mass-market paperbacks makes reading a chore.",
@@ -119,9 +118,8 @@ export const landingVariants: LandingVariantConfig[] = [
     ],
     guaranteeImage: "/pass-the-mystery-on.png",
     faqs: [
-      { question: "Do I truly own these books?", answer: "Yes, 100%. The paperback collection is yours to keep, share, or pass down. Your purchase also includes free, instant access to the digital versions (EPUB and Kindle files), which are also yours to own forever. No strings attached." },
-      { question: "What formats do I get with this bundle?", answer: "You will receive the 5-book paperback collection shipped directly to you. Your purchase also includes links to download both EPUB (for Kobo, Nook, and other e-readers) and Kindle (MOBI) files for all five books." },
-      { question: "Is shipping included?", answer: "We offer flat-rate shipping within the U.S. The final cost will be calculated at checkout. Our 'Pass the Mystery On' guarantee ensures that if you request a refund, your full purchase price, including the original shipping cost, will be returned to you." },
+      { question: "What formats do I get with this bundle?", answer: "You will receive the 5-book paperback collection shipped directly to you. Each book is printed upon order so it'll take about 10 to 14 days to process and ship." },
+      { question: "Is shipping included?", answer: "We offer flat-rate shipping within the U.S. The final cost will be calculated at checkout. Our 'Pass the Mystery On' guarantee ensures that if you request a refund, your full purchase price, including the original shipping cost, will be returned to you. <b>And this bundle ships free, for a limited time!</b>" },
       { question: "What if I have trouble with my order?", answer: "We're here to help! You can email us directly at atticus@crowmail.co. You will be talking to a real person who is dedicated to making sure you have a great experience." }
     ]
   },
@@ -132,9 +130,9 @@ export const landingVariants: LandingVariantConfig[] = [
     heroImageDesktop: "/assets/34bt/img/34bt_bg_3x4.png",
     heroImageMobile: "/assets/34bt/img/34bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
-    offerPrice: "$52.49",
+    offerPrice: "$59.99",
     offerOldPrice: "$69.99",
-    offerBadge: "Save 25%",
+    offerBadge: "Save 15% + get FREE Shipping!",
     ctaText: "YES, I WANT MY BUNDLE",
     problems: [
       "Tiny, eye-straining print in mass-market paperbacks makes reading a chore.",
@@ -172,7 +170,6 @@ export const landingVariants: LandingVariantConfig[] = [
     ],
     guaranteeImage: "/pass-the-mystery-on.png",
     faqs: [
-      { question: "Do I truly own these books?", answer: "Yes, 100%. The paperback collection is yours to keep, share, or pass down. Your purchase also includes free, instant access to the digital versions (EPUB and Kindle files), which are also yours to own forever. No strings attached." },
       { question: "What formats do I get with this bundle?", answer: "You will receive the 5-book paperback collection shipped directly to you. Your purchase also includes links to download both EPUB (for Kobo, Nook, and other e-readers) and Kindle (MOBI) files for all five books." },
       { question: "Is shipping included?", answer: "We offer flat-rate shipping within the U.S. The final cost will be calculated at checkout. Our 'Pass the Mystery On' guarantee ensures that if you request a refund, your full purchase price, including the original shipping cost, will be returned to you." },
       { question: "What if I have trouble with my order?", answer: "We're here to help! You can email us directly at atticus@crowmail.co. You will be talking to a real person who is dedicated to making sure you have a great experience." }
@@ -184,9 +181,9 @@ export const landingVariants: LandingVariantConfig[] = [
     heroImageDesktop: "/assets/34bt/img/34bt_bg_3x4.png",
     heroImageMobile: "/assets/34bt/img/34bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
-    offerPrice: "$52.49",
+    offerPrice: "$59.99",
     offerOldPrice: "$69.99",
-    offerBadge: "Save 25%",
+    offerBadge: "Save 15% + get FREE Shipping!",
     ctaText: "YES, I WANT MY BUNDLE",
     problems: [
       "Tiny, eye-straining print in mass-market paperbacks makes reading a chore.",
@@ -224,7 +221,6 @@ export const landingVariants: LandingVariantConfig[] = [
     ],
     guaranteeImage: "/pass-the-mystery-on.png",
     faqs: [
-      { question: "Do I truly own these books?", answer: "Yes, 100%. The paperback collection is yours to keep, share, or pass down. Your purchase also includes free, instant access to the digital versions (EPUB and Kindle files), which are also yours to own forever. No strings attached." },
       { question: "What formats do I get with this bundle?", answer: "You will receive the 5-book paperback collection shipped directly to you. Your purchase also includes links to download both EPUB (for Kobo, Nook, and other e-readers) and Kindle (MOBI) files for all five books." },
       { question: "Is shipping included?", answer: "We offer flat-rate shipping within the U.S. The final cost will be calculated at checkout. Our 'Pass the Mystery On' guarantee ensures that if you request a refund, your full purchase price, including the original shipping cost, will be returned to you." },
       { question: "What if I have trouble with my order?", answer: "We're here to help! You can email us directly at atticus@crowmail.co. You will be talking to a real person who is dedicated to making sure you have a great experience." }
@@ -236,9 +232,9 @@ export const landingVariants: LandingVariantConfig[] = [
     heroImageDesktop: "/assets/34bt/img/34bt_bg_3x4.png",
     heroImageMobile: "/assets/34bt/img/34bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
-    offerPrice: "$52.49",
+    offerPrice: "$59.99",
     offerOldPrice: "$69.99",
-    offerBadge: "Save 25%",
+    offerBadge: "Save 15% + get FREE Shipping!",
     ctaText: "YES, I WANT MY BUNDLE",
     problems: [
       "Tiny, eye-straining print in mass-market paperbacks makes reading a chore.",
@@ -276,7 +272,6 @@ export const landingVariants: LandingVariantConfig[] = [
     ],
     guaranteeImage: "/pass-the-mystery-on.png",
     faqs: [
-      { question: "Do I truly own these books?", answer: "Yes, 100%. The paperback collection is yours to keep, share, or pass down. Your purchase also includes free, instant access to the digital versions (EPUB and Kindle files), which are also yours to own forever. No strings attached." },
       { question: "What formats do I get with this bundle?", answer: "You will receive the 5-book paperback collection shipped directly to you. Your purchase also includes links to download both EPUB (for Kobo, Nook, and other e-readers) and Kindle (MOBI) files for all five books." },
       { question: "Is shipping included?", answer: "We offer flat-rate shipping within the U.S. The final cost will be calculated at checkout. Our 'Pass the Mystery On' guarantee ensures that if you request a refund, your full purchase price, including the original shipping cost, will be returned to you." },
       { question: "What if I have trouble with my order?", answer: "We're here to help! You can email us directly at atticus@crowmail.co. You will be talking to a real person who is dedicated to making sure you have a great experience." }
@@ -288,9 +283,9 @@ export const landingVariants: LandingVariantConfig[] = [
     heroImageDesktop: "/assets/34bt/img/34bt_bg_3x4.png",
     heroImageMobile: "/assets/34bt/img/34bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
-    offerPrice: "$52.49",
+    offerPrice: "$59.99",
     offerOldPrice: "$69.99",
-    offerBadge: "Save 25%",
+    offerBadge: "Save 15% + get FREE Shipping!",
     ctaText: "YES, I WANT MY BUNDLE",
     problems: [
       "Tiny, eye-straining print in mass-market paperbacks makes reading a chore.",
@@ -328,7 +323,6 @@ export const landingVariants: LandingVariantConfig[] = [
     ],
     guaranteeImage: "/pass-the-mystery-on.png",
     faqs: [
-      { question: "Do I truly own these books?", answer: "Yes, 100%. The paperback collection is yours to keep, share, or pass down. Your purchase also includes free, instant access to the digital versions (EPUB and Kindle files), which are also yours to own forever. No strings attached." },
       { question: "What formats do I get with this bundle?", answer: "You will receive the 5-book paperback collection shipped directly to you. Your purchase also includes links to download both EPUB (for Kobo, Nook, and other e-readers) and Kindle (MOBI) files for all five books." },
       { question: "Is shipping included?", answer: "We offer flat-rate shipping within the U.S. The final cost will be calculated at checkout. Our 'Pass the Mystery On' guarantee ensures that if you request a refund, your full purchase price, including the original shipping cost, will be returned to you." },
       { question: "What if I have trouble with my order?", answer: "We're here to help! You can email us directly at atticus@crowmail.co. You will be talking to a real person who is dedicated to making sure you have a great experience." }
@@ -341,9 +335,9 @@ export const landingVariants: LandingVariantConfig[] = [
     heroImageDesktop: "/assets/33bt/img/33bt_bg_3x4.png",
     heroImageMobile: "/assets/33bt/img/33bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
-    offerPrice: "$37.99",
+    offerPrice: "$42.99",
     offerOldPrice: "$49.99",
-    offerBadge: "Save 25%",
+    offerBadge: "Save 15%",
     ctaText: "YES, I WANT MY BUNDLE",
     problems: [
       "Tiny, eye-straining print in mass-market paperbacks makes reading a chore.",
@@ -381,9 +375,8 @@ export const landingVariants: LandingVariantConfig[] = [
     ],
     guaranteeImage: "/pass-the-mystery-on.png",
     faqs: [
-      { question: "Do I truly own these books?", answer: "Yes, 100%. The paperback collection is yours to keep, share, or pass down. Your purchase also includes free, instant access to the digital versions (EPUB and Kindle files), which are also yours to own forever. No strings attached." },
-      { question: "What formats do I get with this bundle?", answer: "You will receive the 5-book paperback collection shipped directly to you. Your purchase also includes links to download both EPUB (for Kobo, Nook, and other e-readers) and Kindle (MOBI) files for all five books." },
-      { question: "Is shipping included?", answer: "We offer flat-rate shipping within the U.S. The final cost will be calculated at checkout. Our 'Pass the Mystery On' guarantee ensures that if you request a refund, your full purchase price, including the original shipping cost, will be returned to you." },
+      { question: "Do I truly own these books?", answer: "Yes, 100%. The ebook collection is yours to keep, share, or pass down. Your purchase also includes free, instant access to the digital versions (EPUB and Kindle files), which are also yours to own forever. No strings attached." },
+      { question: "What formats do I get with this bundle?", answer: "You will receive the links to download 5 individual ebooks from Bookfunnel.com, with complete instructions on how to load on your favorite ebook reader. Your purchase includes links to download both EPUB (for Kobo, Nook, and other e-readers) and Kindle (MOBI) files for all five books." },
       { question: "What if I have trouble with my order?", answer: "We're here to help! You can email us directly at atticus@crowmail.co. You will be talking to a real person who is dedicated to making sure you have a great experience." }
     ]
   },
@@ -393,9 +386,9 @@ export const landingVariants: LandingVariantConfig[] = [
     heroImageDesktop: "/assets/33bt/img/33bt_bg_3x4.png",
     heroImageMobile: "/assets/33bt/img/33bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
-    offerPrice: "$37.99",
+    offerPrice: "$42.99",
     offerOldPrice: "$49.99",
-    offerBadge: "Save 25%",
+    offerBadge: "Save 15%",
     ctaText: "YES, I WANT MY BUNDLE",
     problems: [
       "Tiny, eye-straining print in mass-market paperbacks makes reading a chore.",
@@ -433,7 +426,7 @@ export const landingVariants: LandingVariantConfig[] = [
     ],
     guaranteeImage: "/pass-the-mystery-on.png",
     faqs: [
-      { question: "Do I truly own these books?", answer: "Yes, 100%. The paperback collection is yours to keep, share, or pass down. Your purchase also includes free, instant access to the digital versions (EPUB and Kindle files), which are also yours to own forever. No strings attached." },
+      { question: "Do I truly own these books?", answer: "Yes, 100%. The ebook collection is yours to keep, share, or pass down. Your purchase also includes free, instant access to the digital versions (EPUB and Kindle files), which are also yours to own forever. No strings attached." },
       { question: "What formats do I get with this bundle?", answer: "You will receive the 5-book paperback collection shipped directly to you. Your purchase also includes links to download both EPUB (for Kobo, Nook, and other e-readers) and Kindle (MOBI) files for all five books." },
       { question: "Is shipping included?", answer: "We offer flat-rate shipping within the U.S. The final cost will be calculated at checkout. Our 'Pass the Mystery On' guarantee ensures that if you request a refund, your full purchase price, including the original shipping cost, will be returned to you." },
       { question: "What if I have trouble with my order?", answer: "We're here to help! You can email us directly at atticus@crowmail.co. You will be talking to a real person who is dedicated to making sure you have a great experience." }
@@ -445,9 +438,9 @@ export const landingVariants: LandingVariantConfig[] = [
     heroImageDesktop: "/assets/34bt/img/34bt_bg_3x4.png",
     heroImageMobile: "/assets/34bt/img/34bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
-    offerPrice: "$37.99",
+    offerPrice: "$42.99",
     offerOldPrice: "$49.99",
-    offerBadge: "Save 25%",
+    offerBadge: "Save 15%",
     ctaText: "YES, I WANT MY BUNDLE",
     problems: [
       "Tiny, eye-straining print in mass-market paperbacks makes reading a chore.",
@@ -485,9 +478,8 @@ export const landingVariants: LandingVariantConfig[] = [
     ],
     guaranteeImage: "/pass-the-mystery-on.png",
     faqs: [
-      { question: "Do I truly own these books?", answer: "Yes, 100%. The paperback collection is yours to keep, share, or pass down. Your purchase also includes free, instant access to the digital versions (EPUB and Kindle files), which are also yours to own forever. No strings attached." },
-      { question: "What formats do I get with this bundle?", answer: "You will receive the 5-book paperback collection shipped directly to you. Your purchase also includes links to download both EPUB (for Kobo, Nook, and other e-readers) and Kindle (MOBI) files for all five books." },
-      { question: "Is shipping included?", answer: "We offer flat-rate shipping within the U.S. The final cost will be calculated at checkout. Our 'Pass the Mystery On' guarantee ensures that if you request a refund, your full purchase price, including the original shipping cost, will be returned to you." },
+      { question: "Do I truly own these books?", answer: "Yes, 100%. The ebook collection is yours to keep, share, or pass down. Your purchase also includes free, instant access to the digital versions (EPUB and Kindle files), which are also yours to own forever. No strings attached." },
+      { question: "What formats do I get with this bundle?", answer: "You will receive the links to download 5 individual ebooks from Bookfunnel.com, with complete instructions on how to load on your favorite ebook reader. Your purchase includes links to download both EPUB (for Kobo, Nook, and other e-readers) and Kindle (MOBI) files for all five books." },
       { question: "What if I have trouble with my order?", answer: "We're here to help! You can email us directly at atticus@crowmail.co. You will be talking to a real person who is dedicated to making sure you have a great experience." }
     ]
   },
@@ -497,9 +489,9 @@ export const landingVariants: LandingVariantConfig[] = [
     heroImageDesktop: "/assets/34bt/img/34bt_bg_3x4.png",
     heroImageMobile: "/assets/34bt/img/34bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
-    offerPrice: "$37.99",
+    offerPrice: "$42.99",
     offerOldPrice: "$49.99",
-    offerBadge: "Save 25%",
+    offerBadge: "Save 15%",
     ctaText: "YES, I WANT MY BUNDLE",
     problems: [
       "Tiny, eye-straining print in mass-market paperbacks makes reading a chore.",
@@ -537,7 +529,7 @@ export const landingVariants: LandingVariantConfig[] = [
     ],
     guaranteeImage: "/pass-the-mystery-on.png",
     faqs: [
-      { question: "Do I truly own these books?", answer: "Yes, 100%. The paperback collection is yours to keep, share, or pass down. Your purchase also includes free, instant access to the digital versions (EPUB and Kindle files), which are also yours to own forever. No strings attached." },
+      { question: "Do I truly own these books?", answer: "Yes, 100%. The ebook collection is yours to keep, share, or pass down. Your purchase also includes free, instant access to the digital versions (EPUB and Kindle files), which are also yours to own forever. No strings attached." },
       { question: "What formats do I get with this bundle?", answer: "You will receive the 5-book paperback collection shipped directly to you. Your purchase also includes links to download both EPUB (for Kobo, Nook, and other e-readers) and Kindle (MOBI) files for all five books." },
       { question: "Is shipping included?", answer: "We offer flat-rate shipping within the U.S. The final cost will be calculated at checkout. Our 'Pass the Mystery On' guarantee ensures that if you request a refund, your full purchase price, including the original shipping cost, will be returned to you." },
       { question: "What if I have trouble with my order?", answer: "We're here to help! You can email us directly at atticus@crowmail.co. You will be talking to a real person who is dedicated to making sure you have a great experience." }
@@ -549,9 +541,9 @@ export const landingVariants: LandingVariantConfig[] = [
     heroImageDesktop: "/assets/34bt/img/34bt_bg_3x4.png",
     heroImageMobile: "/assets/34bt/img/34bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
-    offerPrice: "$37.99",
+    offerPrice: "$42.99",
     offerOldPrice: "$49.99",
-    offerBadge: "Save 25%",
+    offerBadge: "Save 15%",
     ctaText: "YES, I WANT MY BUNDLE",
     problems: [
       "Tiny, eye-straining print in mass-market paperbacks makes reading a chore.",
@@ -589,9 +581,8 @@ export const landingVariants: LandingVariantConfig[] = [
     ],
     guaranteeImage: "/pass-the-mystery-on.png",
     faqs: [
-      { question: "Do I truly own these books?", answer: "Yes, 100%. The paperback collection is yours to keep, share, or pass down. Your purchase also includes free, instant access to the digital versions (EPUB and Kindle files), which are also yours to own forever. No strings attached." },
-      { question: "What formats do I get with this bundle?", answer: "You will receive the 5-book paperback collection shipped directly to you. Your purchase also includes links to download both EPUB (for Kobo, Nook, and other e-readers) and Kindle (MOBI) files for all five books." },
-      { question: "Is shipping included?", answer: "We offer flat-rate shipping within the U.S. The final cost will be calculated at checkout. Our 'Pass the Mystery On' guarantee ensures that if you request a refund, your full purchase price, including the original shipping cost, will be returned to you." },
+      { question: "Do I truly own these books?", answer: "Yes, 100%. The ebook collection is yours to keep, share, or pass down. Your purchase also includes free, instant access to the digital versions (EPUB and Kindle files), which are also yours to own forever. No strings attached." },
+      { question: "What formats do I get with this bundle?", answer: "You will receive the links to down load 5 individual ebooks from Bookfunnel.com, with complete instructions on how to load on your favorate ebook reader. Your purchase includes links to download both EPUB (for Kobo, Nook, and other e-readers) and Kindle (MOBI) files for all five books." },
       { question: "What if I have trouble with my order?", answer: "We're here to help! You can email us directly at atticus@crowmail.co. You will be talking to a real person who is dedicated to making sure you have a great experience." }
     ]
   },
@@ -601,9 +592,9 @@ export const landingVariants: LandingVariantConfig[] = [
     heroImageDesktop: "/assets/34bt/img/34bt_bg_3x4.png",
     heroImageMobile: "/assets/34bt/img/34bt_bg_9x16.png",
     offerTitle: "The Vintage Mystery Sampler Bundle",
-    offerPrice: "$37.99",
+    offerPrice: "$42.99",
     offerOldPrice: "$49.99",
-    offerBadge: "Save 25%",
+    offerBadge: "Save 15%",
     ctaText: "YES, I WANT MY BUNDLE",
     problems: [
       "Tiny, eye-straining print in mass-market paperbacks makes reading a chore.",
@@ -641,7 +632,7 @@ export const landingVariants: LandingVariantConfig[] = [
     ],
     guaranteeImage: "/pass-the-mystery-on.png",
     faqs: [
-      { question: "Do I truly own these books?", answer: "Yes, 100%. The paperback collection is yours to keep, share, or pass down. Your purchase also includes free, instant access to the digital versions (EPUB and Kindle files), which are also yours to own forever. No strings attached." },
+      { question: "Do I truly own these books?", answer: "Yes, 100%. The ebook collection is yours to keep, share, or pass down. Your purchase also includes free, instant access to the digital versions (EPUB and Kindle files), which are also yours to own forever. No strings attached." },
       { question: "What formats do I get with this bundle?", answer: "You will receive the 5-book paperback collection shipped directly to you. Your purchase also includes links to download both EPUB (for Kobo, Nook, and other e-readers) and Kindle (MOBI) files for all five books." },
       { question: "Is shipping included?", answer: "We offer flat-rate shipping within the U.S. The final cost will be calculated at checkout. Our 'Pass the Mystery On' guarantee ensures that if you request a refund, your full purchase price, including the original shipping cost, will be returned to you." },
       { question: "What if I have trouble with my order?", answer: "We're here to help! You can email us directly at atticus@crowmail.co. You will be talking to a real person who is dedicated to making sure you have a great experience." }
