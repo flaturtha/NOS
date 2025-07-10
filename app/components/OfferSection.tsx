@@ -30,6 +30,41 @@ export function OfferSection({ offerTitle, offerPrice, offerOldPrice, offerBadge
           {ctaText}
         </Button>
       </a>
+
+      {/* Trust Row */}
+      <div className="flex flex-row items-center justify-center gap-16 mb-4 mt-2 text-xs">
+        <div className="flex flex-col items-center">
+          {/* Book/Heart Icon - Satisfaction Guaranteed for all */}
+          <svg width="26" height="26" fill="none" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" stroke="#8B0000" strokeWidth="2" strokeLinecap="round"/><path d="M4 19.5V6.5A2.5 2.5 0 0 1 6.5 4H20v13" stroke="#8B0000" strokeWidth="2" strokeLinecap="round"/><path d="M8.5 9.5c0-1.104.896-2 2-2s2 .896 2 2c0 1.657-2 3-2 3s-2-1.343-2-3Z" fill="#e0a106" stroke="#8B0000" strokeWidth="1.2"/></svg>
+          <span className="mt-1 font-semibold">Satisfaction Guaranteed</span>
+        </div>
+        <div className="flex flex-col items-center">
+          {/* Padlock Icon */}
+          <svg width="24" height="24" fill="none" viewBox="0 0 24 24" aria-hidden="true"><rect x="5" y="11" width="14" height="8" rx="2" stroke="#8B0000" strokeWidth="2"/><path d="M8 11V8a4 4 0 1 1 8 0v3" stroke="#8B0000" strokeWidth="2"/></svg>
+          <span className="mt-1 font-semibold">Secure Checkout</span>
+        </div>
+        <div className="flex flex-col items-center">
+          {/* Third icon: conditional for ebook/print */}
+          {isEbook ? (
+            <>
+              {/* Airmail/Download Icon */}
+              <svg width="26" height="26" fill="none" viewBox="0 0 24 24" aria-hidden="true">
+                <rect x="3" y="7" width="18" height="10" rx="2" stroke="#8B0000" strokeWidth="2"/>
+                <path d="M3 7l9 6 9-6" stroke="#e0a106" strokeWidth="2"/>
+                <path d="M12 13v4" stroke="#8B0000" strokeWidth="2" strokeLinecap="round"/>
+                <path d="M9 17h6" stroke="#8B0000" strokeWidth="2" strokeLinecap="round"/>
+              </svg>
+              <span className="mt-1 font-semibold">Instant Delivery</span>
+            </>
+          ) : (
+            <>
+              {/* Truck Icon */}
+              <svg width="26" height="26" fill="none" viewBox="0 0 24 24" aria-hidden="true"><rect x="1" y="7" width="15" height="10" rx="2" stroke="#8B0000" strokeWidth="2"/><path d="M16 11h3.382a2 2 0 0 1 1.789 1.106l1.382 2.764A2 2 0 0 1 20.764 17H19" stroke="#8B0000" strokeWidth="2"/><circle cx="6" cy="19" r="1.5" fill="#e0a106" stroke="#8B0000" strokeWidth="1.2"/><circle cx="18" cy="19" r="1.5" fill="#e0a106" stroke="#8B0000" strokeWidth="1.2"/></svg>
+              <span className="mt-1 font-semibold">Free Shipping</span>
+            </>
+          )}
+        </div>
+      </div>
       {/* Ebook delivery notice */}
       {isEbook && (
         <div className="text-sm text-gray-700 mt-2 italic">
