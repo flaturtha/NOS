@@ -26,13 +26,14 @@ export const links: LinksFunction = () => [
   },
 ];
 
-export function loader() {
+export const loader = () => {
+  console.log("PUBLIC_POSTHOG_API_KEY:", process.env.PUBLIC_POSTHOG_API_KEY);
   return json({
     ENV: {
       PUBLIC_POSTHOG_API_KEY: process.env.PUBLIC_POSTHOG_API_KEY,
     },
   });
-}
+};
 
 // TypeScript global declaration for window.ENV
 declare global {
@@ -63,6 +64,8 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Links />
       </head>
       <body>
+        {/* DEBUG: Show ENV in the DOM */}
+        <pre style={{ background: '#eee', color: '#333' }}>{JSON.stringify(data.ENV)}</pre>
         {children}
         <ScrollRestoration />
         <Scripts />
