@@ -27,10 +27,10 @@ export const links: LinksFunction = () => [
 ];
 
 export const loader = () => {
-  console.log("PUBLIC_POSTHOG_API_KEY:", process.env.PUBLIC_POSTHOG_API_KEY);
+  console.log("POSTHOG_API_KEY:", process.env.POSTHOG_API_KEY);
   return json({
     ENV: {
-      PUBLIC_POSTHOG_API_KEY: process.env.PUBLIC_POSTHOG_API_KEY,
+      POSTHOG_API_KEY: process.env.POSTHOG_API_KEY,
     },
   });
 };
@@ -39,7 +39,7 @@ export const loader = () => {
 declare global {
   interface Window {
     ENV?: {
-      PUBLIC_POSTHOG_API_KEY?: string;
+      POSTHOG_API_KEY?: string;
     };
   }
 }
@@ -47,8 +47,8 @@ declare global {
 export function Layout({ children }: { children: React.ReactNode }) {
   const data = useLoaderData<typeof loader>();
   useEffect(() => {
-    if (typeof window !== 'undefined' && window.ENV?.PUBLIC_POSTHOG_API_KEY) {
-      posthog.init(window.ENV.PUBLIC_POSTHOG_API_KEY, {
+    if (typeof window !== 'undefined' && window.ENV?.POSTHOG_API_KEY) {
+      posthog.init(window.ENV.POSTHOG_API_KEY, {
         api_host: 'https://us.i.posthog.com',
         capture_pageview: false,
       });
