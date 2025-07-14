@@ -6,9 +6,9 @@
   "type": "module",
   "scripts": {
     "build": "remix vite:build",
-    "dev":   "remix vite:dev",
+    "dev": "remix vite:dev",
     "start": "remix-serve ./build/server/index.js",
-    "lint":  "eslint --ignore-path .gitignore --cache --cache-location ./node_modules/.cache/eslint .",
+    "lint": "eslint --ignore-path .gitignore --cache --cache-location ./node_modules/.cache/eslint .",
     "typecheck": "tsc"
   },
   "dependencies": {
@@ -18,9 +18,10 @@
     "@remix-run/serve": "^2.16.8",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "dotenv": "^17.2.0",
     "isbot": "^4.1.0",
     "lucide-react": "^0.523.0",
-    "posthog-js": "^1.256.1",
+    "posthog-js": "^1.257.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "tailwind-merge": "^3.3.1",

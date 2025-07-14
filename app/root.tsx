@@ -6,6 +6,10 @@ import {
   ScrollRestoration,
 } from "@remix-run/react";
 import type { LinksFunction } from "@remix-run/node";
+import posthog from 'posthog-js';
+import { useEffect } from 'react';
+import { json, type LoaderFunctionArgs } from "@remix-run/node";
+import { useLoaderData } from "@remix-run/react";
 
 import "./tailwind.css";
 
@@ -22,7 +26,34 @@ export const links: LinksFunction = () => [
   },
 ];
 
+export function loader() {
+  return json({
+    ENV: {
+      PUBLIC_POSTHOG_API_KEY: process.env.PUBLIC_POSTHOG_API_KEY,
+    },
+  });
+}
+
+// TypeScript global declaration for window.ENV
+declare global {
+  interface Window {
+    ENV?: {
+      PUBLIC_POSTHOG_API_KEY?: string;
+    };
+  }
+}
+
 export function Layout({ children }: { children: React.ReactNode }) {
+  const data = useLoaderData<typeof loader>();
+  useEffect(() => {
+    if (typeof window !== 'undefined' && window.ENV?.PUBLIC_POSTHOG_API_KEY) {
+      posthog.init(window.ENV.PUBLIC_POSTHOG_API_KEY, {
+        api_host: 'https://us.i.posthog.com',
+        capture_pageview: false,
+      });
+      posthog.capture('$pageview');
+    }
+  }, []);
   return (
     <html lang="en">
       <head>
@@ -35,6 +66,11 @@ export function Layout({ children }: { children: React.ReactNode }) {
         {children}
         <ScrollRestoration />
         <Scripts />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.ENV = ${JSON.stringify(data.ENV)};`,
+          }}
+        />
       </body>
     </html>
   );

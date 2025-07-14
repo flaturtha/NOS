@@ -1,6 +1,7 @@
 import React, { ReactNode, useRef, useState, useEffect } from "react";
 import { Button } from "./ui/button";
 import { FlourishDivider } from "./FlourishDivider";
+import posthog from 'posthog-js';
 
 interface LandingTemplateProps {
   headline: string;
@@ -48,6 +49,7 @@ export function LandingTemplate({
   const [showFloatingCTA, setShowFloatingCTA] = useState(true);
   const [animateBottomCTA, setAnimateBottomCTA] = useState(false);
   const bottomCTARef = useRef<HTMLButtonElement>(null);
+  const [loadingFloatingCTA, setLoadingFloatingCTA] = useState(false);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -68,6 +70,42 @@ export function LandingTemplate({
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
+  useEffect(() => {
+    // Prefetch Shopify checkout page
+    if (checkoutUrl) {
+      const link = document.createElement('link');
+      link.rel = 'prefetch';
+      link.href = checkoutUrl;
+      link.as = 'document';
+      document.head.appendChild(link);
+      return () => {
+        document.head.removeChild(link);
+      };
+    }
+  }, [checkoutUrl]);
+
+  // Scroll depth tracking
+  useEffect(() => {
+    let lastDepth = 0;
+    function handleScroll() {
+      const scrollTop = window.scrollY;
+      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+      if (docHeight <= 0) return;
+      const percent = Math.floor((scrollTop / docHeight) * 100);
+      let depth = 0;
+      if (percent >= 100) depth = 100;
+      else if (percent >= 75) depth = 75;
+      else if (percent >= 50) depth = 50;
+      else if (percent >= 25) depth = 25;
+      if (depth > lastDepth) {
+        lastDepth = depth;
+        if (depth > 0) posthog.capture('scroll_depth', { percent: depth });
+      }
+    }
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
   return (
     <div className="min-h-screen bg-white text-black" style={{ fontSize: "18px", lineHeight: "1.7" }}>
       {/* Top Banner with Title Only (subtle style) */}
@@ -85,11 +123,28 @@ export function LandingTemplate({
           style={{ transition: 'opacity 0.5s' }}
         >
           <div className="max-w-4xl mx-auto">
-            <a href={checkoutUrl} target="_blank" rel="noopener noreferrer">
-              <Button className="w-full bg-white text-[#8B0000] hover:bg-gray-100 font-bold text-lg py-4 min-h-[48px] transition-all duration-200 hover:scale-[1.02] active:scale-[0.98] active:bg-gray-200">
-                {`Get my Bundle – ${floatingCtaPrice} (15% off!)`}
-              </Button>
-            </a>
+            <button
+              type="button"
+              className="w-full bg-white text-[#8B0000] hover:bg-gray-100 font-bold text-lg py-4 min-h-[48px] transition-all duration-200 hover:scale-[1.02] active:scale-[0.98] active:bg-gray-200 rounded disabled:opacity-60 disabled:cursor-not-allowed flex items-center justify-center gap-2"
+              disabled={loadingFloatingCTA}
+              onClick={() => {
+                setLoadingFloatingCTA(true);
+                posthog.capture('cta_click', { type: 'floating' });
+                setTimeout(() => {
+                  window.open(checkoutUrl, '_blank', 'noopener,noreferrer');
+                  setLoadingFloatingCTA(false);
+                }, 300);
+              }}
+            >
+              {loadingFloatingCTA ? (
+                <>
+                  <svg className="animate-spin h-5 w-5 mr-2 text-[#e0a106]" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle><path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v4a4 4 0 00-4 4H4z"></path></svg>
+                  Loading secure checkout ...
+                </>
+              ) : (
+                `Get my Bundle – ${floatingCtaPrice} (15% off!)`
+              )}
+            </button>
             {/* Ebook delivery notice for floating CTA */}
             {isEbook && (
               <div className="text-sm text-white mt-2 text-center italic">

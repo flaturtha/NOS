@@ -1,5 +1,6 @@
-import React from "react";
+import React, { useState } from "react";
 import { Button } from "./ui/button";
+import posthog from 'posthog-js';
 
 interface OfferSectionProps {
   offerTitle: string;
@@ -14,6 +15,7 @@ interface OfferSectionProps {
 }
 
 export function OfferSection({ offerTitle, offerPrice, offerOldPrice, offerBadge, ctaText, onCtaClick, children, checkoutUrl, isEbook }: OfferSectionProps) {
+  const [loadingMainCTA, setLoadingMainCTA] = useState(false);
   return (
     <div className="bg-white shadow-xl border-2 border-[#8B0000] rounded-lg p-8 mb-8 max-w-md mx-auto text-center">
       <p className="text-base font-semibold text-[#8B0000] mb-3">Limited-Time Launch Offer:</p>
@@ -25,12 +27,28 @@ export function OfferSection({ offerTitle, offerPrice, offerOldPrice, offerBadge
       {offerBadge && (
         <div className="font-bold text-base text-[#8B0000] mb-6">{offerBadge}</div>
       )}
-      <a href={checkoutUrl} target="_blank" rel="noopener noreferrer">
-        <Button className="bg-[#e0a106] hover:bg-[#c97f00] text-white px-10 py-6 text-xl font-semibold rounded-md mb-8 w-full max-w-sm min-h-[56px] transition-all duration-200 hover:scale-[1.02] active:scale-[0.98] active:bg-[#a56600]">
-          {ctaText}
-        </Button>
-      </a>
-
+      <button
+        type="button"
+        className="bg-[#e0a106] hover:bg-[#c97f00] text-white px-10 py-6 text-xl font-semibold rounded-md mb-8 w-full max-w-sm min-h-[56px] transition-all duration-200 hover:scale-[1.02] active:scale-[0.98] active:bg-[#a56600] flex items-center justify-center gap-2 disabled:opacity-60 disabled:cursor-not-allowed"
+        disabled={loadingMainCTA}
+        onClick={() => {
+          setLoadingMainCTA(true);
+          posthog.capture('cta_click', { type: 'main' });
+          setTimeout(() => {
+            window.open(checkoutUrl, '_blank', 'noopener,noreferrer');
+            setLoadingMainCTA(false);
+          }, 300);
+        }}
+      >
+        {loadingMainCTA ? (
+          <>
+            <svg className="animate-spin h-5 w-5 mr-2 text-[#fff]" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"><circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle><path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v4a4 4 0 00-4 4H4z"></path></svg>
+            Loading secure checkout ...
+          </>
+        ) : (
+          ctaText
+        )}
+      </button>
       {/* Trust Row */}
       <div className="flex flex-row items-center justify-center gap-16 mb-4 mt-2 text-xs">
         <div className="flex flex-col items-center">
