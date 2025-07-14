@@ -64,8 +64,6 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Links />
       </head>
       <body>
-        {/* DEBUG: Show ENV in the DOM */}
-        <pre style={{ background: '#eee', color: '#333' }}>{JSON.stringify(data.ENV)}</pre>
         {children}
         <ScrollRestoration />
         <Scripts />
