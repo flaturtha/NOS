@@ -1,9 +1,2 @@
-import type { Config } from "@react-router/dev/config";
-import { vercelPreset } from "@vercel/react-router/vite";
-
-export default {
-  // Config options...
-  // Server-side render by default, to enable SPA mode set this to `false`
-  ssr: true,
-  presets: [vercelPreset()],
-} satisfies Config;
+// This file is no longer needed for Data Mode
+// React Router v7 Data Mode uses standard Vite build process

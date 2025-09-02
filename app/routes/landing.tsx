@@ -1,18 +1,6 @@
-import type { Route } from "./+types/landing";
 import { useState, useEffect } from "react";
 
-export function meta({}: Route.MetaArgs) {
-  return [
-    { title: "Tales of Murder - 10 Lost Mysteries" },
-    { name: "description", content: "10 LOST MYSTERIES. ONE BUNDLE. YOURS TONIGHT. BINGE TEN THRILLING GASLIGHT PULP NOVELS" },
-  ];
-}
-
-export function loader({ context }: Route.LoaderArgs) {
-  return {};
-}
-
-export default function Landing({ loaderData }: Route.ComponentProps) {
+export default function Landing() {
   const [showModal, setShowModal] = useState(false);
   const [email, setEmail] = useState("");
   const [currentCoverIndex, setCurrentCoverIndex] = useState(0);
