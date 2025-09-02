@@ -5,11 +5,74 @@
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
-html,
-body {
-  @apply bg-white dark:bg-gray-950;
+/* Import Google Fonts for enhanced typography */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Source+Sans+Pro:wght@400;600;700;900&display=swap');
 
-  @media (prefers-color-scheme: dark) {
-    color-scheme: dark;
-  }
+/* Import Breamcatcher font */
+@font-face {
+  font-family: 'Breamcatcher';
+  src: url('/fonts/Breamcatcher-Regular.woff2') format('woff2'),
+       url('/fonts/Breamcatcher-Regular.woff') format('woff'),
+       url('/fonts/Breamcatcher-Regular.ttf') format('truetype'),
+       url('/fonts/breamcatcher.regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
+
+/* Import Lydian font */
+@font-face {
+  font-family: 'Lydian';
+  src: url('/fonts/LYDIAN_FIXED.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Custom font classes */
+.font-display {
+  font-family: 'Playfair Display', serif;
+}
+
+.font-body {
+  font-family: 'Lydian', 'Source Sans Pro', sans-serif;
+}
+
+/* Enhanced typography for the landing page */
+.hero-headline {
+  font-family: 'Breamcatcher', sans-serif;
+  font-weight: normal;
+  letter-spacing: -0.02em;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.hero-subheadline {
+  font-family: 'Lydian', 'Playfair Display', serif;
+  font-weight: normal;
+  letter-spacing: 0.05em;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+       html,
+       body {
+         @apply bg-white dark:bg-gray-950;
+
+         @media (prefers-color-scheme: dark) {
+           color-scheme: dark;
+         }
+       }
+
+       /* Smooth horizontal scrolling animation for desktop carousel */
+       @keyframes scroll {
+         0% {
+           transform: translateX(0);
+         }
+         100% {
+           transform: translateX(-50%);
+         }
+       }
+
+       /* Pause animation on hover */
+       .group:hover .animate-scroll {
+         animation-play-state: paused;
+       }
