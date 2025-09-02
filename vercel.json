@@ -3,15 +3,10 @@
   "outputDirectory": "build",
   "framework": null,
   "installCommand": "npm install",
-  "functions": {
-    "build/server/**/*.js": {
-      "runtime": "nodejs18.x"
-    }
-  },
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/api/ssr"
+      "destination": "/index.html"
     }
   ]
 }
