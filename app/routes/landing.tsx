@@ -126,7 +126,11 @@ export default function Landing() {
           <a href="#special-offer" className="hover:underline font-bolder">Click to get your $1 ebook!</a>
           <span className="hidden sm:inline">•</span>
           <span className="italic">Read about the special offer below</span>
-          <span className="text-xs animate-bounce">↓</span>
+          <div className="w-5 h-5 bg-white rounded-full flex items-center justify-center animate-bounce">
+            <svg className="w-3 h-3 text-[#8b0000] transform rotate-90" fill="currentColor" viewBox="0 0 24 24">
+              <path d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8-8-8z"/>
+            </svg>
+          </div>
         </div>
       </div>
 
