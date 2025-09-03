@@ -9,23 +9,47 @@ export default function CustomEmailForm() {
     e.preventDefault();
     setError("");
 
-    const formData = new FormData();
-    formData.append("email", email);
-
     try {
-      const res = await fetch("https://forms-api.gohighlevel.com/form/submit/9oIwOEVxyUx4GgEzgNPK", {
+      console.log("Submitting email:", email);
+      
+      // Use the webhook endpoint that GHL provides
+      const res = await fetch("https://webhooks.gohighlevel.com/webhook/9oIwOEVxyUx4GgEzgNPK", {
         method: "POST",
-        body: formData,
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          email: email,
+          firstName: "",
+          lastName: "",
+          phone: "",
+          company: "",
+          website: "",
+          address: "",
+          city: "",
+          state: "",
+          zip: "",
+          country: "",
+          customField: "",
+          tags: [],
+          source: "NOS Landing Page"
+        }),
       });
+
+      console.log("Response status:", res.status);
+      console.log("Response headers:", res.headers);
 
       if (res.ok) {
         setSubmitted(true);
       } else {
-        setError("Submission failed. Please try again.");
+        const errorData = await res.json().catch(() => ({}));
+        console.error("GHL Webhook Error:", errorData);
+        console.error("Response status:", res.status);
+        setError(`Submission failed (${res.status}). Please try again.`);
       }
     } catch (err) {
-      console.error(err);
-      setError("An error occurred. Please try again.");
+      console.error("Form submission error:", err);
+      setError("Network error. Please check your connection and try again.");
     }
   };
 
