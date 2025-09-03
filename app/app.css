@@ -29,30 +29,6 @@
   font-display: swap;
 }
 
-/* Custom font classes */
-.font-display {
-  font-family: 'Playfair Display', serif;
-}
-
-.font-body {
-  font-family: 'Lydian', 'Source Sans Pro', sans-serif;
-}
-
-/* Enhanced typography for the landing page */
-.hero-headline {
-  font-family: 'Breamcatcher', sans-serif;
-  font-weight: normal;
-  letter-spacing: -0.02em;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
-}
-
-.hero-subheadline {
-  font-family: 'Lydian', 'Playfair Display', serif;
-  font-weight: normal;
-  letter-spacing: 0.05em;
-  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
-}
-
        html,
        body {
          @apply bg-white dark:bg-gray-950;
@@ -75,4 +51,14 @@
        /* Pause animation on hover */
        .group:hover .animate-scroll {
          animation-play-state: paused;
+       }
+
+       /* Proper barber pole animation from CSS-Tricks */
+       @keyframes move {
+         0% {
+           background-position: 0 0;
+         }
+         100% {
+           background-position: 12px 12px;
+         }
        }

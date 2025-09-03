@@ -352,12 +352,30 @@ export default function Landing() {
             
             {/* Progress Bar */}
             <div className="mb-6">
-              <div className="flex justify-between items-center mb-2">
-                <span className="text-sm font-medium text-gray-700">Progress</span>
-                <span className="text-sm font-medium text-gray-700">50%</span>
+              <div className="w-full bg-gray-200 rounded-md h-8 overflow-hidden">
+                <div 
+                  className="h-8 rounded-md relative overflow-hidden"
+                  style={{ 
+                    width: '50%',
+                    background: '#ef4444'
+                  }}
+                >
+                  <span 
+                    className="absolute inset-0"
+                    style={{
+                      background: 'repeating-linear-gradient(-45deg, rgba(220,38,38,0.8) 0px, rgba(220,38,38,0.8) 6px, transparent 6px, transparent 12px)',
+                      backgroundSize: '12px 12px',
+                      animation: 'move 0.8s linear infinite'
+                    }}
+                  ></span>
+                </div>
               </div>
-              <div className="w-full bg-gray-200 rounded-full h-2">
-                <div className="bg-red-600 h-2 rounded-full transition-all duration-1000 ease-out" style={{ width: '50%' }}></div>
+              
+              {/* Text positioned below the progress bar */}
+              <div className="text-center mt-2">
+                <span className="text-gray-700 font-medium text-sm">
+                  Order processing...
+                </span>
               </div>
             </div>
             
