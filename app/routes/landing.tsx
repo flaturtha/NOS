@@ -1,4 +1,5 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
+import CustomEmailForm from "../components/CustomEmailForm";
 
 export default function Landing() {
   const [showModal, setShowModal] = useState(false);
@@ -86,21 +87,21 @@ export default function Landing() {
 
 
   // Auto-scroll mobile carousel with infinite scrolling
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setCurrentCoverIndex((prevIndex) => {
-        const nextIndex = prevIndex + 1;
-        // When we reach the end of the first set, seamlessly continue to the second set
-        if (nextIndex >= bookCovers.length) {
-          // Reset to 0 but maintain the visual position
-          return 0;
-        }
-        return nextIndex;
-      });
-    }, 4000); // Change cover every 4 seconds
+  // useEffect(() => {
+  //   const interval = setInterval(() => {
+  //     setCurrentCoverIndex((prevIndex) => {
+  //       const nextIndex = prevIndex + 1;
+  //       // When we reach the end of the first set, seamlessly continue to the second set
+  //       if (nextIndex >= bookCovers.length) {
+  //         // Reset to 0 but maintain the visual position
+  //         return 0;
+  //       }
+  //       return nextIndex;
+  //     });
+  //   }, 4000); // Change cover every 4 seconds
 
-    return () => clearInterval(interval);
-  }, [bookCovers.length]);
+  //   return () => clearInterval(interval);
+  // }, [bookCovers.length]);
 
   const handleCtaClick = () => {
     setShowModal(true);
@@ -338,74 +339,44 @@ export default function Landing() {
 
              {/* GHL Form Modal - Mobile Optimized */}
       {showModal && (
-        <div className="fixed inset-0 bg-black/30 backdrop-blur-sm flex items-center justify-center p-4 z-50">
+        <div className="fixed inset-0 bg-black/30 backdrop-blur-sm flex items-center justify-center mt-18 p-4 z-50">
           <div className="bg-white rounded-lg max-w-lg w-full p-6 sm:p-8 shadow-2xl">
             <div className="flex justify-between items-center mb-6">
-              <h3 className="text-xl sm:text-2xl font-semibold text-gray-800">Reserve Your Copy</h3>
+              <h3 className="text-xl sm:text-base font-semibold text-gray-800 uppercase"><span className="">Reserve Your Copy</span></h3>
               <button
                 onClick={() => setShowModal(false)}
-                className="text-gray-400 hover:text-gray-600 text-2xl transition-colors duration-200"
+                className="text-gray-400 hover:text-gray-600 transition-colors duration-200"
               >
                 ✕
               </button>
             </div>
             
             {/* Progress Bar */}
-            <div className="mb-6">
-              <div className="w-full bg-gray-200 rounded-md h-8 overflow-hidden">
-                <div 
-                  className="h-8 rounded-md relative overflow-hidden"
-                  style={{ 
-                    width: '50%',
-                    background: '#ef4444'
-                  }}
-                >
-                  <span 
-                    className="absolute inset-0"
-                    style={{
-                      background: 'repeating-linear-gradient(-45deg, rgba(220,38,38,0.8) 0px, rgba(220,38,38,0.8) 6px, transparent 6px, transparent 12px)',
-                      backgroundSize: '12px 12px',
-                      animation: 'move 0.8s linear infinite'
-                    }}
-                  ></span>
-                </div>
+            <div className="">
+              <div className="meter">
+                <span style={{ width: '50%' }}></span>
               </div>
-              
-              {/* Text positioned below the progress bar */}
-              <div className="text-center mt-2">
-                <span className="text-gray-700 font-medium text-sm">
-                  Order processing...
-                </span>
-              </div>
+              <p className="text-sm text-gray-500 leading-relaxed text-center mt-2">Order Processing &hellip;</p>
             </div>
             
             {/* Headline */}
-            <div className="text-center mb-6">
-              <h4 className="text-lg sm:text-xl font-medium text-gray-800 leading-relaxed">
-                To reserve your copy, please enter your email address below.
+            <div className="text-center mt-8 mb-8">
+              <h4 className="text-lg sm:text-2xl font-medium text-gray-800 font-bold leading-relaxed">
+                To reserve your copy, please enter your email address below:
               </h4>
             </div>
             
             {/* GHL Form */}
-            <div className="w-full">
-              <iframe
-                src="https://link.goexpandnow.com/widget/form/9oIwOEVxyUx4GgEzgNPK"
-                style={{ width: '100%', height: '432px', border: 'none', borderRadius: '3px' }}
-                id="inline-9oIwOEVxyUx4GgEzgNPK" 
-                data-layout="{'id':'INLINE'}"
-                data-trigger-type="alwaysShow"
-                data-trigger-value=""
-                data-activation-type="alwaysActivated"
-                data-activation-value=""
-                data-deactivation-type="neverDeactivate"
-                data-deactivation-value=""
-                data-form-name="test for html embed"
-                data-height="432"
-                data-layout-iframe-id="inline-9oIwOEVxyUx4GgEzgNPK"
-                data-form-id="9oIwOEVxyUx4GgEzgNPK"
-                title="test for html embed"
-              >
-              </iframe>
+            <div className="w-full" id="ghl-form">
+              <CustomEmailForm />
+            </div>
+            
+            {/* Disclaimer */}
+            <div className="text-center mt-2">
+              <p className="text-xs text-gray-500 leading-relaxed mt-4">
+                By submitting your email, you agree to receive updates about our mystery collection and exclusive offers. 
+                We respect your privacy and will never share your information. You can unsubscribe at any time.
+              </p>
             </div>
             
             {/* GHL Script */}
