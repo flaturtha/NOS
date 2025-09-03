@@ -1,13 +1,15 @@
 import { useState } from "react";
 
 export default function CustomEmailForm() {
-  const [email, setEmail] = useState("");
+  const [email, setEmail] = useState("richthewriterguy@gmail.com");
   const [submitted, setSubmitted] = useState(false);
   const [error, setError] = useState("");
+  const [isSubmitting, setIsSubmitting] = useState(false);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setError("");
+    setIsSubmitting(true);
 
     try {
       console.log("Submitting email:", email);
@@ -50,6 +52,8 @@ export default function CustomEmailForm() {
     } catch (err) {
       console.error("Form submission error:", err);
       setError("Network error. Please check your connection and try again.");
+    } finally {
+      setIsSubmitting(false);
     }
   };
 
@@ -81,9 +85,10 @@ export default function CustomEmailForm() {
 
       <button
         type="submit"
-        className="w-full bg-blue-600 text-white py-2 px-4 rounded-md hover:bg-blue-700 transition-colors duration-200 font-medium mb-2"
+        disabled={isSubmitting}
+        className="w-full bg-blue-600 text-white py-2 px-4 rounded-md hover:bg-blue-700 transition-colors duration-200 font-medium mb-2 disabled:opacity-50 disabled:cursor-not-allowed"
       >
-        Continue ...
+        {isSubmitting ? "Submitting..." : "Continue ..."}
       </button>
 
       {error && <p className="text-red-600 text-sm text-center mb-2">{error}</p>}

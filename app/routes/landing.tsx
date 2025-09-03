@@ -379,8 +379,7 @@ export default function Landing() {
               </p>
             </div>
             
-            {/* GHL Script */}
-            <script src="https://link.goexpandnow.com/js/form_embed.js"></script>
+
           </div>
         </div>
       )}
