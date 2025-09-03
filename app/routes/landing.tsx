@@ -305,6 +305,476 @@ export default function Landing() {
                </div>
                           </section>
 
+             {/* Value Proposition Section */}
+             <section className="py-12 sm:py-16 bg-white">
+               <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+                 <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-12 text-gray-800 hero-subheadline">
+                   Value Proposition
+                 </h2>
+                 
+                 <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+                   <div className="text-center">
+                     <div className="text-4xl mb-4">📚</div>
+                     <h3 className="text-lg font-semibold mb-2 text-gray-800">
+                       <strong>I've Collected & Restored 10 Ebooks</strong> (with more coming soon) — complete evening reads
+                     </h3>
+                   </div>
+                   
+                   <div className="text-center">
+                     <div className="text-4xl mb-4">⚡</div>
+                     <h3 className="text-lg font-semibold mb-2 text-gray-800">
+                       <strong>I've Made Them Instant Download</strong> — start tonight
+                     </h3>
+                   </div>
+                   
+                   <div className="text-center">
+                     <div className="text-4xl mb-4">💻</div>
+                     <h3 className="text-lg font-semibold mb-2 text-gray-800">
+                       <strong>I'm Including Kindle & ePub</strong> — any device, anywhere, yours to share
+                     </h3>
+                   </div>
+                   
+                   <div className="text-center">
+                     <div className="text-4xl mb-4">💵</div>
+                     <h3 className="text-lg font-semibold mb-2 text-gray-800">
+                       <strong>I've Priced Them Fair</strong> — only $4.50 each
+                     </h3>
+                   </div>
+                 </div>
+                 
+                 <div className="mt-12">
+                   <button
+                     onClick={handleCtaClick}
+                     className="bg-red-600 hover:bg-red-700 text-white font-bold py-4 px-8 rounded-md text-xl sm:text-2xl transition-all duration-300 ease-in-out transform hover:scale-105 hover:shadow-2xl shadow-lg border-2 border-red-500 hover:border-red-400"
+                   >
+                     Get My 10 Mysteries Today
+                   </button>
+                 </div>
+               </div>
+             </section>
+
+             {/* What's Inside the Bundle Section */}
+             <section className="py-12 sm:py-16 bg-gray-50">
+               <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+                 <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-center mb-8 text-gray-800 hero-subheadline">
+                   What's Inside the Bundle?
+                 </h2>
+                 
+                 <p className="text-lg text-gray-700 mb-8 text-center leading-relaxed">
+                   You're not just getting "some old scans." You're getting 10 full-length novels, restored and formatted so you can enjoy them tonight — and forever.
+                 </p>
+                 
+                 <p className="text-lg text-gray-700 mb-8 text-center leading-relaxed">
+                   Each ebook is delivered in both Kindle and ePub formats, so you can read on <em>any device you already own</em> — Kindle, Kobo, iPad, Nook, phone, or computer. No restrictions. No padlocks.
+                 </p>
+                 
+                 <p className="text-lg text-gray-700 mb-8 text-center leading-relaxed">
+                   Here's a taste of what's waiting inside:
+                 </p>
+                 
+                 <div className="space-y-4 mb-8">
+                   <p className="text-lg text-gray-700 leading-relaxed">
+                     • <strong>THE BRADYS AND THE CHINESE IDOL</strong> — A miser's murder, a missing idol, rooftop chases, and a secret criminal society in the heart of New York.
+                   </p>
+                   <p className="text-lg text-gray-700 leading-relaxed">
+                     • <strong>THE BRADYS AND THE MISSING GIRL</strong> — A vanished heiress, a forged letter, Southern impostors, and the Bradys racing through Florida's infested swamps to uncover the truth.
+                   </p>
+                   <p className="text-lg text-gray-700 leading-relaxed">
+                     • <strong>THE BRADYS AMONG THE CHINAMEN</strong> — A severed head in a basket, a vanished body, opium-den fiends, and the Bradys chasing killers through the shadows of Chinatown.
+                   </p>
+                 </div>
+                 
+                 <p className="text-lg text-gray-700 text-center leading-relaxed">
+                   And that's just three of the ten (out of more than 1,300 originally published!). You'll have an entire library of mysteries to binge, one after another, for less than the price of a single new book.
+                 </p>
+               </div>
+             </section>
+
+             {/* Problem/Agitation Section */}
+             <section className="py-12 sm:py-16 bg-white">
+               <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+                 <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-center mb-8 text-gray-800 hero-subheadline">
+                   Tired of the endless hunt for a good mystery?
+                 </h2>
+                 
+                 <p className="text-lg text-gray-700 mb-8 text-center leading-relaxed">
+                   Finding a classic detective story shouldn't feel like solving a case itself.
+                 </p>
+                 
+                 <p className="text-lg text-gray-700 mb-8 text-center leading-relaxed">
+                   You know the feeling. You just want a gripping mystery to sink into — but the search leaves you more exhausted than entertained.
+                 </p>
+                 
+                 <p className="text-lg text-gray-700 mb-8 text-center leading-relaxed">
+                   I've spent years digging into what readers go through, and it's always the same story:
+                 </p>
+                 
+                 <div className="space-y-6 mb-8">
+                   <div className="flex items-start space-x-4">
+                     <div className="text-2xl">🔎</div>
+                     <div>
+                       <p className="text-lg text-gray-700 leading-relaxed">
+                         <strong>I've Seen How Hard the Hunt Is</strong> — Originals are buried in fragile archives, and the scans online are riddled with errors, missing words, and nonsense symbols. They're unreadable.
+                       </p>
+                     </div>
+                   </div>
+                   
+                   <div className="flex items-start space-x-4">
+                     <div className="text-2xl">🖥️</div>
+                     <div>
+                       <p className="text-lg text-gray-700 leading-relaxed">
+                         <strong>I've Tried the "Free" Options Too</strong> — blurry pages, broken formatting, missing endings. Hours wasted, story ruined.
+                       </p>
+                     </div>
+                   </div>
+                   
+                   <div className="flex items-start space-x-4">
+                     <div className="text-2xl">📚</div>
+                     <div>
+                       <p className="text-lg text-gray-700 leading-relaxed">
+                         <strong>I've Watched the Market Fill with Junk</strong> — cheap "reprints," filler anthologies, even AI-generated knock-offs. Not the authentic stories you deserve.
+                       </p>
+                     </div>
+                   </div>
+                   
+                   <div className="flex items-start space-x-4">
+                     <div className="text-2xl">⏳</div>
+                     <div>
+                       <p className="text-lg text-gray-700 leading-relaxed">
+                         <strong>I've Seen Readers Give Up in Frustration</strong> — endless scrolling, endless disappointment, and nothing worth reading that night.
+                       </p>
+                     </div>
+                   </div>
+                   
+                   <div className="flex items-start space-x-4">
+                     <div className="text-2xl">💸</div>
+                     <div>
+                       <p className="text-lg text-gray-700 leading-relaxed">
+                         <strong>I've Compared the Costs</strong> — buying individually, each book is $9.99 plus $6.43 shipping. That's $164.20 for ten. The bundle? $44.95 + $9.40 shipping = $54.39. You save $109.81 — including $54.90 just on shipping.
+                       </p>
+                     </div>
+                   </div>
+                 </div>
+                 
+                 <p className="text-lg text-gray-700 text-center leading-relaxed">
+                   That's why I've done the hard work for you — and turned frustration into a collection you can finally enjoy.
+                 </p>
+               </div>
+             </section>
+
+             {/* Solution/Benefits Section */}
+             <section className="py-12 sm:py-16 bg-gray-50">
+               <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+                 <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-center mb-8 text-gray-800 hero-subheadline">
+                   Finally — A Mystery Collection You Can Actually Read.
+                 </h2>
+                 
+                 <p className="text-lg text-gray-700 mb-8 text-center leading-relaxed">
+                   10 gripping Brady's adventures, fully restored and bundled for less than half price.
+                 </p>
+                 
+                 <p className="text-lg text-gray-700 mb-8 text-center leading-relaxed">
+                   I've spent hours restoring these dime novels by hand — fixing errors, cleaning text, and formatting them so they read smoothly on every device.
+                 </p>
+                 
+                 <p className="text-lg text-gray-700 mb-8 text-center leading-relaxed">
+                   I've done this because I'm a reader too. I wanted editions that were effortless, authentic, and worth keeping forever. And now, you can enjoy them the same way. Ten adventures. Ten evenings of page-turning suspense. All in one unbeatable bundle.
+                 </p>
+                 
+                 <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+                   <div className="text-center">
+                     <div className="text-3xl mb-3">📚</div>
+                     <p className="text-lg text-gray-700 leading-relaxed">
+                       <strong>I've Gathered 10 Complete Mysteries</strong> — ten full evenings with Old & Young King Brady
+                     </p>
+                   </div>
+                   
+                   <div className="text-center">
+                     <div className="text-3xl mb-3">👓</div>
+                     <p className="text-lg text-gray-700 leading-relaxed">
+                       <strong>I've Restored Every Page</strong> — no typos, no smudges, no frustration
+                     </p>
+                   </div>
+                   
+                   <div className="text-center">
+                     <div className="text-3xl mb-3">🔓</div>
+                     <p className="text-lg text-gray-700 leading-relaxed">
+                       <strong>I've Made Them Yours Forever</strong> — DRM-free, yours to keep and share
+                     </p>
+                   </div>
+                   
+                   <div className="text-center">
+                     <div className="text-3xl mb-3">🚫</div>
+                     <p className="text-lg text-gray-700 leading-relaxed">
+                       <strong>I've Protected Them From Junk</strong> — not sloppy retypes, not AI fakes, only authentic text
+                     </p>
+                   </div>
+                   
+                   <div className="text-center">
+                     <div className="text-3xl mb-3">💵</div>
+                     <p className="text-lg text-gray-700 leading-relaxed">
+                       <strong>I've Cut the Price in Half</strong> — normally $99.99; today, $44.95 (less than $4.50 per book, only on this page)
+                     </p>
+                   </div>
+                 </div>
+                 
+                 <p className="text-lg text-gray-700 text-center leading-relaxed">
+                   But don't just take my word for it — here's what other readers are saying …
+                 </p>
+               </div>
+             </section>
+
+             {/* Social Proof & Trust Section */}
+             <section className="py-12 sm:py-16 bg-white">
+               <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+                 <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-center mb-8 text-gray-800 hero-subheadline">
+                   Readers Can't Get Enough of the Bradys.
+                 </h2>
+                 
+                 <div className="grid md:grid-cols-3 gap-8 mb-8">
+                   <div className="text-center p-6 bg-gray-50 rounded-lg">
+                     <p className="text-lg text-gray-700 mb-4 italic leading-relaxed">
+                       "I've wasted so much time on awful scans. This bundle is a lifesaver — the stories are gripping and finally readable."
+                     </p>
+                     <p className="text-gray-600">— Eleanor V., 72</p>
+                   </div>
+                   
+                   <div className="text-center p-6 bg-gray-50 rounded-lg">
+                     <p className="text-lg text-gray-700 mb-4 italic leading-relaxed">
+                       "I was hooked from page one. Perfect for quiet afternoons with tea. I couldn't stop at just one."
+                     </p>
+                     <p className="text-gray-600">— Doris W., 68</p>
+                   </div>
+                   
+                   <div className="text-center p-6 bg-gray-50 rounded-lg">
+                     <p className="text-lg text-gray-700 mb-4 italic leading-relaxed">
+                       "It feels like opening a whole library at once. Ten stories for the price of one."
+                     </p>
+                     <p className="text-gray-600">— Mabel R., 75</p>
+                   </div>
+                 </div>
+                 
+                 <h3 className="text-2xl font-bold text-center mb-6 text-gray-800">
+                   Join Other Readers Who Refuse to Let These Stories Die
+                 </h3>
+                 
+                 <div className="text-center mb-8">
+                   <p className="text-lg text-gray-700 mb-2">
+                     If bought separately: <span className="line-through">$164.20</span>
+                   </p>
+                   <p className="text-3xl font-bold text-red-600 mb-2">
+                     Today: $44.95
+                   </p>
+                   <p className="text-lg text-gray-700">
+                     Includes both Kindle & ePub editions — yours forever.
+                   </p>
+                 </div>
+                 
+                 <p className="text-lg text-gray-700 mb-8 text-center leading-relaxed">
+                   I'm not a big company pushing out generic reprints. I'm one reader, doing the work by hand, because I believe these stories are too good to be lost.
+                 </p>
+                 
+                 <p className="text-lg text-gray-700 mb-8 text-center leading-relaxed">
+                   When you order this bundle, you're not just buying ebooks. You're becoming part of a group of readers who care about preserving our literary past — and keeping the thrill of classic mysteries alive.
+                 </p>
+                 
+                 <p className="text-lg text-gray-700 text-center leading-relaxed">
+                   Every order supports the restoration of even more forgotten novels. This is bigger than one collection. It's about rescuing hundreds, even thousands, of stories and bringing them back where they belong — in the hands of readers like you.
+                 </p>
+               </div>
+             </section>
+
+             {/* Differentiation Section */}
+             <section className="py-12 sm:py-16 bg-gray-50">
+               <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+                 <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-center mb-8 text-gray-800 hero-subheadline">
+                   Why Settle for Frustration? Choose the Smart Way.
+                 </h2>
+                 
+                 <p className="text-lg text-gray-700 mb-8 text-center leading-relaxed">
+                   I've built the clean, affordable collection others don't offer.
+                 </p>
+                 
+                 <div className="overflow-x-auto mb-8">
+                   <table className="w-full border-collapse border border-gray-300">
+                     <thead>
+                       <tr className="bg-gray-100">
+                         <th className="border border-gray-300 p-4 text-left font-semibold">Feature</th>
+                         <th className="border border-gray-300 p-4 text-left font-semibold">Messy Scans</th>
+                         <th className="border border-gray-300 p-4 text-left font-semibold">Single Editions</th>
+                         <th className="border border-gray-300 p-4 text-left font-semibold">My 10-Ebook Bundle</th>
+                       </tr>
+                     </thead>
+                     <tbody>
+                       <tr>
+                         <td className="border border-gray-300 p-4 font-semibold">Price</td>
+                         <td className="border border-gray-300 p-4">"Free" (worthless)</td>
+                         <td className="border border-gray-300 p-4">$9.99+ each</td>
+                         <td className="border border-gray-300 p-4">$4.50/book</td>
+                       </tr>
+                       <tr className="bg-gray-50">
+                         <td className="border border-gray-300 p-4 font-semibold">Quality</td>
+                         <td className="border border-gray-300 p-4">Blurry, incomplete</td>
+                         <td className="border border-gray-300 p-4">Restored but costly</td>
+                         <td className="border border-gray-300 p-4">Professionally Restored</td>
+                       </tr>
+                       <tr>
+                         <td className="border border-gray-300 p-4 font-semibold">Format</td>
+                         <td className="border border-gray-300 p-4">Only PDFs</td>
+                         <td className="border border-gray-300 p-4">Limited formats</td>
+                         <td className="border border-gray-300 p-4">Kindle & ePub, DRM-Free</td>
+                       </tr>
+                       <tr className="bg-gray-50">
+                         <td className="border border-gray-300 p-4 font-semibold">Content</td>
+                         <td className="border border-gray-300 p-4">Random scraps</td>
+                         <td className="border border-gray-300 p-4">One story at a time</td>
+                         <td className="border border-gray-300 p-4">10 Complete Novels</td>
+                       </tr>
+                     </tbody>
+                   </table>
+                 </div>
+                 
+                 <h3 className="text-2xl font-bold text-center mb-6 text-gray-800">
+                   How It Works:
+                 </h3>
+                 
+                 <p className="text-lg text-gray-700 mb-8 text-center leading-relaxed">
+                   No confusion, no tech barriers. Here's exactly how it works:
+                 </p>
+                 
+                 <div className="grid md:grid-cols-3 gap-8 mb-8">
+                   <div className="text-center">
+                     <div className="text-4xl mb-4">1</div>
+                     <h4 className="text-xl font-semibold mb-3 text-gray-800">Order securely</h4>
+                     <p className="text-gray-700 leading-relaxed">
+                       Click the button and check out with confidence.
+                     </p>
+                   </div>
+                   
+                   <div className="text-center">
+                     <div className="text-4xl mb-4">2</div>
+                     <h4 className="text-xl font-semibold mb-3 text-gray-800">Download instantly</h4>
+                     <p className="text-gray-700 leading-relaxed">
+                       Your confirmation email will include links to a service called Bookfunnel where you can download (and re-download) both Kindle and ePub files.
+                     </p>
+                   </div>
+                   
+                   <div className="text-center">
+                     <div className="text-4xl mb-4">3</div>
+                     <h4 className="text-xl font-semibold mb-3 text-gray-800">Start reading tonight</h4>
+                     <p className="text-gray-700 leading-relaxed">
+                       Copy the files <em>(full instructions on Bookfunnel)</em> to your device, open, and enjoy. Ten nights of mystery are waiting for you.
+                     </p>
+                   </div>
+                 </div>
+               </div>
+             </section>
+
+             {/* Guarantee Section */}
+             <section className="py-12 sm:py-16 bg-white">
+               <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+                 <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-8 text-gray-800 hero-subheadline">
+                   The Reader's Honor Guarantee
+                 </h2>
+                 
+                 <p className="text-lg text-gray-700 mb-8 leading-relaxed">
+                   I do things differently here at Tales of Murder Press — because I'm not just selling books, I'm building a community of readers who value trust as much as stories.
+                 </p>
+                 
+                 <p className="text-lg text-gray-700 mb-8 leading-relaxed">
+                   If you're not absolutely delighted with the mysteries in this collection, I'll give you a full 100% refund. No forms. No hoops. Just hit "reply" on your order confirmation email and let me know. Of course, I'd like to hear why — formatting issues, download problems — so I can improve them for other readers.
+                 </p>
+                 
+                 <p className="text-lg text-gray-700 mb-8 leading-relaxed">
+                   I trust you to be honest. I'd rather lose a sale than leave a reader unhappy. Your satisfaction will always matter more to me than the money.
+                 </p>
+                 
+                 <div className="text-center">
+                   <div className="text-4xl mb-4">🛡️</div>
+                   <p className="text-xl font-semibold text-gray-800">
+                     <strong>100% Money-Back Guarantee</strong> No questions asked
+                   </p>
+                 </div>
+               </div>
+             </section>
+
+             {/* FAQ Section */}
+             <section className="py-12 sm:py-16 bg-gray-50">
+               <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+                 <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-center mb-8 text-gray-800 hero-subheadline">
+                   Frequently Asked Questions
+                 </h2>
+                 
+                 <div className="space-y-6">
+                   <div className="bg-white p-6 rounded-lg shadow-sm">
+                     <h3 className="text-xl font-semibold mb-3 text-gray-800">
+                       Do I need a Kindle to read these?
+                     </h3>
+                     <p className="text-gray-700 leading-relaxed">
+                       No. Every book comes in both Kindle (MOBI/AZW3) and ePub formats. That means you can read them on Kindle, Kobo, Nook, iPad, or any other device. And move them when you change!
+                     </p>
+                   </div>
+                   
+                   <div className="bg-white p-6 rounded-lg shadow-sm">
+                     <h3 className="text-xl font-semibold mb-3 text-gray-800">
+                       Are these the full books?
+                     </h3>
+                     <p className="text-gray-700 leading-relaxed">
+                       Yes. These are complete, standalone novels — not samples, not excerpts. Each story was originally published as a full BRADY'S SECRET SERVICE DETECTIVE dime novel.
+                     </p>
+                   </div>
+                   
+                   <div className="bg-white p-6 rounded-lg shadow-sm">
+                     <h3 className="text-xl font-semibold mb-3 text-gray-800">
+                       What if I lose the files?
+                     </h3>
+                     <p className="text-gray-700 leading-relaxed">
+                       No problem. Your download links remain active, and you can always request a resend. I want you to feel secure knowing your books are yours to keep forever. Bookfunnel will always have your download links available.
+                     </p>
+                   </div>
+                   
+                   <div className="bg-white p-6 rounded-lg shadow-sm">
+                     <h3 className="text-xl font-semibold mb-3 text-gray-800">
+                       Can I share them with my spouse or friend?
+                     </h3>
+                     <p className="text-gray-700 leading-relaxed">
+                       Yes. These are DRM-free. You can back them up, copy them to multiple devices, and share within your household. In fact, I encourage that … the more people that read these great books, the more we honor their authors!
+                     </p>
+                   </div>
+                 </div>
+               </div>
+             </section>
+
+             {/* Final CTA Section */}
+             <section className="py-12 sm:py-16 bg-white">
+               <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+                 <p className="text-lg text-gray-700 mb-8 leading-relaxed">
+                   This bundle is available today for less than half price — just $44.95 for all ten novels.
+                 </p>
+                 
+                 <p className="text-lg text-gray-700 mb-8 leading-relaxed">
+                   Why the discount? Because this is the introductory price for the first Brady's collection I've restored. As I add more books to the series, the regular price will return.
+                 </p>
+                 
+                 <p className="text-lg text-gray-700 mb-8 leading-relaxed">
+                   Right now is the best time to start your Bradys library — at a price that makes sense.
+                 </p>
+                 
+                 <div className="mb-8">
+                   <p className="text-2xl text-gray-700 mb-2">
+                     <span className="line-through">Just $99.99</span> <span className="text-3xl font-bold text-red-600">$44.95</span>
+                   </p>
+                 </div>
+                 
+                 <button
+                   onClick={handleCtaClick}
+                   className="bg-red-600 hover:bg-red-700 text-white font-bold py-4 px-8 rounded-md text-xl sm:text-2xl transition-all duration-300 ease-in-out transform hover:scale-105 hover:shadow-2xl shadow-lg border-2 border-red-500 hover:border-red-400"
+                 >
+                   Get All 10 Mysteries $44.95
+                 </button>
+               </div>
+             </section>
+
              {/* Book Cover Detail Modal */}
              {selectedCover && (
                <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50">
@@ -372,7 +842,7 @@ export default function Landing() {
                   src="https://link.goexpandnow.com/widget/form/9oIwOEVxyUx4GgEzgNPK"
                   style={{
                     width: "100%",
-                    height: "165px",
+                    height: "175px",
                     border: "none",
                     borderRadius: "3px"
                   }}
@@ -395,6 +865,17 @@ export default function Landing() {
           </div>
         </div>
       )}
+
+             {/* Footer Section */}
+             <footer className="bg-gray-100 text-gray-600 py-6 text-center">
+               <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+                 <div className="flex flex-col md:flex-row justify-center items-center space-y-2 md:space-y-0 md:space-x-6 text-sm">
+                   <p>&copy; 2024 Tales of Murder Press. All rights reserved.</p>
+                   <a href="#" className="hover:text-gray-800 transition-colors duration-200">Privacy Policy</a>
+                   <a href="#" className="hover:text-gray-800 transition-colors duration-200">Terms of Service</a>
+                 </div>
+               </div>
+             </footer>
     </div>
   );
 }
