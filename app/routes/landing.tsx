@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 export default function Landing() {
   const [showModal, setShowModal] = useState(false);
@@ -86,21 +86,21 @@ export default function Landing() {
 
 
   // Auto-scroll mobile carousel with infinite scrolling
-  // useEffect(() => {
-  //   const interval = setInterval(() => {
-  //     setCurrentCoverIndex((prevIndex) => {
-  //       const nextIndex = prevIndex + 1;
-  //       // When we reach the end of the first set, seamlessly continue to the second set
-  //       if (nextIndex >= bookCovers.length) {
-  //         // Reset to 0 but maintain the visual position
-  //         return 0;
-  //       }
-  //       return nextIndex;
-  //     });
-  //   }, 4000); // Change cover every 4 seconds
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setCurrentCoverIndex((prevIndex) => {
+        const nextIndex = prevIndex + 1;
+        // When we reach the end of the first set, seamlessly continue to the second set
+        if (nextIndex >= bookCovers.length) {
+          // Reset to 0 but maintain the visual position
+          return 0;
+        }
+        return nextIndex;
+      });
+    }, 4000); // Change cover every 4 seconds
 
-  //   return () => clearInterval(interval);
-  // }, [bookCovers.length]);
+    return () => clearInterval(interval);
+  }, [bookCovers.length]);
 
   const handleCtaClick = () => {
     setShowModal(true);
