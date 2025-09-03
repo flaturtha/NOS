@@ -1,5 +1,4 @@
 import { useState } from "react";
-import CustomEmailForm from "../components/CustomEmailForm";
 
 export default function Landing() {
   const [showModal, setShowModal] = useState(false);
@@ -339,7 +338,7 @@ export default function Landing() {
 
              {/* GHL Form Modal - Mobile Optimized */}
       {showModal && (
-        <div className="fixed inset-0 bg-black/30 backdrop-blur-sm flex items-center justify-center mt-18 p-4 z-50">
+        <div className="fixed inset-0 bg-black/30 backdrop-blur-[3px] flex items-center justify-center p-4 z-50">
           <div className="bg-white rounded-lg max-w-lg w-full p-6 sm:p-8 shadow-2xl">
             <div className="flex justify-between items-center mb-6">
               <h3 className="text-xl sm:text-base font-semibold text-gray-800 uppercase"><span className="">Reserve Your Copy</span></h3>
@@ -356,7 +355,7 @@ export default function Landing() {
               <div className="meter">
                 <span style={{ width: '50%' }}></span>
               </div>
-              <p className="text-sm text-gray-500 leading-relaxed text-center mt-2">Order Processing &hellip;</p>
+              <p className="text-sm text-gray-500 leading-relaxed text-center mt-2 processing-text">Order Processing &hellip;</p>
             </div>
             
             {/* Headline */}
@@ -368,14 +367,27 @@ export default function Landing() {
             
             {/* GHL Form */}
             <div className="w-full" id="ghl-form">
-              <CustomEmailForm />
+              <div className="form-iframe-wrapper">
+                <iframe
+                  src="https://link.goexpandnow.com/widget/form/9oIwOEVxyUx4GgEzgNPK"
+                  style={{
+                    width: "100%",
+                    height: "165px",
+                    border: "none",
+                    borderRadius: "3px"
+                  }}
+                  id="inline-9oIwOEVxyUx4GgEzgNPK"
+                  data-layout="{'id':'9oIwOEVxyUx4GgEzgNPK','name':'NOS Landing Page Form','type':'form','width':400,'height':432,'layout':'embed','data-height':'432','data-layout-iframe-id':'inline-9oIwOEVxyUx4GgEzgNPK','data-form-id':'9oIwOEVxyUx4GgEzgNPK'}"
+                  title="NOS Landing Page Form"
+                />
+              </div>
+              <script src="https://link.goexpandnow.com/js/form_embed.js"></script>
             </div>
             
             {/* Disclaimer */}
             <div className="text-center mt-2">
-              <p className="text-xs text-gray-500 leading-relaxed mt-4">
-                By submitting your email, you agree to receive updates about our mystery collection and exclusive offers. 
-                We respect your privacy and will never share your information. You can unsubscribe at any time.
+              <p className="text-xs text-gray-500 leading-relaxed italic">
+              By submitting, you'll reserve your 10-book bundle. And get updates &amp; exclusive offers. We respect your privacy—unsubscribe anytime.
               </p>
             </div>
             

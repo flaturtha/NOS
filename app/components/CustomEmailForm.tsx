@@ -2,96 +2,24 @@ import { useState } from "react";
 
 export default function CustomEmailForm() {
   const [email, setEmail] = useState("richthewriterguy@gmail.com");
-  const [submitted, setSubmitted] = useState(false);
-  const [error, setError] = useState("");
-  const [isSubmitting, setIsSubmitting] = useState(false);
-
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
-    setError("");
-    setIsSubmitting(true);
-
-    try {
-      console.log("Submitting email:", email);
-      
-      // Use the webhook endpoint that GHL provides
-      const res = await fetch("https://webhooks.gohighlevel.com/webhook/9oIwOEVxyUx4GgEzgNPK", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          email: email,
-          firstName: "",
-          lastName: "",
-          phone: "",
-          company: "",
-          website: "",
-          address: "",
-          city: "",
-          state: "",
-          zip: "",
-          country: "",
-          customField: "",
-          tags: [],
-          source: "NOS Landing Page"
-        }),
-      });
-
-      console.log("Response status:", res.status);
-      console.log("Response headers:", res.headers);
-
-      if (res.ok) {
-        setSubmitted(true);
-      } else {
-        const errorData = await res.json().catch(() => ({}));
-        console.error("GHL Webhook Error:", errorData);
-        console.error("Response status:", res.status);
-        setError(`Submission failed (${res.status}). Please try again.`);
-      }
-    } catch (err) {
-      console.error("Form submission error:", err);
-      setError("Network error. Please check your connection and try again.");
-    } finally {
-      setIsSubmitting(false);
-    }
-  };
-
-  if (submitted) {
-    return (
-      <div className="text-green-600 font-medium text-center">
-        ✅ Thanks! Check your inbox for your book.
-      </div>
-    );
-  }
 
   return (
-    <form onSubmit={handleSubmit} className="space-y-3 max-w-sm mx-auto">
-      <div>
-        <label htmlFor="email" className="block text-sm font-medium text-gray-700 mb-1">
-          Email Address *
-        </label>
-        <input
-          type="email"
-          id="email"
-          name="email"
-          required
-          value={email}
-          onChange={(e) => setEmail(e.target.value)}
-          placeholder="Email"
-          className="w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-red-500 focus:border-red-500 focus:outline-none"
+    <div className="w-full" id="ghl-form">
+      <div className="form-iframe-wrapper">
+        <iframe
+          src="https://link.goexpandnow.com/widget/form/9oIwOEVxyUx4GgEzgNPK"
+          style={{
+            width: "100%",
+            height: "432px",
+            border: "none",
+            borderRadius: "3px"
+          }}
+          id="inline-9oIwOEVxyUx4GgEzgNPK"
+          data-layout="{'id':'9oIwOEVxyUx4GgEzgNPK','name':'NOS Landing Page Form','type':'form','width':400,'height':432,'layout':'embed','data-height':'432','data-layout-iframe-id':'inline-9oIwOEVxyUx4GgEzgNPK','data-form-id':'9oIwOEVxyUx4GgEzgNPK'}"
+          title="NOS Landing Page Form"
         />
       </div>
-
-      <button
-        type="submit"
-        disabled={isSubmitting}
-        className="w-full bg-blue-600 text-white py-2 px-4 rounded-md hover:bg-blue-700 transition-colors duration-200 font-medium mb-2 disabled:opacity-50 disabled:cursor-not-allowed"
-      >
-        {isSubmitting ? "Submitting..." : "Continue ..."}
-      </button>
-
-      {error && <p className="text-red-600 text-sm text-center mb-2">{error}</p>}
-    </form>
+      <script src="https://link.goexpandnow.com/js/form_embed.js"></script>
+    </div>
   );
 }

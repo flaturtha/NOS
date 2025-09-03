@@ -5,6 +5,14 @@
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
+/* Custom color scheme */
+:root {
+  --color-primary: #8b0000;      /* Dark red */
+  --color-secondary: #f0e9e1;    /* Light cream */
+  --color-primary-light: #a52a2a; /* Lighter red for gradients */
+  --color-secondary-dark: #e6d9c7; /* Darker cream for shadows */
+}
+
 /* Import Google Fonts for enhanced typography */
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Source+Sans+Pro:wght@400;600;700;900&display=swap');
 
@@ -154,6 +162,20 @@
          }
        }
 
+       /* Fade in/out animation for processing text */
+       @keyframes fadeInOut {
+         0%, 100% {
+           opacity: 0.3;
+         }
+         50% {
+           opacity: 1;
+         }
+       }
+
+       .processing-text {
+         animation: fadeInOut 3s ease-in-out infinite;
+       }
+
        /* GHL Form cleanup */
        #ghl-form {
          margin-top: -20px;
@@ -208,24 +230,3 @@
          margin-top: 0 !important;
          padding-top: 10px !important;
        }
-
-
-       /* General wrapper reset */
-.form-iframe-wrapper {
-  padding: 0 !important;
-  margin: 0 auto !important;
-  max-width: 100%;
-  overflow: hidden;
-  box-shadow: none !important;
-  border: none !important;
-}
-
-/* iframe-specific styling */
-.embedded-ghl-form {
-  display: block;
-  width: 100%;
-  height: 100%;
-  border: none !important;
-  box-shadow: none !important;
-  background: transparent !important;
-}
