@@ -5,6 +5,14 @@ export default function Landing() {
   const [email, setEmail] = useState("");
   const [currentCoverIndex, setCurrentCoverIndex] = useState(0);
   const [selectedCover, setSelectedCover] = useState<any>(null);
+  const [hasScrolled, setHasScrolled] = useState(false);
+  const [showExitPopup, setShowExitPopup] = useState(false);
+  const [showDesktopExitPopup, setShowDesktopExitPopup] = useState(false);
+  const [hasSeenPrice, setHasSeenPrice] = useState(false);
+  const [hasScrolledBack, setHasScrolledBack] = useState(false);
+  const [hasReachedBottom, setHasReachedBottom] = useState(false);
+  const [mouseY, setMouseY] = useState(0);
+  const [hasTriggeredDesktopExit, setHasTriggeredDesktopExit] = useState(false);
 
   // Book cover data - duplicated for infinite scrolling effect
   const bookCovers = [
@@ -102,7 +110,126 @@ export default function Landing() {
     return () => clearInterval(interval);
   }, [bookCovers.length]);
 
+  // Track scroll to update sticky bar content and detect exit intent
+  useEffect(() => {
+    let lastScrollY = window.scrollY;
+    let scrollTimeout: NodeJS.Timeout;
+
+    const handleScroll = () => {
+      const currentScrollY = window.scrollY;
+      const scrollSpeed = Math.abs(currentScrollY - lastScrollY);
+      const documentHeight = document.documentElement.scrollHeight - window.innerHeight;
+      const scrollPercentage = (currentScrollY / documentHeight) * 100;
+
+      // Update basic scroll state
+      setHasScrolled(currentScrollY > 50);
+
+      // Check if user has seen the price (second CTA section)
+      if (currentScrollY > 600) { // Approximate position of second price display
+        setHasSeenPrice(true);
+      }
+
+      // Check if user has reached 80-90% of page
+      if (scrollPercentage >= 80) {
+        setHasReachedBottom(true);
+      }
+
+      // Detect rapid upward scrolling (exit intent)
+      if (hasSeenPrice && currentScrollY < lastScrollY && scrollSpeed > 30) {
+        setHasScrolledBack(true);
+        
+        // Clear any existing timeout
+        clearTimeout(scrollTimeout);
+        
+        // Show popup after brief delay to avoid false triggers
+        scrollTimeout = setTimeout(() => {
+          if (hasSeenPrice && hasScrolledBack && !showExitPopup) {
+            setShowExitPopup(true);
+          }
+        }, 500);
+      }
+
+      lastScrollY = currentScrollY;
+    };
+
+    window.addEventListener('scroll', handleScroll);
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+      clearTimeout(scrollTimeout);
+    };
+  }, [hasSeenPrice, hasScrolledBack, showExitPopup]);
+
+  // Show popup if user reaches bottom without clicking CTA
+  useEffect(() => {
+    if (hasReachedBottom && !showExitPopup) {
+      const timer = setTimeout(() => {
+        setShowExitPopup(true);
+      }, 2000); // Wait 2 seconds after reaching bottom
+      
+      return () => clearTimeout(timer);
+    }
+  }, [hasReachedBottom, showExitPopup]);
+
+  // Desktop exit intent detection (mouse movement to top of viewport)
+  useEffect(() => {
+    const handleMouseMove = (e: MouseEvent) => {
+      setMouseY(e.clientY);
+      
+      // Desktop exit intent: mouse moves to top 50px of viewport
+      if (e.clientY <= 50 && hasSeenPrice && !hasTriggeredDesktopExit && !showDesktopExitPopup) {
+        setHasTriggeredDesktopExit(true);
+        setShowDesktopExitPopup(true);
+      }
+    };
+
+    // Only add desktop exit intent on larger screens
+    if (window.innerWidth >= 1024) {
+      document.addEventListener('mousemove', handleMouseMove);
+    }
+
+    return () => {
+      document.removeEventListener('mousemove', handleMouseMove);
+    };
+  }, [hasSeenPrice, hasTriggeredDesktopExit, showDesktopExitPopup]);
+
+  // Desktop visibility change detection (tab switching)
+  useEffect(() => {
+    const handleVisibilityChange = () => {
+      if (document.hidden && hasSeenPrice && !hasTriggeredDesktopExit && !showDesktopExitPopup) {
+        setHasTriggeredDesktopExit(true);
+        setShowDesktopExitPopup(true);
+      }
+    };
+
+    // Only add on larger screens
+    if (window.innerWidth >= 1024) {
+      document.addEventListener('visibilitychange', handleVisibilityChange);
+    }
+
+    return () => {
+      document.removeEventListener('visibilitychange', handleVisibilityChange);
+    };
+  }, [hasSeenPrice, hasTriggeredDesktopExit, showDesktopExitPopup]);
+
   const handleCtaClick = () => {
+    setShowModal(true);
+  };
+
+  const handleExitPopupClose = () => {
+    setShowExitPopup(false);
+  };
+
+  const handleDesktopExitPopupClose = () => {
+    setShowDesktopExitPopup(false);
+  };
+
+  const handleBundleClick = () => {
+    setShowExitPopup(false);
+    setShowModal(true);
+  };
+
+  const handleDesktopBundleClick = () => {
+    setShowDesktopExitPopup(false);
     setShowModal(true);
   };
 
@@ -120,22 +247,26 @@ export default function Landing() {
 
   return (
     <div className="min-h-screen bg-white">
-      {/* Hello Bar */}
-      <div className="bg-[#8b0000] text-white py-2 px-4 text-center text-sm">
+      {/* Sticky Hello Bar */}
+      <div className="fixed top-0 left-0 right-0 bg-[#8b0000] text-white py-2 px-4 text-center text-sm z-50">
         <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-center space-y-1 sm:space-y-0 sm:space-x-2">
           <a href="#special-offer" className="hover:underline font-bolder">Click to get your $1 ebook!</a>
-          <span className="hidden sm:inline">•</span>
-          <span className="italic">Read about the special offer below</span>
-          <div className="w-5 h-5 bg-white rounded-full flex items-center justify-center animate-bounce">
-            <svg className="w-3 h-3 text-[#8b0000] transform rotate-90" fill="currentColor" viewBox="0 0 24 24">
-              <path d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8-8-8z"/>
-            </svg>
-          </div>
+          {!hasScrolled && (
+            <>
+              <span className="hidden sm:inline">•</span>
+              <span className="italic">Read about the special offer below</span>
+              <div className="w-5 h-5 bg-white rounded-full flex items-center justify-center animate-bounce">
+                <svg className="w-3 h-3 text-[#8b0000] transform rotate-90" fill="currentColor" viewBox="0 0 24 24">
+                  <path d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8-8-8z"/>
+                </svg>
+              </div>
+            </>
+          )}
         </div>
       </div>
 
       {/* Hero Section - Background Image with Overlay */}
-      <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
+      <section className="relative min-h-screen flex items-center justify-center overflow-hidden pt-12">
         {/* Background Image */}
         <div className="absolute inset-0 z-0">
           {/* Mobile Background */}
@@ -905,6 +1036,96 @@ export default function Landing() {
             </div>
             
 
+          </div>
+        </div>
+      )}
+
+      {/* Exit Intent Popup */}
+      {showExitPopup && (
+        <div className="fixed inset-0 bg-black/50 backdrop-blur-sm flex items-center justify-center p-4 z-50">
+          <div className="bg-white rounded-lg max-w-md w-full p-6 shadow-2xl">
+            <div className="flex justify-between items-center mb-4">
+              <h3 className="text-lg font-semibold text-gray-800">Wait! Don't Miss Out!</h3>
+              <button
+                onClick={handleExitPopupClose}
+                className="text-gray-400 hover:text-gray-600 transition-colors duration-200 text-xl"
+              >
+                ✕
+              </button>
+            </div>
+            
+            <div className="space-y-4">
+              <p className="text-gray-700 leading-relaxed">
+                Not ready to buy a full bundle? Not sure if you'll like the BRADYS SECRET SERVICE DETECTIVES book? No worries!
+              </p>
+              
+              <p className="text-gray-700 leading-relaxed">
+                Remember why you clicked my ad in the 1st place … to get your $1 ebook? Click below to select your story from my small (but growing!) collection!
+              </p>
+              
+              <div className="text-center">
+                <a 
+                  href="#" 
+                  className="inline-block bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-6 rounded-md text-lg transition-all duration-300 ease-in-out transform hover:scale-105 shadow-lg"
+                >
+                  GET MY $1 BRADYS GASLIGHT PULP NOVEL
+                </a>
+              </div>
+              
+              <div className="text-center">
+                <button
+                  onClick={handleBundleClick}
+                  className="text-sm text-gray-500 hover:text-gray-700 underline transition-colors duration-200"
+                >
+                  No, I want the 10-book bundle deal!
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Desktop Exit Intent Popup */}
+      {showDesktopExitPopup && (
+        <div className="fixed inset-0 bg-black/50 backdrop-blur-sm flex items-center justify-center p-4 z-50">
+          <div className="bg-white rounded-lg max-w-lg w-full p-8 shadow-2xl">
+            <div className="flex justify-between items-center mb-6">
+              <h3 className="text-xl font-semibold text-gray-800">Wait! Don't Miss Out!</h3>
+              <button
+                onClick={handleDesktopExitPopupClose}
+                className="text-gray-400 hover:text-gray-600 transition-colors duration-200 text-xl"
+              >
+                ✕
+              </button>
+            </div>
+            
+            <div className="space-y-6">
+              <p className="text-gray-700 leading-relaxed text-lg">
+                Not ready to buy a full bundle? Not sure if you'll like the BRADYS SECRET SERVICE DETECTIVES book? No worries!
+              </p>
+              
+              <p className="text-gray-700 leading-relaxed text-lg">
+                Remember why you clicked my ad in the 1st place … to get your $1 ebook? Click below to select your story from my small (but growing!) collection!
+              </p>
+              
+              <div className="text-center">
+                <a 
+                  href="#" 
+                  className="inline-block bg-red-600 hover:bg-red-700 text-white font-bold py-4 px-8 rounded-md text-xl transition-all duration-300 ease-in-out transform hover:scale-105 shadow-lg"
+                >
+                  GET MY $1 BRADYS GASLIGHT PULP NOVEL
+                </a>
+              </div>
+              
+              <div className="text-center">
+                <button
+                  onClick={handleDesktopBundleClick}
+                  className="text-sm text-gray-500 hover:text-gray-700 underline transition-colors duration-200"
+                >
+                  No, I want the 10-book bundle deal!
+                </button>
+              </div>
+            </div>
           </div>
         </div>
       )}
