@@ -13,6 +13,9 @@ export default function Landing() {
   const [hasReachedBottom, setHasReachedBottom] = useState(false);
   const [mouseY, setMouseY] = useState(0);
   const [hasTriggeredDesktopExit, setHasTriggeredDesktopExit] = useState(false);
+  const [hasDismissedExitPopup, setHasDismissedExitPopup] = useState(false);
+  const [hasDismissedDesktopExitPopup, setHasDismissedDesktopExitPopup] = useState(false);
+  const [showStickyCta, setShowStickyCta] = useState(false);
 
   // Book cover data - duplicated for infinite scrolling effect
   const bookCovers = [
@@ -124,6 +127,13 @@ export default function Landing() {
       // Update basic scroll state
       setHasScrolled(currentScrollY > 50);
 
+      // Show sticky CTA after header is completely off screen (approximately 100vh)
+      if (currentScrollY > window.innerHeight) {
+        setShowStickyCta(true);
+      } else {
+        setShowStickyCta(false);
+      }
+
       // Check if user has seen the price (second CTA section)
       if (currentScrollY > 600) { // Approximate position of second price display
         setHasSeenPrice(true);
@@ -143,7 +153,7 @@ export default function Landing() {
         
         // Show popup after brief delay to avoid false triggers
         scrollTimeout = setTimeout(() => {
-          if (hasSeenPrice && hasScrolledBack && !showExitPopup) {
+          if (hasSeenPrice && hasScrolledBack && !showExitPopup && !hasDismissedExitPopup) {
             setShowExitPopup(true);
           }
         }, 500);
@@ -157,18 +167,18 @@ export default function Landing() {
       window.removeEventListener('scroll', handleScroll);
       clearTimeout(scrollTimeout);
     };
-  }, [hasSeenPrice, hasScrolledBack, showExitPopup]);
+  }, [hasSeenPrice, hasScrolledBack, showExitPopup, hasDismissedExitPopup]);
 
   // Show popup if user reaches bottom without clicking CTA
   useEffect(() => {
-    if (hasReachedBottom && !showExitPopup) {
+    if (hasReachedBottom && !showExitPopup && !hasDismissedExitPopup) {
       const timer = setTimeout(() => {
         setShowExitPopup(true);
       }, 2000); // Wait 2 seconds after reaching bottom
       
       return () => clearTimeout(timer);
     }
-  }, [hasReachedBottom, showExitPopup]);
+  }, [hasReachedBottom, showExitPopup, hasDismissedExitPopup]);
 
   // Desktop exit intent detection (mouse movement to top of viewport)
   useEffect(() => {
@@ -176,7 +186,7 @@ export default function Landing() {
       setMouseY(e.clientY);
       
       // Desktop exit intent: mouse moves to top 50px of viewport
-      if (e.clientY <= 50 && hasSeenPrice && !hasTriggeredDesktopExit && !showDesktopExitPopup) {
+      if (e.clientY <= 50 && hasSeenPrice && !hasTriggeredDesktopExit && !showDesktopExitPopup && !hasDismissedDesktopExitPopup) {
         setHasTriggeredDesktopExit(true);
         setShowDesktopExitPopup(true);
       }
@@ -190,12 +200,12 @@ export default function Landing() {
     return () => {
       document.removeEventListener('mousemove', handleMouseMove);
     };
-  }, [hasSeenPrice, hasTriggeredDesktopExit, showDesktopExitPopup]);
+  }, [hasSeenPrice, hasTriggeredDesktopExit, showDesktopExitPopup, hasDismissedDesktopExitPopup]);
 
   // Desktop visibility change detection (tab switching)
   useEffect(() => {
     const handleVisibilityChange = () => {
-      if (document.hidden && hasSeenPrice && !hasTriggeredDesktopExit && !showDesktopExitPopup) {
+      if (document.hidden && hasSeenPrice && !hasTriggeredDesktopExit && !showDesktopExitPopup && !hasDismissedDesktopExitPopup) {
         setHasTriggeredDesktopExit(true);
         setShowDesktopExitPopup(true);
       }
@@ -209,7 +219,7 @@ export default function Landing() {
     return () => {
       document.removeEventListener('visibilitychange', handleVisibilityChange);
     };
-  }, [hasSeenPrice, hasTriggeredDesktopExit, showDesktopExitPopup]);
+  }, [hasSeenPrice, hasTriggeredDesktopExit, showDesktopExitPopup, hasDismissedDesktopExitPopup]);
 
   const handleCtaClick = () => {
     setShowModal(true);
@@ -217,19 +227,23 @@ export default function Landing() {
 
   const handleExitPopupClose = () => {
     setShowExitPopup(false);
+    setHasDismissedExitPopup(true);
   };
 
   const handleDesktopExitPopupClose = () => {
     setShowDesktopExitPopup(false);
+    setHasDismissedDesktopExitPopup(true);
   };
 
   const handleBundleClick = () => {
     setShowExitPopup(false);
+    setHasDismissedExitPopup(true);
     setShowModal(true);
   };
 
   const handleDesktopBundleClick = () => {
     setShowDesktopExitPopup(false);
+    setHasDismissedDesktopExitPopup(true);
     setShowModal(true);
   };
 
@@ -250,7 +264,7 @@ export default function Landing() {
       {/* Sticky Hello Bar */}
       <div className="fixed top-0 left-0 right-0 bg-[#8b0000] text-white py-2 px-4 text-center text-sm z-50">
         <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-center space-y-1 sm:space-y-0 sm:space-x-2">
-          <a href="#special-offer" className="hover:underline font-bolder">Click to get your $1 ebook!</a>
+          <a href="https://offers.talesofmurder.com/choose-your-1-dollar-ebook" className="hover:underline font-bolder">Click to just get your $1 ebook!</a>
           {!hasScrolled && (
             <>
               <span className="hidden sm:inline">•</span>
@@ -309,8 +323,8 @@ export default function Landing() {
                  <div className="text-center w-full pt-8 sm:pt-12 lg:pt-16">
             {/* Yellow Ad Headline Block */}
             <div className="bg-yellow-400/65 text-black px-6 py-4 rounded-lg mb-8 mx-auto max-w-2xl">
-              <p className="text-lg sm:text-xl lg:text-2xl font-bold leading-tight">
-                I came for the mystery. I stayed for the rooftop chases and secret panels.
+              <p className="text-lg sm:text-xl lg:text-2xl font-bold italic leading-tight">
+              &ldquo;I came for the mystery. I stayed for the rooftop chases and secret panels.&rdquo;
               </p>
             </div>
 
@@ -351,7 +365,7 @@ export default function Landing() {
                    <div className="text-sm text-gray-300 hover:text-white italic transition-colors duration-200 font-fold mt-8 text-center">
                     <p className="mb-2 uppercase">Not ready to commit to the full 10&#8209;book&nbsp;library?</p>
                      <a 
-                       href="#" 
+                       href="https://offers.talesofmurder.com/choose-your-1-dollar-ebook" 
                        className="text-sm text-gray-300 hover:text-white italic transition-colors duration-200 underline font-bolder"
                      >
                       Click to get your $1 ebook.
@@ -492,14 +506,14 @@ export default function Landing() {
                      onClick={handleCtaClick}
                      className="bg-red-600 hover:bg-red-700 text-white font-bold py-4 px-8 rounded-md text-xl sm:text-2xl transition-all duration-300 ease-in-out transform hover:scale-105 hover:shadow-2xl shadow-lg border-2 border-red-500 hover:border-red-400"
                    >
-                     Give me 10 Gaslight Pulp Novels
+                     Give me 10 Gaslight Pulp Novels — <span className="line-through">$99.99</span> <span className="text-yellow-400 font-extrabold">$44.99</span>
                    </button>
                  </div>
                  {/* $1 Ebook Alternative Link */}
                  <div className="text-sm text-gray-400 hover:text-white italic transition-colors duration-200 font-fold mt-8 text-center">
                     <p className="mb-2 uppercase">Not ready to commit to the full 10&#8209;book&nbsp;library?</p>
                      <a 
-                       href="#" 
+                       href="https://offers.talesofmurder.com/choose-your-1-dollar-ebook" 
                        className="text-sm text-gray-400 hover:text-white italic transition-colors duration-200 underline font-bolder"
                      >
                       Click to get your $1 ebook.
@@ -751,7 +765,8 @@ export default function Landing() {
                    I've built the clean, affordable collection others don't offer.
                  </p>
                  
-                 <div className="overflow-x-auto mb-8">
+                 {/* Desktop Table */}
+                 <div className="hidden md:block overflow-x-auto mb-8">
                    <table className="w-full border-collapse border border-gray-300">
                      <thead>
                        <tr className="bg-gray-100">
@@ -788,6 +803,81 @@ export default function Landing() {
                        </tr>
                      </tbody>
                    </table>
+                 </div>
+
+                 {/* Mobile Comparison Cards */}
+                 <div className="md:hidden space-y-4 mb-8">
+                   <div className="bg-white border border-gray-300 rounded-lg p-4">
+                     <h3 className="font-semibold text-gray-800 mb-3">Price</h3>
+                     <div className="space-y-2">
+                       <div className="flex justify-between">
+                         <span className="text-gray-600">Messy Scans:</span>
+                         <span>"Free" (worthless)</span>
+                       </div>
+                       <div className="flex justify-between">
+                         <span className="text-gray-600">Single Editions:</span>
+                         <span>$9.99+ each</span>
+                       </div>
+                       <div className="flex justify-between font-semibold text-red-600">
+                         <span>My 10-Ebook Bundle:</span>
+                         <span>$4.50/book</span>
+                       </div>
+                     </div>
+                   </div>
+
+                   <div className="bg-white border border-gray-300 rounded-lg p-4">
+                     <h3 className="font-semibold text-gray-800 mb-3">Quality</h3>
+                     <div className="space-y-2">
+                       <div className="flex justify-between">
+                         <span className="text-gray-600">Messy Scans:</span>
+                         <span>Blurry, incomplete</span>
+                       </div>
+                       <div className="flex justify-between">
+                         <span className="text-gray-600">Single Editions:</span>
+                         <span>Restored but costly</span>
+                       </div>
+                       <div className="flex justify-between font-semibold text-red-600">
+                         <span>My 10-Ebook Bundle:</span>
+                         <span>Professionally Restored</span>
+                       </div>
+                     </div>
+                   </div>
+
+                   <div className="bg-white border border-gray-300 rounded-lg p-4">
+                     <h3 className="font-semibold text-gray-800 mb-3">Format</h3>
+                     <div className="space-y-2">
+                       <div className="flex justify-between">
+                         <span className="text-gray-600">Messy Scans:</span>
+                         <span>Only PDFs</span>
+                       </div>
+                       <div className="flex justify-between">
+                         <span className="text-gray-600">Single Editions:</span>
+                         <span>Limited formats</span>
+                       </div>
+                       <div className="flex justify-between font-semibold text-red-600">
+                         <span>My 10-Ebook Bundle:</span>
+                         <span>Kindle & ePub, DRM-Free</span>
+                       </div>
+                     </div>
+                   </div>
+
+                   <div className="bg-white border border-gray-300 rounded-lg p-4">
+                     <h3 className="font-semibold text-gray-800 mb-3">Content</h3>
+                     <div className="space-y-2">
+                       <div className="flex justify-between">
+                         <span className="text-gray-600">Messy Scans:</span>
+                         <span>Random scraps</span>
+                       </div>
+                       <div className="flex justify-between">
+                         <span className="text-gray-600">Single Editions:</span>
+                         <span>One story at a time</span>
+                       </div>
+                       <div className="flex justify-between font-semibold text-red-600">
+                         <span>My 10-Ebook Bundle:</span>
+                         <span>10 Complete Novels</span>
+                       </div>
+                     </div>
+                   </div>
                  </div>
                  
                  <h3 className="text-2xl font-bold text-center mb-6 text-gray-800">
@@ -929,14 +1019,14 @@ export default function Landing() {
                    onClick={handleCtaClick}
                    className="bg-red-600 hover:bg-red-700 text-white font-bold py-4 px-8 rounded-md text-xl sm:text-2xl transition-all duration-300 ease-in-out transform hover:scale-105 hover:shadow-2xl shadow-lg border-2 border-red-500 hover:border-red-400"
                  >
-                   Get All 10 BRADYS — $44.95
+                   Get All 10 BRADYS — <span className="line-through">$99.99</span> <span className="text-yellow-400 font-extrabold">$44.99</span>
                  </button>
 
                  {/* $1 Ebook Alternative Link */}
                  <div className="text-sm text-gray-400 hover:text-white italic transition-colors duration-200 font-fold mt-8 text-center">
                     <p className="mb-2 uppercase">Not ready to commit to the full 10&#8209;book&nbsp;library?</p>
                      <a 
-                       href="#" 
+                       href="https://offers.talesofmurder.com/choose-your-1-dollar-ebook" 
                        className="text-sm text-gray-400 hover:text-white italic transition-colors duration-200 underline font-bolder"
                      >
                       Click to get your $1 ebook.
@@ -1065,7 +1155,7 @@ export default function Landing() {
               
               <div className="text-center">
                 <a 
-                  href="#" 
+                  href="https://offers.talesofmurder.com/choose-your-1-dollar-ebook" 
                   className="inline-block bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-6 rounded-md text-lg transition-all duration-300 ease-in-out transform hover:scale-105 shadow-lg"
                 >
                   GET MY $1 BRADYS GASLIGHT PULP NOVEL
@@ -1110,7 +1200,7 @@ export default function Landing() {
               
               <div className="text-center">
                 <a 
-                  href="#" 
+                  href="https://offers.talesofmurder.com/choose-your-1-dollar-ebook" 
                   className="inline-block bg-red-600 hover:bg-red-700 text-white font-bold py-4 px-8 rounded-md text-xl transition-all duration-300 ease-in-out transform hover:scale-105 shadow-lg"
                 >
                   GET MY $1 BRADYS GASLIGHT PULP NOVEL
@@ -1140,6 +1230,32 @@ export default function Landing() {
                  </div>
                </div>
              </footer>
+
+             {/* Mobile Sticky CTA Button */}
+             {showStickyCta && (
+               <div className={`fixed bottom-0 left-0 right-0 z-40 lg:hidden transition-transform duration-[3000ms] ease-in-out ${
+                 showStickyCta ? 'translate-y-0' : 'translate-y-full'
+               }`}>
+                 <div className="bg-red-600 shadow-lg">
+                   <div className="flex items-center justify-between py-3 px-4">
+                     <div className="text-left">
+                       <div className="text-sm font-semibold text-white">
+                         Get 10 Gaslight Pulp Novels
+                       </div>
+                       <div className="text-xs mt-1">
+                         <span className="line-through text-white opacity-75">$99.99</span> <span className="text-yellow-400 font-bold">$44.99</span>
+                       </div>
+                     </div>
+                     <button
+                       onClick={handleCtaClick}
+                       className="bg-yellow-400 hover:bg-yellow-500 text-black font-bold py-2 px-4 rounded text-sm transition-colors duration-200"
+                     >
+                       Buy Now
+                     </button>
+                   </div>
+                 </div>
+               </div>
+             )}
     </div>
   );
 }
