@@ -1058,7 +1058,6 @@ export default function Landing() {
                          <div className="text-center sm:text-left">
                            <p className="text-sm text-gray-500 mb-3 font-medium">First published {selectedCover.date}</p>
                            <p className="text-lg font-semibold text-gray-800 mb-4 leading-relaxed">{selectedCover.teaser}</p>
-                           <p className="text-sm text-gray-600 leading-relaxed">{selectedCover.blurb}</p>
                          </div>
                        </div>
                      </div>
