@@ -23,70 +23,70 @@ export default function Landing() {
       image: "/images/covers/copper-king.jpg",
       title: "The Copper King",
       date: "1923",
-      teaser: "A tale of power, corruption, and redemption in the copper mines of Montana.",
+      teaser: "The Bradys probe Montana's Montague Mine after the Copper King vanishes, uncovering greed, betrayal, and a deadly conspiracy in the wild frontier.",
       blurb: "When young engineer John Sterling discovers a massive copper deposit, he becomes embroiled in a web of corporate intrigue, political corruption, and family secrets that threaten to destroy everything he holds dear."
     },
     {
       image: "/images/covers/missing-girl.jpg",
       title: "The Missing Girl",
       date: "1924",
-      teaser: "A detective's desperate search through the dark underbelly of the city.",
+      teaser: "The Bradys chase a forged letter and kidnappers from New York to Florida's swamps, uncovering voodoo charms, betrayal, and a deadly Southern plot.",
       blurb: "Private investigator Sarah Chen must navigate the dangerous world of organized crime and political corruption to find a missing heiress, uncovering a conspiracy that reaches the highest levels of society."
     },
     {
       image: "/images/covers/gov-gum.png",
       title: "Government Gum",
       date: "1925",
-      teaser: "A satirical look at bureaucracy gone mad in the roaring twenties.",
+      teaser: "The Bradys track a vanished heiress from New York to San Francisco's Chinatown, facing Highbinders, betrayal, and a deadly fight for millions.",
       blurb: "When a simple gum wrapper becomes classified as government property, it sets off a chain reaction of bureaucratic absurdity that threatens to bring the entire city to a standstill."
     },
     {
       image: "/images/covers/among-the-chinamen.jpg",
       title: "Among the Chinamen",
       date: "1926",
-      teaser: "A western adventure that challenges cultural boundaries and prejudices.",
+      teaser: "A severed head, opium dens, and a secret society drag the Bradys into Chinatown's deadliest conspiracy of murder, betrayal, and hidden loyalties.",
       blurb: "Rancher Tom Wilson finds himself stranded in a Chinese mining camp, where he must overcome his own prejudices and learn to survive in a world completely foreign to his experience."
     },
     {
       image: "/images/covers/ding.jpg",
       title: "Ding",
       date: "1927",
-      teaser: "A mysterious bell that tolls for the dead and the living alike.",
+      teaser: "The Bradys face hypnotism, murder, and a vanished fiancée in Dr. Ding's deadly magic show, chasing truth from New York to San Francisco's Chinatown.",
       blurb: "When the ancient bell of St. Mary's begins ringing on its own, it heralds a series of supernatural events that force the townspeople to confront their deepest fears and darkest secrets."
     },
     {
       image: "/images/covers/hi-lo-jak.jpg",
       title: "Hi-Lo Jak",
       date: "1928",
-      teaser: "A high-stakes poker game where the stakes are life and death.",
+      teaser: "A reign of terror grips New York as the Bradys face Hi-Lo-Jak, a vengeful mastermind whose Chinatown assassins will stop at nothing to kill them.",
       blurb: "Professional gambler Hi-Lo Jak finds himself in a deadly game of poker where the chips are worth more than money, and losing means losing everything he's ever loved."
     },
     {
       image: "/images/covers/desert-trail.jpg",
       title: "Desert Trail",
       date: "1929",
-      teaser: "A journey through the unforgiving desert that tests the limits of human endurance.",
+      teaser: "The Bradys brave Nevada's Deadman's Run, battling thirst, betrayal, and outlaws in search of a vanished colonel, his daughter, and stolen gold.",
       blurb: "Three travelers become lost in the vast desert, where they must rely on each other to survive while being hunted by something that doesn't belong in this world."
     },
     {
       image: "/images/covers/yellow-crooks.jpg",
       title: "Yellow Crooks",
       date: "1930",
-      teaser: "A gang of criminals with a mysterious connection to the color yellow.",
+      teaser: "Old King Brady hunts stolen diamonds in Chinatown's deadly underworld, only to uncover betrayal and the Yellow Crooks' ruthless empire.",
       blurb: "Detective Mike O'Connor investigates a series of robberies committed by criminals who leave behind yellow calling cards, leading him into a world of organized crime and supernatural mystery."
     },
     {
       image: "/images/covers/chinese-idol.jpg",
       title: "The Chinese Idol",
       date: "1931",
-      teaser: "An ancient artifact that brings both fortune and doom to its possessor.",
+      teaser: "A millionaire's murder, a missing will, and a stolen idol draw the Bradys into New York's Chinatown, where counterfeit pearls hide deadly secrets.",
       blurb: "When archaeologist Dr. Emily Chen discovers a mysterious Chinese idol, she unleashes forces that have been dormant for centuries, forcing her to choose between knowledge and survival."
     },
     {
       image: "/images/covers/juggler.png",
       title: "The Juggler",
       date: "1932",
-      teaser: "A circus performer whose act conceals a deadly secret.",
+      teaser: "A murdered juggler, opium dens, and a sinister secret society drag the Bradys into a deadly Chinatown mystery of deception, vengeance, and illusion.",
       blurb: "The mysterious juggler who never speaks performs impossible feats that defy the laws of physics, but when a series of deaths occur during his performances, the truth becomes more terrifying than anyone could imagine."
     }
   ];
@@ -169,16 +169,8 @@ export default function Landing() {
     };
   }, [hasSeenPrice, hasScrolledBack, showExitPopup, hasDismissedExitPopup]);
 
-  // Show popup if user reaches bottom without clicking CTA
-  useEffect(() => {
-    if (hasReachedBottom && !showExitPopup && !hasDismissedExitPopup) {
-      const timer = setTimeout(() => {
-        setShowExitPopup(true);
-      }, 2000); // Wait 2 seconds after reaching bottom
-      
-      return () => clearTimeout(timer);
-    }
-  }, [hasReachedBottom, showExitPopup, hasDismissedExitPopup]);
+  // Removed: Show popup if user reaches bottom without clicking CTA
+  // Users should be able to reach the bottom and see the final CTA
 
   // Desktop exit intent detection (mouse movement to top of viewport)
   useEffect(() => {
@@ -309,7 +301,7 @@ export default function Landing() {
                  />
                </div>
                {/* Desktop Logo - Top-left */}
-               <div className="absolute top-4 left-8 z-20 hidden lg:block">
+               <div className="absolute top-16 left-8 z-20 hidden lg:block">
                  <img
                    src="/images/logos/logo_full_w.png"
                    alt="Tales of Murder Logo"
@@ -362,11 +354,11 @@ export default function Landing() {
                    </button>
 
                    {/* $1 Ebook Alternative Link */}
-                   <div className="text-sm text-gray-300 hover:text-white italic transition-colors duration-200 font-fold mt-8 text-center">
+                   <div className="text-sm text-gray-300 hover:text-gray-100 italic transition-colors duration-200 font-fold mt-8 text-center">
                     <p className="mb-2 uppercase">Not ready to commit to the full 10&#8209;book&nbsp;library?</p>
                      <a 
                        href="https://offers.talesofmurder.com/choose-your-1-dollar-ebook" 
-                       className="text-sm text-gray-300 hover:text-white italic transition-colors duration-200 underline font-bolder"
+                       className="text-sm text-gray-300 hover:text-gray-100 italic transition-colors duration-200 underline font-bolder"
                      >
                       Click to get your $1 ebook.
                      </a>
@@ -379,9 +371,10 @@ export default function Landing() {
              {/* Book Cover Carousel Section */}
              <section className="py-12 sm:py-16 bg-gray-100">
                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                 <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-center mb-8 text-gray-800 hero-subheadline">
+                 <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-center mb-4 text-gray-800 hero-subheadline">
                    BINGE TEN THRILLING GASLIGHT PULP NOVELS
                  </h2>
+                 <p className="text-center text-gray-600 mb-8 italic">Click any cover to learn more about that title</p>
                  
                  {/* Mobile Carousel - Full Width Covers */}
                  <div className="lg:hidden">
@@ -510,11 +503,11 @@ export default function Landing() {
                    </button>
                  </div>
                  {/* $1 Ebook Alternative Link */}
-                 <div className="text-sm text-gray-400 hover:text-white italic transition-colors duration-200 font-fold mt-8 text-center">
+                 <div className="text-sm text-gray-400 hover:text-gray-600 italic transition-colors duration-200 font-fold mt-8 text-center">
                     <p className="mb-2 uppercase">Not ready to commit to the full 10&#8209;book&nbsp;library?</p>
                      <a 
                        href="https://offers.talesofmurder.com/choose-your-1-dollar-ebook" 
-                       className="text-sm text-gray-400 hover:text-white italic transition-colors duration-200 underline font-bolder"
+                       className="text-sm text-gray-400 hover:text-gray-600 italic transition-colors duration-200 underline font-bolder"
                      >
                       Click to get your $1 ebook.
                      </a>
@@ -1023,11 +1016,11 @@ export default function Landing() {
                  </button>
 
                  {/* $1 Ebook Alternative Link */}
-                 <div className="text-sm text-gray-400 hover:text-white italic transition-colors duration-200 font-fold mt-8 text-center">
+                 <div className="text-sm text-gray-400 hover:text-gray-600 italic transition-colors duration-200 font-fold mt-8 text-center">
                     <p className="mb-2 uppercase">Not ready to commit to the full 10&#8209;book&nbsp;library?</p>
                      <a 
                        href="https://offers.talesofmurder.com/choose-your-1-dollar-ebook" 
-                       className="text-sm text-gray-400 hover:text-white italic transition-colors duration-200 underline font-bolder"
+                       className="text-sm text-gray-400 hover:text-gray-600 italic transition-colors duration-200 underline font-bolder"
                      >
                       Click to get your $1 ebook.
                      </a>
@@ -1039,29 +1032,41 @@ export default function Landing() {
 
              {/* Book Cover Detail Modal */}
              {selectedCover && (
-               <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50">
-                 <div className="bg-white rounded-lg max-w-sm sm:max-w-md w-full p-4 sm:p-6">
-                   <div className="flex justify-between items-center mb-4">
-                     <h3 className="text-lg sm:text-xl font-semibold text-gray-800">{selectedCover.title}</h3>
+               <div className="fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center p-4 z-50 overflow-y-auto">
+                 <div className="bg-white rounded-xl max-w-sm sm:max-w-lg w-full p-6 sm:p-8 shadow-2xl border border-gray-100 my-4">
+                   <div className="flex justify-between items-start mb-6">
+                     <h3 className="text-xl sm:text-2xl font-bold text-gray-800 leading-tight pr-4">{selectedCover.title}</h3>
                      <button
                        onClick={() => setSelectedCover(null)}
-                       className="text-gray-400 hover:text-gray-600 text-xl"
+                       className="text-gray-400 hover:text-gray-600 text-2xl transition-colors duration-200 flex-shrink-0"
                      >
                        ✕
                      </button>
                    </div>
                    
-                   <div className="space-y-4">
-                     <img
-                       src={selectedCover.image}
-                       alt={selectedCover.title}
-                       className="w-full h-auto max-h-48 object-contain rounded-lg shadow-md"
-                     />
+                   <div className="space-y-6">
+                     <div className="flex flex-col sm:flex-row gap-6">
+                       <div className="flex-shrink-0">
+                         <img
+                           src={selectedCover.image}
+                           alt={selectedCover.title}
+                           className="w-full sm:w-48 h-auto object-contain rounded-lg shadow-lg border border-gray-200"
+                         />
+                       </div>
+                       
+                       <div className="flex-1 space-y-4">
+                         <div className="text-center sm:text-left">
+                           <p className="text-sm text-gray-500 mb-3 font-medium">First published {selectedCover.date}</p>
+                           <p className="text-lg font-semibold text-gray-800 mb-4 leading-relaxed">{selectedCover.teaser}</p>
+                           <p className="text-sm text-gray-600 leading-relaxed">{selectedCover.blurb}</p>
+                         </div>
+                       </div>
+                     </div>
                      
-                     <div className="text-center">
-                       <p className="text-sm text-gray-500 mb-2">{selectedCover.date}</p>
-                       <p className="text-base font-semibold text-gray-700 mb-3">{selectedCover.teaser}</p>
-                       <p className="text-sm text-gray-600 leading-relaxed">{selectedCover.blurb}</p>
+                     <div className="pt-4 border-t border-gray-200">
+                       <p className="text-xs text-gray-500 text-center italic">
+                         Part of the 10-Book Gaslight Pulp Mystery Collection
+                       </p>
                      </div>
                    </div>
                  </div>
