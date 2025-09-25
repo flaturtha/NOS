@@ -1,10 +1,4 @@
-interface BookCover {
-  image: string;
-  title: string;
-  date: string;
-  teaser: string;
-  blurb: string;
-}
+import type { BookCover } from '../data/bookCovers';
 
 interface BookCoverCarouselProps {
   bookCovers: BookCover[];
