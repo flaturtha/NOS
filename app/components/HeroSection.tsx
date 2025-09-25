@@ -1,21 +1,24 @@
+import type { AdVariant } from "../data/adVariants";
+
 interface HeroSectionProps {
   onCtaClick: () => void;
+  adVariant?: AdVariant | null;
 }
 
-export default function HeroSection({ onCtaClick }: HeroSectionProps) {
+export default function HeroSection({ onCtaClick, adVariant }: HeroSectionProps) {
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden pt-12">
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         {/* Mobile Background */}
         <img
-          src="/images/landing/hero_mobile.png"
+          src={adVariant?.images.mobile || "/images/landing/hero_mobile.png"}
           alt="Mystery Collection Background"
           className="w-full h-full object-cover lg:hidden"
         />
         {/* Desktop Background */}
         <img
-          src="/images/landing/hero_desktop.png"
+          src={adVariant?.images.desktop || "/images/landing/hero_desktop.png"}
           alt="Mystery Collection Background"
           className="hidden lg:block w-full h-full object-cover"
         />
@@ -48,7 +51,7 @@ export default function HeroSection({ onCtaClick }: HeroSectionProps) {
           {/* Yellow Ad Headline Block */}
           <div className="bg-yellow-400/65 text-black px-6 py-4 rounded-lg mb-8 mx-auto max-w-2xl">
             <p className="text-lg sm:text-xl lg:text-2xl font-bold italic leading-tight">
-            &ldquo;I came for the mystery. I stayed for the rooftop chases and secret panels.&rdquo;
+            &ldquo;{adVariant?.text || "I came for the mystery. I stayed for the rooftop chases and secret panels."}&rdquo;
             </p>
           </div>
 

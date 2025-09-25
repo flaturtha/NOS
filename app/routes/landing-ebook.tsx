@@ -86,7 +86,7 @@ export default function Landing() {
     <div className="min-h-screen bg-white">
       <StickyHelloBar hasScrolled={hasScrolled} />
 
-      <HeroSection onCtaClick={handleCtaClick} />
+      <HeroSection onCtaClick={handleCtaClick} adVariant={null} />
 
       <BookCoverCarousel 
         bookCovers={bookCovers}
