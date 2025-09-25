@@ -50,6 +50,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>10 Lost Mystery Novels Bundle - Tales of Murder | $44.99</title>
         <meta name="description" content="Discover 10 lost mystery novels in one exclusive bundle. Gaslight pulp fiction featuring rooftop chases, secret panels, and thrilling detective stories. Limited time offer - $44.99." />
         <Meta />
         <Links />
