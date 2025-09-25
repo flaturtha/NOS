@@ -11,17 +11,29 @@ export default function HeroSection({ onCtaClick, adVariant }: HeroSectionProps)
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         {/* Mobile Background */}
-        <img
-          src={adVariant?.images.mobile || "/images/landing/hero_mobile.png"}
-          alt="Mystery Collection Background"
-          className="w-full h-full object-cover lg:hidden"
-        />
+        <picture className="w-full h-full lg:hidden">
+          <source srcSet={adVariant?.images.mobile || "/images/landing/hero_mobile.avif"} type="image/avif" />
+          <source srcSet={adVariant?.images.mobile || "/images/landing/hero_mobile.webp"} type="image/webp" />
+          <img
+            src={adVariant?.images.mobile || "/images/landing/hero_mobile.jpg"}
+            alt="Mystery Collection Background"
+            className="w-full h-full object-cover"
+            loading="eager"
+            fetchPriority="high"
+          />
+        </picture>
         {/* Desktop Background */}
-        <img
-          src={adVariant?.images.desktop || "/images/landing/hero_desktop.png"}
-          alt="Mystery Collection Background"
-          className="hidden lg:block w-full h-full object-cover"
-        />
+        <picture className="hidden lg:block w-full h-full">
+          <source srcSet={adVariant?.images.desktop || "/images/landing/hero_desktop.avif"} type="image/avif" />
+          <source srcSet={adVariant?.images.desktop || "/images/landing/hero_desktop.webp"} type="image/webp" />
+          <img
+            src={adVariant?.images.desktop || "/images/landing/hero_desktop.jpg"}
+            alt="Mystery Collection Background"
+            className="w-full h-full object-cover"
+            loading="eager"
+            fetchPriority="high"
+          />
+        </picture>
         {/* Slight Darkening Overlay for Better Text Readability */}
         <div className="absolute inset-0" style={{backgroundColor: 'rgba(0,0,0,0.50)'}}></div>
       </div>
