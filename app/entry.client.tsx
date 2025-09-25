@@ -3,7 +3,7 @@ import { hydrateRoot } from "react-dom/client";
 import { RouterProvider, createBrowserRouter } from "react-router";
 import Root from "./root";
 import Home from "./routes/home";
-import Landing from "./routes/landing";
+import Landing from "./routes/landing-ebook";
 
 const router = createBrowserRouter([
   {
