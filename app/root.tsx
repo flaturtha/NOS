@@ -19,8 +19,28 @@ export function links() {
       crossOrigin: "anonymous",
     },
     {
+      rel: "preload",
+      href: "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+      as: "style",
+      onLoad: "this.onload=null;this.rel='stylesheet'"
+    },
+    {
       rel: "stylesheet",
       href: "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+      media: "print",
+      onLoad: "this.media='all'"
+    },
+    {
+      rel: "preload",
+      href: "/images/landing/hero_mobile.avif",
+      as: "image",
+      media: "(max-width: 1023px)"
+    },
+    {
+      rel: "preload", 
+      href: "/images/landing/hero_desktop.avif",
+      as: "image",
+      media: "(min-width: 1024px)"
     },
   ];
 }
@@ -31,6 +51,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="Discover 10 lost mystery novels in one exclusive bundle. Gaslight pulp fiction featuring rooftop chases, secret panels, and thrilling detective stories. Limited time offer - $44.99." />
         <Meta />
         <Links />
       </head>
