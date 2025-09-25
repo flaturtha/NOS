@@ -63,7 +63,8 @@ export default function BookCoverCarousel({
                 <button
                   key={index}
                   onClick={() => onDotClick(index)}
-                  className={`w-3 h-3 rounded-full transition-colors duration-200 ${
+                  aria-label={`Go to book cover ${index + 1}`}
+                  className={`w-4 h-4 rounded-full transition-colors duration-200 ${
                     index === currentCoverIndex ? 'bg-red-600' : 'bg-gray-300'
                   }`}
                 />

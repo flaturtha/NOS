@@ -32,11 +32,11 @@ export default function FinalCTA({ onCtaClick }: FinalCTAProps) {
         </button>
 
         {/* $1 Ebook Alternative Link */}
-        <div className="text-sm text-gray-400 hover:text-gray-600 italic transition-colors duration-200 font-fold mt-8 text-center">
+        <div className="text-sm text-gray-600 hover:text-gray-800 italic transition-colors duration-200 font-fold mt-8 text-center">
           <p className="mb-2 uppercase">Not ready to commit to the full 10&#8209;book&nbsp;library?</p>
           <a 
             href="https://offers.talesofmurder.com/choose-your-1-dollar-ebook" 
-            className="text-sm text-gray-400 hover:text-gray-600 italic transition-colors duration-200 underline font-bolder"
+            className="text-sm text-gray-600 hover:text-gray-800 italic transition-colors duration-200 underline font-bolder"
           >
             Click to get your $1 ebook.
           </a>
