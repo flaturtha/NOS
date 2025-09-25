@@ -35,15 +35,16 @@ export default function BookCoverCarousel({
                     className="relative cursor-pointer group w-full"
                     onClick={() => onCoverClick(cover)}
                   >
-                    <img
-                      src={cover.image}
-                      alt={cover.title}
-                      className="w-full h-full object-cover rounded-lg shadow-lg transition-all duration-300 transform group-hover:scale-105 group-hover:shadow-xl"
-                      onError={(e) => {
-                        console.error('Image failed to load:', cover.image);
-                        e.currentTarget.style.backgroundColor = 'red';
-                      }}
-                    />
+                    <picture>
+                      <source srcSet={cover.image.replace('.avif', '.avif')} type="image/avif" />
+                      <source srcSet={cover.image.replace('.avif', '.webp')} type="image/webp" />
+                      <img
+                        src={cover.image.replace('.avif', '.jpg')}
+                        alt={cover.title}
+                        className="w-full h-full object-cover rounded-lg shadow-lg transition-all duration-300 transform group-hover:scale-105 group-hover:shadow-xl"
+                        loading="lazy"
+                      />
+                    </picture>
                     
                     {/* Eye icon overlay on each cover */}
                     <div className="absolute inset-0 flex items-center justify-center">
@@ -86,15 +87,16 @@ export default function BookCoverCarousel({
                     className="relative"
                     onClick={() => onCoverClick(cover)}
                   >
-                    <img
-                      src={cover.image}
-                      alt={cover.title}
-                      className="w-full h-full object-cover rounded-lg shadow-lg group-hover:shadow-xl transition-all duration-300 transform group-hover:scale-105"
-                      onError={(e) => {
-                        console.error('Image failed to load:', cover.image);
-                        e.currentTarget.style.backgroundColor = 'red';
-                      }}
-                    />
+                    <picture>
+                      <source srcSet={cover.image.replace('.avif', '.avif')} type="image/avif" />
+                      <source srcSet={cover.image.replace('.avif', '.webp')} type="image/webp" />
+                      <img
+                        src={cover.image.replace('.avif', '.jpg')}
+                        alt={cover.title}
+                        className="w-full h-full object-cover rounded-lg shadow-lg group-hover:shadow-xl transition-all duration-300 transform group-hover:scale-105"
+                        loading="lazy"
+                      />
+                    </picture>
 
                   </div>
                 </div>

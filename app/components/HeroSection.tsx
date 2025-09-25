@@ -41,19 +41,29 @@ export default function HeroSection({ onCtaClick, adVariant }: HeroSectionProps)
       {/* Logo - Positioned directly on hero section */}
       {/* Mobile Logo - Centered at top */}
       <div className="absolute top-4 left-1/2 -translate-x-1/2 z-20 lg:hidden">
-        <img
-          src="/images/logos/atticus_e.png"
-          alt="Atticus E Logo"
-          className="h-10 sm:h-12"
-        />
+        <picture>
+          <source srcSet="/images/logos/atticus_e.avif" type="image/avif" />
+          <source srcSet="/images/logos/atticus_e.webp" type="image/webp" />
+          <img
+            src="/images/logos/atticus_e.jpg"
+            alt="Atticus E Logo"
+            className="h-10 sm:h-12"
+            loading="eager"
+          />
+        </picture>
       </div>
       {/* Desktop Logo - Top-left */}
       <div className="absolute top-16 left-8 z-20 hidden lg:block">
-        <img
-          src="/images/logos/logo_full_w.png"
-          alt="Tales of Murder Logo"
-          className="h-12 sm:h-16"
-        />
+        <picture>
+          <source srcSet="/images/logos/logo_full_w.avif" type="image/avif" />
+          <source srcSet="/images/logos/logo_full_w.webp" type="image/webp" />
+          <img
+            src="/images/logos/logo_full_w.jpg"
+            alt="Tales of Murder Logo"
+            className="h-12 sm:h-16"
+            loading="eager"
+          />
+        </picture>
       </div>
 
       {/* Content Overlay */}

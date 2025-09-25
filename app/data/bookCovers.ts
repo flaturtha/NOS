@@ -22,7 +22,7 @@ export const bookCovers: BookCover[] = [
     blurb: "Private investigator Sarah Chen must navigate the dangerous world of organized crime and political corruption to find a missing heiress, uncovering a conspiracy that reaches the highest levels of society."
   },
   {
-    image: "/images/covers/gov-gum.png",
+    image: "/images/covers/gov-gum.avif",
     title: "Government Gum",
     date: "1925",
     teaser: "The Bradys track a vanished heiress from New York to San Francisco's Chinatown, facing Highbinders, betrayal, and a deadly fight for millions.",
@@ -71,7 +71,7 @@ export const bookCovers: BookCover[] = [
     blurb: "When archaeologist Dr. Emily Chen discovers a mysterious Chinese idol, she unleashes forces that have been dormant for centuries, forcing her to choose between knowledge and survival."
   },
   {
-    image: "/images/covers/juggler.png",
+    image: "/images/covers/juggler.avif",
     title: "The Juggler",
     date: "1932",
     teaser: "A murdered juggler, opium dens, and a sinister secret society drag the Bradys into a deadly Chinatown mystery of deception, vengeance, and illusion.",
