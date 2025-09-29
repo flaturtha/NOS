@@ -1,10 +1,26 @@
 export default function WhatsInsideBundle() {
   return (
-    <section className="py-12 sm:py-16 bg-gray-50">
+    <section className="py-12 sm:py-16 relative">
+      {/* Background image with blur effect */}
+      <div className="absolute inset-0 bg-gray-50">
+        <picture>
+          <source srcSet="/images/landing/covers-only_desat_blur.avif" type="image/avif" />
+          <source srcSet="/images/landing/covers-only_desat_blur.webp" type="image/webp" />
+          <img 
+            src="/images/landing/covers-only_desat_blur.jpg" 
+            alt=""
+            className="w-full h-full object-cover opacity-30"
+          />
+        </picture>
+      </div>
+      
+      {/* Content with relative positioning */}
+      <div className="relative z-10">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-center mb-8 text-gray-800 hero-subheadline">
           What's Inside the Bundle?
         </h2>
+        
         
         <p className="text-lg text-gray-700 mb-8 text-left leading-relaxed">
           You're not just getting "some old scans." You're getting 10 full-length novels, restored and formatted so you can enjoy them tonight — and forever.
@@ -33,6 +49,7 @@ export default function WhatsInsideBundle() {
         <p className="text-lg text-gray-700 text-left leading-relaxed">
           And that's just three of the ten <em>(out of more than 1,300 originally published!)</em>. You'll have an entire library of mysteries to binge, one after another, for less than the price of a single new book.
         </p>
+      </div>
       </div>
     </section>
   );

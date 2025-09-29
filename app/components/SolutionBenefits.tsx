@@ -6,7 +6,54 @@ export default function SolutionBenefits() {
           Finally — A Mystery Collection You Can Actually Read.
         </h2>
         
-        <p className="text-lg text-gray-700 mb-8 text-left leading-relaxed">
+        <div className="mb-8">
+          {/* Desktop: Side-by-side comparison */}
+          <div className="hidden sm:block">
+            <picture>
+              <source srcSet="/images/landing/old-vs-new_R.avif" type="image/avif" />
+              <source srcSet="/images/landing/old-vs-new_R.webp" type="image/webp" />
+              <img 
+                src="/images/landing/old-vs-new_R.jpg" 
+                alt="Comparison showing old newspaper scan vs clean digital text format"
+                className="w-full h-auto rounded-lg shadow-lg"
+              />
+            </picture>
+            <p className="text-center text-sm text-gray-600 mt-3 font-medium">
+              Original scan (left), Cleaned & Restored (right)
+            </p>
+          </div>
+
+          {/* Mobile: Stacked individual images */}
+          <div className="block sm:hidden space-y-8">
+            <div className="mx-4">
+              <h3 className="text-xl font-bold text-gray-800 mb-4 text-center">Original Scan</h3>
+              <picture>
+                <source srcSet="/images/landing/old-broadbrim_original_scan_R.avif" type="image/avif" />
+                <source srcSet="/images/landing/old-broadbrim_original_scan_R.webp" type="image/webp" />
+                <img 
+                  src="/images/landing/old-broadbrim_original_scan_R.jpg" 
+                  alt="Original newspaper scan showing aged, difficult-to-read text"
+                  className="w-full h-auto rounded-lg shadow-lg"
+                />
+              </picture>
+            </div>
+            
+            <div className="mx-4">
+              <h3 className="text-xl font-bold text-gray-800 mb-4 text-center">Cleaned & Restored</h3>
+              <picture>
+                <source srcSet="/images/landing/old-broadbrim_cleaned_page_R.avif" type="image/avif" />
+                <source srcSet="/images/landing/old-broadbrim_cleaned_page_R.webp" type="image/webp" />
+                <img 
+                  src="/images/landing/old-broadbrim_cleaned_page_R.jpg" 
+                  alt="Clean, digitally restored text that's easy to read"
+                  className="w-full h-auto rounded-lg shadow-lg"
+                />
+              </picture>
+            </div>
+          </div>
+        </div>
+        
+        <p className="text-lg text-gray-600 mb-8 text-left font-bold leading-relaxed">
           10 gripping Brady's adventures, fully restored and bundled for less than half price.
         </p>
         
