@@ -1,10 +1,30 @@
 export default function Guarantee() {
   return (
-    <section className="py-12 sm:py-16 bg-white">
-      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-8 text-gray-800 hero-subheadline">
-          The Reader's Honor Guarantee
-        </h2>
+    <section className="py-12 sm:py-16 relative">
+      {/* Desktop: Full width GIF background */}
+      <div className="hidden sm:block absolute inset-0 bg-white">
+        <img 
+          src="/images/landing/guarantee.gif" 
+          alt=""
+          className="w-full h-full object-cover opacity-40"
+        />
+      </div>
+
+      {/* Mobile: GIF below headline */}
+      <div className="block sm:hidden mb-8">
+        <img 
+          src="/images/landing/guarantee.gif" 
+          alt=""
+          className="w-full h-auto rounded-lg shadow-lg"
+        />
+      </div>
+
+      {/* Content */}
+      <div className="relative z-10">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-8 text-gray-800 hero-subheadline">
+            The Reader's Honor Guarantee
+          </h2>
         
         <p className="text-lg text-gray-700 mb-8 leading-relaxed text-left">
           I do things differently here at <span className="text-[#8b0000] uppercase font-[Breamcatcher] font-bold tracking-wider">Tales of Murder Press</span> — because I'm not just selling books, I'm building a community of readers who value trust as much as stories.
@@ -27,6 +47,7 @@ export default function Guarantee() {
             No questions asked
           </p>
         </div>
+      </div>
       </div>
     </section>
   );
