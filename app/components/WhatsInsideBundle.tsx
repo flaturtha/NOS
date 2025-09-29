@@ -30,8 +30,12 @@ export default function WhatsInsideBundle() {
           Each ebook is delivered in both Kindle and ePub formats, so you can read on <em className="italic text-[#8b0000]">any device you already own</em> — Kindle, Kobo, iPad, Nook, phone, or computer. No restrictions. No padlocks.
         </p>
         
-        <p className="text-lg text-gray-600 font-bold mt-12 mb-8 text-center leading-relaxed">
-          Here's a taste of what's waiting inside:
+        <p className="text-lg text-gray-600 font-bold mt-12 text-center leading-relaxed">
+          Here's a taste of what's waiting&nbsp;inside:
+        </p>
+
+        <p className="text-sm text-gray-600 italic mb-8 text-center leading-relaxed">
+          Click on any cover, in the carousel above, to see a short summary of the book.
         </p>
         
         <div className="space-y-4 mb-8">
