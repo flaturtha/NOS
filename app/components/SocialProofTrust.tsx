@@ -8,6 +8,17 @@ export default function SocialProofTrust() {
         
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           <div className="text-center p-6 bg-gray-50 rounded-lg">
+            <div className="mb-4">
+              <picture>
+                <source srcSet="/images/landing/testimonials/eleanor.avif" type="image/avif" />
+                <source srcSet="/images/landing/testimonials/eleanor.webp" type="image/webp" />
+                <img 
+                  src="/images/landing/testimonials/eleanor.jpg" 
+                  alt="Eleanor V."
+                  className="w-16 h-16 rounded-full mx-auto object-cover"
+                />
+              </picture>
+            </div>
             <p className="text-lg text-gray-700 mb-4 italic leading-relaxed">
               "I've wasted so much time on awful scans. This bundle is a lifesaver — the stories are gripping and finally readable."
             </p>
@@ -15,6 +26,17 @@ export default function SocialProofTrust() {
           </div>
           
           <div className="text-center p-6 bg-gray-50 rounded-lg">
+            <div className="mb-4">
+              <picture>
+                <source srcSet="/images/landing/testimonials/doris.avif" type="image/avif" />
+                <source srcSet="/images/landing/testimonials/doris.webp" type="image/webp" />
+                <img 
+                  src="/images/landing/testimonials/doris.jpg" 
+                  alt="Doris W."
+                  className="w-16 h-16 rounded-full mx-auto object-cover"
+                />
+              </picture>
+            </div>
             <p className="text-lg text-gray-700 mb-4 italic leading-relaxed">
               "I was hooked from page one. Perfect for quiet afternoons with tea. I couldn't stop at just one."
             </p>
@@ -22,6 +44,17 @@ export default function SocialProofTrust() {
           </div>
           
           <div className="text-center p-6 bg-gray-50 rounded-lg">
+            <div className="mb-4">
+              <picture>
+                <source srcSet="/images/landing/testimonials/bill.avif" type="image/avif" />
+                <source srcSet="/images/landing/testimonials/bill.webp" type="image/webp" />
+                <img 
+                  src="/images/landing/testimonials/bill.jpg" 
+                  alt="Bill R."
+                  className="w-16 h-16 rounded-full mx-auto object-cover"
+                />
+              </picture>
+            </div>
             <p className="text-lg text-gray-700 mb-4 italic leading-relaxed">
               "It feels like opening a whole library at once. Ten stories for the price of only four."
             </p>
