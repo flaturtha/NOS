@@ -40,7 +40,7 @@ export default function HeroSection({ onCtaClick, adVariant }: HeroSectionProps)
 
       {/* Logo - Positioned directly on hero section */}
       {/* Mobile Logo - Centered between red bar and yellow text */}
-      <div className="absolute top-28 left-1/2 -translate-x-1/2 z-20 lg:hidden">
+      <div className="absolute top-24 left-1/2 -translate-x-1/2 z-20 lg:hidden">
         <img
           src="/images/logos/atticus_e.png"
           alt="Atticus E Logo"
