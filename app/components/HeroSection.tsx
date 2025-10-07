@@ -104,7 +104,7 @@ export default function HeroSection({ onCtaClick, adVariant }: HeroSectionProps)
           <div className="text-sm text-gray-300 hover:text-gray-100 italic transition-colors duration-200 font-fold mt-8 text-center">
             <p className="mb-2 uppercase">Not ready to commit to the full 10&#8209;book&nbsp;library?</p>
             <a 
-              href="https://offers.talesofmurder.com/choose-your-1-dollar-ebook" 
+              href="https://checkout.talesofmurder.com/select-your-1-dollar-ebook" 
               className="text-sm text-gray-300 hover:text-gray-100 italic transition-colors duration-200 underline font-bolder"
             >
               Click to get your $1 ebook.

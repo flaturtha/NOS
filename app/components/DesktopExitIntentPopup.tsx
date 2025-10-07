@@ -31,7 +31,7 @@ export default function DesktopExitIntentPopup({ showDesktopExitPopup, onClose, 
           
           <div className="text-center">
             <a 
-              href="https://offers.talesofmurder.com/choose-your-1-dollar-ebook" 
+              href="https://checkout.talesofmurder.com/select-your-1-dollar-ebook" 
               className="inline-block bg-red-600 hover:bg-red-700 text-white font-bold py-4 px-8 rounded-md text-xl transition-all duration-300 ease-in-out transform hover:scale-105 shadow-lg"
             >
               GET MY $1 BRADYS GASLIGHT PULP NOVEL
