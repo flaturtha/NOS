@@ -1,10 +1,22 @@
+import { useState } from "react";
+
 interface GHLFormModalProps {
   showModal: boolean;
   onClose: () => void;
 }
 
 export default function GHLFormModal({ showModal, onClose }: GHLFormModalProps) {
+  const [email, setEmail] = useState("");
+  
   if (!showModal) return null;
+
+  const handleSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    
+    // Redirect to checkout with email parameter
+    const checkoutUrl = `https://checkout.talesofmurder.com/10-ebook-bundle-checkout?email=${encodeURIComponent(email)}`;
+    window.location.href = checkoutUrl;
+  };
 
   return (
     <div className="fixed inset-0 bg-black/30 backdrop-blur-[3px] flex items-center justify-center p-4 z-50">
@@ -36,27 +48,28 @@ export default function GHLFormModal({ showModal, onClose }: GHLFormModalProps) 
           </h4>
         </div>
         
-        {/* GHL Form */}
-        <div className="w-full" id="ghl-form">
-          <div className="form-iframe-wrapper">
-            <iframe
-              src="https://link.goexpandnow.com/widget/form/9oIwOEVxyUx4GgEzgNPK"
-              style={{
-                width: "100%",
-                height: "195px",
-                border: "none",
-                borderRadius: "3px"
-              }}
-              id="inline-9oIwOEVxyUx4GgEzgNPK"
-              data-layout="{'id':'9oIwOEVxyUx4GgEzgNPK','name':'NOS Landing Page Form','type':'form','width':400,'height':432,'layout':'embed','data-height':'432','data-layout-iframe-id':'inline-9oIwOEVxyUx4GgEzgNPK','data-form-id':'9oIwOEVxyUx4GgEzgNPK'}"
-              title="NOS Landing Page Form"
+        {/* Email Form */}
+        <form onSubmit={handleSubmit} className="w-full">
+          <div className="mb-4">
+            <input
+              type="email"
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              placeholder="Enter your email address"
+              required
+              className="w-full px-4 py-3 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-transparent"
             />
           </div>
-          <script src="https://link.goexpandnow.com/js/form_embed.js"></script>
-        </div>
+          <button
+            type="submit"
+            className="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-6 rounded-md transition-all duration-300 ease-in-out transform hover:scale-105"
+          >
+            Reserve My Bundle Now
+          </button>
+        </form>
         
         {/* Disclaimer */}
-        <div className="text-center mt-2">
+        <div className="text-center mt-4">
           <p className="text-xs text-gray-500 leading-relaxed italic">
           By submitting, you'll reserve your 10-book bundle. And get updates &amp; exclusive offers. We respect your privacy—unsubscribe anytime.
           </p>
