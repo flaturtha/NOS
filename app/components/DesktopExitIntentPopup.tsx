@@ -26,15 +26,15 @@ export default function DesktopExitIntentPopup({ showDesktopExitPopup, onClose, 
           </p>
           
           <p className="text-gray-700 leading-relaxed text-lg">
-            Remember why you clicked my ad in the 1st place … to get your $1 ebook? Click below to select your story from my small (but growing!) collection!
+            Remember why you clicked my ad in the 1st place … to get your $3.99 ebook? Click below to select your story from my small (but growing!) collection!
           </p>
           
           <div className="text-center">
             <a 
-              href="https://checkout.talesofmurder.com/select-your-1-dollar-ebook" 
+              href="https://checkout.talesofmurder.com/select-your-ebook" 
               className="inline-block bg-red-600 hover:bg-red-700 text-white font-bold py-4 px-8 rounded-md text-xl transition-all duration-300 ease-in-out transform hover:scale-105 shadow-lg"
             >
-              GET MY $1 BRADYS GASLIGHT PULP NOVEL
+              GET MY $3.99 BRADYS GASLIGHT PULP NOVEL
             </a>
           </div>
           

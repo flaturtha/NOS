@@ -6,7 +6,7 @@ export default function StickyHelloBar({ hasScrolled }: StickyHelloBarProps) {
   return (
     <div className="fixed top-0 left-0 right-0 bg-[#8b0000] text-white py-2 px-4 text-center text-sm z-50">
       <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-center space-y-1 sm:space-y-0 sm:space-x-2">
-        <a href="https://checkout.talesofmurder.com/select-your-1-dollar-ebook" className="hover:underline font-bolder">Click to just get your $1 ebook!</a>
+        <a href="https://checkout.talesofmurder.com/select-your-ebook" className="hover:underline font-bolder">Click to just get your $3.99 ebook!</a>
         {!hasScrolled && (
           <>
             <span className="hidden sm:inline">•</span>

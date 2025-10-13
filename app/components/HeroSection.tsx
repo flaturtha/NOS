@@ -100,16 +100,16 @@ export default function HeroSection({ onCtaClick, adVariant }: HeroSectionProps)
             Yes—Send Me All 10 Gaslight Pulp Novels!
           </button>
 
-          {/* $1 Ebook Alternative Link */}
+          {/* $3.99 Ebook Alternative Link */}
           <div className="text-sm text-gray-300 hover:text-gray-100 italic transition-colors duration-200 font-fold mt-8 text-center">
             <p className="mb-2 uppercase">Not ready to commit to the full 10&#8209;book&nbsp;library?</p>
             <a 
-              href="https://checkout.talesofmurder.com/select-your-1-dollar-ebook" 
+              href="https://checkout.talesofmurder.com/select-your-ebook" 
               className="text-sm text-gray-300 hover:text-gray-100 italic transition-colors duration-200 underline font-bolder"
             >
-              Click to get your $1 ebook.
+              Click to get your $3.99 ebook.
             </a>
-            <p className="mt-2 text-xs text-white/80 mt-2 italic">(But I'm giving up more than $120 in savings&nbsp;with&nbsp;this&nbsp;bundle!)</p>
+            <p className="mt-2 text-xs text-white/80 mt-2 italic">(But I'm giving up more than $116 in savings&nbsp;with&nbsp;this&nbsp;bundle!)</p>
           </div>
         </div>
       </div>
