@@ -1,22 +1,16 @@
 import { useState } from "react";
-import { bookCovers, infiniteCovers } from "../data/bookCovers";
 import { useScrollTracking } from "../hooks/useScrollTracking";
 import { useExitIntent } from "../hooks/useExitIntent";
-import { useCarousel } from "../hooks/useCarousel";
 import { getAdVariant } from "../data/adVariants";
 import StickyHelloBar from "../components/StickyHelloBar";
-import HeroSection from "../components/HeroSection";
-import BookCoverCarousel from "../components/BookCoverCarousel";
-import ValueProposition from "../components/ValueProposition";
-import WhatsInsideBundle from "../components/WhatsInsideBundle";
-import ProblemAgitation from "../components/ProblemAgitation";
-import SolutionBenefits from "../components/SolutionBenefits";
-import SocialProofTrust from "../components/SocialProofTrust";
-import Differentiation from "../components/Differentiation";
+import HeroDecoy_v2 from "../components/HeroDecoy_v2";
+import OptionComparison_v2 from "../components/OptionComparison_v2";
+import BeforeAfter_v2 from "../components/BeforeAfter_v2";
+import SocialProof_v2 from "../components/SocialProof_v2";
+import WhyComparison_v2 from "../components/WhyComparison_v2";
 import Guarantee from "../components/Guarantee";
 import FAQ from "../components/FAQ";
-import FinalCTA from "../components/FinalCTA";
-import BookCoverModal from "../components/BookCoverModal";
+import FinalCTA_v2 from "../components/FinalCTA_v2";
 import GHLFormModal from "../components/GHLFormModal";
 import ExitIntentPopup from "../components/ExitIntentPopup";
 import DesktopExitIntentPopup from "../components/DesktopExitIntentPopup";
@@ -26,13 +20,12 @@ import MobileStickyCTA from "../components/MobileStickyCTA";
 export default function Landing32TBe() {
   const [showModal, setShowModal] = useState(false);
   const [email, setEmail] = useState("");
-  const [selectedCover, setSelectedCover] = useState<any>(null);
+  const [selectedOption, setSelectedOption] = useState<'collection' | 'single' | null>(null);
 
   // Get the ad variant data
   const adVariant = getAdVariant('32TB');
 
   // Custom hooks
-  const { currentCoverIndex, setCurrentCoverIndex } = useCarousel();
   const { hasScrolled, hasSeenPrice, hasReachedBottom, hasScrolledBack, showStickyCta } = useScrollTracking();
   const {
     showExitPopup,
@@ -47,7 +40,13 @@ export default function Landing32TBe() {
     setHasDismissedDesktopExitPopup
   } = useExitIntent({ hasSeenPrice, hasScrolledBack });
 
-  const handleCtaClick = () => {
+  const handleCollectionClick = () => {
+    setSelectedOption('collection');
+    setShowModal(true);
+  };
+
+  const handleSingleClick = () => {
+    setSelectedOption('single');
     setShowModal(true);
   };
 
@@ -62,12 +61,14 @@ export default function Landing32TBe() {
   };
 
   const handleBundleClick = () => {
+    setSelectedOption('collection');
     setShowExitPopup(false);
     setHasDismissedExitPopup(true);
     setShowModal(true);
   };
 
   const handleDesktopBundleClick = () => {
+    setSelectedOption('collection');
     setShowDesktopExitPopup(false);
     setHasDismissedDesktopExitPopup(true);
     setShowModal(true);
@@ -78,10 +79,12 @@ export default function Landing32TBe() {
     
     // Here you would integrate with GHL
     // For now, we'll simulate the redirect
-    console.log("Form submitted with email:", email);
+    console.log("Form submitted with email:", email, "Option:", selectedOption);
     
-    // Redirect to GHL funnel (you'll need to replace this URL)
-    const ghlUrl = `https://your-ghl-funnel.com?email=${encodeURIComponent(email)}`;
+    // Redirect to appropriate GHL funnel based on selection
+    const ghlUrl = selectedOption === 'collection' 
+      ? `https://checkout.talesofmurder.com/complete-collection?email=${encodeURIComponent(email)}`
+      : `https://checkout.talesofmurder.com/single-pdf?email=${encodeURIComponent(email)}`;
     window.location.href = ghlUrl;
   };
 
@@ -89,40 +92,30 @@ export default function Landing32TBe() {
     <div className="min-h-screen bg-white">
       <StickyHelloBar hasScrolled={hasScrolled} />
 
-      <HeroSection 
-        onCtaClick={handleCtaClick} 
+      <HeroDecoy_v2 
+        onCollectionClick={handleCollectionClick}
+        onSingleClick={handleSingleClick}
         adVariant={adVariant}
       />
 
-      <BookCoverCarousel 
-        bookCovers={bookCovers}
-        infiniteCovers={infiniteCovers}
-        currentCoverIndex={currentCoverIndex}
-        onCoverClick={setSelectedCover}
-        onDotClick={setCurrentCoverIndex}
+      <OptionComparison_v2 
+        onCollectionClick={handleCollectionClick}
+        onSingleClick={handleSingleClick}
       />
 
-      <ValueProposition onCtaClick={handleCtaClick} />
+      <BeforeAfter_v2 />
 
-      <WhatsInsideBundle />
+      <SocialProof_v2 />
 
-      <ProblemAgitation />
-
-      <SolutionBenefits />
-
-      <SocialProofTrust />
-
-      <Differentiation />
+      <WhyComparison_v2 />
 
       <Guarantee />
 
       <FAQ />
 
-      <FinalCTA onCtaClick={handleCtaClick} />
-
-      <BookCoverModal 
-        selectedCover={selectedCover}
-        onClose={() => setSelectedCover(null)}
+      <FinalCTA_v2 
+        onCollectionClick={handleCollectionClick}
+        onSingleClick={handleSingleClick}
       />
 
       <GHLFormModal 
@@ -146,7 +139,7 @@ export default function Landing32TBe() {
 
       <MobileStickyCTA 
         showStickyCta={showStickyCta}
-        onCtaClick={handleCtaClick}
+        onCtaClick={handleCollectionClick} // Default to collection for mobile sticky
       />
     </div>
   );
