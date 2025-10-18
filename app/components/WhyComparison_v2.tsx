@@ -7,7 +7,7 @@ export default function WhyComparison_v2() {
         </h2>
         
         <p className="text-lg text-gray-700 mb-12 text-center leading-relaxed">
-          The single PDF gives you one story to test at 30% off. Fair enough.
+          The single ebook gives you one story to test at 20% off. Fair enough.
         </p>
         
         <p className="text-lg text-gray-700 mb-12 text-center leading-relaxed">
@@ -19,7 +19,7 @@ export default function WhyComparison_v2() {
           <div className="bg-white p-6 rounded-lg shadow-sm">
             <h3 className="text-2xl font-bold text-gray-800 mb-4">Better formats:</h3>
             <p className="text-lg text-gray-700 leading-relaxed">
-              ePub and Kindle files read beautifully on phones and tablets. The single PDF is print-layout—fine for computers or printing (this one is 112 pages!), harder on mobile.
+              ePub and Kindle files read beautifully on phones and tablets. The single ebook is optimized for all devices—perfect for reading anywhere.
             </p>
           </div>
 
@@ -27,7 +27,7 @@ export default function WhyComparison_v2() {
           <div className="bg-white p-6 rounded-lg shadow-sm">
             <h3 className="text-2xl font-bold text-gray-800 mb-4">Better economics:</h3>
             <p className="text-lg text-gray-700 leading-relaxed">
-              $4.99 per book (50% off) vs $6.99 for one (30% off). If you buy the single book and love it, you'll pay $9.99 each for more. Ten books that way costs $96.90.
+              $4.99 per book (50% off) vs $7.99 for one (20% off). If you buy the single book and love it, you'll pay $9.99 each for more. Ten books that way costs $96.90.
             </p>
           </div>
 
@@ -35,7 +35,7 @@ export default function WhyComparison_v2() {
           <div className="bg-white p-6 rounded-lg shadow-sm">
             <h3 className="text-2xl font-bold text-gray-800 mb-4">Better protection:</h3>
             <p className="text-lg text-gray-700 leading-relaxed">
-              The collection has a full Reader's Honor Guarantee. The single PDF … all sales final; no refunds.
+              The collection has a full Reader's Honor Guarantee. The single ebook … all sales final; no refunds.
             </p>
           </div>
 
@@ -51,7 +51,7 @@ export default function WhyComparison_v2() {
           <div className="bg-white p-6 rounded-lg shadow-sm">
             <h3 className="text-2xl font-bold text-gray-800 mb-4">Better mission impact:</h3>
             <p className="text-lg text-gray-700 leading-relaxed">
-              Your $49.99 funds significantly more restoration work than $6.99.
+              Your $49.99 funds significantly more restoration work than $7.99.
             </p>
           </div>
         </div>

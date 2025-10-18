@@ -90,7 +90,7 @@ export default function Landing32TBe() {
 
   return (
     <div className="min-h-screen bg-white">
-      <StickyHelloBar hasScrolled={hasScrolled} />
+      {/* <StickyHelloBar hasScrolled={hasScrolled} /> */}
 
       <HeroDecoy_v2 
         onCollectionClick={handleCollectionClick}
@@ -101,6 +101,7 @@ export default function Landing32TBe() {
       <OptionComparison_v2 
         onCollectionClick={handleCollectionClick}
         onSingleClick={handleSingleClick}
+        onCoverClick={() => {}} // Placeholder for now
       />
 
       <BeforeAfter_v2 />
@@ -139,7 +140,8 @@ export default function Landing32TBe() {
 
       <MobileStickyCTA 
         showStickyCta={showStickyCta}
-        onCtaClick={handleCollectionClick} // Default to collection for mobile sticky
+        onCtaClick={handleCollectionClick}
+        onSingleClick={handleSingleClick}
       />
     </div>
   );

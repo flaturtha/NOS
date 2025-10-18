@@ -43,13 +43,13 @@ export default function FinalCTA_v2({ onCollectionClick, onSingleClick }: FinalC
               </button>
             </div>
 
-            {/* Secondary CTA - Single PDF (Smaller) */}
+            {/* Secondary CTA - Single Ebook (Smaller) */}
             <div className="flex-1">
               <button
                 onClick={onSingleClick}
                 className="w-full bg-gray-600 hover:bg-gray-700 text-white font-bold py-4 px-6 rounded-lg text-lg transition-all duration-300 ease-in-out transform hover:scale-105 shadow-lg border-2 border-gray-500 hover:border-gray-400"
               >
-                📘 Single PDF Novel - $6.99
+                📘 Single Ebook Novel - $7.99
               </button>
             </div>
           </div>
