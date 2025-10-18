@@ -10,7 +10,7 @@ export default function BottomTestimonials() {
           {/* Testimonial 1 */}
           <div className="bg-white p-6 rounded-lg shadow-sm">
             <div className="text-center">
-              <div className="text-xl mb-2">⭐⭐⭐⭐⭐</div>
+              <div className="text-xl mb-2 text-yellow-400">★★★★★</div>
               <picture>
                 <source srcSet="/images/landing/testimonials/bill.avif" type="image/avif" />
                 <source srcSet="/images/landing/testimonials/bill.webp" type="image/webp" />
@@ -30,7 +30,7 @@ export default function BottomTestimonials() {
           {/* Testimonial 2 */}
           <div className="bg-white p-6 rounded-lg shadow-sm">
             <div className="text-center">
-              <div className="text-xl mb-2">⭐⭐⭐⭐⭐</div>
+              <div className="text-xl mb-2 text-yellow-400">★★★★★</div>
               <div className="w-12 h-12 rounded-full mx-auto bg-gradient-to-br from-blue-400 to-purple-500 flex items-center justify-center text-white font-bold text-lg mb-3">
                 GR
               </div>
@@ -44,7 +44,7 @@ export default function BottomTestimonials() {
           {/* Testimonial 3 */}
           <div className="bg-white p-6 rounded-lg shadow-sm">
             <div className="text-center">
-              <div className="text-xl mb-2">⭐⭐⭐⭐⭐</div>
+              <div className="text-xl mb-2 text-yellow-400">★★★★★</div>
               <picture>
                 <source srcSet="/images/landing/testimonials/eleanor.avif" type="image/avif" />
                 <source srcSet="/images/landing/testimonials/eleanor.webp" type="image/webp" />
@@ -64,7 +64,7 @@ export default function BottomTestimonials() {
           {/* Testimonial 4 */}
           <div className="bg-white p-6 rounded-lg shadow-sm">
             <div className="text-center">
-              <div className="text-xl mb-2">⭐⭐⭐⭐⭐</div>
+              <div className="text-xl mb-2 text-yellow-400">★★★★★</div>
               <div className="w-12 h-12 rounded-full mx-auto bg-gradient-to-br from-green-400 to-blue-500 flex items-center justify-center text-white font-bold text-lg mb-3">
                 CH
               </div>
@@ -78,7 +78,7 @@ export default function BottomTestimonials() {
           {/* Testimonial 5 */}
           <div className="bg-white p-6 rounded-lg shadow-sm">
             <div className="text-center">
-              <div className="text-xl mb-2">⭐⭐⭐⭐⭐</div>
+              <div className="text-xl mb-2 text-yellow-400">★★★★★</div>
               <picture>
                 <source srcSet="/images/landing/testimonials/doris.avif" type="image/avif" />
                 <source srcSet="/images/landing/testimonials/doris.webp" type="image/webp" />
@@ -98,7 +98,7 @@ export default function BottomTestimonials() {
           {/* Testimonial 6 */}
           <div className="bg-white p-6 rounded-lg shadow-sm">
             <div className="text-center">
-              <div className="text-xl mb-2">⭐⭐⭐⭐⭐</div>
+              <div className="text-xl mb-2 text-yellow-400">★★★★★</div>
               <div className="w-12 h-12 rounded-full mx-auto bg-gradient-to-br from-red-400 to-pink-500 flex items-center justify-center text-white font-bold text-lg mb-3">
                 AZ
               </div>

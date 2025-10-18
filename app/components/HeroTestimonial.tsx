@@ -4,7 +4,7 @@ export default function HeroTestimonial() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
           <div className="mb-4">
-            <div className="text-2xl mb-3">⭐⭐⭐⭐⭐</div>
+            <div className="text-2xl mb-3 text-yellow-400">★★★★★</div>
             <picture>
               <source srcSet="/images/landing/testimonials/bill.avif" type="image/avif" />
               <source srcSet="/images/landing/testimonials/bill.webp" type="image/webp" />

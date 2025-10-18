@@ -18,7 +18,7 @@ export default function SocialProof_v2({ variant = 'restoration' }: SocialProof_
             <>
               <div className="text-center p-6 bg-gray-50 rounded-lg shadow-sm">
                 <div className="mb-4">
-                  <div className="text-2xl mb-2">⭐⭐⭐⭐⭐</div>
+                  <div className="text-2xl mb-2 text-yellow-400">★★★★★</div>
                   <div className="w-16 h-16 rounded-full mx-auto bg-gradient-to-br from-blue-400 to-purple-500 flex items-center justify-center text-white font-bold text-xl">
                     GR
                   </div>
@@ -31,7 +31,7 @@ export default function SocialProof_v2({ variant = 'restoration' }: SocialProof_
               
               <div className="text-center p-6 bg-gray-50 rounded-lg shadow-sm">
                 <div className="mb-4">
-                  <div className="text-2xl mb-2">⭐⭐⭐⭐⭐</div>
+                  <div className="text-2xl mb-2 text-yellow-400">★★★★★</div>
                   <div className="w-16 h-16 rounded-full mx-auto bg-gradient-to-br from-green-400 to-blue-500 flex items-center justify-center text-white font-bold text-xl">
                     CH
                   </div>
@@ -44,7 +44,7 @@ export default function SocialProof_v2({ variant = 'restoration' }: SocialProof_
               
               <div className="text-center p-6 bg-gray-50 rounded-lg shadow-sm">
                 <div className="mb-4">
-                  <div className="text-2xl mb-2">⭐⭐⭐⭐⭐</div>
+                  <div className="text-2xl mb-2 text-yellow-400">★★★★★</div>
                   <div className="w-16 h-16 rounded-full mx-auto bg-gradient-to-br from-red-400 to-pink-500 flex items-center justify-center text-white font-bold text-xl">
                     AZ
                   </div>
@@ -60,7 +60,7 @@ export default function SocialProof_v2({ variant = 'restoration' }: SocialProof_
             <>
               <div className="text-center p-6 bg-gray-50 rounded-lg shadow-sm">
                 <div className="mb-4">
-                  <div className="text-2xl mb-2">⭐⭐⭐⭐⭐</div>
+                  <div className="text-2xl mb-2 text-yellow-400">★★★★★</div>
                   <picture>
                     <source srcSet="/images/landing/testimonials/eleanor.avif" type="image/avif" />
                     <source srcSet="/images/landing/testimonials/eleanor.webp" type="image/webp" />
@@ -79,7 +79,7 @@ export default function SocialProof_v2({ variant = 'restoration' }: SocialProof_
               
               <div className="text-center p-6 bg-gray-50 rounded-lg shadow-sm">
                 <div className="mb-4">
-                  <div className="text-2xl mb-2">⭐⭐⭐⭐⭐</div>
+                  <div className="text-2xl mb-2 text-yellow-400">★★★★★</div>
                   <picture>
                     <source srcSet="/images/landing/testimonials/doris.avif" type="image/avif" />
                     <source srcSet="/images/landing/testimonials/doris.webp" type="image/webp" />
@@ -98,7 +98,7 @@ export default function SocialProof_v2({ variant = 'restoration' }: SocialProof_
               
               <div className="text-center p-6 bg-gray-50 rounded-lg shadow-sm">
                 <div className="mb-4">
-                  <div className="text-2xl mb-2">⭐⭐⭐⭐⭐</div>
+                  <div className="text-2xl mb-2 text-yellow-400">★★★★★</div>
                   <picture>
                     <source srcSet="/images/landing/testimonials/bill.avif" type="image/avif" />
                     <source srcSet="/images/landing/testimonials/bill.webp" type="image/webp" />

@@ -26,30 +26,49 @@ export default function FinalCTA_v2({ onCollectionClick, onSingleClick }: FinalC
             Choose your option and start reading in minutes:
           </p>
           
-          {/* CTA Buttons with Hierarchy */}
-          <div className="flex flex-col lg:flex-row gap-4 lg:gap-6 max-w-3xl mx-auto">
-            {/* Primary CTA - Collection (Larger) */}
+          {/* CTA Buttons - Equal Visual Weight */}
+          <div className="flex flex-col lg:flex-row gap-4 lg:gap-6 max-w-4xl mx-auto">
+            {/* Collection Button - Left/Top */}
             <div className="flex-1">
               <button
                 onClick={onCollectionClick}
-                className="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-5 px-8 rounded-lg text-xl transition-all duration-300 ease-in-out transform hover:scale-105 hover:shadow-2xl shadow-lg border-2 border-red-500 hover:border-red-400 relative"
+                className="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-4 px-6 rounded-lg text-lg sm:text-xl transition-all duration-300 ease-in-out transform hover:scale-105 hover:shadow-2xl shadow-lg border-2 border-red-500 hover:border-red-400 h-[120px] flex flex-col items-center justify-center"
               >
-                <span className="flex items-center justify-center gap-2">
-                  🔥 Complete 10-Book Collection - $49.99
+                <span className="flex items-center gap-2 mt-4">
+                  🔥 10-Book Collection - $49.99
                 </span>
-                <span className="absolute -top-2 -right-2 bg-yellow-400 text-black text-sm font-bold px-3 py-1 rounded-full">
-                  RECOMMENDED
+                <span className="text-sm font-normal mt-1 opacity-90">
+                  Buy 5, Get 5 Free — Only $4.99 each
+                </span>
+                <span className="bg-yellow-400 text-black text-xs font-bold px-2 py-1 rounded-full mt-2 mb-6">
+                  BEST VALUE
                 </span>
               </button>
             </div>
 
-            {/* Secondary CTA - Single Ebook (Smaller) */}
+            {/* OR Text */}
+            <div className="flex items-center justify-center lg:hidden">
+              <span className="text-gray-800 text-lg font-bold">OR</span>
+            </div>
+            <div className="hidden lg:flex items-center justify-center">
+              <span className="text-gray-800 text-xl font-bold">OR</span>
+            </div>
+
+            {/* Single Ebook Button - Right/Bottom */}
             <div className="flex-1">
               <button
                 onClick={onSingleClick}
-                className="w-full bg-gray-600 hover:bg-gray-700 text-white font-bold py-4 px-6 rounded-lg text-lg transition-all duration-300 ease-in-out transform hover:scale-105 shadow-lg border-2 border-gray-500 hover:border-gray-400"
+                className="w-full bg-gray-700 hover:bg-gray-600 text-white font-bold py-4 px-6 rounded-lg text-lg sm:text-xl transition-all duration-300 ease-in-out transform hover:scale-105 hover:shadow-2xl shadow-lg border-2 border-gray-600 hover:border-gray-500 h-[120px] flex flex-col items-center justify-center"
               >
-                📘 Single Ebook Novel - $7.99
+                <span className="flex items-center gap-2">
+                  📘 Single Ebook Novel - $7.99
+                </span>
+                <span className="text-sm font-normal mt-1 opacity-90">
+                  20% Off — Regularly $9.99
+                </span>
+                <span className="bg-blue-500 text-white text-xs font-bold px-2 py-1 rounded-full mt-2">
+                  NO REFUNDS; ALL SALES FINAL
+                </span>
               </button>
             </div>
           </div>
