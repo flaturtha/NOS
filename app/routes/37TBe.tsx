@@ -4,12 +4,15 @@ import { useExitIntent } from "../hooks/useExitIntent";
 import { getAdVariant } from "../data/adVariants";
 import StickyHelloBar from "../components/StickyHelloBar";
 import HeroDecoy_v2 from "../components/HeroDecoy_v2";
+import MissionContext from "../components/MissionContext";
+import HeroTestimonial from "../components/HeroTestimonial";
 import OptionComparison_v2 from "../components/OptionComparison_v2";
 import BeforeAfter_v2 from "../components/BeforeAfter_v2";
 import SocialProof_v2 from "../components/SocialProof_v2";
 import WhyComparison_v2 from "../components/WhyComparison_v2";
 import Guarantee from "../components/Guarantee";
 import FAQ from "../components/FAQ";
+import BottomTestimonials from "../components/BottomTestimonials";
 import FinalCTA_v2 from "../components/FinalCTA_v2";
 import GHLFormModal from "../components/GHLFormModal";
 import ExitIntentPopup from "../components/ExitIntentPopup";
@@ -98,21 +101,29 @@ export default function Landing37TBe() {
         adVariant={adVariant}
       />
 
+      <MissionContext />
+
+      <HeroTestimonial />
+
       <OptionComparison_v2 
         onCollectionClick={handleCollectionClick}
         onSingleClick={handleSingleClick}
         onCoverClick={() => {}} // Placeholder for now
       />
 
+      <SocialProof_v2 variant="restoration" />
+
       <BeforeAfter_v2 />
 
-      <SocialProof_v2 />
+      <SocialProof_v2 variant="story" />
 
       <WhyComparison_v2 />
 
       <Guarantee />
 
       <FAQ />
+
+      <BottomTestimonials />
 
       <FinalCTA_v2 
         onCollectionClick={handleCollectionClick}

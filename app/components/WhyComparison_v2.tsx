@@ -6,11 +6,11 @@ export default function WhyComparison_v2() {
           Why the Collection is the Smarter Choice
         </h2>
         
-        <p className="text-lg text-gray-700 mb-12 text-center leading-relaxed">
+        <p className="text-lg text-gray-700 mb-4 text-center leading-relaxed">
           The single ebook gives you one story to test at 20% off. Fair enough.
         </p>
         
-        <p className="text-lg text-gray-700 mb-12 text-center leading-relaxed">
+        <p className="text-lg text-gray-700 mb-8 text-center leading-relaxed">
           But the collection gives you:
         </p>
 
@@ -57,9 +57,14 @@ export default function WhyComparison_v2() {
         </div>
 
         <div className="mt-12 bg-gradient-to-r from-yellow-50 to-orange-50 p-8 rounded-lg border-2 border-yellow-200">
-          <p className="text-lg text-gray-800 font-semibold text-center leading-relaxed">
+          <p className="text-lg text-gray-800 font-semibold text-center leading-relaxed mb-4">
             <strong>The reality:</strong> Readers who start with one almost always come back for more. The collection saves you money and decision fatigue while supporting the mission at full strength.
           </p>
+          <div className="text-center">
+            <p className="text-lg text-gray-700 italic">
+              "I meant to read one. Ended up tearing through five." — Chase H.
+            </p>
+          </div>
         </div>
       </div>
     </section>

@@ -43,9 +43,9 @@ export default function HeroDecoy_v2({ onCollectionClick, onSingleClick, adVaria
       {/* Mobile Logo - Centered at top */}
       <div className="absolute top-8 left-1/2 -translate-x-1/2 z-20 lg:hidden">
         <img
-          src="/images/logos/atticus_e.png"
-          alt="Atticus E Logo"
-          className="h-10 sm:h-12"
+          src="/images/logos/logo_full_w.png"
+          alt="Tales of Murder Logo"
+          className="max-w-64 sm:max-w-80 h-auto"
           loading="eager"
         />
       </div>
@@ -54,7 +54,7 @@ export default function HeroDecoy_v2({ onCollectionClick, onSingleClick, adVaria
         <img
           src="/images/logos/logo_full_w.png"
           alt="Tales of Murder Logo"
-          className="h-12 sm:h-16"
+          className="max-w-48 sm:max-w-56 h-auto"
           loading="eager"
         />
       </div>
