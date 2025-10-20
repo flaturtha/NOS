@@ -139,12 +139,16 @@ export default function Landing37TBe() {
         showExitPopup={showExitPopup}
         onClose={handleExitPopupClose}
         onBundleClick={handleBundleClick}
+        onSingleClick={handleSingleClick}
+        onAltOfferClick={() => {}}
       />
 
       <DesktopExitIntentPopup 
         showDesktopExitPopup={showDesktopExitPopup}
         onClose={handleDesktopExitPopupClose}
         onBundleClick={handleDesktopBundleClick}
+        onSingleClick={handleSingleClick}
+        onAltOfferClick={() => {}}
       />
 
       <Footer />

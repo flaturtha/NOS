@@ -139,12 +139,16 @@ export default function Landing32BTe() {
         showExitPopup={showExitPopup}
         onClose={handleExitPopupClose}
         onBundleClick={handleBundleClick}
+        onSingleClick={handleSingleClick}
+        onAltOfferClick={() => {}}
       />
 
       <DesktopExitIntentPopup 
         showDesktopExitPopup={showDesktopExitPopup}
         onClose={handleDesktopExitPopupClose}
         onBundleClick={handleDesktopBundleClick}
+        onSingleClick={handleSingleClick}
+        onAltOfferClick={() => {}}
       />
 
       <Footer />
