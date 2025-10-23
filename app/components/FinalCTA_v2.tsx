@@ -28,33 +28,7 @@ export default function FinalCTA_v2({ onCollectionClick, onSingleClick }: FinalC
           
           {/* CTA Buttons - Equal Visual Weight */}
           <div className="flex flex-col lg:flex-row gap-4 lg:gap-6 max-w-4xl mx-auto">
-            {/* Collection Button - Left/Top */}
-            <div className="flex-1">
-              <button
-                onClick={onCollectionClick}
-                className="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-4 px-6 rounded-lg text-lg sm:text-xl transition-all duration-300 ease-in-out transform hover:scale-105 hover:shadow-2xl shadow-lg border-2 border-red-500 hover:border-red-400 h-[120px] flex flex-col items-center justify-center"
-              >
-                <span className="flex items-center gap-2 mt-4">
-                  🔥 10-Book Collection - $49.99
-                </span>
-                <span className="text-sm font-normal mt-1 opacity-90">
-                  Buy 5, Get 5 Free — Only $4.99 each
-                </span>
-                <span className="bg-yellow-400 text-black text-xs font-bold px-2 py-1 rounded-full mt-2 mb-6">
-                  BEST VALUE
-                </span>
-              </button>
-            </div>
-
-            {/* OR Text */}
-            <div className="flex items-center justify-center lg:hidden">
-              <span className="text-gray-800 text-lg font-bold">OR</span>
-            </div>
-            <div className="hidden lg:flex items-center justify-center">
-              <span className="text-gray-800 text-xl font-bold">OR</span>
-            </div>
-
-            {/* Single Ebook Button - Right/Bottom */}
+            {/* Single Ebook Button - Left/Top */}
             <div className="flex-1">
               <button
                 onClick={onSingleClick}
@@ -68,6 +42,32 @@ export default function FinalCTA_v2({ onCollectionClick, onSingleClick }: FinalC
                 </span>
                 <span className="bg-blue-500 text-white text-xs font-bold px-2 py-1 rounded-full mt-2">
                   NO REFUNDS; ALL SALES FINAL
+                </span>
+              </button>
+            </div>
+
+            {/* OR Text */}
+            <div className="flex items-center justify-center lg:hidden">
+              <span className="text-gray-800 text-lg font-bold">OR</span>
+            </div>
+            <div className="hidden lg:flex items-center justify-center">
+              <span className="text-gray-800 text-xl font-bold">OR</span>
+            </div>
+
+            {/* Collection Button - Right/Bottom */}
+            <div className="flex-1">
+              <button
+                onClick={onCollectionClick}
+                className="w-full bg-red-600 hover:bg-red-700 text-white font-bold py-4 px-6 rounded-lg text-lg sm:text-xl transition-all duration-300 ease-in-out transform hover:scale-105 hover:shadow-2xl shadow-lg border-2 border-red-500 hover:border-red-400 h-[120px] flex flex-col items-center justify-center"
+              >
+                <span className="flex items-center gap-2 mt-4">
+                  🔥 10-Book Collection - $49.99
+                </span>
+                <span className="text-sm font-normal mt-1 opacity-90">
+                  Buy 5, Get 5 Free — Only $4.99 each
+                </span>
+                <span className="bg-yellow-400 text-black text-xs font-bold px-2 py-1 rounded-full mt-2 mb-6">
+                  BEST VALUE
                 </span>
               </button>
             </div>
