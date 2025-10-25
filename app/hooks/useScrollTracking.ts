@@ -28,8 +28,9 @@ export function useScrollTracking(): UseScrollTrackingReturn {
       // Update basic scroll state
       setHasScrolled(currentScrollY > 50);
 
-      // Show sticky CTA after header is completely off screen (approximately 100vh)
-      if (currentScrollY > window.innerHeight) {
+      // Show sticky CTA when MissionContext headline reaches the top of the screen
+      // This ensures the hero CTA buttons are out of view before showing sticky CTA
+      if (currentScrollY > window.innerHeight * 2.5) {
         setShowStickyCta(true);
       } else {
         setShowStickyCta(false);
