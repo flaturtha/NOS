@@ -39,10 +39,10 @@ export default function OptionComparison_v2({ onCollectionClick, onSingleClick, 
               {/* Book Cover Image */}
               <div className="mb-4 flex justify-center">
                 <picture>
-                  <source srcSet="/images/covers/chinese-idol.avif" type="image/avif" />
-                  <source srcSet="/images/covers/chinese-idol.webp" type="image/webp" />
+                  <source srcSet="/images/covers/chinese_idol-v2_sample.avif" type="image/avif" />
+                  <source srcSet="/images/covers/chinese_idol-v2_sample.webp" type="image/webp" />
                   <img
-                    src="/images/covers/chinese-idol.jpg"
+                    src="/images/covers/chinese_idol-v2_sample.jpg"
                     alt="THE BRADYS AND THE CHINESE IDOL - Book Cover"
                     className="w-32 h-auto rounded-lg shadow-md"
                     loading="lazy"
@@ -91,7 +91,7 @@ export default function OptionComparison_v2({ onCollectionClick, onSingleClick, 
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-red-600 mt-1">❌</span>
-                  <span>Download link expires after 7 days</span>
+                  <span>SAMPLE stamped on the cover</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-red-600 mt-1">❌</span>
@@ -99,7 +99,7 @@ export default function OptionComparison_v2({ onCollectionClick, onSingleClick, 
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-red-600 mt-1">❌</span>
-                  <span>Each additional book $9.99 if you want more</span>
+                  <span>Each additional book $9.99 when you want more</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-red-600 mt-1">❌</span>
