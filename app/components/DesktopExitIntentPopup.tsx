@@ -59,7 +59,10 @@ export default function DesktopExitIntentPopup({ showDesktopExitPopup, onClose, 
 
               <div className="flex flex-col sm:flex-row gap-3 justify-center">
                 <button
-                  onClick={() => setShowForm(true)}
+                  onClick={() => {
+                    setShowForm(true);
+                    onClose(); // Mark as dismissed to prevent re-triggering
+                  }}
                   className="inline-flex items-center justify-center bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 px-8 rounded-lg text-lg transition-all duration-300 ease-in-out transform hover:scale-105 hover:shadow-2xl shadow-lg border-2 border-blue-500 hover:border-blue-400"
                 >
                   ✅ Yes, please — I'll take the free chapter & coupon!
@@ -100,6 +103,7 @@ export default function DesktopExitIntentPopup({ showDesktopExitPopup, onClose, 
                       // Check if form was submitted (this is a simplified approach)
                       setTimeout(() => {
                         setShowSuccess(true);
+                        onClose(); // Mark as dismissed when form is submitted
                       }, 2000); // Show success after 2 seconds as placeholder
                     });
                   }
