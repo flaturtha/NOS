@@ -133,6 +133,7 @@ export default function Landing31BTe() {
       <GHLFormModal 
         showModal={showModal}
         onClose={() => setShowModal(false)}
+        selectedOption={selectedOption}
       />
 
       <ExitIntentPopup 
