@@ -3,6 +3,7 @@ import type { BookCover } from '../data/bookCovers';
 import { bookCovers, infiniteCovers } from '../data/bookCovers';
 import { useCarousel } from '../hooks/useCarousel';
 import BookCoverModal from './BookCoverModal';
+import { BookOpen, Library, Check, X, Star } from 'lucide-react';
 
 interface OptionComparison_v2Props {
   onCollectionClick: () => void;
@@ -30,7 +31,7 @@ export default function OptionComparison_v2({ onCollectionClick, onSingleClick, 
           <div className="bg-white border-2 border-gray-200 rounded-lg p-6 lg:p-8 shadow-sm">
             <div className="text-center mb-6">
               <h3 className="text-2xl font-bold text-gray-800 mb-2">
-                📘 OPTION 1: Single Ebook Novel
+                <BookOpen className="inline-block w-6 h-6 mr-2" /> OPTION 1: Single Ebook Novel
               </h3>
               <h4 className="text-xl font-semibold text-gray-700 mb-4">
                 THE BRADYS AND THE CHINESE IDOL
@@ -39,8 +40,8 @@ export default function OptionComparison_v2({ onCollectionClick, onSingleClick, 
               {/* Book Cover Image */}
               <div className="mb-4 flex justify-center">
                 <picture>
-                  <source srcSet="/images/covers/chinese_idol-v2_sample.avif" type="image/avif" />
-                  <source srcSet="/images/covers/chinese_idol-v2_sample.webp" type="image/webp" />
+                  <source srcSet="/images/covers/chinese-idol.avif" type="image/avif" />
+                  <source srcSet="/images/covers/chinese-idol.webp" type="image/webp" />
                   <img
                     src="/images/covers/chinese_idol-v2_sample.jpg"
                     alt="THE BRADYS AND THE CHINESE IDOL - Book Cover"
@@ -60,23 +61,19 @@ export default function OptionComparison_v2({ onCollectionClick, onSingleClick, 
               <h5 className="text-lg font-semibold text-gray-800 mb-3">What You Get:</h5>
               <ul className="space-y-2 text-gray-700">
                 <li className="flex items-start gap-2">
-                  <span className="text-green-600 mt-1">✅</span>
+                  <Check className="text-green-600 mt-1 w-5 h-5 flex-shrink-0" />
                   <span>One complete full-length mystery (not a sample)</span>
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="text-green-600 mt-1">✅</span>
+                  <Check className="text-green-600 mt-1 w-5 h-5 flex-shrink-0" />
                   <span>Professionally restored from 1903 original</span>
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="text-green-600 mt-1">✅</span>
-                  <span>Watermarked ebook format</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-green-600 mt-1">✅</span>
+                  <Check className="text-green-600 mt-1 w-5 h-5 flex-shrink-0" />
                   <span>Murder, opium conspiracy, jade idol thriller</span>
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="text-green-600 mt-1">✅</span>
+                  <Check className="text-green-600 mt-1 w-5 h-5 flex-shrink-0" />
                   <span>Instant download via BookFunnel</span>
                 </li>
               </ul>
@@ -86,23 +83,23 @@ export default function OptionComparison_v2({ onCollectionClick, onSingleClick, 
               <h5 className="text-lg font-semibold text-gray-800 mb-3">The Tradeoffs:</h5>
               <ul className="space-y-2 text-gray-700">
                 <li className="flex items-start gap-2">
-                  <span className="text-red-600 mt-1">❌</span>
-                  <span>Exclusive content for you only; no sharing permitted</span>
+                  <X className="text-red-600 mt-1 w-5 h-5 flex-shrink-0" />
+                  <span>Watermarked ebook format &mdash; no sharing permitted</span>
                 </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-red-600 mt-1">❌</span>
+                <li className="flex items-start gap-2 hidden">
+                  <X className="text-red-600 mt-1 w-5 h-5 flex-shrink-0" />
                   <span>SAMPLE stamped on the cover</span>
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="text-red-600 mt-1">❌</span>
+                  <X className="text-red-600 mt-1 w-5 h-5 flex-shrink-0" />
                   <span>All sales final—no refunds</span>
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="text-red-600 mt-1">❌</span>
+                  <X className="text-red-600 mt-1 w-5 h-5 flex-shrink-0" />
                   <span>Each additional book $9.99 when you want more</span>
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="text-red-600 mt-1">❌</span>
+                  <X className="text-red-600 mt-1 w-5 h-5 flex-shrink-0" />
                   <span>No bonus materials or priority access</span>
                 </li>
               </ul>
@@ -133,7 +130,7 @@ export default function OptionComparison_v2({ onCollectionClick, onSingleClick, 
 
             <div className="text-center mb-6">
               <h3 className="text-2xl font-bold text-gray-800 mb-2">
-                🔥 OPTION 2: Complete 10-Book Collection
+                <Library className="inline-block w-6 h-6 mr-2" /> OPTION 2: Complete 10-Book Collection
               </h3>
               <h4 className="text-xl font-semibold text-gray-700 mb-4">
                 All Ten Restored Bradys Mysteries
@@ -229,31 +226,31 @@ export default function OptionComparison_v2({ onCollectionClick, onSingleClick, 
               <h5 className="text-lg font-semibold text-gray-800 mb-3">What You Get:</h5>
               <ul className="space-y-2 text-gray-700">
                 <li className="flex items-start gap-2">
-                  <span className="text-green-600 mt-1">✅</span>
+                  <Check className="text-green-600 mt-1 w-5 h-5 flex-shrink-0" />
                   <span><strong>All 10 complete mystery novels</strong> (not samples)</span>
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="text-green-600 mt-1">✅</span>
+                  <Check className="text-green-600 mt-1 w-5 h-5 flex-shrink-0" />
                   <span><strong>Both ePub AND Kindle formats</strong> (perfect for phones/tablets)</span>
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="text-green-600 mt-1">✅</span>
+                  <Check className="text-green-600 mt-1 w-5 h-5 flex-shrink-0" />
                   <span>Instant access to entire collection</span>
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="text-green-600 mt-1">✅</span>
+                  <Check className="text-green-600 mt-1 w-5 h-5 flex-shrink-0" />
                   <span>Download anytime, forever—links never expire</span>
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="text-green-600 mt-1">✅</span>
+                  <Check className="text-green-600 mt-1 w-5 h-5 flex-shrink-0" />
                   <span>Share freely (let's get more eyes on these stories)</span>
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="text-green-600 mt-1">✅</span>
+                  <Check className="text-green-600 mt-1 w-5 h-5 flex-shrink-0" />
                   <span><strong>Reader's Honor money-back guarantee—fully refundable</strong></span>
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="text-green-600 mt-1">✅</span>
+                  <Check className="text-green-600 mt-1 w-5 h-5 flex-shrink-0" />
                   <span>Read on any device—optimized for mobile reading</span>
                 </li>
               </ul>
@@ -263,15 +260,15 @@ export default function OptionComparison_v2({ onCollectionClick, onSingleClick, 
               <h5 className="text-lg font-semibold text-gray-800 mb-3">Plus These Bonuses:</h5>
               <ul className="space-y-2 text-gray-700">
                 <li className="flex items-start gap-2">
-                  <span className="text-yellow-600 mt-1">🎁</span>
+                  <Star className="text-yellow-600 mt-1 w-5 h-5 flex-shrink-0" />
                   <span><strong>Priority notification</strong> when new titles launch</span>
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="text-yellow-600 mt-1">🎁</span>
+                  <Star className="text-yellow-600 mt-1 w-5 h-5 flex-shrink-0" />
                   <span><strong>Behind-the-scenes restoration notes</strong> (how I save these books)</span>
                 </li>
                 <li className="flex items-start gap-2">
-                  <span className="text-yellow-600 mt-1">🎁</span>
+                  <Star className="text-yellow-600 mt-1 w-5 h-5 flex-shrink-0" />
                   <span><strong>Vote on which titles get restored next</strong> (coming soon)</span>
                 </li>
               </ul>

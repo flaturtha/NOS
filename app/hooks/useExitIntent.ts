@@ -22,8 +22,18 @@ export function useExitIntent({ hasSeenPrice, hasScrolledBack }: UseExitIntentPr
   const [showExitPopup, setShowExitPopup] = useState(false);
   const [showDesktopExitPopup, setShowDesktopExitPopup] = useState(false);
   const [hasTriggeredDesktopExit, setHasTriggeredDesktopExit] = useState(false);
-  const [hasDismissedExitPopup, setHasDismissedExitPopup] = useState(false);
-  const [hasDismissedDesktopExitPopup, setHasDismissedDesktopExitPopup] = useState(false);
+  const [hasDismissedExitPopup, setHasDismissedExitPopup] = useState(() => {
+    if (typeof window !== 'undefined') {
+      return localStorage.getItem('exitIntentDismissed') === 'true';
+    }
+    return false;
+  });
+  const [hasDismissedDesktopExitPopup, setHasDismissedDesktopExitPopup] = useState(() => {
+    if (typeof window !== 'undefined') {
+      return localStorage.getItem('desktopExitIntentDismissed') === 'true';
+    }
+    return false;
+  });
   const [mouseY, setMouseY] = useState(0);
 
   // Handle mobile exit intent (scroll-based)
@@ -37,7 +47,7 @@ export function useExitIntent({ hasSeenPrice, hasScrolledBack }: UseExitIntentPr
     }
   }, [hasSeenPrice, hasScrolledBack, showExitPopup, hasDismissedExitPopup]);
 
-  // Desktop exit intent detection (mouse movement to top of viewport)
+  // Desktop exit intent detection (mouse movement to top of viewport AND tab switching)
   useEffect(() => {
     const handleMouseMove = (e: MouseEvent) => {
       setMouseY(e.clientY);
@@ -49,18 +59,6 @@ export function useExitIntent({ hasSeenPrice, hasScrolledBack }: UseExitIntentPr
       }
     };
 
-    // Only add desktop exit intent on larger screens
-    if (window.innerWidth >= 1024) {
-      document.addEventListener('mousemove', handleMouseMove);
-    }
-
-    return () => {
-      document.removeEventListener('mousemove', handleMouseMove);
-    };
-  }, [hasSeenPrice, hasTriggeredDesktopExit, showDesktopExitPopup, hasDismissedDesktopExitPopup]);
-
-  // Desktop visibility change detection (tab switching)
-  useEffect(() => {
     const handleVisibilityChange = () => {
       if (document.hidden && hasSeenPrice && !hasTriggeredDesktopExit && !showDesktopExitPopup && !hasDismissedDesktopExitPopup) {
         setHasTriggeredDesktopExit(true);
@@ -68,15 +66,39 @@ export function useExitIntent({ hasSeenPrice, hasScrolledBack }: UseExitIntentPr
       }
     };
 
-    // Only add on larger screens
+    // Only add desktop exit intent on larger screens
     if (window.innerWidth >= 1024) {
+      document.addEventListener('mousemove', handleMouseMove);
       document.addEventListener('visibilitychange', handleVisibilityChange);
     }
 
     return () => {
+      document.removeEventListener('mousemove', handleMouseMove);
       document.removeEventListener('visibilitychange', handleVisibilityChange);
     };
   }, [hasSeenPrice, hasTriggeredDesktopExit, showDesktopExitPopup, hasDismissedDesktopExitPopup]);
+
+  const setHasDismissedExitPopupWithStorage = (dismissed: boolean) => {
+    setHasDismissedExitPopup(dismissed);
+    if (typeof window !== 'undefined') {
+      if (dismissed) {
+        localStorage.setItem('exitIntentDismissed', 'true');
+      } else {
+        localStorage.removeItem('exitIntentDismissed');
+      }
+    }
+  };
+
+  const setHasDismissedDesktopExitPopupWithStorage = (dismissed: boolean) => {
+    setHasDismissedDesktopExitPopup(dismissed);
+    if (typeof window !== 'undefined') {
+      if (dismissed) {
+        localStorage.setItem('desktopExitIntentDismissed', 'true');
+      } else {
+        localStorage.removeItem('desktopExitIntentDismissed');
+      }
+    }
+  };
 
   return {
     showExitPopup,
@@ -87,7 +109,7 @@ export function useExitIntent({ hasSeenPrice, hasScrolledBack }: UseExitIntentPr
     mouseY,
     setShowExitPopup,
     setShowDesktopExitPopup,
-    setHasDismissedExitPopup,
-    setHasDismissedDesktopExitPopup
+    setHasDismissedExitPopup: setHasDismissedExitPopupWithStorage,
+    setHasDismissedDesktopExitPopup: setHasDismissedDesktopExitPopupWithStorage
   };
 }
